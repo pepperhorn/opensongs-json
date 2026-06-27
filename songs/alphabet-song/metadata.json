@@ -1,0 +1,22 @@
+{
+  "id": "alphabet-song",
+  "title": "The Alphabet Song",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "nursery",
+    "beginner",
+    "6-note"
+  ],
+  "difficulty": 1,
+  "category": "first",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "voice"
+  ],
+  "chords": []
+}

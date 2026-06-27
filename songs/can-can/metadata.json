@@ -1,0 +1,20 @@
+{
+  "id": "can-can",
+  "title": "Can-Can (theme)",
+  "composer": "Jacques Offenbach",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "theme"
+  ],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard",
+    "violin"
+  ],
+  "chords": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "happy-birthday",
+  "title": "Happy Birthday to You",
+  "composer": "Patty & Mildred Hill",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Melody = 'Good Morning to All' (Hill sisters; Patty d. 1946). PD in AU from ~2017; ruled effectively PD in the US in 2016."
+  },
+  "tags": [
+    "celebration",
+    "children"
+  ],
+  "difficulty": 2,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "voice"
+  ],
+  "chords": []
+}

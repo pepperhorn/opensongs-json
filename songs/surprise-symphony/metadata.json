@@ -1,0 +1,20 @@
+{
+  "id": "surprise-symphony",
+  "title": "Surprise Symphony (theme)",
+  "composer": "Joseph Haydn",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "theme"
+  ],
+  "difficulty": 2,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard",
+    "violin"
+  ],
+  "chords": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "jingle-bells",
+  "title": "Jingle Bells",
+  "composer": "James Lord Pierpont",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "seasonal",
+    "carol",
+    "christmas"
+  ],
+  "difficulty": 2,
+  "category": "seasonal",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "chords": []
+}

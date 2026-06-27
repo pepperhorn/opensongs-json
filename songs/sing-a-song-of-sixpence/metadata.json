@@ -1,0 +1,21 @@
+{
+  "id": "sing-a-song-of-sixpence",
+  "title": "Sing a Song of Sixpence",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "nursery",
+    "children"
+  ],
+  "difficulty": 2,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "voice"
+  ],
+  "chords": []
+}

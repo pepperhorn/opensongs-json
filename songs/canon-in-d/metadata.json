@@ -1,0 +1,20 @@
+{
+  "id": "canon-in-d",
+  "title": "Canon in D (theme)",
+  "composer": "Johann Pachelbel",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "theme"
+  ],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard",
+    "violin"
+  ],
+  "chords": []
+}

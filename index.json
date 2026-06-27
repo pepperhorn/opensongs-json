@@ -1,0 +1,3240 @@
+{
+  "name": "opensongs-json",
+  "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
+  "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
+  "count": 100,
+  "schemaVersion": 1,
+  "songs": [
+    {
+      "id": "hot-cross-buns",
+      "title": "Hot Cross Buns",
+      "composer": "Traditional",
+      "category": "first",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner",
+        "3-note"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "E4"
+      },
+      "noteCount": 17,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hot-cross-buns/song.json",
+        "abc": "songs/hot-cross-buns/song.abc",
+        "musicxml": "songs/hot-cross-buns/song.musicxml"
+      }
+    },
+    {
+      "id": "mary-had-a-little-lamb",
+      "title": "Mary Had a Little Lamb",
+      "composer": "Traditional",
+      "category": "first",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner",
+        "3-note"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        1,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "G4"
+      },
+      "noteCount": 19,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/mary-had-a-little-lamb/song.json",
+        "abc": "songs/mary-had-a-little-lamb/song.abc",
+        "musicxml": "songs/mary-had-a-little-lamb/song.musicxml"
+      }
+    },
+    {
+      "id": "au-clair-de-la-lune",
+      "title": "Au Clair de la Lune",
+      "composer": "Traditional (French)",
+      "category": "first",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner",
+        "4-note"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/au-clair-de-la-lune/song.json",
+        "abc": "songs/au-clair-de-la-lune/song.abc",
+        "musicxml": "songs/au-clair-de-la-lune/song.musicxml"
+      }
+    },
+    {
+      "id": "merrily-we-roll-along",
+      "title": "Merrily We Roll Along",
+      "composer": "Traditional",
+      "category": "first",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner",
+        "3-note"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 19,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/merrily-we-roll-along/song.json",
+        "abc": "songs/merrily-we-roll-along/song.abc",
+        "musicxml": "songs/merrily-we-roll-along/song.musicxml"
+      }
+    },
+    {
+      "id": "frere-jacques",
+      "title": "Fr\u00e8re Jacques",
+      "composer": "Traditional (French)",
+      "category": "first",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "round",
+        "5-note"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/frere-jacques/song.json",
+        "abc": "songs/frere-jacques/song.abc",
+        "musicxml": "songs/frere-jacques/song.musicxml"
+      }
+    },
+    {
+      "id": "twinkle-twinkle-little-star",
+      "title": "Twinkle Twinkle Little Star",
+      "composer": "Traditional",
+      "category": "first",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner",
+        "6-note"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 39,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/twinkle-twinkle-little-star/song.json",
+        "abc": "songs/twinkle-twinkle-little-star/song.abc",
+        "musicxml": "songs/twinkle-twinkle-little-star/song.musicxml"
+      }
+    },
+    {
+      "id": "baa-baa-black-sheep",
+      "title": "Baa Baa Black Sheep",
+      "composer": "Traditional",
+      "category": "first",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner",
+        "6-note"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/baa-baa-black-sheep/song.json",
+        "abc": "songs/baa-baa-black-sheep/song.abc",
+        "musicxml": "songs/baa-baa-black-sheep/song.musicxml"
+      }
+    },
+    {
+      "id": "alphabet-song",
+      "title": "The Alphabet Song",
+      "composer": "Traditional",
+      "category": "first",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner",
+        "6-note"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 39,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/alphabet-song/song.json",
+        "abc": "songs/alphabet-song/song.abc",
+        "musicxml": "songs/alphabet-song/song.musicxml"
+      }
+    },
+    {
+      "id": "rain-rain-go-away",
+      "title": "Rain Rain Go Away",
+      "composer": "Traditional",
+      "category": "first",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner",
+        "3-note"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "A4"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/rain-rain-go-away/song.json",
+        "abc": "songs/rain-rain-go-away/song.abc",
+        "musicxml": "songs/rain-rain-go-away/song.musicxml"
+      }
+    },
+    {
+      "id": "cuckoo",
+      "title": "Cuckoo (Sol-Mi)",
+      "composer": "Traditional",
+      "category": "first",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner",
+        "2-note"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "G4"
+      },
+      "noteCount": 8,
+      "instrumentsSuited": [
+        "voice",
+        "percussion",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/cuckoo/song.json",
+        "abc": "songs/cuckoo/song.abc",
+        "musicxml": "songs/cuckoo/song.musicxml"
+      }
+    },
+    {
+      "id": "old-macdonald",
+      "title": "Old MacDonald Had a Farm",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 59,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/old-macdonald/song.json",
+        "abc": "songs/old-macdonald/song.abc",
+        "musicxml": "songs/old-macdonald/song.musicxml"
+      }
+    },
+    {
+      "id": "row-row-row-your-boat",
+      "title": "Row Row Row Your Boat",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "round"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/row-row-row-your-boat/song.json",
+        "abc": "songs/row-row-row-your-boat/song.abc",
+        "musicxml": "songs/row-row-row-your-boat/song.musicxml"
+      }
+    },
+    {
+      "id": "london-bridge",
+      "title": "London Bridge Is Falling Down",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/london-bridge/song.json",
+        "abc": "songs/london-bridge/song.abc",
+        "musicxml": "songs/london-bridge/song.musicxml"
+      }
+    },
+    {
+      "id": "itsy-bitsy-spider",
+      "title": "Itsy Bitsy Spider",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/itsy-bitsy-spider/song.json",
+        "abc": "songs/itsy-bitsy-spider/song.abc",
+        "musicxml": "songs/itsy-bitsy-spider/song.musicxml"
+      }
+    },
+    {
+      "id": "wheels-on-the-bus",
+      "title": "The Wheels on the Bus",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/wheels-on-the-bus/song.json",
+        "abc": "songs/wheels-on-the-bus/song.abc",
+        "musicxml": "songs/wheels-on-the-bus/song.musicxml"
+      }
+    },
+    {
+      "id": "if-youre-happy-and-you-know-it",
+      "title": "If You're Happy and You Know It",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 18,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/if-youre-happy-and-you-know-it/song.json",
+        "abc": "songs/if-youre-happy-and-you-know-it/song.abc",
+        "musicxml": "songs/if-youre-happy-and-you-know-it/song.musicxml"
+      }
+    },
+    {
+      "id": "head-shoulders-knees-and-toes",
+      "title": "Head Shoulders Knees and Toes",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 17,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/head-shoulders-knees-and-toes/song.json",
+        "abc": "songs/head-shoulders-knees-and-toes/song.abc",
+        "musicxml": "songs/head-shoulders-knees-and-toes/song.musicxml"
+      }
+    },
+    {
+      "id": "pop-goes-the-weasel",
+      "title": "Pop Goes the Weasel",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 49,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pop-goes-the-weasel/song.json",
+        "abc": "songs/pop-goes-the-weasel/song.abc",
+        "musicxml": "songs/pop-goes-the-weasel/song.musicxml"
+      }
+    },
+    {
+      "id": "ring-a-ring-o-roses",
+      "title": "Ring a Ring o' Roses",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ring-a-ring-o-roses/song.json",
+        "abc": "songs/ring-a-ring-o-roses/song.abc",
+        "musicxml": "songs/ring-a-ring-o-roses/song.musicxml"
+      }
+    },
+    {
+      "id": "three-blind-mice",
+      "title": "Three Blind Mice",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "round"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/three-blind-mice/song.json",
+        "abc": "songs/three-blind-mice/song.abc",
+        "musicxml": "songs/three-blind-mice/song.musicxml"
+      }
+    },
+    {
+      "id": "hickory-dickory-dock",
+      "title": "Hickory Dickory Dock",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 14,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hickory-dickory-dock/song.json",
+        "abc": "songs/hickory-dickory-dock/song.abc",
+        "musicxml": "songs/hickory-dickory-dock/song.musicxml"
+      }
+    },
+    {
+      "id": "this-old-man",
+      "title": "This Old Man",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 10,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/this-old-man/song.json",
+        "abc": "songs/this-old-man/song.abc",
+        "musicxml": "songs/this-old-man/song.musicxml"
+      }
+    },
+    {
+      "id": "bingo",
+      "title": "Bingo",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G4"
+      },
+      "noteCount": 13,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/bingo/song.json",
+        "abc": "songs/bingo/song.abc",
+        "musicxml": "songs/bingo/song.musicxml"
+      }
+    },
+    {
+      "id": "five-little-ducks",
+      "title": "Five Little Ducks",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 11,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/five-little-ducks/song.json",
+        "abc": "songs/five-little-ducks/song.abc",
+        "musicxml": "songs/five-little-ducks/song.musicxml"
+      }
+    },
+    {
+      "id": "the-farmer-in-the-dell",
+      "title": "The Farmer in the Dell",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-farmer-in-the-dell/song.json",
+        "abc": "songs/the-farmer-in-the-dell/song.abc",
+        "musicxml": "songs/the-farmer-in-the-dell/song.musicxml"
+      }
+    },
+    {
+      "id": "skip-to-my-lou",
+      "title": "Skip to My Lou",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "folk"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A4"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/skip-to-my-lou/song.json",
+        "abc": "songs/skip-to-my-lou/song.abc",
+        "musicxml": "songs/skip-to-my-lou/song.musicxml"
+      }
+    },
+    {
+      "id": "oranges-and-lemons",
+      "title": "Oranges and Lemons",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/oranges-and-lemons/song.json",
+        "abc": "songs/oranges-and-lemons/song.abc",
+        "musicxml": "songs/oranges-and-lemons/song.musicxml"
+      }
+    },
+    {
+      "id": "polly-put-the-kettle-on",
+      "title": "Polly Put the Kettle On",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C5",
+        "high": "G5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/polly-put-the-kettle-on/song.json",
+        "abc": "songs/polly-put-the-kettle-on/song.abc",
+        "musicxml": "songs/polly-put-the-kettle-on/song.musicxml"
+      }
+    },
+    {
+      "id": "lavenders-blue",
+      "title": "Lavender's Blue",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "folk"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "C5"
+      },
+      "noteCount": 15,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/lavenders-blue/song.json",
+        "abc": "songs/lavenders-blue/song.abc",
+        "musicxml": "songs/lavenders-blue/song.musicxml"
+      }
+    },
+    {
+      "id": "sing-a-song-of-sixpence",
+      "title": "Sing a Song of Sixpence",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 47,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sing-a-song-of-sixpence/song.json",
+        "abc": "songs/sing-a-song-of-sixpence/song.abc",
+        "musicxml": "songs/sing-a-song-of-sixpence/song.musicxml"
+      }
+    },
+    {
+      "id": "the-mulberry-bush",
+      "title": "Here We Go Round the Mulberry Bush",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-mulberry-bush/song.json",
+        "abc": "songs/the-mulberry-bush/song.abc",
+        "musicxml": "songs/the-mulberry-bush/song.musicxml"
+      }
+    },
+    {
+      "id": "the-muffin-man",
+      "title": "The Muffin Man",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-muffin-man/song.json",
+        "abc": "songs/the-muffin-man/song.abc",
+        "musicxml": "songs/the-muffin-man/song.musicxml"
+      }
+    },
+    {
+      "id": "yankee-doodle",
+      "title": "Yankee Doodle",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "folk",
+        "patriotic"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "G5"
+      },
+      "noteCount": 55,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/yankee-doodle/song.json",
+        "abc": "songs/yankee-doodle/song.abc",
+        "musicxml": "songs/yankee-doodle/song.musicxml"
+      }
+    },
+    {
+      "id": "shell-be-coming-round-the-mountain",
+      "title": "She'll Be Coming Round the Mountain",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "children"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 18,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/shell-be-coming-round-the-mountain/song.json",
+        "abc": "songs/shell-be-coming-round-the-mountain/song.abc",
+        "musicxml": "songs/shell-be-coming-round-the-mountain/song.musicxml"
+      }
+    },
+    {
+      "id": "happy-birthday",
+      "title": "Happy Birthday to You",
+      "composer": "Patty & Mildred Hill",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "celebration",
+        "children"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        1,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 15,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/happy-birthday/song.json",
+        "abc": "songs/happy-birthday/song.abc",
+        "musicxml": "songs/happy-birthday/song.musicxml"
+      }
+    },
+    {
+      "id": "scarborough-fair",
+      "title": "Scarborough Fair",
+      "composer": "Traditional (English)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "ballad",
+        "modal"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C5"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "guitar"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/scarborough-fair/song.json",
+        "abc": "songs/scarborough-fair/song.abc",
+        "musicxml": "songs/scarborough-fair/song.musicxml"
+      }
+    },
+    {
+      "id": "greensleeves",
+      "title": "Greensleeves",
+      "composer": "Traditional (English)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "ballad",
+        "modal"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "G5"
+      },
+      "noteCount": 17,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "guitar"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/greensleeves/song.json",
+        "abc": "songs/greensleeves/song.abc",
+        "musicxml": "songs/greensleeves/song.musicxml"
+      }
+    },
+    {
+      "id": "auld-lang-syne",
+      "title": "Auld Lang Syne",
+      "composer": "Traditional (Scottish)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "seasonal"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 19,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/auld-lang-syne/song.json",
+        "abc": "songs/auld-lang-syne/song.abc",
+        "musicxml": "songs/auld-lang-syne/song.musicxml"
+      }
+    },
+    {
+      "id": "home-on-the-range",
+      "title": "Home on the Range",
+      "composer": "Traditional (American)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "americana"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 20,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/home-on-the-range/song.json",
+        "abc": "songs/home-on-the-range/song.abc",
+        "musicxml": "songs/home-on-the-range/song.musicxml"
+      }
+    },
+    {
+      "id": "oh-susanna",
+      "title": "Oh! Susanna",
+      "composer": "Stephen Foster",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "americana"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "banjo"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/oh-susanna/song.json",
+        "abc": "songs/oh-susanna/song.abc",
+        "musicxml": "songs/oh-susanna/song.musicxml"
+      }
+    },
+    {
+      "id": "camptown-races",
+      "title": "Camptown Races",
+      "composer": "Stephen Foster",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "americana"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "banjo"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/camptown-races/song.json",
+        "abc": "songs/camptown-races/song.abc",
+        "musicxml": "songs/camptown-races/song.musicxml"
+      }
+    },
+    {
+      "id": "old-folks-at-home",
+      "title": "Old Folks at Home (Swanee River)",
+      "composer": "Stephen Foster",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "americana"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/old-folks-at-home/song.json",
+        "abc": "songs/old-folks-at-home/song.abc",
+        "musicxml": "songs/old-folks-at-home/song.musicxml"
+      }
+    },
+    {
+      "id": "clementine",
+      "title": "Oh My Darling Clementine",
+      "composer": "Traditional (American)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "americana"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "E5"
+      },
+      "noteCount": 17,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/clementine/song.json",
+        "abc": "songs/clementine/song.abc",
+        "musicxml": "songs/clementine/song.musicxml"
+      }
+    },
+    {
+      "id": "down-in-the-valley",
+      "title": "Down in the Valley",
+      "composer": "Traditional (American)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "americana",
+        "waltz"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "C5"
+      },
+      "noteCount": 12,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/down-in-the-valley/song.json",
+        "abc": "songs/down-in-the-valley/song.abc",
+        "musicxml": "songs/down-in-the-valley/song.musicxml"
+      }
+    },
+    {
+      "id": "red-river-valley",
+      "title": "Red River Valley",
+      "composer": "Traditional (American)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "americana"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "E5"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/red-river-valley/song.json",
+        "abc": "songs/red-river-valley/song.abc",
+        "musicxml": "songs/red-river-valley/song.musicxml"
+      }
+    },
+    {
+      "id": "the-water-is-wide",
+      "title": "The Water Is Wide",
+      "composer": "Traditional (Scottish)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "ballad"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "guitar"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-water-is-wide/song.json",
+        "abc": "songs/the-water-is-wide/song.abc",
+        "musicxml": "songs/the-water-is-wide/song.musicxml"
+      }
+    },
+    {
+      "id": "shenandoah",
+      "title": "Shenandoah",
+      "composer": "Traditional (American)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "americana",
+        "ballad"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/shenandoah/song.json",
+        "abc": "songs/shenandoah/song.abc",
+        "musicxml": "songs/shenandoah/song.musicxml"
+      }
+    },
+    {
+      "id": "when-the-saints-go-marching-in",
+      "title": "When the Saints Go Marching In",
+      "composer": "Traditional (American)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "gospel",
+        "americana"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/when-the-saints-go-marching-in/song.json",
+        "abc": "songs/when-the-saints-go-marching-in/song.abc",
+        "musicxml": "songs/when-the-saints-go-marching-in/song.musicxml"
+      }
+    },
+    {
+      "id": "amazing-grace",
+      "title": "Amazing Grace",
+      "composer": "Traditional (New Britain)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "gospel",
+        "hymn"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "bagpipes"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/amazing-grace/song.json",
+        "abc": "songs/amazing-grace/song.abc",
+        "musicxml": "songs/amazing-grace/song.musicxml"
+      }
+    },
+    {
+      "id": "wayfaring-stranger",
+      "title": "Wayfaring Stranger",
+      "composer": "Traditional (American)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "gospel",
+        "minor"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/wayfaring-stranger/song.json",
+        "abc": "songs/wayfaring-stranger/song.abc",
+        "musicxml": "songs/wayfaring-stranger/song.musicxml"
+      }
+    },
+    {
+      "id": "simple-gifts",
+      "title": "Simple Gifts",
+      "composer": "Joseph Brackett",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "shaker",
+        "americana"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/simple-gifts/song.json",
+        "abc": "songs/simple-gifts/song.abc",
+        "musicxml": "songs/simple-gifts/song.musicxml"
+      }
+    },
+    {
+      "id": "aura-lee",
+      "title": "Aura Lee",
+      "composer": "George R. Poulton",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "americana"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/aura-lee/song.json",
+        "abc": "songs/aura-lee/song.abc",
+        "musicxml": "songs/aura-lee/song.musicxml"
+      }
+    },
+    {
+      "id": "my-bonnie-lies-over-the-ocean",
+      "title": "My Bonnie Lies Over the Ocean",
+      "composer": "Traditional (Scottish)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "waltz"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/my-bonnie-lies-over-the-ocean/song.json",
+        "abc": "songs/my-bonnie-lies-over-the-ocean/song.abc",
+        "musicxml": "songs/my-bonnie-lies-over-the-ocean/song.musicxml"
+      }
+    },
+    {
+      "id": "the-ash-grove",
+      "title": "The Ash Grove",
+      "composer": "Traditional (Welsh)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "ballad",
+        "waltz"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-ash-grove/song.json",
+        "abc": "songs/the-ash-grove/song.abc",
+        "musicxml": "songs/the-ash-grove/song.musicxml"
+      }
+    },
+    {
+      "id": "all-through-the-night",
+      "title": "All Through the Night",
+      "composer": "Traditional (Welsh)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "lullaby"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/all-through-the-night/song.json",
+        "abc": "songs/all-through-the-night/song.abc",
+        "musicxml": "songs/all-through-the-night/song.musicxml"
+      }
+    },
+    {
+      "id": "loch-lomond",
+      "title": "Loch Lomond",
+      "composer": "Traditional (Scottish)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "ballad"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "E5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/loch-lomond/song.json",
+        "abc": "songs/loch-lomond/song.abc",
+        "musicxml": "songs/loch-lomond/song.musicxml"
+      }
+    },
+    {
+      "id": "skye-boat-song",
+      "title": "The Skye Boat Song",
+      "composer": "Traditional (Scottish)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "ballad"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "A5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/skye-boat-song/song.json",
+        "abc": "songs/skye-boat-song/song.abc",
+        "musicxml": "songs/skye-boat-song/song.musicxml"
+      }
+    },
+    {
+      "id": "danny-boy",
+      "title": "Danny Boy (Londonderry Air)",
+      "composer": "Traditional (Irish)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "ballad"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/danny-boy/song.json",
+        "abc": "songs/danny-boy/song.abc",
+        "musicxml": "songs/danny-boy/song.musicxml"
+      }
+    },
+    {
+      "id": "michael-row-the-boat-ashore",
+      "title": "Michael Row the Boat Ashore",
+      "composer": "Traditional (American)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "gospel",
+        "spiritual"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "C5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "guitar"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/michael-row-the-boat-ashore/song.json",
+        "abc": "songs/michael-row-the-boat-ashore/song.abc",
+        "musicxml": "songs/michael-row-the-boat-ashore/song.musicxml"
+      }
+    },
+    {
+      "id": "kumbaya",
+      "title": "Kumbaya",
+      "composer": "Traditional (American)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "gospel",
+        "spiritual"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "guitar"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/kumbaya/song.json",
+        "abc": "songs/kumbaya/song.abc",
+        "musicxml": "songs/kumbaya/song.musicxml"
+      }
+    },
+    {
+      "id": "hes-got-the-whole-world-in-his-hands",
+      "title": "He's Got the Whole World in His Hands",
+      "composer": "Traditional (American)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "gospel",
+        "spiritual"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G5",
+        "high": "D6"
+      },
+      "noteCount": 52,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hes-got-the-whole-world-in-his-hands/song.json",
+        "abc": "songs/hes-got-the-whole-world-in-his-hands/song.abc",
+        "musicxml": "songs/hes-got-the-whole-world-in-his-hands/song.musicxml"
+      }
+    },
+    {
+      "id": "waltzing-matilda",
+      "title": "Waltzing Matilda",
+      "composer": "Christina Macpherson / Banjo Paterson",
+      "category": "australian",
+      "difficulty": 3,
+      "tags": [
+        "australian",
+        "folk"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/waltzing-matilda/song.json",
+        "abc": "songs/waltzing-matilda/song.abc",
+        "musicxml": "songs/waltzing-matilda/song.musicxml"
+      }
+    },
+    {
+      "id": "click-go-the-shears",
+      "title": "Click Go the Shears",
+      "composer": "Traditional (Australian)",
+      "category": "australian",
+      "difficulty": 3,
+      "tags": [
+        "australian",
+        "folk"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 50,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/click-go-the-shears/song.json",
+        "abc": "songs/click-go-the-shears/song.abc",
+        "musicxml": "songs/click-go-the-shears/song.musicxml"
+      }
+    },
+    {
+      "id": "botany-bay",
+      "title": "Botany Bay",
+      "composer": "Traditional (Australian)",
+      "category": "australian",
+      "difficulty": 2,
+      "tags": [
+        "australian",
+        "folk"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "B4"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/botany-bay/song.json",
+        "abc": "songs/botany-bay/song.abc",
+        "musicxml": "songs/botany-bay/song.musicxml"
+      }
+    },
+    {
+      "id": "the-wild-colonial-boy",
+      "title": "The Wild Colonial Boy",
+      "composer": "Traditional (Australian/Irish)",
+      "category": "australian",
+      "difficulty": 3,
+      "tags": [
+        "australian",
+        "folk",
+        "ballad"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "F#5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-wild-colonial-boy/song.json",
+        "abc": "songs/the-wild-colonial-boy/song.abc",
+        "musicxml": "songs/the-wild-colonial-boy/song.musicxml"
+      }
+    },
+    {
+      "id": "the-drovers-dream",
+      "title": "The Drover's Dream",
+      "composer": "Traditional (Australian)",
+      "category": "australian",
+      "difficulty": 3,
+      "tags": [
+        "australian",
+        "folk"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-drovers-dream/song.json",
+        "abc": "songs/the-drovers-dream/song.abc",
+        "musicxml": "songs/the-drovers-dream/song.musicxml"
+      }
+    },
+    {
+      "id": "south-australia",
+      "title": "South Australia",
+      "composer": "Traditional (sea shanty)",
+      "category": "australian",
+      "difficulty": 2,
+      "tags": [
+        "australian",
+        "shanty",
+        "folk"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "E5"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/south-australia/song.json",
+        "abc": "songs/south-australia/song.abc",
+        "musicxml": "songs/south-australia/song.musicxml"
+      }
+    },
+    {
+      "id": "ode-to-joy",
+      "title": "Ode to Joy",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A3",
+        "high": "A4"
+      },
+      "noteCount": 62,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ode-to-joy/song.json",
+        "abc": "songs/ode-to-joy/song.abc",
+        "musicxml": "songs/ode-to-joy/song.musicxml"
+      }
+    },
+    {
+      "id": "fur-elise",
+      "title": "F\u00fcr Elise (theme)",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        3,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "E5"
+      },
+      "noteCount": 35,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/fur-elise/song.json",
+        "abc": "songs/fur-elise/song.abc",
+        "musicxml": "songs/fur-elise/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-5-motif",
+      "title": "Symphony No. 5 (opening motif)",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "theme",
+        "minor"
+      ],
+      "key": "c minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G4"
+      },
+      "noteCount": 8,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-5-motif/song.json",
+        "abc": "songs/symphony-no-5-motif/song.abc",
+        "musicxml": "songs/symphony-no-5-motif/song.musicxml"
+      }
+    },
+    {
+      "id": "eine-kleine-nachtmusik",
+      "title": "Eine kleine Nachtmusik (theme)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 18,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/eine-kleine-nachtmusik/song.json",
+        "abc": "songs/eine-kleine-nachtmusik/song.abc",
+        "musicxml": "songs/eine-kleine-nachtmusik/song.musicxml"
+      }
+    },
+    {
+      "id": "rondo-alla-turca",
+      "title": "Rondo alla Turca (theme)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "theme",
+        "minor"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "F#5"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/rondo-alla-turca/song.json",
+        "abc": "songs/rondo-alla-turca/song.abc",
+        "musicxml": "songs/rondo-alla-turca/song.musicxml"
+      }
+    },
+    {
+      "id": "minuet-in-g",
+      "title": "Minuet in G",
+      "composer": "Christian Petzold",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme",
+        "waltz"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D6"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/minuet-in-g/song.json",
+        "abc": "songs/minuet-in-g/song.abc",
+        "musicxml": "songs/minuet-in-g/song.musicxml"
+      }
+    },
+    {
+      "id": "musette-in-d",
+      "title": "Musette in D",
+      "composer": "J. S. Bach (Anna Magdalena Notebook)",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D6"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/musette-in-d/song.json",
+        "abc": "songs/musette-in-d/song.abc",
+        "musicxml": "songs/musette-in-d/song.musicxml"
+      }
+    },
+    {
+      "id": "jesu-joy-of-mans-desiring",
+      "title": "Jesu, Joy of Man's Desiring (theme)",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "F#5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/jesu-joy-of-mans-desiring/song.json",
+        "abc": "songs/jesu-joy-of-mans-desiring/song.abc",
+        "musicxml": "songs/jesu-joy-of-mans-desiring/song.musicxml"
+      }
+    },
+    {
+      "id": "prelude-in-c",
+      "title": "Prelude in C (BWV 846)",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "G5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/prelude-in-c/song.json",
+        "abc": "songs/prelude-in-c/song.abc",
+        "musicxml": "songs/prelude-in-c/song.musicxml"
+      }
+    },
+    {
+      "id": "canon-in-d",
+      "title": "Canon in D (theme)",
+      "composer": "Johann Pachelbel",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C#5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/canon-in-d/song.json",
+        "abc": "songs/canon-in-d/song.abc",
+        "musicxml": "songs/canon-in-d/song.musicxml"
+      }
+    },
+    {
+      "id": "spring-vivaldi",
+      "title": "Spring (theme, from The Four Seasons)",
+      "composer": "Antonio Vivaldi",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C#5"
+      },
+      "noteCount": 18,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/spring-vivaldi/song.json",
+        "abc": "songs/spring-vivaldi/song.abc",
+        "musicxml": "songs/spring-vivaldi/song.musicxml"
+      }
+    },
+    {
+      "id": "surprise-symphony",
+      "title": "Surprise Symphony (theme)",
+      "composer": "Joseph Haydn",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "G4"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/surprise-symphony/song.json",
+        "abc": "songs/surprise-symphony/song.abc",
+        "musicxml": "songs/surprise-symphony/song.musicxml"
+      }
+    },
+    {
+      "id": "new-world-largo",
+      "title": "New World Largo (Goin' Home)",
+      "composer": "Anton\u00edn Dvo\u0159\u00e1k",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 20,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/new-world-largo/song.json",
+        "abc": "songs/new-world-largo/song.abc",
+        "musicxml": "songs/new-world-largo/song.musicxml"
+      }
+    },
+    {
+      "id": "brahms-lullaby",
+      "title": "Brahms' Lullaby",
+      "composer": "Johannes Brahms",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "lullaby",
+        "waltz"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 13,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/brahms-lullaby/song.json",
+        "abc": "songs/brahms-lullaby/song.abc",
+        "musicxml": "songs/brahms-lullaby/song.musicxml"
+      }
+    },
+    {
+      "id": "swan-lake-theme",
+      "title": "Swan Lake (theme)",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme",
+        "minor"
+      ],
+      "key": "b minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "F#5"
+      },
+      "noteCount": 13,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/swan-lake-theme/song.json",
+        "abc": "songs/swan-lake-theme/song.abc",
+        "musicxml": "songs/swan-lake-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "dance-of-the-sugar-plum-fairy",
+      "title": "Dance of the Sugar Plum Fairy (theme)",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 51,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/dance-of-the-sugar-plum-fairy/song.json",
+        "abc": "songs/dance-of-the-sugar-plum-fairy/song.abc",
+        "musicxml": "songs/dance-of-the-sugar-plum-fairy/song.musicxml"
+      }
+    },
+    {
+      "id": "in-the-hall-of-the-mountain-king",
+      "title": "In the Hall of the Mountain King (theme)",
+      "composer": "Edvard Grieg",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme",
+        "minor"
+      ],
+      "key": "b minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "F#5"
+      },
+      "noteCount": 18,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/in-the-hall-of-the-mountain-king/song.json",
+        "abc": "songs/in-the-hall-of-the-mountain-king/song.abc",
+        "musicxml": "songs/in-the-hall-of-the-mountain-king/song.musicxml"
+      }
+    },
+    {
+      "id": "morning-mood",
+      "title": "Morning Mood (theme)",
+      "composer": "Edvard Grieg",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 35,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/morning-mood/song.json",
+        "abc": "songs/morning-mood/song.abc",
+        "musicxml": "songs/morning-mood/song.musicxml"
+      }
+    },
+    {
+      "id": "can-can",
+      "title": "Can-Can (theme)",
+      "composer": "Jacques Offenbach",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "E5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/can-can/song.json",
+        "abc": "songs/can-can/song.abc",
+        "musicxml": "songs/can-can/song.musicxml"
+      }
+    },
+    {
+      "id": "the-swan",
+      "title": "The Swan (theme)",
+      "composer": "Camille Saint-Sa\u00ebns",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 20,
+      "instrumentsSuited": [
+        "keyboard",
+        "cello",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-swan/song.json",
+        "abc": "songs/the-swan/song.abc",
+        "musicxml": "songs/the-swan/song.musicxml"
+      }
+    },
+    {
+      "id": "gymnopedie-no-1",
+      "title": "Gymnop\u00e9die No. 1 (theme)",
+      "composer": "Erik Satie",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme",
+        "waltz"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/gymnopedie-no-1/song.json",
+        "abc": "songs/gymnopedie-no-1/song.abc",
+        "musicxml": "songs/gymnopedie-no-1/song.musicxml"
+      }
+    },
+    {
+      "id": "prelude-in-e-minor-chopin",
+      "title": "Prelude in E minor (Op. 28 No. 4, theme)",
+      "composer": "Fr\u00e9d\u00e9ric Chopin",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme",
+        "minor"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/prelude-in-e-minor-chopin/song.json",
+        "abc": "songs/prelude-in-e-minor-chopin/song.abc",
+        "musicxml": "songs/prelude-in-e-minor-chopin/song.musicxml"
+      }
+    },
+    {
+      "id": "sonatina-op36-no1",
+      "title": "Sonatina Op. 36 No. 1 (theme)",
+      "composer": "Muzio Clementi",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sonatina-op36-no1/song.json",
+        "abc": "songs/sonatina-op36-no1/song.abc",
+        "musicxml": "songs/sonatina-op36-no1/song.musicxml"
+      }
+    },
+    {
+      "id": "land-of-hope-and-glory",
+      "title": "Land of Hope and Glory (theme)",
+      "composer": "Edward Elgar",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "theme"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/land-of-hope-and-glory/song.json",
+        "abc": "songs/land-of-hope-and-glory/song.abc",
+        "musicxml": "songs/land-of-hope-and-glory/song.musicxml"
+      }
+    },
+    {
+      "id": "jingle-bells",
+      "title": "Jingle Bells",
+      "composer": "James Lord Pierpont",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "carol",
+        "christmas"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/jingle-bells/song.json",
+        "abc": "songs/jingle-bells/song.abc",
+        "musicxml": "songs/jingle-bells/song.musicxml"
+      }
+    },
+    {
+      "id": "silent-night",
+      "title": "Silent Night",
+      "composer": "Franz Gruber",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "carol",
+        "christmas",
+        "waltz"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/silent-night/song.json",
+        "abc": "songs/silent-night/song.abc",
+        "musicxml": "songs/silent-night/song.musicxml"
+      }
+    },
+    {
+      "id": "we-wish-you-a-merry-christmas",
+      "title": "We Wish You a Merry Christmas",
+      "composer": "Traditional (English)",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "carol",
+        "christmas"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/we-wish-you-a-merry-christmas/song.json",
+        "abc": "songs/we-wish-you-a-merry-christmas/song.abc",
+        "musicxml": "songs/we-wish-you-a-merry-christmas/song.musicxml"
+      }
+    },
+    {
+      "id": "deck-the-halls",
+      "title": "Deck the Halls",
+      "composer": "Traditional (Welsh)",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "carol",
+        "christmas"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E6"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/deck-the-halls/song.json",
+        "abc": "songs/deck-the-halls/song.abc",
+        "musicxml": "songs/deck-the-halls/song.musicxml"
+      }
+    },
+    {
+      "id": "joy-to-the-world",
+      "title": "Joy to the World",
+      "composer": "Lowell Mason / G. F. Handel",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "carol",
+        "christmas"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "C#5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/joy-to-the-world/song.json",
+        "abc": "songs/joy-to-the-world/song.abc",
+        "musicxml": "songs/joy-to-the-world/song.musicxml"
+      }
+    },
+    {
+      "id": "o-come-all-ye-faithful",
+      "title": "O Come All Ye Faithful",
+      "composer": "John Francis Wade",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "carol",
+        "christmas"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "A5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/o-come-all-ye-faithful/song.json",
+        "abc": "songs/o-come-all-ye-faithful/song.abc",
+        "musicxml": "songs/o-come-all-ye-faithful/song.musicxml"
+      }
+    },
+    {
+      "id": "the-first-noel",
+      "title": "The First Noel",
+      "composer": "Traditional (English)",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "carol",
+        "christmas"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "A5"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-first-noel/song.json",
+        "abc": "songs/the-first-noel/song.abc",
+        "musicxml": "songs/the-first-noel/song.musicxml"
+      }
+    },
+    {
+      "id": "away-in-a-manger",
+      "title": "Away in a Manger",
+      "composer": "James R. Murray",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "carol",
+        "christmas",
+        "waltz"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 42,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/away-in-a-manger/song.json",
+        "abc": "songs/away-in-a-manger/song.abc",
+        "musicxml": "songs/away-in-a-manger/song.musicxml"
+      }
+    },
+    {
+      "id": "good-king-wenceslas",
+      "title": "Good King Wenceslas",
+      "composer": "Traditional (Piae Cantiones)",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "carol",
+        "christmas"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E6"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/good-king-wenceslas/song.json",
+        "abc": "songs/good-king-wenceslas/song.abc",
+        "musicxml": "songs/good-king-wenceslas/song.musicxml"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "musette-in-d",
+  "title": "Musette in D",
+  "composer": "J. S. Bach (Anna Magdalena Notebook)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "theme"
+  ],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard",
+    "violin"
+  ],
+  "chords": []
+}

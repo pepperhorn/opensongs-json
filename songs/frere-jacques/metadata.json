@@ -1,0 +1,23 @@
+{
+  "id": "frere-jacques",
+  "title": "Fr\u00e8re Jacques",
+  "composer": "Traditional (French)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "nursery",
+    "round",
+    "5-note"
+  ],
+  "difficulty": 1,
+  "category": "first",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}

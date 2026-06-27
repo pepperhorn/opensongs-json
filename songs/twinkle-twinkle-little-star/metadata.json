@@ -1,0 +1,23 @@
+{
+  "id": "twinkle-twinkle-little-star",
+  "title": "Twinkle Twinkle Little Star",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "nursery",
+    "beginner",
+    "6-note"
+  ],
+  "difficulty": 1,
+  "category": "first",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

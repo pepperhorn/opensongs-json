@@ -1,0 +1,19 @@
+{
+  "id": "prelude-in-c",
+  "title": "Prelude in C (BWV 846)",
+  "composer": "Johann Sebastian Bach",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "theme"
+  ],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard"
+  ],
+  "chords": []
+}

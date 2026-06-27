@@ -1,0 +1,22 @@
+{
+  "id": "brahms-lullaby",
+  "title": "Brahms' Lullaby",
+  "composer": "Johannes Brahms",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "lullaby",
+    "waltz"
+  ],
+  "difficulty": 2,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "chords": []
+}

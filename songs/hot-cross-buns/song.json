@@ -1,0 +1,325 @@
+{
+  "id": "hot-cross-buns",
+  "title": "Hot Cross Buns",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "nursery",
+    "beginner",
+    "3-note"
+  ],
+  "difficulty": 1,
+  "key": "C major",
+  "keySignature": 0,
+  "timeSignature": [
+    4,
+    4
+  ],
+  "tempo": 100,
+  "pickupBeats": 0.0,
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "noteRange": {
+    "low": "C4",
+    "high": "E4"
+  },
+  "chords": [],
+  "events": [
+    {
+      "i": 0,
+      "measure": 1,
+      "beat": 1.0,
+      "onset": 0.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "Hot",
+      "tie": null
+    },
+    {
+      "i": 1,
+      "measure": 1,
+      "beat": 2.0,
+      "onset": 1.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "cross",
+      "tie": null
+    },
+    {
+      "i": 2,
+      "measure": 1,
+      "beat": 3.0,
+      "onset": 2.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 4,
+        "midi": 60,
+        "spelled": "C4"
+      },
+      "lyric": "buns",
+      "tie": null
+    },
+    {
+      "i": 3,
+      "measure": 2,
+      "beat": 1.0,
+      "onset": 4.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "Hot",
+      "tie": null
+    },
+    {
+      "i": 4,
+      "measure": 2,
+      "beat": 2.0,
+      "onset": 5.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "cross",
+      "tie": null
+    },
+    {
+      "i": 5,
+      "measure": 2,
+      "beat": 3.0,
+      "onset": 6.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 4,
+        "midi": 60,
+        "spelled": "C4"
+      },
+      "lyric": "buns",
+      "tie": null
+    },
+    {
+      "i": 6,
+      "measure": 3,
+      "beat": 1.0,
+      "onset": 8.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 4,
+        "midi": 60,
+        "spelled": "C4"
+      },
+      "lyric": "One",
+      "tie": null
+    },
+    {
+      "i": 7,
+      "measure": 3,
+      "beat": 1.5,
+      "onset": 8.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 4,
+        "midi": 60,
+        "spelled": "C4"
+      },
+      "lyric": "a",
+      "tie": null
+    },
+    {
+      "i": 8,
+      "measure": 3,
+      "beat": 2.0,
+      "onset": 9.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 4,
+        "midi": 60,
+        "spelled": "C4"
+      },
+      "lyric": "pen",
+      "tie": null
+    },
+    {
+      "i": 9,
+      "measure": 3,
+      "beat": 2.5,
+      "onset": 9.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 4,
+        "midi": 60,
+        "spelled": "C4"
+      },
+      "lyric": "ny",
+      "tie": null
+    },
+    {
+      "i": 10,
+      "measure": 3,
+      "beat": 3.0,
+      "onset": 10.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "two",
+      "tie": null
+    },
+    {
+      "i": 11,
+      "measure": 3,
+      "beat": 3.5,
+      "onset": 10.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "a",
+      "tie": null
+    },
+    {
+      "i": 12,
+      "measure": 3,
+      "beat": 4.0,
+      "onset": 11.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "pen",
+      "tie": null
+    },
+    {
+      "i": 13,
+      "measure": 3,
+      "beat": 4.5,
+      "onset": 11.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "ny",
+      "tie": null
+    },
+    {
+      "i": 14,
+      "measure": 4,
+      "beat": 1.0,
+      "onset": 12.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "Hot",
+      "tie": null
+    },
+    {
+      "i": 15,
+      "measure": 4,
+      "beat": 2.0,
+      "onset": 13.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "cross",
+      "tie": null
+    },
+    {
+      "i": 16,
+      "measure": 4,
+      "beat": 3.0,
+      "onset": 14.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 4,
+        "midi": 60,
+        "spelled": "C4"
+      },
+      "lyric": "buns",
+      "tie": null
+    }
+  ]
+}

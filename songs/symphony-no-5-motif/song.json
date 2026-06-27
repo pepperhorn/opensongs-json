@@ -1,0 +1,192 @@
+{
+  "id": "symphony-no-5-motif",
+  "title": "Symphony No. 5 (opening motif)",
+  "composer": "Ludwig van Beethoven",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "theme",
+    "minor"
+  ],
+  "difficulty": 2,
+  "key": "c minor",
+  "keySignature": -3,
+  "timeSignature": [
+    2,
+    4
+  ],
+  "tempo": 108,
+  "pickupBeats": 0.0,
+  "instrumentsSuited": [
+    "keyboard",
+    "violin"
+  ],
+  "noteRange": {
+    "low": "D4",
+    "high": "G4"
+  },
+  "chords": [],
+  "events": [
+    {
+      "i": 0,
+      "measure": 1,
+      "beat": 1.0,
+      "onset": 0.0,
+      "duration": 0.5,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 1,
+      "measure": 1,
+      "beat": 1.5,
+      "onset": 0.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 2,
+      "measure": 1,
+      "beat": 2.0,
+      "onset": 1.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 3,
+      "measure": 1,
+      "beat": 2.5,
+      "onset": 1.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 4,
+      "measure": 2,
+      "beat": 1.0,
+      "onset": 2.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": -1,
+        "octave": 4,
+        "midi": 63,
+        "spelled": "Eb4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 5,
+      "measure": 3,
+      "beat": 1.0,
+      "onset": 4.0,
+      "duration": 0.5,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 6,
+      "measure": 3,
+      "beat": 1.5,
+      "onset": 4.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 7,
+      "measure": 3,
+      "beat": 2.0,
+      "onset": 5.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 8,
+      "measure": 3,
+      "beat": 2.5,
+      "onset": 5.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 9,
+      "measure": 4,
+      "beat": 1.0,
+      "onset": 6.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": null,
+      "tie": null
+    }
+  ]
+}

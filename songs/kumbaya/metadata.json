@@ -1,0 +1,22 @@
+{
+  "id": "kumbaya",
+  "title": "Kumbaya",
+  "composer": "Traditional (American)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "folk",
+    "gospel",
+    "spiritual"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "guitar"
+  ],
+  "chords": []
+}

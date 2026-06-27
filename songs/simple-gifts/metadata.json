@@ -1,0 +1,22 @@
+{
+  "id": "simple-gifts",
+  "title": "Simple Gifts",
+  "composer": "Joseph Brackett",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "folk",
+    "shaker",
+    "americana"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "chords": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "camptown-races",
+  "title": "Camptown Races",
+  "composer": "Stephen Foster",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "folk",
+    "americana"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "banjo"
+  ],
+  "chords": []
+}

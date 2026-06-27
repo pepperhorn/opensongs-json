@@ -1,0 +1,22 @@
+{
+  "id": "yankee-doodle",
+  "title": "Yankee Doodle",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "nursery",
+    "folk",
+    "patriotic"
+  ],
+  "difficulty": 2,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "chords": []
+}

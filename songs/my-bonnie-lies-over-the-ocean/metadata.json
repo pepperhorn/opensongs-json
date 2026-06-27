@@ -1,0 +1,21 @@
+{
+  "id": "my-bonnie-lies-over-the-ocean",
+  "title": "My Bonnie Lies Over the Ocean",
+  "composer": "Traditional (Scottish)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "folk",
+    "waltz"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "chords": []
+}

@@ -1,0 +1,171 @@
+{
+  "id": "cuckoo",
+  "title": "Cuckoo (Sol-Mi)",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "nursery",
+    "beginner",
+    "2-note"
+  ],
+  "difficulty": 1,
+  "key": "C major",
+  "keySignature": 0,
+  "timeSignature": [
+    4,
+    4
+  ],
+  "tempo": 92,
+  "pickupBeats": 0.0,
+  "instrumentsSuited": [
+    "voice",
+    "percussion",
+    "glockenspiel"
+  ],
+  "noteRange": {
+    "low": "E4",
+    "high": "G4"
+  },
+  "chords": [],
+  "events": [
+    {
+      "i": 0,
+      "measure": 1,
+      "beat": 1.0,
+      "onset": 0.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "Cuck",
+      "tie": null
+    },
+    {
+      "i": 1,
+      "measure": 1,
+      "beat": 3.0,
+      "onset": 2.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "oo",
+      "tie": null
+    },
+    {
+      "i": 2,
+      "measure": 2,
+      "beat": 1.0,
+      "onset": 4.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "cuck",
+      "tie": null
+    },
+    {
+      "i": 3,
+      "measure": 2,
+      "beat": 3.0,
+      "onset": 6.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "oo",
+      "tie": null
+    },
+    {
+      "i": 4,
+      "measure": 3,
+      "beat": 1.0,
+      "onset": 8.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "cuck",
+      "tie": null
+    },
+    {
+      "i": 5,
+      "measure": 3,
+      "beat": 3.0,
+      "onset": 10.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "oo",
+      "tie": null
+    },
+    {
+      "i": 6,
+      "measure": 4,
+      "beat": 1.0,
+      "onset": 12.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "cuck",
+      "tie": null
+    },
+    {
+      "i": 7,
+      "measure": 4,
+      "beat": 3.0,
+      "onset": 14.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "oo",
+      "tie": null
+    }
+  ]
+}

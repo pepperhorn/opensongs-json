@@ -1,0 +1,256 @@
+{
+  "id": "brahms-lullaby",
+  "title": "Brahms' Lullaby",
+  "composer": "Johannes Brahms",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "lullaby",
+    "waltz"
+  ],
+  "difficulty": 2,
+  "key": "F major",
+  "keySignature": -1,
+  "timeSignature": [
+    3,
+    4
+  ],
+  "tempo": 72,
+  "pickupBeats": 0.0,
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "noteRange": {
+    "low": "F4",
+    "high": "C5"
+  },
+  "chords": [],
+  "events": [
+    {
+      "i": 0,
+      "measure": 1,
+      "beat": 1.0,
+      "onset": 0.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "Lul",
+      "tie": null
+    },
+    {
+      "i": 1,
+      "measure": 1,
+      "beat": 3.0,
+      "onset": 2.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "la",
+      "tie": null
+    },
+    {
+      "i": 2,
+      "measure": 2,
+      "beat": 1.0,
+      "onset": 3.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "by",
+      "tie": null
+    },
+    {
+      "i": 3,
+      "measure": 2,
+      "beat": 3.0,
+      "onset": 5.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "and",
+      "tie": null
+    },
+    {
+      "i": 4,
+      "measure": 3,
+      "beat": 1.0,
+      "onset": 6.0,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "good",
+      "tie": null
+    },
+    {
+      "i": 5,
+      "measure": 4,
+      "beat": 1.0,
+      "onset": 9.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "night",
+      "tie": null
+    },
+    {
+      "i": 6,
+      "measure": 4,
+      "beat": 3.0,
+      "onset": 11.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "with",
+      "tie": null
+    },
+    {
+      "i": 7,
+      "measure": 5,
+      "beat": 1.0,
+      "onset": 12.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "ros",
+      "tie": null
+    },
+    {
+      "i": 8,
+      "measure": 5,
+      "beat": 3.0,
+      "onset": 14.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "es",
+      "tie": null
+    },
+    {
+      "i": 9,
+      "measure": 6,
+      "beat": 1.0,
+      "onset": 15.0,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "be",
+      "tie": null
+    },
+    {
+      "i": 10,
+      "measure": 7,
+      "beat": 1.0,
+      "onset": 18.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "dight",
+      "tie": null
+    },
+    {
+      "i": 11,
+      "measure": 7,
+      "beat": 3.0,
+      "onset": 20.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "with",
+      "tie": null
+    },
+    {
+      "i": 12,
+      "measure": 8,
+      "beat": 1.0,
+      "onset": 21.0,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "lil",
+      "tie": null
+    }
+  ]
+}

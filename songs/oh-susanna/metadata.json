@@ -1,0 +1,22 @@
+{
+  "id": "oh-susanna",
+  "title": "Oh! Susanna",
+  "composer": "Stephen Foster",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "folk",
+    "americana"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "banjo"
+  ],
+  "chords": []
+}

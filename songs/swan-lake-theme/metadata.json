@@ -1,0 +1,21 @@
+{
+  "id": "swan-lake-theme",
+  "title": "Swan Lake (theme)",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "theme",
+    "minor"
+  ],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard",
+    "violin"
+  ],
+  "chords": []
+}

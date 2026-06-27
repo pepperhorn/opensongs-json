@@ -1,0 +1,21 @@
+{
+  "id": "botany-bay",
+  "title": "Botany Bay",
+  "composer": "Traditional (Australian)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "australian",
+    "folk"
+  ],
+  "difficulty": 2,
+  "category": "australian",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "chords": []
+}

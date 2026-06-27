@@ -1,0 +1,21 @@
+{
+  "id": "auld-lang-syne",
+  "title": "Auld Lang Syne",
+  "composer": "Traditional (Scottish)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "folk",
+    "seasonal"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "chords": []
+}

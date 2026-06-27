@@ -1,0 +1,22 @@
+{
+  "id": "the-ash-grove",
+  "title": "The Ash Grove",
+  "composer": "Traditional (Welsh)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "folk",
+    "ballad",
+    "waltz"
+  ],
+  "difficulty": 3,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "chords": []
+}

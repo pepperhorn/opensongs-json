@@ -1,0 +1,21 @@
+{
+  "id": "hickory-dickory-dock",
+  "title": "Hickory Dickory Dock",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "nursery",
+    "children"
+  ],
+  "difficulty": 2,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "voice"
+  ],
+  "chords": []
+}

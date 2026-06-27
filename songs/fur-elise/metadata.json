@@ -1,0 +1,19 @@
+{
+  "id": "fur-elise",
+  "title": "F\u00fcr Elise (theme)",
+  "composer": "Ludwig van Beethoven",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "theme"
+  ],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard"
+  ],
+  "chords": []
+}

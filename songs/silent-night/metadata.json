@@ -1,0 +1,23 @@
+{
+  "id": "silent-night",
+  "title": "Silent Night",
+  "composer": "Franz Gruber",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "seasonal",
+    "carol",
+    "christmas",
+    "waltz"
+  ],
+  "difficulty": 2,
+  "category": "seasonal",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "chords": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "red-river-valley",
+  "title": "Red River Valley",
+  "composer": "Traditional (American)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "folk",
+    "americana"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin"
+  ],
+  "chords": []
+}

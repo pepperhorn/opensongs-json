@@ -1,0 +1,20 @@
+{
+  "id": "eine-kleine-nachtmusik",
+  "title": "Eine kleine Nachtmusik (theme)",
+  "composer": "Wolfgang Amadeus Mozart",
+  "copyright": {
+    "status": "public-domain",
+    "notes": ""
+  },
+  "tags": [
+    "classical",
+    "theme"
+  ],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard",
+    "violin"
+  ],
+  "chords": []
+}
