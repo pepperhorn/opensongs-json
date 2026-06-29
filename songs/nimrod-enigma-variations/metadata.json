@@ -1,0 +1,13 @@
+{
+  "id": "nimrod-enigma-variations",
+  "title": "Nimrod (Enigma Variations)",
+  "composer": "Edward Elgar",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "E. Elgar (d.1934), Op.36 Var.IX, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "elgar", "orchestral", "english"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "recorder", "trumpet"]
+}

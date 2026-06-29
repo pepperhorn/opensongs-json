@@ -1,0 +1,13 @@
+{
+  "id": "sicilienne",
+  "title": "Sicilienne",
+  "composer": "Gabriel Fauré",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "G. Fauré (d.1924), Op.78, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "faure", "cello", "romantic"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "cello", "violin", "flute"]
+}

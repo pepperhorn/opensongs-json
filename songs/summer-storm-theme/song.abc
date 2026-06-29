@@ -1,0 +1,21 @@
+X:1
+T:Summer / Storm (theme, The Four Seasons)
+C:Antonio Vivaldi
+M:3/4
+L:1/16
+Q:1/4=200
+K:Gm
+% Presto storm theme — RV 315, mvt III (Presto)
+% Range: D4–G5  |  K:Gm → B=Bb, E=Eb throughout
+% Pickup: 1 eighth note g (G5)
+g2 |
+% Bar 1–2: opening descent, full G minor scale from G5 down to Eb4, then tonic leaps
+gfed cBAG FEDE | FDGD ADGD g2d2 |
+% Bar 3–4: repeat storm head, cadential descent to G4
+gfed cBAG FEDE | FDGD AGFD G4 |
+% Bar 5–6: rising chromatic push through G minor, peak at g, rapid full descent
+D2F2 G2A2 Bcde | fgfe dcBA GFED |
+% Bar 7–8: driving broken-chord figures (G minor: G–Bb–D), then final scalar fall
+G2Bd G2Bd G2Bd | gfed cBAG FD D2 |
+% Bar 9: half-close, tonic settling figure
+G6 D2 G2 z2 |]

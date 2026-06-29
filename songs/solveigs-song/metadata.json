@@ -1,0 +1,13 @@
+{
+  "id": "solveigs-song",
+  "title": "Solveig's Song",
+  "composer": "Edvard Grieg",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "E. Grieg (d.1907), Peer Gynt Op.23, AU-PD. Melody-only."
+  },
+  "tags": ["classical", "grieg", "song", "romantic"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "flute", "recorder"]
+}

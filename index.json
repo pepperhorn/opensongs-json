@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 100,
+  "count": 283,
   "schemaVersion": 1,
   "songs": [
     {
@@ -3234,6 +3234,6223 @@
         "song": "songs/good-king-wenceslas/song.json",
         "abc": "songs/good-king-wenceslas/song.abc",
         "musicxml": "songs/good-king-wenceslas/song.musicxml"
+      }
+    },
+    {
+      "id": "1812-overture-finale-theme",
+      "title": "1812 Overture (finale theme)",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "tchaikovsky",
+        "overture",
+        "march"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "D5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/1812-overture-finale-theme/song.json",
+        "abc": "songs/1812-overture-finale-theme/song.abc",
+        "musicxml": "songs/1812-overture-finale-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "aint-misbehavin",
+      "title": "Ain't Misbehavin'",
+      "composer": "Fats Waller",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "stride"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "C5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/aint-misbehavin/song.json",
+        "abc": "songs/aint-misbehavin/song.abc",
+        "musicxml": "songs/aint-misbehavin/song.musicxml"
+      }
+    },
+    {
+      "id": "air-on-the-g-string",
+      "title": "Air on the G String",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "bach"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/air-on-the-g-string/song.json",
+        "abc": "songs/air-on-the-g-string/song.abc",
+        "musicxml": "songs/air-on-the-g-string/song.musicxml"
+      }
+    },
+    {
+      "id": "anitras-dance",
+      "title": "Anitra's Dance",
+      "composer": "Edvard Grieg",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "grieg",
+        "ballet",
+        "dance"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C5"
+      },
+      "noteCount": 58,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/anitras-dance/song.json",
+        "abc": "songs/anitras-dance/song.abc",
+        "musicxml": "songs/anitras-dance/song.musicxml"
+      }
+    },
+    {
+      "id": "anvil-chorus-il-trovatore",
+      "title": "Anvil Chorus (Il Trovatore)",
+      "composer": "Giuseppe Verdi",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "verdi",
+        "opera",
+        "chorus"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "B4"
+      },
+      "noteCount": 35,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/anvil-chorus-il-trovatore/song.json",
+        "abc": "songs/anvil-chorus-il-trovatore/song.abc",
+        "musicxml": "songs/anvil-chorus-il-trovatore/song.musicxml"
+      }
+    },
+    {
+      "id": "aquarium-carnival-of-the-animals",
+      "title": "Aquarium (Carnival of the Animals)",
+      "composer": "Camille Saint-Sa\u00ebns",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "saint-saens",
+        "piano",
+        "atmospheric"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "flute",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/aquarium-carnival-of-the-animals/song.json",
+        "abc": "songs/aquarium-carnival-of-the-animals/song.abc",
+        "musicxml": "songs/aquarium-carnival-of-the-animals/song.musicxml"
+      }
+    },
+    {
+      "id": "arabesque-no-1",
+      "title": "Arabesque No. 1",
+      "composer": "Claude Debussy",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "debussy",
+        "piano",
+        "impressionist"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C#5"
+      },
+      "noteCount": 89,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/arabesque-no-1/song.json",
+        "abc": "songs/arabesque-no-1/song.abc",
+        "musicxml": "songs/arabesque-no-1/song.musicxml"
+      }
+    },
+    {
+      "id": "arabesque-no-1-theme",
+      "title": "Arabesque No. 1 (theme)",
+      "composer": "Claude Debussy",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "debussy",
+        "piano",
+        "impressionist"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C#5"
+      },
+      "noteCount": 78,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/arabesque-no-1-theme/song.json",
+        "abc": "songs/arabesque-no-1-theme/song.abc",
+        "musicxml": "songs/arabesque-no-1-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "arrival-of-the-queen-of-sheba",
+      "title": "Arrival of the Queen of Sheba",
+      "composer": "George Frideric Handel",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "baroque",
+        "handel"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "D5"
+      },
+      "noteCount": 112,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/arrival-of-the-queen-of-sheba/song.json",
+        "abc": "songs/arrival-of-the-queen-of-sheba/song.abc",
+        "musicxml": "songs/arrival-of-the-queen-of-sheba/song.musicxml"
+      }
+    },
+    {
+      "id": "as-time-goes-by",
+      "title": "As Time Goes By",
+      "composer": "Herman Hupfeld",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "film"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 51,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/as-time-goes-by/song.json",
+        "abc": "songs/as-time-goes-by/song.abc",
+        "musicxml": "songs/as-time-goes-by/song.musicxml"
+      }
+    },
+    {
+      "id": "autumn-theme",
+      "title": "Autumn (theme, The Four Seasons)",
+      "composer": "Antonio Vivaldi",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "vivaldi"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 61,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/autumn-theme/song.json",
+        "abc": "songs/autumn-theme/song.abc",
+        "musicxml": "songs/autumn-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "ave-maria",
+      "title": "Ave Maria",
+      "composer": "Franz Schubert",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "schubert",
+        "sacred"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        12,
+        8
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ave-maria/song.json",
+        "abc": "songs/ave-maria/song.abc",
+        "musicxml": "songs/ave-maria/song.musicxml"
+      }
+    },
+    {
+      "id": "ave-maria-after-bach",
+      "title": "Ave Maria (after Bach)",
+      "composer": "Charles Gounod",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "gounod",
+        "vocal",
+        "sacred"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ave-maria-after-bach/song.json",
+        "abc": "songs/ave-maria-after-bach/song.abc",
+        "musicxml": "songs/ave-maria-after-bach/song.musicxml"
+      }
+    },
+    {
+      "id": "ave-verum-corpus",
+      "title": "Ave Verum Corpus",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "mozart",
+        "choral",
+        "sacred"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A4"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ave-verum-corpus/song.json",
+        "abc": "songs/ave-verum-corpus/song.abc",
+        "musicxml": "songs/ave-verum-corpus/song.musicxml"
+      }
+    },
+    {
+      "id": "badinerie-orchestral-suite-no-2",
+      "title": "Badinerie (Orchestral Suite No. 2)",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "baroque",
+        "bach",
+        "flute"
+      ],
+      "key": "b minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "F#5"
+      },
+      "noteCount": 52,
+      "instrumentsSuited": [
+        "recorder",
+        "violin",
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/badinerie-orchestral-suite-no-2/song.json",
+        "abc": "songs/badinerie-orchestral-suite-no-2/song.abc",
+        "musicxml": "songs/badinerie-orchestral-suite-no-2/song.musicxml"
+      }
+    },
+    {
+      "id": "bagatelle-f-r-elise-b-section",
+      "title": "Bagatelle / F\u00fcr Elise (B-section)",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "beethoven",
+        "piano"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/bagatelle-f-r-elise-b-section/song.json",
+        "abc": "songs/bagatelle-f-r-elise-b-section/song.abc",
+        "musicxml": "songs/bagatelle-f-r-elise-b-section/song.musicxml"
+      }
+    },
+    {
+      "id": "barber-of-seville-overture-theme",
+      "title": "Barber of Seville (overture theme)",
+      "composer": "Gioachino Rossini",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "rossini",
+        "opera",
+        "overture"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 49,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/barber-of-seville-overture-theme/song.json",
+        "abc": "songs/barber-of-seville-overture-theme/song.abc",
+        "musicxml": "songs/barber-of-seville-overture-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "barcarolle-tales-of-hoffmann",
+      "title": "Barcarolle (Tales of Hoffmann)",
+      "composer": "Jacques Offenbach",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "offenbach",
+        "opera",
+        "barcarolle"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G#4",
+        "high": "C5"
+      },
+      "noteCount": 47,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/barcarolle-tales-of-hoffmann/song.json",
+        "abc": "songs/barcarolle-tales-of-hoffmann/song.abc",
+        "musicxml": "songs/barcarolle-tales-of-hoffmann/song.musicxml"
+      }
+    },
+    {
+      "id": "berceuse",
+      "title": "Berceuse",
+      "composer": "Gabriel Faur\u00e9",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "faure",
+        "violin",
+        "lullaby"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/berceuse/song.json",
+        "abc": "songs/berceuse/song.abc",
+        "musicxml": "songs/berceuse/song.musicxml"
+      }
+    },
+    {
+      "id": "beyond-the-blue-horizon",
+      "title": "Beyond the Blue Horizon",
+      "composer": "Richard A. Whiting",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "tin-pan-alley"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 42,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/beyond-the-blue-horizon/song.json",
+        "abc": "songs/beyond-the-blue-horizon/song.abc",
+        "musicxml": "songs/beyond-the-blue-horizon/song.musicxml"
+      }
+    },
+    {
+      "id": "bolero-theme",
+      "title": "Bol\u00e9ro (theme)",
+      "composer": "Maurice Ravel",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "ravel",
+        "orchestral",
+        "famous"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 72,
+      "instrumentsSuited": [
+        "keyboard",
+        "flute",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/bolero-theme/song.json",
+        "abc": "songs/bolero-theme/song.abc",
+        "musicxml": "songs/bolero-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "bourree-in-e-minor-lute-suite",
+      "title": "Bourr\u00e9e in E minor (Lute Suite)",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "bach",
+        "lute"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 107,
+      "instrumentsSuited": [
+        "keyboard",
+        "guitar",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/bourree-in-e-minor-lute-suite/song.json",
+        "abc": "songs/bourree-in-e-minor-lute-suite/song.abc",
+        "musicxml": "songs/bourree-in-e-minor-lute-suite/song.musicxml"
+      }
+    },
+    {
+      "id": "brandenburg-concerto-no-3-theme",
+      "title": "Brandenburg Concerto No. 3 (opening theme)",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "bach"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 47,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/brandenburg-concerto-no-3-theme/song.json",
+        "abc": "songs/brandenburg-concerto-no-3-theme/song.abc",
+        "musicxml": "songs/brandenburg-concerto-no-3-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "bridal-chorus-here-comes-the-bride",
+      "title": "Bridal Chorus / Here Comes the Bride",
+      "composer": "Richard Wagner",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "wagner",
+        "wedding",
+        "chorus"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 20,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/bridal-chorus-here-comes-the-bride/song.json",
+        "abc": "songs/bridal-chorus-here-comes-the-bride/song.abc",
+        "musicxml": "songs/bridal-chorus-here-comes-the-bride/song.musicxml"
+      }
+    },
+    {
+      "id": "brindisi-libiamo-la-traviata",
+      "title": "Brindisi / Libiamo (La Traviata)",
+      "composer": "Giuseppe Verdi",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "verdi",
+        "opera",
+        "waltz"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "C5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/brindisi-libiamo-la-traviata/song.json",
+        "abc": "songs/brindisi-libiamo-la-traviata/song.abc",
+        "musicxml": "songs/brindisi-libiamo-la-traviata/song.musicxml"
+      }
+    },
+    {
+      "id": "but-not-for-me",
+      "title": "But Not for Me",
+      "composer": "George Gershwin",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "gershwin"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/but-not-for-me/song.json",
+        "abc": "songs/but-not-for-me/song.abc",
+        "musicxml": "songs/but-not-for-me/song.musicxml"
+      }
+    },
+    {
+      "id": "caprice-no-24-theme",
+      "title": "Caprice No. 24 (theme)",
+      "composer": "Niccol\u00f2 Paganini",
+      "category": "classical",
+      "difficulty": 5,
+      "tags": [
+        "classical",
+        "paganini",
+        "violin",
+        "virtuosic"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 85,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/caprice-no-24-theme/song.json",
+        "abc": "songs/caprice-no-24-theme/song.abc",
+        "musicxml": "songs/caprice-no-24-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "carmen-prelude-theme",
+      "title": "Carmen (prelude theme)",
+      "composer": "Georges Bizet",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "bizet",
+        "opera",
+        "march"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C#5"
+      },
+      "noteCount": 47,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/carmen-prelude-theme/song.json",
+        "abc": "songs/carmen-prelude-theme/song.abc",
+        "musicxml": "songs/carmen-prelude-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "cello-suite-no-1-prelude",
+      "title": "Cello Suite No. 1 Prelude",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "baroque",
+        "bach",
+        "cello"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D3",
+        "high": "G5"
+      },
+      "noteCount": 80,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "cello"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/cello-suite-no-1-prelude/song.json",
+        "abc": "songs/cello-suite-no-1-prelude/song.abc",
+        "musicxml": "songs/cello-suite-no-1-prelude/song.musicxml"
+      }
+    },
+    {
+      "id": "clair-de-lune",
+      "title": "Clair de Lune",
+      "composer": "Claude Debussy",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "debussy",
+        "piano",
+        "impressionist"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        9,
+        8
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "C#5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/clair-de-lune/song.json",
+        "abc": "songs/clair-de-lune/song.abc",
+        "musicxml": "songs/clair-de-lune/song.musicxml"
+      }
+    },
+    {
+      "id": "clair-de-lune-theme",
+      "title": "Clair de Lune (theme)",
+      "composer": "Claude Debussy",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "debussy",
+        "piano",
+        "impressionist"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        9,
+        8
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "C#5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/clair-de-lune-theme/song.json",
+        "abc": "songs/clair-de-lune-theme/song.abc",
+        "musicxml": "songs/clair-de-lune-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "clarinet-concerto-adagio-theme",
+      "title": "Clarinet Concerto (Adagio theme)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "mozart",
+        "clarinet"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "clarinet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/clarinet-concerto-adagio-theme/song.json",
+        "abc": "songs/clarinet-concerto-adagio-theme/song.abc",
+        "musicxml": "songs/clarinet-concerto-adagio-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "consolation-no-3",
+      "title": "Consolation No. 3",
+      "composer": "Franz Liszt",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "liszt",
+        "piano",
+        "romantic"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G#4",
+        "high": "C#5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/consolation-no-3/song.json",
+        "abc": "songs/consolation-no-3/song.abc",
+        "musicxml": "songs/consolation-no-3/song.musicxml"
+      }
+    },
+    {
+      "id": "coppelia-waltz",
+      "title": "Copp\u00e9lia Waltz",
+      "composer": "L\u00e9o Delibes",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "delibes",
+        "ballet",
+        "waltz"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C#5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/coppelia-waltz/song.json",
+        "abc": "songs/coppelia-waltz/song.abc",
+        "musicxml": "songs/coppelia-waltz/song.musicxml"
+      }
+    },
+    {
+      "id": "dance-of-the-reed-flutes",
+      "title": "Dance of the Reed Flutes",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "tchaikovsky",
+        "ballet",
+        "flute"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 47,
+      "instrumentsSuited": [
+        "recorder",
+        "flute",
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/dance-of-the-reed-flutes/song.json",
+        "abc": "songs/dance-of-the-reed-flutes/song.abc",
+        "musicxml": "songs/dance-of-the-reed-flutes/song.musicxml"
+      }
+    },
+    {
+      "id": "danse-macabre-theme",
+      "title": "Danse Macabre (theme)",
+      "composer": "Camille Saint-Sa\u00ebns",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "saint-saens",
+        "orchestral",
+        "halloween"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/danse-macabre-theme/song.json",
+        "abc": "songs/danse-macabre-theme/song.abc",
+        "musicxml": "songs/danse-macabre-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "deep-purple",
+      "title": "Deep Purple",
+      "composer": "Peter DeRose",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "tin-pan-alley"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/deep-purple/song.json",
+        "abc": "songs/deep-purple/song.abc",
+        "musicxml": "songs/deep-purple/song.musicxml"
+      }
+    },
+    {
+      "id": "egmont-overture-theme",
+      "title": "Egmont Overture (theme)",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "beethoven"
+      ],
+      "key": "f minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/egmont-overture-theme/song.json",
+        "abc": "songs/egmont-overture-theme/song.abc",
+        "musicxml": "songs/egmont-overture-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "embraceable-you",
+      "title": "Embraceable You",
+      "composer": "George Gershwin",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "gershwin"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 43,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/embraceable-you/song.json",
+        "abc": "songs/embraceable-you/song.abc",
+        "musicxml": "songs/embraceable-you/song.musicxml"
+      }
+    },
+    {
+      "id": "emperor-waltz",
+      "title": "Emperor Waltz",
+      "composer": "Johann Strauss II",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "strauss",
+        "waltz"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 39,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/emperor-waltz/song.json",
+        "abc": "songs/emperor-waltz/song.abc",
+        "musicxml": "songs/emperor-waltz/song.musicxml"
+      }
+    },
+    {
+      "id": "emperors-hymn-string-quartet-op-76-no-3",
+      "title": "Emperor's Hymn (String Quartet Op. 76 No. 3)",
+      "composer": "Joseph Haydn",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "haydn",
+        "hymn"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "G4"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/emperors-hymn-string-quartet-op-76-no-3/song.json",
+        "abc": "songs/emperors-hymn-string-quartet-op-76-no-3/song.abc",
+        "musicxml": "songs/emperors-hymn-string-quartet-op-76-no-3/song.musicxml"
+      }
+    },
+    {
+      "id": "fantaisie-impromptu-theme",
+      "title": "Fantaisie-Impromptu (theme)",
+      "composer": "Fr\u00e9d\u00e9ric Chopin",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "chopin",
+        "piano",
+        "impromptu"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "C#5"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/fantaisie-impromptu-theme/song.json",
+        "abc": "songs/fantaisie-impromptu-theme/song.abc",
+        "musicxml": "songs/fantaisie-impromptu-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "fantasia-no-1-in-a-flute-theme",
+      "title": "Fantasia No. 1 in A (flute, theme)",
+      "composer": "Georg Philipp Telemann",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "telemann",
+        "flute"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "E5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "recorder",
+        "flute",
+        "violin",
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/fantasia-no-1-in-a-flute-theme/song.json",
+        "abc": "songs/fantasia-no-1-in-a-flute-theme/song.abc",
+        "musicxml": "songs/fantasia-no-1-in-a-flute-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "farandole-larlesienne",
+      "title": "Farandole (L'Arl\u00e9sienne)",
+      "composer": "Georges Bizet",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "bizet",
+        "dance",
+        "french"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/farandole-larlesienne/song.json",
+        "abc": "songs/farandole-larlesienne/song.abc",
+        "musicxml": "songs/farandole-larlesienne/song.musicxml"
+      }
+    },
+    {
+      "id": "faust-waltz-theme",
+      "title": "Faust Waltz (theme)",
+      "composer": "Charles Gounod",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "gounod",
+        "opera",
+        "waltz"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/faust-waltz-theme/song.json",
+        "abc": "songs/faust-waltz-theme/song.abc",
+        "musicxml": "songs/faust-waltz-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "flight-of-the-bumblebee",
+      "title": "Flight of the Bumblebee",
+      "composer": "Nikolai Rimsky-Korsakov",
+      "category": "classical",
+      "difficulty": 5,
+      "tags": [
+        "classical",
+        "rimsky-korsakov",
+        "opera",
+        "famous"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 121,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/flight-of-the-bumblebee/song.json",
+        "abc": "songs/flight-of-the-bumblebee/song.abc",
+        "musicxml": "songs/flight-of-the-bumblebee/song.musicxml"
+      }
+    },
+    {
+      "id": "flower-duet-lakme",
+      "title": "Flower Duet (Lakm\u00e9)",
+      "composer": "L\u00e9o Delibes",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "delibes",
+        "opera",
+        "famous"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C#5"
+      },
+      "noteCount": 55,
+      "instrumentsSuited": [
+        "keyboard",
+        "flute",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/flower-duet-lakme/song.json",
+        "abc": "songs/flower-duet-lakme/song.abc",
+        "musicxml": "songs/flower-duet-lakme/song.musicxml"
+      }
+    },
+    {
+      "id": "funeral-march-of-a-marionette",
+      "title": "Funeral March of a Marionette",
+      "composer": "Charles Gounod",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "gounod",
+        "march",
+        "humorous"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 80,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/funeral-march-of-a-marionette/song.json",
+        "abc": "songs/funeral-march-of-a-marionette/song.abc",
+        "musicxml": "songs/funeral-march-of-a-marionette/song.musicxml"
+      }
+    },
+    {
+      "id": "funeral-march-sonata-no-2",
+      "title": "Funeral March (Sonata No. 2)",
+      "composer": "Fr\u00e9d\u00e9ric Chopin",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "chopin",
+        "piano",
+        "march"
+      ],
+      "key": "b- minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C#3",
+        "high": "Bb4"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/funeral-march-sonata-no-2/song.json",
+        "abc": "songs/funeral-march-sonata-no-2/song.abc",
+        "musicxml": "songs/funeral-march-sonata-no-2/song.musicxml"
+      }
+    },
+    {
+      "id": "gloria-opening",
+      "title": "Gloria (opening)",
+      "composer": "Antonio Vivaldi",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "vivaldi",
+        "choral"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/gloria-opening/song.json",
+        "abc": "songs/gloria-opening/song.abc",
+        "musicxml": "songs/gloria-opening/song.musicxml"
+      }
+    },
+    {
+      "id": "gnossienne-no-1-theme",
+      "title": "Gnossienne No. 1 (theme)",
+      "composer": "Erik Satie",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "satie",
+        "piano",
+        "impressionist",
+        "modal"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "Bb4"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/gnossienne-no-1-theme/song.json",
+        "abc": "songs/gnossienne-no-1-theme/song.abc",
+        "musicxml": "songs/gnossienne-no-1-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "golliwoggs-cakewalk",
+      "title": "Golliwogg's Cakewalk",
+      "composer": "Claude Debussy",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "debussy",
+        "piano",
+        "ragtime",
+        "humorous"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "D5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/golliwoggs-cakewalk/song.json",
+        "abc": "songs/golliwoggs-cakewalk/song.abc",
+        "musicxml": "songs/golliwoggs-cakewalk/song.musicxml"
+      }
+    },
+    {
+      "id": "great-gate-of-kiev-theme",
+      "title": "Great Gate of Kiev (theme)",
+      "composer": "Modest Mussorgsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "mussorgsky",
+        "piano",
+        "march"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "D5"
+      },
+      "noteCount": 19,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/great-gate-of-kiev-theme/song.json",
+        "abc": "songs/great-gate-of-kiev-theme/song.abc",
+        "musicxml": "songs/great-gate-of-kiev-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "gymnopedie-no-3",
+      "title": "Gymnop\u00e9die No. 3",
+      "composer": "Erik Satie",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "satie",
+        "piano",
+        "impressionist"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/gymnopedie-no-3/song.json",
+        "abc": "songs/gymnopedie-no-3/song.abc",
+        "musicxml": "songs/gymnopedie-no-3/song.musicxml"
+      }
+    },
+    {
+      "id": "habanera-carmen",
+      "title": "Habanera (Carmen)",
+      "composer": "Georges Bizet",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "bizet",
+        "opera",
+        "habanera"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "guitar"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/habanera-carmen/song.json",
+        "abc": "songs/habanera-carmen/song.abc",
+        "musicxml": "songs/habanera-carmen/song.musicxml"
+      }
+    },
+    {
+      "id": "hallelujah-chorus-messiah",
+      "title": "Hallelujah Chorus (Messiah)",
+      "composer": "George Frideric Handel",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "handel",
+        "choral"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A5"
+      },
+      "noteCount": 74,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "trumpet",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hallelujah-chorus-messiah/song.json",
+        "abc": "songs/hallelujah-chorus-messiah/song.abc",
+        "musicxml": "songs/hallelujah-chorus-messiah/song.musicxml"
+      }
+    },
+    {
+      "id": "hebrides-overture-theme",
+      "title": "Hebrides Overture (theme)",
+      "composer": "Felix Mendelssohn",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "mendelssohn"
+      ],
+      "key": "b minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "B3",
+        "high": "D5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hebrides-overture-theme/song.json",
+        "abc": "songs/hebrides-overture-theme/song.abc",
+        "musicxml": "songs/hebrides-overture-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "heidenroslein-wild-rose",
+      "title": "Heidenr\u00f6slein / Wild Rose",
+      "composer": "Franz Schubert",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "schubert",
+        "song",
+        "folk"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/heidenroslein-wild-rose/song.json",
+        "abc": "songs/heidenroslein-wild-rose/song.abc",
+        "musicxml": "songs/heidenroslein-wild-rose/song.musicxml"
+      }
+    },
+    {
+      "id": "honeysuckle-rose",
+      "title": "Honeysuckle Rose",
+      "composer": "Fats Waller",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "stride"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/honeysuckle-rose/song.json",
+        "abc": "songs/honeysuckle-rose/song.abc",
+        "musicxml": "songs/honeysuckle-rose/song.musicxml"
+      }
+    },
+    {
+      "id": "hornpipe-water-music",
+      "title": "Hornpipe (Water Music)",
+      "composer": "George Frideric Handel",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "handel"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 66,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hornpipe-water-music/song.json",
+        "abc": "songs/hornpipe-water-music/song.abc",
+        "musicxml": "songs/hornpipe-water-music/song.musicxml"
+      }
+    },
+    {
+      "id": "humoresque-no-7",
+      "title": "Humoresque No. 7",
+      "composer": "Anton\u00edn Dvo\u0159\u00e1k",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "dvorak",
+        "piano",
+        "famous"
+      ],
+      "key": "G- major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "C#5"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/humoresque-no-7/song.json",
+        "abc": "songs/humoresque-no-7/song.abc",
+        "musicxml": "songs/humoresque-no-7/song.musicxml"
+      }
+    },
+    {
+      "id": "hungarian-dance-no-5",
+      "title": "Hungarian Dance No. 5",
+      "composer": "Johannes Brahms",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "brahms",
+        "dance",
+        "hungarian"
+      ],
+      "key": "f# minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 49,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hungarian-dance-no-5/song.json",
+        "abc": "songs/hungarian-dance-no-5/song.abc",
+        "musicxml": "songs/hungarian-dance-no-5/song.musicxml"
+      }
+    },
+    {
+      "id": "hungarian-march-rak-czi",
+      "title": "Hungarian March / R\u00e1k\u00f3czi",
+      "composer": "Hector Berlioz",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "berlioz",
+        "march",
+        "hungarian"
+      ],
+      "key": "f minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 51,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hungarian-march-rak-czi/song.json",
+        "abc": "songs/hungarian-march-rak-czi/song.abc",
+        "musicxml": "songs/hungarian-march-rak-czi/song.musicxml"
+      }
+    },
+    {
+      "id": "hungarian-rhapsody-no-2-theme",
+      "title": "Hungarian Rhapsody No. 2 (theme)",
+      "composer": "Franz Liszt",
+      "category": "classical",
+      "difficulty": 5,
+      "tags": [
+        "classical",
+        "liszt",
+        "piano",
+        "hungarian"
+      ],
+      "key": "c# minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "C#5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hungarian-rhapsody-no-2-theme/song.json",
+        "abc": "songs/hungarian-rhapsody-no-2-theme/song.abc",
+        "musicxml": "songs/hungarian-rhapsody-no-2-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "i-got-rhythm",
+      "title": "I Got Rhythm",
+      "composer": "George Gershwin",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "gershwin"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "Bb5"
+      },
+      "noteCount": 86,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-got-rhythm/song.json",
+        "abc": "songs/i-got-rhythm/song.abc",
+        "musicxml": "songs/i-got-rhythm/song.musicxml"
+      }
+    },
+    {
+      "id": "in-the-shade-of-the-old-apple-tree",
+      "title": "In the Shade of the Old Apple Tree",
+      "composer": "Egbert Van Alstyne",
+      "category": "jazz",
+      "difficulty": 3,
+      "tags": [
+        "tin-pan-alley",
+        "standard",
+        "parlour"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "ukulele"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/in-the-shade-of-the-old-apple-tree/song.json",
+        "abc": "songs/in-the-shade-of-the-old-apple-tree/song.abc",
+        "musicxml": "songs/in-the-shade-of-the-old-apple-tree/song.musicxml"
+      }
+    },
+    {
+      "id": "italian-symphony-1st-mvt-theme",
+      "title": "Italian Symphony (1st mvt theme)",
+      "composer": "Felix Mendelssohn",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "mendelssohn"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "E5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/italian-symphony-1st-mvt-theme/song.json",
+        "abc": "songs/italian-symphony-1st-mvt-theme/song.abc",
+        "musicxml": "songs/italian-symphony-1st-mvt-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "jupiter-i-vow-to-thee-theme-the-planets",
+      "title": "Jupiter / I Vow to Thee (theme, The Planets)",
+      "composer": "Gustav Holst",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "holst",
+        "orchestral",
+        "famous"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 19,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/jupiter-i-vow-to-thee-theme-the-planets/song.json",
+        "abc": "songs/jupiter-i-vow-to-thee-theme-the-planets/song.abc",
+        "musicxml": "songs/jupiter-i-vow-to-thee-theme-the-planets/song.musicxml"
+      }
+    },
+    {
+      "id": "keep-the-home-fires-burning",
+      "title": "Keep the Home Fires Burning",
+      "composer": "Ivor Novello",
+      "category": "jazz",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "wartime",
+        "tin-pan-alley"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/keep-the-home-fires-burning/song.json",
+        "abc": "songs/keep-the-home-fires-burning/song.abc",
+        "musicxml": "songs/keep-the-home-fires-burning/song.musicxml"
+      }
+    },
+    {
+      "id": "la-campanella-theme",
+      "title": "La Campanella (theme)",
+      "composer": "Franz Liszt",
+      "category": "classical",
+      "difficulty": 5,
+      "tags": [
+        "classical",
+        "liszt",
+        "piano",
+        "virtuosic"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 64,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/la-campanella-theme/song.json",
+        "abc": "songs/la-campanella-theme/song.abc",
+        "musicxml": "songs/la-campanella-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "la-donna-e-mobile",
+      "title": "La donna \u00e8 mobile",
+      "composer": "Giuseppe Verdi",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "verdi",
+        "opera",
+        "tenor"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "Bb4",
+        "high": "D5"
+      },
+      "noteCount": 19,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/la-donna-e-mobile/song.json",
+        "abc": "songs/la-donna-e-mobile/song.abc",
+        "musicxml": "songs/la-donna-e-mobile/song.musicxml"
+      }
+    },
+    {
+      "id": "la-gazza-ladra-overture-theme",
+      "title": "La gazza ladra (overture theme)",
+      "composer": "Gioachino Rossini",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "rossini",
+        "opera",
+        "overture",
+        "march"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 70,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/la-gazza-ladra-overture-theme/song.json",
+        "abc": "songs/la-gazza-ladra-overture-theme/song.abc",
+        "musicxml": "songs/la-gazza-ladra-overture-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "largo-ombra-mai-fu-xerxes",
+      "title": "Largo (Ombra mai fu) from Xerxes",
+      "composer": "George Frideric Handel",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "handel",
+        "opera"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/largo-ombra-mai-fu-xerxes/song.json",
+        "abc": "songs/largo-ombra-mai-fu-xerxes/song.abc",
+        "musicxml": "songs/largo-ombra-mai-fu-xerxes/song.musicxml"
+      }
+    },
+    {
+      "id": "liebestraum-no-3-theme",
+      "title": "Liebestraum No. 3 (theme)",
+      "composer": "Franz Liszt",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "liszt",
+        "piano",
+        "romantic"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "C#5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/liebestraum-no-3-theme/song.json",
+        "abc": "songs/liebestraum-no-3-theme/song.abc",
+        "musicxml": "songs/liebestraum-no-3-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "little-fugue-in-g-minor-theme",
+      "title": "Little Fugue in G minor (theme)",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "baroque",
+        "bach",
+        "organ"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "Eb5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/little-fugue-in-g-minor-theme/song.json",
+        "abc": "songs/little-fugue-in-g-minor-theme/song.abc",
+        "musicxml": "songs/little-fugue-in-g-minor-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "marche-militaire",
+      "title": "Marche Militaire",
+      "composer": "Franz Schubert",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "schubert",
+        "march"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 51,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/marche-militaire/song.json",
+        "abc": "songs/marche-militaire/song.abc",
+        "musicxml": "songs/marche-militaire/song.musicxml"
+      }
+    },
+    {
+      "id": "marriage-of-figaro-overture-theme",
+      "title": "Marriage of Figaro (overture theme)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "mozart",
+        "opera"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 55,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/marriage-of-figaro-overture-theme/song.json",
+        "abc": "songs/marriage-of-figaro-overture-theme/song.abc",
+        "musicxml": "songs/marriage-of-figaro-overture-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "meditation-tha-s",
+      "title": "M\u00e9ditation (Tha\u00efs)",
+      "composer": "Jules Massenet",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "massenet",
+        "opera",
+        "violin"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/meditation-tha-s/song.json",
+        "abc": "songs/meditation-tha-s/song.abc",
+        "musicxml": "songs/meditation-tha-s/song.musicxml"
+      }
+    },
+    {
+      "id": "mikrokosmos-no-1-theme",
+      "title": "Mikrokosmos No. 1 (theme)",
+      "composer": "B\u00e9la Bart\u00f3k",
+      "category": "classical",
+      "difficulty": 1,
+      "tags": [
+        "classical",
+        "bartok",
+        "piano",
+        "educational",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "G4"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/mikrokosmos-no-1-theme/song.json",
+        "abc": "songs/mikrokosmos-no-1-theme/song.abc",
+        "musicxml": "songs/mikrokosmos-no-1-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "military-polonaise-theme",
+      "title": "Military Polonaise (theme)",
+      "composer": "Fr\u00e9d\u00e9ric Chopin",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "chopin",
+        "polonaise",
+        "piano"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "C#5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/military-polonaise-theme/song.json",
+        "abc": "songs/military-polonaise-theme/song.abc",
+        "musicxml": "songs/military-polonaise-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "minuet-in-g-woo-10-no-2",
+      "title": "Minuet in G (WoO 10 No. 2)",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "beethoven",
+        "dance"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/minuet-in-g-woo-10-no-2/song.json",
+        "abc": "songs/minuet-in-g-woo-10-no-2/song.abc",
+        "musicxml": "songs/minuet-in-g-woo-10-no-2/song.musicxml"
+      }
+    },
+    {
+      "id": "minuet-string-quintet",
+      "title": "Minuet (String Quintet)",
+      "composer": "Luigi Boccherini",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "boccherini",
+        "minuet",
+        "chamber"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C#5"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/minuet-string-quintet/song.json",
+        "abc": "songs/minuet-string-quintet/song.abc",
+        "musicxml": "songs/minuet-string-quintet/song.musicxml"
+      }
+    },
+    {
+      "id": "minute-waltz",
+      "title": "Minute Waltz",
+      "composer": "Fr\u00e9d\u00e9ric Chopin",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "chopin",
+        "piano",
+        "waltz"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G#4",
+        "high": "G#5"
+      },
+      "noteCount": 75,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/minute-waltz/song.json",
+        "abc": "songs/minute-waltz/song.abc",
+        "musicxml": "songs/minute-waltz/song.musicxml"
+      }
+    },
+    {
+      "id": "moment-musical-no-3",
+      "title": "Moment Musical No. 3",
+      "composer": "Franz Schubert",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "schubert",
+        "piano"
+      ],
+      "key": "f minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 20,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/moment-musical-no-3/song.json",
+        "abc": "songs/moment-musical-no-3/song.abc",
+        "musicxml": "songs/moment-musical-no-3/song.musicxml"
+      }
+    },
+    {
+      "id": "montagues-and-capulets-romeo-and-juliet",
+      "title": "Montagues and Capulets (Romeo & Juliet)",
+      "composer": "Sergei Prokofiev",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "C5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/montagues-and-capulets-romeo-and-juliet/song.json",
+        "abc": "songs/montagues-and-capulets-romeo-and-juliet/song.abc",
+        "musicxml": "songs/montagues-and-capulets-romeo-and-juliet/song.musicxml"
+      }
+    },
+    {
+      "id": "moonlight-sonata-1st-mvt",
+      "title": "Moonlight Sonata (1st mvt)",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "beethoven",
+        "piano"
+      ],
+      "key": "c# minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "B4"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/moonlight-sonata-1st-mvt/song.json",
+        "abc": "songs/moonlight-sonata-1st-mvt/song.abc",
+        "musicxml": "songs/moonlight-sonata-1st-mvt/song.musicxml"
+      }
+    },
+    {
+      "id": "morning-mood-peer-gynt",
+      "title": "Morning Mood (Peer Gynt)",
+      "composer": "Edvard Grieg",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "grieg",
+        "orchestral",
+        "pastoral"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C#5"
+      },
+      "noteCount": 38,
+      "instrumentsSuited": [
+        "flute",
+        "recorder",
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/morning-mood-peer-gynt/song.json",
+        "abc": "songs/morning-mood-peer-gynt/song.abc",
+        "musicxml": "songs/morning-mood-peer-gynt/song.musicxml"
+      }
+    },
+    {
+      "id": "musettas-waltz-la-boheme",
+      "title": "Musetta's Waltz (La Boh\u00e8me)",
+      "composer": "Giacomo Puccini",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "puccini",
+        "opera",
+        "waltz"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/musettas-waltz-la-boheme/song.json",
+        "abc": "songs/musettas-waltz-la-boheme/song.abc",
+        "musicxml": "songs/musettas-waltz-la-boheme/song.musicxml"
+      }
+    },
+    {
+      "id": "music-for-the-royal-fireworks-la-rejouissance",
+      "title": "La R\u00e9jouissance (Royal Fireworks Music)",
+      "composer": "George Frideric Handel",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "handel"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/music-for-the-royal-fireworks-la-rejouissance/song.json",
+        "abc": "songs/music-for-the-royal-fireworks-la-rejouissance/song.abc",
+        "musicxml": "songs/music-for-the-royal-fireworks-la-rejouissance/song.musicxml"
+      }
+    },
+    {
+      "id": "nessun-dorma-theme",
+      "title": "Nessun dorma (theme)",
+      "composer": "Giacomo Puccini",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "puccini",
+        "opera",
+        "tenor",
+        "famous"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Bb4",
+        "high": "D5"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/nessun-dorma-theme/song.json",
+        "abc": "songs/nessun-dorma-theme/song.abc",
+        "musicxml": "songs/nessun-dorma-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "night-on-bald-mountain-theme",
+      "title": "Night on Bald Mountain (theme)",
+      "composer": "Modest Mussorgsky",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "mussorgsky",
+        "piano",
+        "dramatic"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "trumpet",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/night-on-bald-mountain-theme/song.json",
+        "abc": "songs/night-on-bald-mountain-theme/song.abc",
+        "musicxml": "songs/night-on-bald-mountain-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "nimrod-enigma-variations",
+      "title": "Nimrod (Enigma Variations)",
+      "composer": "Edward Elgar",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "elgar",
+        "orchestral",
+        "english"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "D5"
+      },
+      "noteCount": 20,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/nimrod-enigma-variations/song.json",
+        "abc": "songs/nimrod-enigma-variations/song.abc",
+        "musicxml": "songs/nimrod-enigma-variations/song.musicxml"
+      }
+    },
+    {
+      "id": "nocturne-op-9-no-2",
+      "title": "Nocturne Op. 9 No. 2",
+      "composer": "Fr\u00e9d\u00e9ric Chopin",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "chopin",
+        "piano",
+        "nocturne"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        12,
+        8
+      ],
+      "noteRange": {
+        "low": "Bb4",
+        "high": "Eb5"
+      },
+      "noteCount": 20,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/nocturne-op-9-no-2/song.json",
+        "abc": "songs/nocturne-op-9-no-2/song.abc",
+        "musicxml": "songs/nocturne-op-9-no-2/song.musicxml"
+      }
+    },
+    {
+      "id": "nutcracker-march",
+      "title": "Nutcracker March",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "tchaikovsky",
+        "ballet",
+        "march"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/nutcracker-march/song.json",
+        "abc": "songs/nutcracker-march/song.abc",
+        "musicxml": "songs/nutcracker-march/song.musicxml"
+      }
+    },
+    {
+      "id": "o-mio-babbino-caro",
+      "title": "O mio babbino caro",
+      "composer": "Giacomo Puccini",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "puccini",
+        "opera",
+        "aria",
+        "soprano"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "C#5"
+      },
+      "noteCount": 52,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/o-mio-babbino-caro/song.json",
+        "abc": "songs/o-mio-babbino-caro/song.abc",
+        "musicxml": "songs/o-mio-babbino-caro/song.musicxml"
+      }
+    },
+    {
+      "id": "on-wings-of-song",
+      "title": "On Wings of Song",
+      "composer": "Felix Mendelssohn",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "mendelssohn",
+        "song"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "Bb4",
+        "high": "Eb5"
+      },
+      "noteCount": 19,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/on-wings-of-song/song.json",
+        "abc": "songs/on-wings-of-song/song.abc",
+        "musicxml": "songs/on-wings-of-song/song.musicxml"
+      }
+    },
+    {
+      "id": "organ-symphony-finale-theme",
+      "title": "Organ Symphony (finale theme)",
+      "composer": "Camille Saint-Sa\u00ebns",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "saint-saens",
+        "symphony",
+        "organ"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/organ-symphony-finale-theme/song.json",
+        "abc": "songs/organ-symphony-finale-theme/song.abc",
+        "musicxml": "songs/organ-symphony-finale-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "pack-up-your-troubles-in-your-old-kit-bag",
+      "title": "Pack Up Your Troubles in Your Old Kit-Bag",
+      "composer": "Felix Powell",
+      "category": "jazz",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "wartime",
+        "march"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 61,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "ukulele"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pack-up-your-troubles-in-your-old-kit-bag/song.json",
+        "abc": "songs/pack-up-your-troubles-in-your-old-kit-bag/song.abc",
+        "musicxml": "songs/pack-up-your-troubles-in-your-old-kit-bag/song.musicxml"
+      }
+    },
+    {
+      "id": "pathetique-sonata-2nd-mvt-adagio-cantabile",
+      "title": "Path\u00e9tique Sonata (2nd mvt Adagio cantabile)",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "beethoven",
+        "piano"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pathetique-sonata-2nd-mvt-adagio-cantabile/song.json",
+        "abc": "songs/pathetique-sonata-2nd-mvt-adagio-cantabile/song.abc",
+        "musicxml": "songs/pathetique-sonata-2nd-mvt-adagio-cantabile/song.musicxml"
+      }
+    },
+    {
+      "id": "pavane-faure",
+      "title": "Pavane",
+      "composer": "Gabriel Faur\u00e9",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "faure",
+        "orchestral",
+        "french"
+      ],
+      "key": "f# minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "C#5"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard",
+        "flute",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pavane-faure/song.json",
+        "abc": "songs/pavane-faure/song.abc",
+        "musicxml": "songs/pavane-faure/song.musicxml"
+      }
+    },
+    {
+      "id": "pavane-pour-une-infante-defunte",
+      "title": "Pavane pour une infante d\u00e9funte",
+      "composer": "Maurice Ravel",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "ravel",
+        "piano",
+        "impressionist"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "flute",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pavane-pour-une-infante-defunte/song.json",
+        "abc": "songs/pavane-pour-une-infante-defunte/song.abc",
+        "musicxml": "songs/pavane-pour-une-infante-defunte/song.musicxml"
+      }
+    },
+    {
+      "id": "pavane-theme",
+      "title": "Pavane (theme)",
+      "composer": "Gabriel Faur\u00e9",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "faure",
+        "orchestral",
+        "french"
+      ],
+      "key": "f# minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "C#5"
+      },
+      "noteCount": 54,
+      "instrumentsSuited": [
+        "keyboard",
+        "flute",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pavane-theme/song.json",
+        "abc": "songs/pavane-theme/song.abc",
+        "musicxml": "songs/pavane-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "piano-concerto-in-a-minor-opening",
+      "title": "Piano Concerto in A minor (opening)",
+      "composer": "Edvard Grieg",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "grieg",
+        "concerto",
+        "piano"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/piano-concerto-in-a-minor-opening/song.json",
+        "abc": "songs/piano-concerto-in-a-minor-opening/song.abc",
+        "musicxml": "songs/piano-concerto-in-a-minor-opening/song.musicxml"
+      }
+    },
+    {
+      "id": "piano-concerto-no-1-opening-theme",
+      "title": "Piano Concerto No. 1 (opening theme)",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "tchaikovsky",
+        "concerto",
+        "piano"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C#5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "trumpet",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/piano-concerto-no-1-opening-theme/song.json",
+        "abc": "songs/piano-concerto-no-1-opening-theme/song.abc",
+        "musicxml": "songs/piano-concerto-no-1-opening-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "piano-concerto-no-2-theme",
+      "title": "Piano Concerto No. 2 (theme)",
+      "composer": "Sergei Rachmaninoff",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "rachmaninoff",
+        "concerto",
+        "romantic"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "D5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/piano-concerto-no-2-theme/song.json",
+        "abc": "songs/piano-concerto-no-2-theme/song.abc",
+        "musicxml": "songs/piano-concerto-no-2-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "piano-concerto-no-21-elvira-madigan-andante",
+      "title": "Piano Concerto No. 21 'Elvira Madigan' (Andante)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "mozart",
+        "piano"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/piano-concerto-no-21-elvira-madigan-andante/song.json",
+        "abc": "songs/piano-concerto-no-21-elvira-madigan-andante/song.abc",
+        "musicxml": "songs/piano-concerto-no-21-elvira-madigan-andante/song.musicxml"
+      }
+    },
+    {
+      "id": "piano-sonata-no-16-in-c-k545-1st-mvt-theme",
+      "title": "Piano Sonata No. 16 in C K545 (1st mvt theme)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "mozart",
+        "piano"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 99,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/piano-sonata-no-16-in-c-k545-1st-mvt-theme/song.json",
+        "abc": "songs/piano-sonata-no-16-in-c-k545-1st-mvt-theme/song.abc",
+        "musicxml": "songs/piano-sonata-no-16-in-c-k545-1st-mvt-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "pilgrims-chorus-tannhauser",
+      "title": "Pilgrims' Chorus (Tannh\u00e4user)",
+      "composer": "Richard Wagner",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "wagner",
+        "opera",
+        "chorus"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "B4"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pilgrims-chorus-tannhauser/song.json",
+        "abc": "songs/pilgrims-chorus-tannhauser/song.abc",
+        "musicxml": "songs/pilgrims-chorus-tannhauser/song.musicxml"
+      }
+    },
+    {
+      "id": "pizzicato-sylvia",
+      "title": "Pizzicato (Sylvia)",
+      "composer": "L\u00e9o Delibes",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "delibes",
+        "ballet",
+        "pizzicato"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 49,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pizzicato-sylvia/song.json",
+        "abc": "songs/pizzicato-sylvia/song.abc",
+        "musicxml": "songs/pizzicato-sylvia/song.musicxml"
+      }
+    },
+    {
+      "id": "polovtsian-dances-stranger-in-paradise-theme",
+      "title": "Polovtsian Dances / Stranger in Paradise (theme)",
+      "composer": "Alexander Borodin",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "borodin",
+        "opera",
+        "dance"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C#5"
+      },
+      "noteCount": 54,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/polovtsian-dances-stranger-in-paradise-theme/song.json",
+        "abc": "songs/polovtsian-dances-stranger-in-paradise-theme/song.abc",
+        "musicxml": "songs/polovtsian-dances-stranger-in-paradise-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "pomp-and-circumstance-march-no-1",
+      "title": "Pomp and Circumstance March No. 1",
+      "composer": "Edward Elgar",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "elgar",
+        "march",
+        "graduation"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pomp-and-circumstance-march-no-1/song.json",
+        "abc": "songs/pomp-and-circumstance-march-no-1/song.abc",
+        "musicxml": "songs/pomp-and-circumstance-march-no-1/song.musicxml"
+      }
+    },
+    {
+      "id": "prelude-lapres-midi-dun-faune-theme",
+      "title": "Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune (theme)",
+      "composer": "Claude Debussy",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "debussy",
+        "orchestral",
+        "impressionist"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        12,
+        8
+      ],
+      "noteRange": {
+        "low": "G#4",
+        "high": "C#5"
+      },
+      "noteCount": 19,
+      "instrumentsSuited": [
+        "flute",
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/prelude-lapres-midi-dun-faune-theme/song.json",
+        "abc": "songs/prelude-lapres-midi-dun-faune-theme/song.abc",
+        "musicxml": "songs/prelude-lapres-midi-dun-faune-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "prelude-op-28-no-20-in-c-minor",
+      "title": "Prelude Op. 28 No. 20 in C minor",
+      "composer": "Fr\u00e9d\u00e9ric Chopin",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "chopin",
+        "piano"
+      ],
+      "key": "c minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "C5"
+      },
+      "noteCount": 13,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/prelude-op-28-no-20-in-c-minor/song.json",
+        "abc": "songs/prelude-op-28-no-20-in-c-minor/song.abc",
+        "musicxml": "songs/prelude-op-28-no-20-in-c-minor/song.musicxml"
+      }
+    },
+    {
+      "id": "pretty-baby",
+      "title": "Pretty Baby",
+      "composer": "Egbert Van Alstyne",
+      "category": "jazz",
+      "difficulty": 3,
+      "tags": [
+        "jazz",
+        "standard",
+        "tin-pan-alley"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 52,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "ukulele"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pretty-baby/song.json",
+        "abc": "songs/pretty-baby/song.abc",
+        "musicxml": "songs/pretty-baby/song.musicxml"
+      }
+    },
+    {
+      "id": "promenade-pictures-at-an-exhibition",
+      "title": "Promenade (Pictures at an Exhibition)",
+      "composer": "Modest Mussorgsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "mussorgsky",
+        "piano"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        5,
+        4
+      ],
+      "noteRange": {
+        "low": "Bb4",
+        "high": "F5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/promenade-pictures-at-an-exhibition/song.json",
+        "abc": "songs/promenade-pictures-at-an-exhibition/song.abc",
+        "musicxml": "songs/promenade-pictures-at-an-exhibition/song.musicxml"
+      }
+    },
+    {
+      "id": "queen-of-the-night-aria-theme",
+      "title": "Queen of the Night aria (theme)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "mozart",
+        "opera",
+        "soprano"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "F6"
+      },
+      "noteCount": 76,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/queen-of-the-night-aria-theme/song.json",
+        "abc": "songs/queen-of-the-night-aria-theme/song.abc",
+        "musicxml": "songs/queen-of-the-night-aria-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "r-verie",
+      "title": "R\u00eaverie",
+      "composer": "Claude Debussy",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "debussy",
+        "piano",
+        "impressionist"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/r-verie/song.json",
+        "abc": "songs/r-verie/song.abc",
+        "musicxml": "songs/r-verie/song.musicxml"
+      }
+    },
+    {
+      "id": "radetzky-march",
+      "title": "Radetzky March",
+      "composer": "Johann Strauss I",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "strauss",
+        "march"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 43,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/radetzky-march/song.json",
+        "abc": "songs/radetzky-march/song.abc",
+        "musicxml": "songs/radetzky-march/song.musicxml"
+      }
+    },
+    {
+      "id": "raindrop-prelude-theme",
+      "title": "Raindrop Prelude (theme)",
+      "composer": "Fr\u00e9d\u00e9ric Chopin",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "chopin",
+        "piano"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "C#5"
+      },
+      "noteCount": 19,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/raindrop-prelude-theme/song.json",
+        "abc": "songs/raindrop-prelude-theme/song.abc",
+        "musicxml": "songs/raindrop-prelude-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "ride-of-the-valkyries",
+      "title": "Ride of the Valkyries",
+      "composer": "Richard Wagner",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "wagner",
+        "opera",
+        "march"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        9,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 66,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ride-of-the-valkyries/song.json",
+        "abc": "songs/ride-of-the-valkyries/song.abc",
+        "musicxml": "songs/ride-of-the-valkyries/song.musicxml"
+      }
+    },
+    {
+      "id": "romanian-folk-dance-no-2",
+      "title": "Romanian Folk Dance No. 2",
+      "composer": "B\u00e9la Bart\u00f3k",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "bartok",
+        "folk",
+        "dance",
+        "romanian"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 47,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/romanian-folk-dance-no-2/song.json",
+        "abc": "songs/romanian-folk-dance-no-2/song.abc",
+        "musicxml": "songs/romanian-folk-dance-no-2/song.musicxml"
+      }
+    },
+    {
+      "id": "romeo-and-juliet-love-theme",
+      "title": "Romeo and Juliet (love theme)",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "tchaikovsky",
+        "romantic"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G#4",
+        "high": "C#5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/romeo-and-juliet-love-theme/song.json",
+        "abc": "songs/romeo-and-juliet-love-theme/song.abc",
+        "musicxml": "songs/romeo-and-juliet-love-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "royal-march-of-the-lion",
+      "title": "Royal March of the Lion",
+      "composer": "Camille Saint-Sa\u00ebns",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "saint-saens",
+        "march",
+        "piano"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 49,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/royal-march-of-the-lion/song.json",
+        "abc": "songs/royal-march-of-the-lion/song.abc",
+        "musicxml": "songs/royal-march-of-the-lion/song.musicxml"
+      }
+    },
+    {
+      "id": "salut-damour",
+      "title": "Salut d'Amour",
+      "composer": "Edward Elgar",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "elgar",
+        "violin",
+        "romantic"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C#5"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/salut-damour/song.json",
+        "abc": "songs/salut-damour/song.abc",
+        "musicxml": "songs/salut-damour/song.musicxml"
+      }
+    },
+    {
+      "id": "sarabande-in-d-minor",
+      "title": "Sarabande in D minor",
+      "composer": "George Frideric Handel",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "baroque",
+        "handel"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "Bb4"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sarabande-in-d-minor/song.json",
+        "abc": "songs/sarabande-in-d-minor/song.abc",
+        "musicxml": "songs/sarabande-in-d-minor/song.musicxml"
+      }
+    },
+    {
+      "id": "scheherazade-theme",
+      "title": "Scheherazade (theme)",
+      "composer": "Nikolai Rimsky-Korsakov",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "rimsky-korsakov",
+        "orchestral",
+        "exotic"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "Eb5"
+      },
+      "noteCount": 51,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/scheherazade-theme/song.json",
+        "abc": "songs/scheherazade-theme/song.abc",
+        "musicxml": "songs/scheherazade-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "serenade-standchen",
+      "title": "Serenade / St\u00e4ndchen",
+      "composer": "Franz Schubert",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "schubert",
+        "song"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "Bb4"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "guitar",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/serenade-standchen/song.json",
+        "abc": "songs/serenade-standchen/song.abc",
+        "musicxml": "songs/serenade-standchen/song.musicxml"
+      }
+    },
+    {
+      "id": "sheep-may-safely-graze",
+      "title": "Sheep May Safely Graze",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "bach"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sheep-may-safely-graze/song.json",
+        "abc": "songs/sheep-may-safely-graze/song.abc",
+        "musicxml": "songs/sheep-may-safely-graze/song.musicxml"
+      }
+    },
+    {
+      "id": "sicilienne",
+      "title": "Sicilienne",
+      "composer": "Gabriel Faur\u00e9",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "faure",
+        "cello",
+        "romantic"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard",
+        "cello",
+        "violin",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sicilienne/song.json",
+        "abc": "songs/sicilienne/song.abc",
+        "musicxml": "songs/sicilienne/song.musicxml"
+      }
+    },
+    {
+      "id": "slavonic-dance-no-8-theme",
+      "title": "Slavonic Dance No. 8 (theme)",
+      "composer": "Anton\u00edn Dvo\u0159\u00e1k",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "dvorak",
+        "dance",
+        "slavonic"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/slavonic-dance-no-8-theme/song.json",
+        "abc": "songs/slavonic-dance-no-8-theme/song.abc",
+        "musicxml": "songs/slavonic-dance-no-8-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "solveigs-song",
+      "title": "Solveig's Song",
+      "composer": "Edvard Grieg",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "grieg",
+        "song",
+        "romantic"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/solveigs-song/song.json",
+        "abc": "songs/solveigs-song/song.abc",
+        "musicxml": "songs/solveigs-song/song.musicxml"
+      }
+    },
+    {
+      "id": "somebody-loves-me",
+      "title": "Somebody Loves Me",
+      "composer": "George Gershwin",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "gershwin"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 68,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/somebody-loves-me/song.json",
+        "abc": "songs/somebody-loves-me/song.abc",
+        "musicxml": "songs/somebody-loves-me/song.musicxml"
+      }
+    },
+    {
+      "id": "someone-to-watch-over-me",
+      "title": "Someone to Watch Over Me",
+      "composer": "George Gershwin",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "gershwin"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/someone-to-watch-over-me/song.json",
+        "abc": "songs/someone-to-watch-over-me/song.abc",
+        "musicxml": "songs/someone-to-watch-over-me/song.musicxml"
+      }
+    },
+    {
+      "id": "song-of-india",
+      "title": "Song of India",
+      "composer": "Nikolai Rimsky-Korsakov",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "rimsky-korsakov",
+        "opera",
+        "exotic"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/song-of-india/song.json",
+        "abc": "songs/song-of-india/song.abc",
+        "musicxml": "songs/song-of-india/song.musicxml"
+      }
+    },
+    {
+      "id": "song-to-the-moon-rusalka",
+      "title": "Song to the Moon (Rusalka)",
+      "composer": "Anton\u00edn Dvo\u0159\u00e1k",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "dvorak",
+        "opera",
+        "aria"
+      ],
+      "key": "D- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G#4",
+        "high": "C#5"
+      },
+      "noteCount": 18,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/song-to-the-moon-rusalka/song.json",
+        "abc": "songs/song-to-the-moon-rusalka/song.abc",
+        "musicxml": "songs/song-to-the-moon-rusalka/song.musicxml"
+      }
+    },
+    {
+      "id": "spring-song-songs-without-words",
+      "title": "Spring Song (Songs Without Words)",
+      "composer": "Felix Mendelssohn",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "mendelssohn",
+        "piano"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 63,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/spring-song-songs-without-words/song.json",
+        "abc": "songs/spring-song-songs-without-words/song.abc",
+        "musicxml": "songs/spring-song-songs-without-words/song.musicxml"
+      }
+    },
+    {
+      "id": "summer-storm-theme",
+      "title": "Summer / Storm (theme, The Four Seasons)",
+      "composer": "Antonio Vivaldi",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "baroque",
+        "vivaldi"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G5"
+      },
+      "noteCount": 87,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/summer-storm-theme/song.json",
+        "abc": "songs/summer-storm-theme/song.abc",
+        "musicxml": "songs/summer-storm-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "swan-theme-reprise",
+      "title": "Swan Theme reprise",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "tchaikovsky",
+        "ballet",
+        "swan-lake"
+      ],
+      "key": "b minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "D5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "oboe",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/swan-theme-reprise/song.json",
+        "abc": "songs/swan-theme-reprise/song.abc",
+        "musicxml": "songs/swan-theme-reprise/song.musicxml"
+      }
+    },
+    {
+      "id": "sweet-adeline",
+      "title": "Sweet Adeline (My Adeline)",
+      "composer": "Henry W. Armstrong",
+      "category": "jazz",
+      "difficulty": 3,
+      "tags": [
+        "jazz",
+        "standard",
+        "barbershop",
+        "tin-pan-alley"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "ukulele"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sweet-adeline/song.json",
+        "abc": "songs/sweet-adeline/song.abc",
+        "musicxml": "songs/sweet-adeline/song.musicxml"
+      }
+    },
+    {
+      "id": "symphonie-fantastique-idee-fixe",
+      "title": "Symphonie Fantastique (id\u00e9e fixe)",
+      "composer": "Hector Berlioz",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "berlioz",
+        "romantic"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphonie-fantastique-idee-fixe/song.json",
+        "abc": "songs/symphonie-fantastique-idee-fixe/song.abc",
+        "musicxml": "songs/symphonie-fantastique-idee-fixe/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-1-finale-theme",
+      "title": "Symphony No. 1 (finale theme)",
+      "composer": "Johannes Brahms",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "brahms",
+        "symphony",
+        "famous"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "trumpet",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-1-finale-theme/song.json",
+        "abc": "songs/symphony-no-1-finale-theme/song.abc",
+        "musicxml": "songs/symphony-no-1-finale-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-101-the-clock-theme",
+      "title": "Symphony No. 101 'The Clock' (theme)",
+      "composer": "Joseph Haydn",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "haydn"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 42,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-101-the-clock-theme/song.json",
+        "abc": "songs/symphony-no-101-the-clock-theme/song.abc",
+        "musicxml": "songs/symphony-no-101-the-clock-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-104-london-theme",
+      "title": "Symphony No. 104 'London' (theme)",
+      "composer": "Joseph Haydn",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "haydn"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-104-london-theme/song.json",
+        "abc": "songs/symphony-no-104-london-theme/song.abc",
+        "musicxml": "songs/symphony-no-104-london-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-3-3rd-mvt-poco-allegretto",
+      "title": "Symphony No. 3 (3rd mvt Poco allegretto)",
+      "composer": "Johannes Brahms",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "brahms",
+        "symphony",
+        "romantic"
+      ],
+      "key": "c minor",
+      "timeSignature": [
+        3,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 37,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "cello"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-3-3rd-mvt-poco-allegretto/song.json",
+        "abc": "songs/symphony-no-3-3rd-mvt-poco-allegretto/song.abc",
+        "musicxml": "songs/symphony-no-3-3rd-mvt-poco-allegretto/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-40-in-g-minor-1st-mvt-theme",
+      "title": "Symphony No. 40 in G minor (1st mvt theme)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "mozart"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "Eb5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-40-in-g-minor-1st-mvt-theme/song.json",
+        "abc": "songs/symphony-no-40-in-g-minor-1st-mvt-theme/song.abc",
+        "musicxml": "songs/symphony-no-40-in-g-minor-1st-mvt-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-41-jupiter-finale-theme",
+      "title": "Symphony No. 41 'Jupiter' (finale theme)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "mozart"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 54,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-41-jupiter-finale-theme/song.json",
+        "abc": "songs/symphony-no-41-jupiter-finale-theme/song.abc",
+        "musicxml": "songs/symphony-no-41-jupiter-finale-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-6-pastoral-1st-mvt-theme",
+      "title": "Symphony No. 6 'Pastoral' (1st mvt theme)",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "beethoven"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-6-pastoral-1st-mvt-theme/song.json",
+        "abc": "songs/symphony-no-6-pastoral-1st-mvt-theme/song.abc",
+        "musicxml": "songs/symphony-no-6-pastoral-1st-mvt-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-6-pathetique-theme",
+      "title": "Symphony No. 6 'Path\u00e9tique' (theme)",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "tchaikovsky",
+        "symphony",
+        "romantic"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-6-pathetique-theme/song.json",
+        "abc": "songs/symphony-no-6-pathetique-theme/song.abc",
+        "musicxml": "songs/symphony-no-6-pathetique-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-7-2nd-mvt-allegretto",
+      "title": "Symphony No. 7 (2nd mvt Allegretto)",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "beethoven"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "A4"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-7-2nd-mvt-allegretto/song.json",
+        "abc": "songs/symphony-no-7-2nd-mvt-allegretto/song.abc",
+        "musicxml": "songs/symphony-no-7-2nd-mvt-allegretto/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-8-unfinished-theme",
+      "title": "Symphony No. 8 'Unfinished' (theme)",
+      "composer": "Franz Schubert",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "schubert"
+      ],
+      "key": "b minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "B4"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-8-unfinished-theme/song.json",
+        "abc": "songs/symphony-no-8-unfinished-theme/song.abc",
+        "musicxml": "songs/symphony-no-8-unfinished-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "symphony-no-9-new-world-4th-mvt-theme",
+      "title": "Symphony No. 9 'New World' (4th mvt theme)",
+      "composer": "Anton\u00edn Dvo\u0159\u00e1k",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "dvorak",
+        "symphony",
+        "famous"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/symphony-no-9-new-world-4th-mvt-theme/song.json",
+        "abc": "songs/symphony-no-9-new-world-4th-mvt-theme/song.abc",
+        "musicxml": "songs/symphony-no-9-new-world-4th-mvt-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "tafelmusik-trio-theme",
+      "title": "Tafelmusik (Trio theme)",
+      "composer": "Georg Philipp Telemann",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "telemann"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 38,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/tafelmusik-trio-theme/song.json",
+        "abc": "songs/tafelmusik-trio-theme/song.abc",
+        "musicxml": "songs/tafelmusik-trio-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "tales-from-the-vienna-woods",
+      "title": "Tales from the Vienna Woods",
+      "composer": "Johann Strauss II",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "strauss",
+        "waltz"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 39,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "zither"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/tales-from-the-vienna-woods/song.json",
+        "abc": "songs/tales-from-the-vienna-woods/song.abc",
+        "musicxml": "songs/tales-from-the-vienna-woods/song.musicxml"
+      }
+    },
+    {
+      "id": "tea-for-two",
+      "title": "Tea for Two",
+      "composer": "Vincent Youmans",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "tin-pan-alley"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 97,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/tea-for-two/song.json",
+        "abc": "songs/tea-for-two/song.abc",
+        "musicxml": "songs/tea-for-two/song.musicxml"
+      }
+    },
+    {
+      "id": "the-blue-danube",
+      "title": "The Blue Danube",
+      "composer": "Johann Strauss II",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "strauss",
+        "waltz"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 43,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-blue-danube/song.json",
+        "abc": "songs/the-blue-danube/song.abc",
+        "musicxml": "songs/the-blue-danube/song.musicxml"
+      }
+    },
+    {
+      "id": "the-elephant",
+      "title": "The Elephant",
+      "composer": "Camille Saint-Sa\u00ebns",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "saint-saens",
+        "piano",
+        "humorous"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Bb4"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-elephant/song.json",
+        "abc": "songs/the-elephant/song.abc",
+        "musicxml": "songs/the-elephant/song.musicxml"
+      }
+    },
+    {
+      "id": "the-girl-with-the-flaxen-hair",
+      "title": "The Girl with the Flaxen Hair",
+      "composer": "Claude Debussy",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "debussy",
+        "piano",
+        "impressionist"
+      ],
+      "key": "G- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "C#5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "flute",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-girl-with-the-flaxen-hair/song.json",
+        "abc": "songs/the-girl-with-the-flaxen-hair/song.abc",
+        "musicxml": "songs/the-girl-with-the-flaxen-hair/song.musicxml"
+      }
+    },
+    {
+      "id": "the-happy-farmer",
+      "title": "The Happy Farmer",
+      "composer": "Robert Schumann",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "schumann",
+        "piano",
+        "teaching"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-happy-farmer/song.json",
+        "abc": "songs/the-happy-farmer/song.abc",
+        "musicxml": "songs/the-happy-farmer/song.musicxml"
+      }
+    },
+    {
+      "id": "the-japanese-sandman",
+      "title": "The Japanese Sandman",
+      "composer": "Richard A. Whiting",
+      "category": "jazz",
+      "difficulty": 3,
+      "tags": [
+        "jazz",
+        "standard",
+        "tin-pan-alley"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 75,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-japanese-sandman/song.json",
+        "abc": "songs/the-japanese-sandman/song.abc",
+        "musicxml": "songs/the-japanese-sandman/song.musicxml"
+      }
+    },
+    {
+      "id": "the-swan-carnival-of-animals",
+      "title": "The Swan (Carnival of Animals)",
+      "composer": "Camille Saint-Sa\u00ebns",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "saint-saens",
+        "cello",
+        "famous"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "cello",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-swan-carnival-of-animals/song.json",
+        "abc": "songs/the-swan-carnival-of-animals/song.abc",
+        "musicxml": "songs/the-swan-carnival-of-animals/song.musicxml"
+      }
+    },
+    {
+      "id": "the-trout-die-forelle",
+      "title": "The Trout / Die Forelle",
+      "composer": "Franz Schubert",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "schubert",
+        "song"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A4"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-trout-die-forelle/song.json",
+        "abc": "songs/the-trout-die-forelle/song.abc",
+        "musicxml": "songs/the-trout-die-forelle/song.musicxml"
+      }
+    },
+    {
+      "id": "the-wild-horseman",
+      "title": "The Wild Horseman",
+      "composer": "Robert Schumann",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "schumann",
+        "piano",
+        "teaching"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C5"
+      },
+      "noteCount": 58,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-wild-horseman/song.json",
+        "abc": "songs/the-wild-horseman/song.abc",
+        "musicxml": "songs/the-wild-horseman/song.musicxml"
+      }
+    },
+    {
+      "id": "tip-toe-through-the-tulips",
+      "title": "Tip-Toe Thru' the Tulips with Me",
+      "composer": "Joe Burke",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "tin-pan-alley"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "ukulele",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/tip-toe-through-the-tulips/song.json",
+        "abc": "songs/tip-toe-through-the-tulips/song.abc",
+        "musicxml": "songs/tip-toe-through-the-tulips/song.musicxml"
+      }
+    },
+    {
+      "id": "toccata-and-fugue-in-d-minor-opening",
+      "title": "Toccata and Fugue in D minor (opening theme)",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "bach",
+        "organ"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "Bb5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/toccata-and-fugue-in-d-minor-opening/song.json",
+        "abc": "songs/toccata-and-fugue-in-d-minor-opening/song.abc",
+        "musicxml": "songs/toccata-and-fugue-in-d-minor-opening/song.musicxml"
+      }
+    },
+    {
+      "id": "toreador-song-carmen",
+      "title": "Toreador Song (Carmen)",
+      "composer": "Georges Bizet",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "bizet",
+        "opera",
+        "march"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/toreador-song-carmen/song.json",
+        "abc": "songs/toreador-song-carmen/song.abc",
+        "musicxml": "songs/toreador-song-carmen/song.musicxml"
+      }
+    },
+    {
+      "id": "traumerei-kinderszenen",
+      "title": "Tr\u00e4umerei (Kinderszenen)",
+      "composer": "Robert Schumann",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "schumann",
+        "piano"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 20,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/traumerei-kinderszenen/song.json",
+        "abc": "songs/traumerei-kinderszenen/song.abc",
+        "musicxml": "songs/traumerei-kinderszenen/song.musicxml"
+      }
+    },
+    {
+      "id": "tritsch-tratsch-polka",
+      "title": "Tritsch-Tratsch-Polka",
+      "composer": "Johann Strauss II",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "strauss",
+        "polka"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 55,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/tritsch-tratsch-polka/song.json",
+        "abc": "songs/tritsch-tratsch-polka/song.abc",
+        "musicxml": "songs/tritsch-tratsch-polka/song.musicxml"
+      }
+    },
+    {
+      "id": "triumphal-march-aida",
+      "title": "Triumphal March (Aida)",
+      "composer": "Giuseppe Verdi",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "verdi",
+        "opera",
+        "march"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/triumphal-march-aida/song.json",
+        "abc": "songs/triumphal-march-aida/song.abc",
+        "musicxml": "songs/triumphal-march-aida/song.musicxml"
+      }
+    },
+    {
+      "id": "trumpet-concerto-3rd-mvt-theme",
+      "title": "Trumpet Concerto (3rd mvt theme)",
+      "composer": "Joseph Haydn",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "haydn",
+        "trumpet"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "Eb5"
+      },
+      "noteCount": 47,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/trumpet-concerto-3rd-mvt-theme/song.json",
+        "abc": "songs/trumpet-concerto-3rd-mvt-theme/song.abc",
+        "musicxml": "songs/trumpet-concerto-3rd-mvt-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "turkish-march-alternate-rondo-theme",
+      "title": "Turkish March alternate / Rondo (theme)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "mozart",
+        "piano"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "E5"
+      },
+      "noteCount": 54,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/turkish-march-alternate-rondo-theme/song.json",
+        "abc": "songs/turkish-march-alternate-rondo-theme/song.abc",
+        "musicxml": "songs/turkish-march-alternate-rondo-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "turkish-march-ruins-of-athens",
+      "title": "Turkish March (Ruins of Athens)",
+      "composer": "Ludwig van Beethoven",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "beethoven",
+        "march"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "Bb4"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/turkish-march-ruins-of-athens/song.json",
+        "abc": "songs/turkish-march-ruins-of-athens/song.abc",
+        "musicxml": "songs/turkish-march-ruins-of-athens/song.musicxml"
+      }
+    },
+    {
+      "id": "un-bel-d-madama-butterfly",
+      "title": "Un bel d\u00ec (Madama Butterfly)",
+      "composer": "Giacomo Puccini",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "puccini",
+        "opera",
+        "soprano"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "flute",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/un-bel-d-madama-butterfly/song.json",
+        "abc": "songs/un-bel-d-madama-butterfly/song.abc",
+        "musicxml": "songs/un-bel-d-madama-butterfly/song.musicxml"
+      }
+    },
+    {
+      "id": "va-pensiero-chorus-of-hebrew-slaves",
+      "title": "Va pensiero (Chorus of Hebrew Slaves)",
+      "composer": "Giuseppe Verdi",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "verdi",
+        "opera",
+        "chorus"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/va-pensiero-chorus-of-hebrew-slaves/song.json",
+        "abc": "songs/va-pensiero-chorus-of-hebrew-slaves/song.abc",
+        "musicxml": "songs/va-pensiero-chorus-of-hebrew-slaves/song.musicxml"
+      }
+    },
+    {
+      "id": "viola-concerto-in-g-1st-mvt-theme",
+      "title": "Viola Concerto in G (1st mvt theme)",
+      "composer": "Georg Philipp Telemann",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "telemann"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "D5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "viola",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/viola-concerto-in-g-1st-mvt-theme/song.json",
+        "abc": "songs/viola-concerto-in-g-1st-mvt-theme/song.abc",
+        "musicxml": "songs/viola-concerto-in-g-1st-mvt-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "violin-concerto-in-e-minor-theme",
+      "title": "Violin Concerto in E minor (theme)",
+      "composer": "Felix Mendelssohn",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "mendelssohn",
+        "violin"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 19,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/violin-concerto-in-e-minor-theme/song.json",
+        "abc": "songs/violin-concerto-in-e-minor-theme/song.abc",
+        "musicxml": "songs/violin-concerto-in-e-minor-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "wachet-auf-sleepers-awake",
+      "title": "Sleepers Awake (Wachet auf)",
+      "composer": "Johann Sebastian Bach",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "bach",
+        "chorale"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/wachet-auf-sleepers-awake/song.json",
+        "abc": "songs/wachet-auf-sleepers-awake/song.abc",
+        "musicxml": "songs/wachet-auf-sleepers-awake/song.musicxml"
+      }
+    },
+    {
+      "id": "waltz-in-a-flat-op-39-no-15",
+      "title": "Waltz in A-flat Op. 39 No. 15",
+      "composer": "Johannes Brahms",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "brahms",
+        "waltz",
+        "piano"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 21,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/waltz-in-a-flat-op-39-no-15/song.json",
+        "abc": "songs/waltz-in-a-flat-op-39-no-15/song.abc",
+        "musicxml": "songs/waltz-in-a-flat-op-39-no-15/song.musicxml"
+      }
+    },
+    {
+      "id": "waltz-in-a-minor-b-150",
+      "title": "Waltz in A minor B. 150",
+      "composer": "Fr\u00e9d\u00e9ric Chopin",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "chopin",
+        "piano",
+        "waltz"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "E5"
+      },
+      "noteCount": 35,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/waltz-in-a-minor-b-150/song.json",
+        "abc": "songs/waltz-in-a-minor-b-150/song.abc",
+        "musicxml": "songs/waltz-in-a-minor-b-150/song.musicxml"
+      }
+    },
+    {
+      "id": "waltz-of-the-flowers-theme",
+      "title": "Waltz of the Flowers (theme)",
+      "composer": "Pyotr Ilyich Tchaikovsky",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "tchaikovsky",
+        "ballet",
+        "waltz"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 18,
+      "instrumentsSuited": [
+        "keyboard",
+        "flute",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/waltz-of-the-flowers-theme/song.json",
+        "abc": "songs/waltz-of-the-flowers-theme/song.abc",
+        "musicxml": "songs/waltz-of-the-flowers-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "wedding-march-a-midsummer-nights-dream",
+      "title": "Wedding March (A Midsummer Night's Dream)",
+      "composer": "Felix Mendelssohn",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "mendelssohn",
+        "march",
+        "wedding"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/wedding-march-a-midsummer-nights-dream/song.json",
+        "abc": "songs/wedding-march-a-midsummer-nights-dream/song.abc",
+        "musicxml": "songs/wedding-march-a-midsummer-nights-dream/song.musicxml"
+      }
+    },
+    {
+      "id": "william-tell-overture-finale",
+      "title": "William Tell Overture (finale)",
+      "composer": "Gioachino Rossini",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical",
+        "rossini",
+        "overture",
+        "march"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 69,
+      "instrumentsSuited": [
+        "keyboard",
+        "trumpet",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/william-tell-overture-finale/song.json",
+        "abc": "songs/william-tell-overture-finale/song.abc",
+        "musicxml": "songs/william-tell-overture-finale/song.musicxml"
+      }
+    },
+    {
+      "id": "winter-theme-the-four-seasons",
+      "title": "Winter (theme, The Four Seasons)",
+      "composer": "Antonio Vivaldi",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical",
+        "baroque",
+        "vivaldi"
+      ],
+      "key": "f minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 66,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "recorder"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/winter-theme-the-four-seasons/song.json",
+        "abc": "songs/winter-theme-the-four-seasons/song.abc",
+        "musicxml": "songs/winter-theme-the-four-seasons/song.musicxml"
+      }
+    },
+    {
+      "id": "yes-sir-thats-my-baby",
+      "title": "Yes Sir, That's My Baby",
+      "composer": "Walter Donaldson",
+      "category": "jazz",
+      "difficulty": 4,
+      "tags": [
+        "jazz",
+        "standard",
+        "dixieland"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "violin",
+        "saxophone",
+        "trumpet"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/yes-sir-thats-my-baby/song.json",
+        "abc": "songs/yes-sir-thats-my-baby/song.abc",
+        "musicxml": "songs/yes-sir-thats-my-baby/song.musicxml"
       }
     }
   ]

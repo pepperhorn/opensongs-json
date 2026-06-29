@@ -1,0 +1,13 @@
+{
+  "id": "r-verie",
+  "title": "Rêverie",
+  "composer": "Claude Debussy",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "C. Debussy (d.1918), AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "debussy", "piano", "impressionist"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard"]
+}

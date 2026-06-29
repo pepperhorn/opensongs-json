@@ -1,0 +1,13 @@
+{
+  "id": "brandenburg-concerto-no-3-theme",
+  "title": "Brandenburg Concerto No. 3 (opening theme)",
+  "composer": "Johann Sebastian Bach",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "J.S. Bach (d.1750), BWV 1048. Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "bach"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "recorder"]
+}

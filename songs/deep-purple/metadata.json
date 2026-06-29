@@ -1,0 +1,13 @@
+{
+  "id": "deep-purple",
+  "title": "Deep Purple",
+  "composer": "Peter DeRose",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Music by Peter DeRose (d.1953), AU-PD (life+70). Melody-only."
+  },
+  "tags": ["jazz", "standard", "tin-pan-alley"],
+  "difficulty": 4,
+  "category": "jazz",
+  "instrumentsSuited": ["keyboard", "violin", "saxophone", "recorder"]
+}

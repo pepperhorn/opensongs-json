@@ -1,0 +1,14 @@
+X:1
+T:Moonlight Sonata (1st mvt)
+C:Ludwig van Beethoven
+O:Op. 27 No. 2, Adagio sostenuto
+Q:1/4=50
+M:4/4
+L:1/8
+K:C#m
+% Upper melodic voice only; range E4-B4
+% K:C#m auto-sharps: F=F#, C=C#, G=G#, D=D#
+% Uppercase letters = C4-B4 octave
+|G6 F2|E6 F2|G2 A2 G2 F2|E8|
+E2 F2 G2 A2|B6 A2|G4 F4|E8|
+G2 A2 B4|A4 G4|F4 E4|E8|]

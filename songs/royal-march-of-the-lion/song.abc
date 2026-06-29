@@ -1,0 +1,17 @@
+X:1
+T:Royal March of the Lion
+C:Camille Saint-Saëns
+O:Le carnaval des animaux, No.1
+M:4/4
+L:1/8
+Q:1/4=152
+K:C
+% Introduction and A-section march theme — 16 bars, range C4–D5
+% Bars 1–4: Bold fanfare introduction, ascending C-major arpeggio
+C3E G2c2 | B4 A4 | G3A G2E2 | C8 |
+% Bars 5–8: Main march theme — dotted march rhythm, noble stepwise descent
+G3A c2d2 | c3B A2G2 | F3G E2F2 | G8 |
+% Bars 9–12: Extension — stepwise descent, tension resolves on C
+c3B A2G2 | F2E2 D2C2 | E3F G2A2 | c8 |
+% Bars 13–16: Closing phrase — broad stride back to tonic C
+G2A2 c2B2 | A3G F2E2 | G4 E2C2 | C8 |]

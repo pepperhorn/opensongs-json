@@ -1,0 +1,13 @@
+{
+  "id": "tea-for-two",
+  "title": "Tea for Two",
+  "composer": "Vincent Youmans",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Music by Vincent Youmans (d.1946), AU-PD (life+70). Melody-only; lyrics by Irving Caesar not included."
+  },
+  "tags": ["jazz", "standard", "tin-pan-alley"],
+  "difficulty": 4,
+  "category": "jazz",
+  "instrumentsSuited": ["keyboard", "violin", "saxophone", "recorder"]
+}

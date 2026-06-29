@@ -4,7 +4,15 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-order = [s["id"] for s in json.loads((ROOT / "build" / "songlist.json").read_text())]
+
+# Core-100 ordering first (from songlist.json), then any remaining song dirs
+# (jazz/classical queue songs) appended alphabetically, so the manifest covers
+# every built song.json rather than only the original songlist.
+core = [s["id"] for s in json.loads((ROOT / "build" / "songlist.json").read_text())]
+core_set = set(core)
+extra = sorted(d.name for d in (ROOT / "songs").iterdir()
+               if d.is_dir() and (d / "song.json").exists() and d.name not in core_set)
+order = core + extra
 
 entries = []
 for sid in order:
@@ -17,8 +25,8 @@ for sid in order:
         "id": s["id"],
         "title": s["title"],
         "composer": s["composer"],
-        "category": (json.loads((ROOT / "songs" / sid / "metadata.json").read_text())
-                     .get("category")),
+        "category": (json.loads(mp.read_text()).get("category")
+                     if (mp := ROOT / "songs" / sid / "metadata.json").exists() else None),
         "difficulty": s["difficulty"],
         "tags": s["tags"],
         "key": s["key"],

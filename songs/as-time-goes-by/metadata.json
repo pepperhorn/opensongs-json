@@ -1,0 +1,13 @@
+{
+  "id": "as-time-goes-by",
+  "title": "As Time Goes By",
+  "composer": "Herman Hupfeld",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Herman Hupfeld (d.1951), AU-PD (life+70). Melody-only."
+  },
+  "tags": ["jazz", "standard", "film"],
+  "difficulty": 4,
+  "category": "jazz",
+  "instrumentsSuited": ["keyboard", "violin", "saxophone", "recorder"]
+}

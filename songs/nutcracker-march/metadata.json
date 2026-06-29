@@ -1,0 +1,13 @@
+{
+  "id": "nutcracker-march",
+  "title": "Nutcracker March",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "P.I. Tchaikovsky (d.1893), Op.71, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "tchaikovsky", "ballet", "march"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "trumpet", "violin", "recorder"]
+}

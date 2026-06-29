@@ -1,0 +1,13 @@
+{
+  "id": "hallelujah-chorus-messiah",
+  "title": "Hallelujah Chorus (Messiah)",
+  "composer": "George Frideric Handel",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "G.F. Handel (d.1759), AU-PD (life+70). Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "handel", "choral"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "trumpet", "recorder"]
+}

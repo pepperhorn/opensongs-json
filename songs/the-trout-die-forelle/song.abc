@@ -1,0 +1,18 @@
+X:1
+T:The Trout / Die Forelle
+C:Franz Schubert
+O:D.550
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+% Pickup (anacrusis — A4)
+A |
+% Bars 1-4: In einem Bächlein helle
+D2 E F | G2 A2 | G F E2 | D4 |
+% Bars 5-8: da schoß in froher Eil
+A2 G F | E2 D E | F2 G2 | A4 |
+% Bars 9-12: die launische Forelle
+G2 F E | D2 E F | G A G F | E4 |
+% Bars 13-16: vorüber wie ein Pfeil
+D2 F A | G2 F E | D F A2 | D4 |]

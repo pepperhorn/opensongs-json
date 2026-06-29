@@ -1,0 +1,13 @@
+{
+  "id": "aquarium-carnival-of-the-animals",
+  "title": "Aquarium (Carnival of the Animals)",
+  "composer": "Camille Saint-Saëns",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "C. Saint-Saëns (d.1921), AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "saint-saens", "piano", "atmospheric"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "flute", "recorder", "violin"]
+}

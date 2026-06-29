@@ -1,0 +1,21 @@
+X:1
+T:I Got Rhythm
+C:George Gershwin
+M:4/4
+L:1/8
+Q:1/8=200
+K:Bb
+% AABA 32-bar form — melody only (lyrics AU-PD, not included)
+% Key: Bb major | Chord progression: Bb-G7-Cm-F7 (rhythm changes)
+% --- A (first) ---
+GBd | d2d2c2B2 | B2B2A2G2 | B8 | z5 GBd |
+d2d2c2B2 | B2B2A2G2 | d8 | z5 GBd |
+% --- A (second) ---
+d2d2c2B2 | B2B2A2G2 | B8 | z5 GBd |
+d2d2c2B2 | B2B2A2G2 | d8 | z8 |
+% --- B (bridge) — chords: D7 | G7 | C7 | F7 (each 2 bars) ---
+^f4^a4 | ^f4 z4 | g4=B4 | g4 z4 |
+c4=e4 | c4 z4 | f4a4 | f4 z1 GBd |
+% --- A (final) ---
+d2d2c2B2 | B2B2A2G2 | B8 | z5 GBd |
+d2d2c2B2 | B2B2A2G2 | d4B4 | B8 |]

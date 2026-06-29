@@ -1,0 +1,13 @@
+{
+  "id": "moonlight-sonata-1st-mvt",
+  "title": "Moonlight Sonata (1st mvt)",
+  "composer": "Ludwig van Beethoven",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "L. van Beethoven (d.1827), Op.27 No.2, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "beethoven", "piano"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin"]
+}

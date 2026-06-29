@@ -1,0 +1,13 @@
+{
+  "id": "symphonie-fantastique-idee-fixe",
+  "title": "Symphonie Fantastique (idée fixe)",
+  "composer": "Hector Berlioz",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "H. Berlioz (d.1869), Op.14, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "berlioz", "romantic"],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "flute", "recorder"]
+}

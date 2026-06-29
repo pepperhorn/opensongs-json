@@ -1,0 +1,13 @@
+{
+  "id": "beyond-the-blue-horizon",
+  "title": "Beyond the Blue Horizon",
+  "composer": "Richard A. Whiting",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Music by Richard A. Whiting (d.1938), AU-PD (life+70). Melody-only."
+  },
+  "tags": ["jazz", "standard", "tin-pan-alley"],
+  "difficulty": 4,
+  "category": "jazz",
+  "instrumentsSuited": ["keyboard", "violin", "saxophone", "recorder"]
+}

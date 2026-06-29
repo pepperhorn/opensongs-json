@@ -1,0 +1,13 @@
+{
+  "id": "honeysuckle-rose",
+  "title": "Honeysuckle Rose",
+  "composer": "Fats Waller",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Music by Fats Waller (d.1943), AU-PD (life+70). Melody-only."
+  },
+  "tags": ["jazz", "standard", "stride"],
+  "difficulty": 4,
+  "category": "jazz",
+  "instrumentsSuited": ["keyboard", "violin", "saxophone", "trumpet"]
+}

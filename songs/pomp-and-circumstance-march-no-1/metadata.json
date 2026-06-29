@@ -1,0 +1,13 @@
+{
+  "id": "pomp-and-circumstance-march-no-1",
+  "title": "Pomp and Circumstance March No. 1",
+  "composer": "Edward Elgar",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "E. Elgar (d.1934), Op.39 No.1, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "elgar", "march", "graduation"],
+  "difficulty": 2,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "trumpet", "violin", "recorder"]
+}

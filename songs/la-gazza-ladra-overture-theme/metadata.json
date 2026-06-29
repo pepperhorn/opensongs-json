@@ -1,0 +1,13 @@
+{
+  "id": "la-gazza-ladra-overture-theme",
+  "title": "La gazza ladra (overture theme)",
+  "composer": "Gioachino Rossini",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "G. Rossini (d.1868), AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "rossini", "opera", "overture", "march"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "trumpet", "violin", "recorder"]
+}

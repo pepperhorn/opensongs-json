@@ -1,0 +1,12 @@
+X:1
+T:Piano Concerto No. 1 (opening theme)
+C:Pyotr Ilyich Tchaikovsky
+O:Op. 23, Piano Concerto No. 1 in B-flat minor
+M:4/4
+L:1/4
+Q:1/4=80
+K:Db
+% A section — Introduction, Andante non troppo e molto maestoso
+A | d2 _c B | A4 | B _c d2 | d3 _c |
+_c2 B A | G A B2 | A3 G | A3 A |
+d2 _c B | A2 G F | G A d2 | d4 |]

@@ -1,0 +1,13 @@
+{
+  "id": "wedding-march-a-midsummer-nights-dream",
+  "title": "Wedding March (A Midsummer Night's Dream)",
+  "composer": "Felix Mendelssohn",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "F. Mendelssohn (d.1847), Op.61, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "mendelssohn", "march", "wedding"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "trumpet", "violin", "recorder"]
+}

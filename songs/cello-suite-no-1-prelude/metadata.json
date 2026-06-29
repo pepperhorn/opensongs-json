@@ -1,0 +1,13 @@
+{
+  "id": "cello-suite-no-1-prelude",
+  "title": "Cello Suite No. 1 Prelude",
+  "composer": "Johann Sebastian Bach",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "J.S. Bach (d.1750), BWV 1007. Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "bach", "cello"],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "cello"]
+}

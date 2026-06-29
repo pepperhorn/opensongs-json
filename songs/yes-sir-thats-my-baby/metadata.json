@@ -1,0 +1,13 @@
+{
+  "id": "yes-sir-thats-my-baby",
+  "title": "Yes Sir, That's My Baby",
+  "composer": "Walter Donaldson",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Music by Walter Donaldson (d.1947), AU-PD (life+70). Melody-only."
+  },
+  "tags": ["jazz", "standard", "dixieland"],
+  "difficulty": 4,
+  "category": "jazz",
+  "instrumentsSuited": ["keyboard", "violin", "saxophone", "trumpet"]
+}

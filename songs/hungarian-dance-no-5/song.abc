@@ -1,0 +1,19 @@
+X:1
+T:Hungarian Dance No. 5
+C:Johannes Brahms
+Z:Arranged public domain
+M:2/4
+L:1/8
+Q:1/4=160
+K:F#min
+% Wild csárdás in F# minor — main A section, 16 bars. Range F#4–D5.
+% Pickup
+|F|
+% Bars 1–4: Opening theme — leaping dotted figure rising to D5
+F>G A2|d>c A2|BAGF|F4|
+% Bars 5–8: Repeat of opening theme
+F>G A2|d>c A2|BAGF|F4|
+% Bars 9–12: B phrase — descending chromatic colour, more flowing
+cBAG|FAGF|BAGF|F4|
+% Bars 13–16: Closing phrase — ascent to c then fall back to tonic
+F>G Ac|d>c AF|BAGF|F4|]

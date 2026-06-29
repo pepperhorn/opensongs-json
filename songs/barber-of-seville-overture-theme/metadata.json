@@ -1,0 +1,13 @@
+{
+  "id": "barber-of-seville-overture-theme",
+  "title": "Barber of Seville (overture theme)",
+  "composer": "Gioachino Rossini",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "G. Rossini (d.1868), AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "rossini", "opera", "overture"],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "recorder"]
+}

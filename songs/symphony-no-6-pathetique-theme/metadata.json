@@ -1,0 +1,22 @@
+{
+  "id": "symphony-no-6-pathetique-theme",
+  "title": "Symphony No. 6 'Pathétique' (theme)",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "P.I. Tchaikovsky (d.1893), Op.74, AU-PD. Work and our engraving public domain."
+  },
+  "tags": [
+    "classical",
+    "tchaikovsky",
+    "symphony",
+    "romantic"
+  ],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard",
+    "violin",
+    "recorder"
+  ]
+}

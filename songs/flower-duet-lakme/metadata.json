@@ -1,0 +1,13 @@
+{
+  "id": "flower-duet-lakme",
+  "title": "Flower Duet (Lakmé)",
+  "composer": "Léo Delibes",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "L. Delibes (d.1891), Lakmé, AU-PD. Melody-only."
+  },
+  "tags": ["classical", "delibes", "opera", "famous"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "flute", "violin", "recorder"]
+}

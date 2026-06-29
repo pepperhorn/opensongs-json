@@ -1,0 +1,343 @@
+{
+  "id": "song-to-the-moon-rusalka",
+  "title": "Song to the Moon (Rusalka)",
+  "composer": "Anton\u00edn Dvo\u0159\u00e1k",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "A. Dvo\u0159\u00e1k (d.1904), Rusalka Op.114, AU-PD. Melody-only."
+  },
+  "tags": [
+    "classical",
+    "dvorak",
+    "opera",
+    "aria"
+  ],
+  "difficulty": 3,
+  "key": "D- major",
+  "keySignature": -5,
+  "timeSignature": [
+    4,
+    4
+  ],
+  "tempo": 60,
+  "pickupBeats": 3.0,
+  "instrumentsSuited": [
+    "keyboard",
+    "violin",
+    "flute",
+    "recorder"
+  ],
+  "noteRange": {
+    "low": "G#4",
+    "high": "C#5"
+  },
+  "chords": [],
+  "events": [
+    {
+      "i": 0,
+      "measure": 1,
+      "beat": 4.0,
+      "onset": 0.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": -1,
+        "octave": 4,
+        "midi": 68,
+        "spelled": "Ab4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 1,
+      "measure": 2,
+      "beat": 1.0,
+      "onset": 1.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": -1,
+        "octave": 4,
+        "midi": 68,
+        "spelled": "Ab4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 2,
+      "measure": 2,
+      "beat": 3.0,
+      "onset": 3.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": -1,
+        "octave": 4,
+        "midi": 70,
+        "spelled": "Bb4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 3,
+      "measure": 2,
+      "beat": 4.0,
+      "onset": 4.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": -1,
+        "octave": 4,
+        "midi": 68,
+        "spelled": "Ab4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 4,
+      "measure": 3,
+      "beat": 1.0,
+      "onset": 5.0,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": -1,
+        "octave": 5,
+        "midi": 73,
+        "spelled": "Db5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 5,
+      "measure": 3,
+      "beat": 4.0,
+      "onset": 8.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": -1,
+        "octave": 5,
+        "midi": 71,
+        "spelled": "Cb5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 6,
+      "measure": 4,
+      "beat": 1.0,
+      "onset": 9.0,
+      "duration": 4.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": -1,
+        "octave": 4,
+        "midi": 68,
+        "spelled": "Ab4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 7,
+      "measure": 5,
+      "beat": 1.0,
+      "onset": 13.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": -1,
+        "octave": 4,
+        "midi": 68,
+        "spelled": "Ab4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 8,
+      "measure": 5,
+      "beat": 3.0,
+      "onset": 15.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": -1,
+        "octave": 4,
+        "midi": 70,
+        "spelled": "Bb4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 9,
+      "measure": 5,
+      "beat": 4.0,
+      "onset": 16.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": -1,
+        "octave": 4,
+        "midi": 68,
+        "spelled": "Ab4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 10,
+      "measure": 6,
+      "beat": 1.0,
+      "onset": 17.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": -1,
+        "octave": 5,
+        "midi": 73,
+        "spelled": "Db5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 11,
+      "measure": 6,
+      "beat": 3.0,
+      "onset": 19.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": -1,
+        "octave": 5,
+        "midi": 71,
+        "spelled": "Cb5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 12,
+      "measure": 6,
+      "beat": 4.0,
+      "onset": 20.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": -1,
+        "octave": 4,
+        "midi": 68,
+        "spelled": "Ab4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 13,
+      "measure": 7,
+      "beat": 1.0,
+      "onset": 21.0,
+      "duration": 4.0,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": -1,
+        "octave": 4,
+        "midi": 70,
+        "spelled": "Bb4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 14,
+      "measure": 8,
+      "beat": 1.0,
+      "onset": 25.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": -1,
+        "octave": 4,
+        "midi": 70,
+        "spelled": "Bb4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 15,
+      "measure": 8,
+      "beat": 2.0,
+      "onset": 26.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": -1,
+        "octave": 5,
+        "midi": 71,
+        "spelled": "Cb5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 16,
+      "measure": 8,
+      "beat": 3.0,
+      "onset": 27.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": -1,
+        "octave": 5,
+        "midi": 73,
+        "spelled": "Db5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 17,
+      "measure": 9,
+      "beat": 1.0,
+      "onset": 29.0,
+      "duration": 4.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": -1,
+        "octave": 4,
+        "midi": 68,
+        "spelled": "Ab4"
+      },
+      "lyric": null,
+      "tie": null
+    }
+  ]
+}

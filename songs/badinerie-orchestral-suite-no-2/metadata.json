@@ -1,0 +1,13 @@
+{
+  "id": "badinerie-orchestral-suite-no-2",
+  "title": "Badinerie (Orchestral Suite No. 2)",
+  "composer": "Johann Sebastian Bach",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "J.S. Bach (d.1750), BWV 1067. Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "bach", "flute"],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": ["recorder", "violin", "keyboard"]
+}

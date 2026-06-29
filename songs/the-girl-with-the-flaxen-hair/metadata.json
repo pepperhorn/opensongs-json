@@ -1,0 +1,13 @@
+{
+  "id": "the-girl-with-the-flaxen-hair",
+  "title": "The Girl with the Flaxen Hair",
+  "composer": "Claude Debussy",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "C. Debussy (d.1918), Préludes Book I, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "debussy", "piano", "impressionist"],
+  "difficulty": 2,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "flute", "violin"]
+}

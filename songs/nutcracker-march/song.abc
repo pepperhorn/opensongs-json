@@ -1,0 +1,17 @@
+X:1
+T:Nutcracker March
+C:Pyotr Ilyich Tchaikovsky
+O:Op.71 No.1, The Nutcracker
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+% A section — 16 bars (G4–D5). Pickup: G4.
+% Bars 1–4: main march theme, staccato dotted-rhythm arpeggio rise and cadence
+G | B2d2 c3B | A2G2 G4 | B2d2 c3B | A2G2 G4 |
+% Bars 5–8: contrasting phrase, descending line, half-bar resolution
+d2d2 c3B | A2G2 G4 | d2c2 B2A2 | G8 |
+% Bars 9–12: main theme reprise
+B2d2 c3B | A2G2 G4 | B2d2 c3B | A2G2 G4 |
+% Bars 13–16: closing phrase with F# colour, cadence to G
+d3c B2A2 | G2B2 d4 | A3B G2F2 | G8 |]

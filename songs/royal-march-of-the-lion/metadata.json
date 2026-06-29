@@ -1,0 +1,13 @@
+{
+  "id": "royal-march-of-the-lion",
+  "title": "Royal March of the Lion",
+  "composer": "Camille Saint-Saëns",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "C. Saint-Saëns (d.1921), AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "saint-saens", "march", "piano"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "trumpet", "violin", "recorder"]
+}

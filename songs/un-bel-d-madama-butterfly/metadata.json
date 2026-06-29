@@ -1,0 +1,13 @@
+{
+  "id": "un-bel-d-madama-butterfly",
+  "title": "Un bel dì (Madama Butterfly)",
+  "composer": "Giacomo Puccini",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "G. Puccini (d.1924), Madama Butterfly, AU-PD. Melody-only."
+  },
+  "tags": ["classical", "puccini", "opera", "soprano"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "flute", "recorder"]
+}

@@ -1,0 +1,15 @@
+X:1
+T:Caprice No. 24 (theme)
+C:Niccolò Paganini
+M:2/4
+L:1/8
+Q:1/4=152
+K:Am
+% --- Theme (12 bars) ---
+|: A | A E A c | E A c d | c A E A | ^G2 E A |
+A E A c | E A c d | c A ^G E | A4 |
+E c E d | c A E ^G | A E A c | A4 :|
+% --- Variation 1 (inverted figuration) ---
+A | c A E A | d c A E | A c E c | A ^G E A |
+c A E A | d c A E | c A E ^G | A4 |
+A c A d | c A ^G E | A E A c | A4 |]

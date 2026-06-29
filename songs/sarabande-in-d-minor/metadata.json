@@ -1,0 +1,13 @@
+{
+  "id": "sarabande-in-d-minor",
+  "title": "Sarabande in D minor",
+  "composer": "George Frideric Handel",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "G.F. Handel (d.1759), HWV 437. Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "handel"],
+  "difficulty": 2,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "recorder"]
+}

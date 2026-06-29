@@ -1,0 +1,17 @@
+X:1
+T:Queen of the Night aria (theme)
+C:Wolfgang Amadeus Mozart
+O:Die Zauberflöte, K.620
+M:4/4
+L:1/8
+Q:1/4=176
+K:Dm
+% Main theme — "Der Hölle Rache kocht in meinem Herzen"
+"Dm"d4 d4|"A7"A4 ^c4|"Dm"d2f2 a2f2|"A7"e4 ^c4|
+"Dm"d2d2 d2d2|"A7"A2^c2 e2^c2|"Dm"d2f2 "Gm"g2_b2|
+"A7"^c'2a2 e2^c2|"Dm"d8|
+% Coloratura — ascending melodic minor, descending natural minor
+"Dm"defg a=b^c'd'|"Dm"d'c'ba gfed|"Dm"d8|
+% High soprano — F5 up to F6
+"Dm"f4 a4|"A7"^c'4 e'4|"Dm"f'4 e'4|"A7"^c'4 d'4|
+"Dm"f'2e'2 d'2^c'2|"Dm"d'8|]

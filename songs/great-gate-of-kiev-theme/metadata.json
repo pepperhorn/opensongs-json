@@ -1,0 +1,13 @@
+{
+  "id": "great-gate-of-kiev-theme",
+  "title": "Great Gate of Kiev (theme)",
+  "composer": "Modest Mussorgsky",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "M. Mussorgsky (d.1881), AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "mussorgsky", "piano", "march"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "trumpet", "violin", "recorder"]
+}

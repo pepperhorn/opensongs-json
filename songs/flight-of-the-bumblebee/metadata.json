@@ -1,0 +1,13 @@
+{
+  "id": "flight-of-the-bumblebee",
+  "title": "Flight of the Bumblebee",
+  "composer": "Nikolai Rimsky-Korsakov",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "N. Rimsky-Korsakov (d.1908), The Tale of Tsar Saltan, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "rimsky-korsakov", "opera", "famous"],
+  "difficulty": 5,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "flute", "recorder"]
+}

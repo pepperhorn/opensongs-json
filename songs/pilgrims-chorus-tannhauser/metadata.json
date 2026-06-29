@@ -1,0 +1,13 @@
+{
+  "id": "pilgrims-chorus-tannhauser",
+  "title": "Pilgrims' Chorus (Tannhäuser)",
+  "composer": "Richard Wagner",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "R. Wagner (d.1883), WWV 70, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "wagner", "opera", "chorus"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "recorder", "trumpet"]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "in-the-shade-of-the-old-apple-tree",
+  "title": "In the Shade of the Old Apple Tree",
+  "composer": "Egbert Van Alstyne",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Music by Egbert Van Alstyne (d.1951), AU-PD (life+70). Melody-only."
+  },
+  "tags": ["tin-pan-alley", "standard", "parlour"],
+  "difficulty": 3,
+  "category": "jazz",
+  "instrumentsSuited": ["keyboard", "violin", "recorder", "ukulele"]
+}

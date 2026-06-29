@@ -1,0 +1,13 @@
+{
+  "id": "bourree-in-e-minor-lute-suite",
+  "title": "Bourrée in E minor (Lute Suite)",
+  "composer": "Johann Sebastian Bach",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "J.S. Bach (d.1750), BWV 996. Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "bach", "lute"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "guitar", "recorder", "violin"]
+}

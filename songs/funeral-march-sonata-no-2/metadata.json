@@ -1,0 +1,13 @@
+{
+  "id": "funeral-march-sonata-no-2",
+  "title": "Funeral March (Sonata No. 2)",
+  "composer": "Frédéric Chopin",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "F. Chopin (d.1849), Op.35, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "chopin", "piano", "march"],
+  "difficulty": 2,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "trumpet"]
+}

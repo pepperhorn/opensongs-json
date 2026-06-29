@@ -1,0 +1,13 @@
+{
+  "id": "the-happy-farmer",
+  "title": "The Happy Farmer",
+  "composer": "Robert Schumann",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "R. Schumann (d.1856), Op.68 No.10, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "schumann", "piano", "teaching"],
+  "difficulty": 2,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "recorder", "violin"]
+}

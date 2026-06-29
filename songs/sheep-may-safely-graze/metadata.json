@@ -1,0 +1,13 @@
+{
+  "id": "sheep-may-safely-graze",
+  "title": "Sheep May Safely Graze",
+  "composer": "Johann Sebastian Bach",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "J.S. Bach (d.1750), BWV 208. Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "bach"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "recorder", "violin", "flute"]
+}

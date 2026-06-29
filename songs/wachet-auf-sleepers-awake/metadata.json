@@ -1,0 +1,13 @@
+{
+  "id": "wachet-auf-sleepers-awake",
+  "title": "Sleepers Awake (Wachet auf)",
+  "composer": "Johann Sebastian Bach",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "J.S. Bach (d.1750), BWV 645. Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "bach", "chorale"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "recorder"]
+}

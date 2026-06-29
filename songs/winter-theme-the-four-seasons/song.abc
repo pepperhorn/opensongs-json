@@ -1,0 +1,19 @@
+X:1
+T:Winter (theme, The Four Seasons)
+C:Antonio Vivaldi
+M:4/4
+L:1/8
+Q:140
+K:Fm
+% Opening shivering staccato figures (tutti, forte)
+|!f!.F.F.F z .F.F.F z|.F.F.F z .c.c.c z|
+% Descending and ascending scalar passages in F minor
+|c B A G F G A B|!mf!c2 A2 F4|
+% Repeat of opening tremolo figure with leap to c
+|!f!.F.F.F z .F.F.F z|.c.c.c z .B.B.B z|
+% Flowing scalar runs
+|c B A G F G A c|B2 G2 F4|
+% Second phrase — ascending then cadential descent
+|!mf!F G A B c B A G|A2 c2 B4|
+% Final bars — held tonic
+|G A B c B A G F|F8|]

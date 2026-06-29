@@ -1,0 +1,20 @@
+{
+  "id": "italian-symphony-1st-mvt-theme",
+  "title": "Italian Symphony (1st mvt theme)",
+  "composer": "Felix Mendelssohn",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "F. Mendelssohn (d.1847), Op.90, AU-PD. Work and our engraving public domain."
+  },
+  "tags": [
+    "classical",
+    "mendelssohn"
+  ],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard",
+    "violin",
+    "recorder"
+  ]
+}

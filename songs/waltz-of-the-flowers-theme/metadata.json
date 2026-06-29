@@ -1,0 +1,13 @@
+{
+  "id": "waltz-of-the-flowers-theme",
+  "title": "Waltz of the Flowers (theme)",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "P.I. Tchaikovsky (d.1893), Op.71, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "tchaikovsky", "ballet", "waltz"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "flute", "violin", "recorder"]
+}

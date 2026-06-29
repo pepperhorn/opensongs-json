@@ -1,0 +1,13 @@
+{
+  "id": "on-wings-of-song",
+  "title": "On Wings of Song",
+  "composer": "Felix Mendelssohn",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "F. Mendelssohn (d.1847), Op.34 No.2, AU-PD. Melody-only; Heine text not included."
+  },
+  "tags": ["classical", "mendelssohn", "song"],
+  "difficulty": 2,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "recorder", "flute"]
+}

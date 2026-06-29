@@ -1,0 +1,15 @@
+X:1
+T:La Campanella (theme)
+C:Franz Liszt
+M:6/8
+L:1/8
+Q:3/8=126
+K:Am
+% Grande Étude de Paganini No.3 (S.140/3) — bell theme
+% Transposed to A minor; melody A4–D5
+|: ^c |
+A ^G ^F E ^F ^G | A3 z2 ^c | A ^c B A ^G ^F | E3 z2 ^c |
+A ^G ^F E3 | ^c3 ^c2 B | A ^G ^F E ^G ^F | A3 z2 :|
+|: ^c d |
+^c B A ^G ^F E | A3 z2 A | B ^c d ^c B A | ^G3 z3 |
+^c2 ^c d2 ^c | B A ^G ^F2 E | A ^G ^F E ^F ^G | A3 z3 |]

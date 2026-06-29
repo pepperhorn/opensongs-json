@@ -1,0 +1,13 @@
+{
+  "id": "the-swan-carnival-of-animals",
+  "title": "The Swan (Carnival of Animals)",
+  "composer": "Camille Saint-Saëns",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "C. Saint-Saëns (d.1921), AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "saint-saens", "cello", "famous"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "cello", "recorder"]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hebrides-overture-theme",
+  "title": "Hebrides Overture (theme)",
+  "composer": "Felix Mendelssohn",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "F. Mendelssohn (d.1847), Op.26, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "mendelssohn"],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "recorder"]
+}

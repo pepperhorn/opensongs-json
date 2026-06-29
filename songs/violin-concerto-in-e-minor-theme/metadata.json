@@ -1,0 +1,13 @@
+{
+  "id": "violin-concerto-in-e-minor-theme",
+  "title": "Violin Concerto in E minor (theme)",
+  "composer": "Felix Mendelssohn",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "F. Mendelssohn (d.1847), Op.64, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "mendelssohn", "violin"],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "recorder"]
+}

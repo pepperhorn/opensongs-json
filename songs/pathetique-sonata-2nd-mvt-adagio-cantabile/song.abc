@@ -1,0 +1,16 @@
+X:1
+T:Pathétique Sonata (2nd mvt Adagio cantabile)
+C:Ludwig van Beethoven
+M:2/4
+L:1/8
+Q:1/4=60
+K:Ab
+% A section — 12 bars + pickup, melody stays Ab4–Eb5
+% Pickup
+A2 |
+% Phrase 1 (bars 1–4): sighing ascent and descent
+A2 Bc | B3 A | E4 | A Bcd |
+% Phrase 2 (bars 5–8): rise to Eb5, fall back home
+e4 | edcB | A3 E | A4 |
+% Phrase 3 (bars 9–12): varied repeat, gentle close
+A2 Bc | B2 A2 | cBAE | A4 |]

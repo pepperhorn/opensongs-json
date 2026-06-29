@@ -1,0 +1,13 @@
+{
+  "id": "hungarian-rhapsody-no-2-theme",
+  "title": "Hungarian Rhapsody No. 2 (theme)",
+  "composer": "Franz Liszt",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "F. Liszt (d.1886), S.244 No.2, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "liszt", "piano", "hungarian"],
+  "difficulty": 5,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin"]
+}

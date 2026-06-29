@@ -1,0 +1,13 @@
+{
+  "id": "ride-of-the-valkyries",
+  "title": "Ride of the Valkyries",
+  "composer": "Richard Wagner",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "R. Wagner (d.1883), WWV 86b, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "wagner", "opera", "march"],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "trumpet", "violin", "recorder"]
+}

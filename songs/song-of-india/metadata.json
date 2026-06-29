@@ -1,0 +1,13 @@
+{
+  "id": "song-of-india",
+  "title": "Song of India",
+  "composer": "Nikolai Rimsky-Korsakov",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "N. Rimsky-Korsakov (d.1908), Sadko, AU-PD. Melody-only."
+  },
+  "tags": ["classical", "rimsky-korsakov", "opera", "exotic"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "flute", "recorder"]
+}

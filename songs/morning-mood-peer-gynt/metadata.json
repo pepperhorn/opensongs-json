@@ -1,0 +1,13 @@
+{
+  "id": "morning-mood-peer-gynt",
+  "title": "Morning Mood (Peer Gynt)",
+  "composer": "Edvard Grieg",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "E. Grieg (d.1907), Peer Gynt Op.46, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "grieg", "orchestral", "pastoral"],
+  "difficulty": 2,
+  "category": "classical",
+  "instrumentsSuited": ["flute", "recorder", "keyboard", "violin"]
+}

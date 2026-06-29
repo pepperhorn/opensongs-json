@@ -1,0 +1,13 @@
+X:1
+T:Symphony No. 41 "Jupiter" (Finale Theme)
+C:Wolfgang Amadeus Mozart
+M:4/4
+L:1/4
+Q:132
+K:C
+%% Molto allegro — opening statement with the famous C-D-F-E "Jupiter" motif
+C D F E | c B A G | F E D C | G2 G2 |
+C D F E | G A B c | d c B A | G4 |
+%% Continuation — scalar development over dominant, cadence to tonic
+E F G A | B c d c | B A G F | E2 C2 |
+G A B c | d c B A | G F E D | C4 |]

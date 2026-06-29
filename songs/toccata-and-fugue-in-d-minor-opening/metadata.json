@@ -1,0 +1,13 @@
+{
+  "id": "toccata-and-fugue-in-d-minor-opening",
+  "title": "Toccata and Fugue in D minor (opening theme)",
+  "composer": "Johann Sebastian Bach",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "J.S. Bach (d.1750). Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "bach", "organ"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "recorder", "violin"]
+}

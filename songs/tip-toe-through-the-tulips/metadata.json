@@ -1,0 +1,13 @@
+{
+  "id": "tip-toe-through-the-tulips",
+  "title": "Tip-Toe Thru' the Tulips with Me",
+  "composer": "Joe Burke",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Music by Joe Burke (d.1950), AU-PD (life+70). Melody-only."
+  },
+  "tags": ["jazz", "standard", "tin-pan-alley"],
+  "difficulty": 4,
+  "category": "jazz",
+  "instrumentsSuited": ["keyboard", "violin", "ukulele", "recorder"]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "piano-concerto-no-1-opening-theme",
+  "title": "Piano Concerto No. 1 (opening theme)",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "P.I. Tchaikovsky (d.1893), Op.23, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "tchaikovsky", "concerto", "piano"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "violin", "trumpet", "recorder"]
+}

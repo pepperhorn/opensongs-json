@@ -1,0 +1,13 @@
+{
+  "id": "la-campanella-theme",
+  "title": "La Campanella (theme)",
+  "composer": "Franz Liszt",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "F. Liszt (d.1886), S.140 No.3, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "liszt", "piano", "virtuosic"],
+  "difficulty": 5,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard"]
+}

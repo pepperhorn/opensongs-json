@@ -1,0 +1,13 @@
+{
+  "id": "minute-waltz",
+  "title": "Minute Waltz",
+  "composer": "Frédéric Chopin",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "F. Chopin (d.1849), Op.64 No.1, AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "chopin", "piano", "waltz"],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard"]
+}

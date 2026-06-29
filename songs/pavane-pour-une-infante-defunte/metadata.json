@@ -1,0 +1,13 @@
+{
+  "id": "pavane-pour-une-infante-defunte",
+  "title": "Pavane pour une infante défunte",
+  "composer": "Maurice Ravel",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "M. Ravel (d.1937), AU-PD. Work and our engraving public domain."
+  },
+  "tags": ["classical", "ravel", "piano", "impressionist"],
+  "difficulty": 3,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "flute", "violin", "recorder"]
+}

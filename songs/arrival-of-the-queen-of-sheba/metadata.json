@@ -1,0 +1,13 @@
+{
+  "id": "arrival-of-the-queen-of-sheba",
+  "title": "Arrival of the Queen of Sheba",
+  "composer": "George Frideric Handel",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "G.F. Handel (d.1759), HWV 67. Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "handel"],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "recorder", "violin"]
+}

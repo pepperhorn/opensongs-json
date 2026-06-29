@@ -1,0 +1,12 @@
+X:1
+T:Carmen (Prelude Theme)
+C:Georges Bizet
+M:2/4
+L:1/8
+Q:1/4=152
+K:A
+% A section — 16 bars (anacrusis pickup A4)
+A |A>c B2 |A2 E2 |A>c BA |GE A2 |
+A>c B2 |A2 E2 |B>c BA |A2 z2 |
+c>B A>G |EA c2 |B>A GF |E4 |
+A>c BA |GE A2 |B>c BA |A2 z2 |]

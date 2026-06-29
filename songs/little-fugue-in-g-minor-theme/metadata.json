@@ -1,0 +1,13 @@
+{
+  "id": "little-fugue-in-g-minor-theme",
+  "title": "Little Fugue in G minor (theme)",
+  "composer": "Johann Sebastian Bach",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "J.S. Bach (d.1750), BWV 578. Work and our engraving are public domain."
+  },
+  "tags": ["classical", "baroque", "bach", "organ"],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": ["keyboard", "recorder", "violin"]
+}

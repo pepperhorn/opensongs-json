@@ -1,0 +1,13 @@
+{
+  "id": "sweet-adeline",
+  "title": "Sweet Adeline (My Adeline)",
+  "composer": "Henry W. Armstrong",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Music by Henry W. Armstrong (d.1951), AU-PD (life+70). Melody-only."
+  },
+  "tags": ["jazz", "standard", "barbershop", "tin-pan-alley"],
+  "difficulty": 3,
+  "category": "jazz",
+  "instrumentsSuited": ["keyboard", "violin", "recorder", "ukulele"]
+}

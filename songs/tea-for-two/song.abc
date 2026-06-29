@@ -1,0 +1,19 @@
+X:1
+T:Tea for Two
+C:Vincent Youmans (1924)
+M:4/4
+L:1/4
+Q:1/4=110
+K:C
+% A section 1
+A | E G A2 | B A G2 | E G A2 | B A G2 |
+G A B c | d c B2 | A G F E | C3 A |
+% A section 2
+E G A2 | B A G2 | E G A2 | B A G2 |
+G A B c | d c B2 | A G F E | C4 |
+% B section (bridge)
+E G B2 | c B A2 | D F A2 | B A G2 |
+E G c2 | d c B2 | G B d2 | G3 A |
+% A section 3 (final)
+E G A2 | B A G2 | E G A2 | B A G2 |
+G A B c | d c B2 | A G F E | C3 |]

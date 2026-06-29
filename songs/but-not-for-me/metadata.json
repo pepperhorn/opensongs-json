@@ -1,0 +1,13 @@
+{
+  "id": "but-not-for-me",
+  "title": "But Not for Me",
+  "composer": "George Gershwin",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Music by George Gershwin (d.1937), AU-PD (life+70). Melody-only; lyrics by Ira Gershwin not included."
+  },
+  "tags": ["jazz", "standard", "gershwin"],
+  "difficulty": 4,
+  "category": "jazz",
+  "instrumentsSuited": ["keyboard", "violin", "saxophone", "recorder"]
+}
