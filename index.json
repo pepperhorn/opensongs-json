@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 283,
+  "count": 294,
   "schemaVersion": 1,
   "songs": [
     {
@@ -3339,6 +3339,35 @@
       }
     },
     {
+      "id": "also-sprach-zarathustra-opening",
+      "title": "Also sprach Zarathustra (opening)",
+      "composer": "Richard Strauss",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "E5"
+      },
+      "noteCount": 10,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/also-sprach-zarathustra-opening/song.json",
+        "abc": "songs/also-sprach-zarathustra-opening/song.abc",
+        "musicxml": "songs/also-sprach-zarathustra-opening/song.musicxml"
+      }
+    },
+    {
       "id": "anitras-dance",
       "title": "Anitra's Dance",
       "composer": "Edvard Grieg",
@@ -5783,6 +5812,35 @@
       }
     },
     {
+      "id": "maple-leaf-rag",
+      "title": "Maple Leaf Rag",
+      "composer": "Scott Joplin",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/maple-leaf-rag/song.json",
+        "abc": "songs/maple-leaf-rag/song.abc",
+        "musicxml": "songs/maple-leaf-rag/song.musicxml"
+      }
+    },
+    {
       "id": "marche-militaire",
       "title": "Marche Militaire",
       "composer": "Franz Schubert",
@@ -6701,6 +6759,35 @@
       }
     },
     {
+      "id": "peter-and-the-wolf-peters-theme",
+      "title": "Peter and the Wolf (Peter's theme)",
+      "composer": "Sergei Prokofiev",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/peter-and-the-wolf-peters-theme/song.json",
+        "abc": "songs/peter-and-the-wolf-peters-theme/song.abc",
+        "musicxml": "songs/peter-and-the-wolf-peters-theme/song.musicxml"
+      }
+    },
+    {
       "id": "piano-concerto-in-a-minor-opening",
       "title": "Piano Concerto in A minor (opening)",
       "composer": "Edvard Grieg",
@@ -7011,6 +7098,35 @@
       }
     },
     {
+      "id": "prelude-in-c-sharp-minor-theme",
+      "title": "Prelude in C-sharp minor (theme)",
+      "composer": "Sergei Rachmaninoff",
+      "category": "classical",
+      "difficulty": 4,
+      "tags": [
+        "classical"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "A5"
+      },
+      "noteCount": 14,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/prelude-in-c-sharp-minor-theme/song.json",
+        "abc": "songs/prelude-in-c-sharp-minor-theme/song.abc",
+        "musicxml": "songs/prelude-in-c-sharp-minor-theme/song.musicxml"
+      }
+    },
+    {
       "id": "prelude-lapres-midi-dun-faune-theme",
       "title": "Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune (theme)",
       "composer": "Claude Debussy",
@@ -7278,6 +7394,35 @@
       }
     },
     {
+      "id": "rhapsody-on-a-theme-of-paganini-18th-var",
+      "title": "Rhapsody on a Theme of Paganini (18th var.)",
+      "composer": "Sergei Rachmaninoff",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/rhapsody-on-a-theme-of-paganini-18th-var/song.json",
+        "abc": "songs/rhapsody-on-a-theme-of-paganini-18th-var/song.abc",
+        "musicxml": "songs/rhapsody-on-a-theme-of-paganini-18th-var/song.musicxml"
+      }
+    },
+    {
       "id": "ride-of-the-valkyries",
       "title": "Ride of the Valkyries",
       "composer": "Richard Wagner",
@@ -7310,6 +7455,35 @@
         "song": "songs/ride-of-the-valkyries/song.json",
         "abc": "songs/ride-of-the-valkyries/song.abc",
         "musicxml": "songs/ride-of-the-valkyries/song.musicxml"
+      }
+    },
+    {
+      "id": "romanian-folk-dance-no-1",
+      "title": "Romanian Folk Dance No. 1",
+      "composer": "B\u00e9la Bart\u00f3k",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "F5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/romanian-folk-dance-no-1/song.json",
+        "abc": "songs/romanian-folk-dance-no-1/song.abc",
+        "musicxml": "songs/romanian-folk-dance-no-1/song.musicxml"
       }
     },
     {
@@ -7655,6 +7829,35 @@
         "song": "songs/slavonic-dance-no-8-theme/song.json",
         "abc": "songs/slavonic-dance-no-8-theme/song.abc",
         "musicxml": "songs/slavonic-dance-no-8-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "solace",
+      "title": "Solace",
+      "composer": "Scott Joplin",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "E5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/solace/song.json",
+        "abc": "songs/solace/song.abc",
+        "musicxml": "songs/solace/song.musicxml"
       }
     },
     {
@@ -8534,6 +8737,35 @@
       }
     },
     {
+      "id": "the-entertainer",
+      "title": "The Entertainer",
+      "composer": "Scott Joplin",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-entertainer/song.json",
+        "abc": "songs/the-entertainer/song.abc",
+        "musicxml": "songs/the-entertainer/song.musicxml"
+      }
+    },
+    {
       "id": "the-girl-with-the-flaxen-hair",
       "title": "The Girl with the Flaxen Hair",
       "composer": "Claude Debussy",
@@ -8636,6 +8868,35 @@
       }
     },
     {
+      "id": "the-liberty-bell",
+      "title": "The Liberty Bell",
+      "composer": "John Philip Sousa",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-liberty-bell/song.json",
+        "abc": "songs/the-liberty-bell/song.abc",
+        "musicxml": "songs/the-liberty-bell/song.musicxml"
+      }
+    },
+    {
       "id": "the-swan-carnival-of-animals",
       "title": "The Swan (Carnival of Animals)",
       "composer": "Camille Saint-Sa\u00ebns",
@@ -8702,6 +8963,35 @@
         "song": "songs/the-trout-die-forelle/song.json",
         "abc": "songs/the-trout-die-forelle/song.abc",
         "musicxml": "songs/the-trout-die-forelle/song.musicxml"
+      }
+    },
+    {
+      "id": "the-washington-post",
+      "title": "The Washington Post",
+      "composer": "John Philip Sousa",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "G5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-washington-post/song.json",
+        "abc": "songs/the-washington-post/song.abc",
+        "musicxml": "songs/the-washington-post/song.musicxml"
       }
     },
     {
@@ -9177,6 +9467,35 @@
         "song": "songs/violin-concerto-in-e-minor-theme/song.json",
         "abc": "songs/violin-concerto-in-e-minor-theme/song.abc",
         "musicxml": "songs/violin-concerto-in-e-minor-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "vocalise",
+      "title": "Vocalise",
+      "composer": "Sergei Rachmaninoff",
+      "category": "classical",
+      "difficulty": 3,
+      "tags": [
+        "classical"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "F#5"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "piano"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/vocalise/song.json",
+        "abc": "songs/vocalise/song.abc",
+        "musicxml": "songs/vocalise/song.musicxml"
       }
     },
     {

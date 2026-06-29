@@ -1,0 +1,18 @@
+{
+  "id": "prelude-in-c-sharp-minor-theme",
+  "title": "Prelude in C-sharp minor (theme)",
+  "composer": "Sergei Rachmaninoff",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Composer d.1943; AU public domain (life+70). melody-only."
+  },
+  "tags": [
+    "classical"
+  ],
+  "difficulty": 4,
+  "category": "classical",
+  "instrumentsSuited": [
+    "piano"
+  ],
+  "chords": []
+}

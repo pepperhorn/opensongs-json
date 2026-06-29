@@ -42,6 +42,18 @@ python build/validate.py               # schema invariants
 python build/index.py                  # rebuild index.json
 ```
 
+## Sources
+
+Melodies are transcribed by hand from public-domain sources. Reference material
+we use to identify tunes and check transcriptions includes:
+
+- **[Nottingham Music Database](https://abc.sourceforge.net/NMD/)** — a large
+  collection of public-domain British/Irish/American folk tunes in ABC, via the
+  cleaned [`jukedeck/nottingham-dataset`](https://github.com/jukedeck/nottingham-dataset)
+  (GPLv3). The folk melodies themselves are public domain; we re-author the
+  single-line melody ourselves rather than copying its files, so our output stays
+  CC0 and free of the dataset's copyleft terms.
+
 ## License
 
 Song data: **CC0-1.0** — all melodies are public domain; engravings are our own.
