@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Nikolai Rimsky-Korsakov</creator>
     <encoding>
-      <encoding-date>2026-06-28</encoding-date>
+      <encoding-date>2026-06-29</encoding-date>
       <software>music21 v.10.5.0</software>
       <supports element="beam" type="yes" />
       <supports element="stem" type="yes" />
@@ -25,12 +25,12 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P09e962771cccadf0c4332525f6c1d461">
+    <score-part id="P51e795fab1e7119bbcb2c2c7eb1b7ea4">
       <part-name />
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P09e962771cccadf0c4332525f6c1d461">
+  <part id="P51e795fab1e7119bbcb2c2c7eb1b7ea4">
     <!--========================= Measure 0 ==========================-->
     <measure implicit="no" number="0">
       <attributes>

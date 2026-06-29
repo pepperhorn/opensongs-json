@@ -5425,7 +5425,7 @@
         "low": "C#4",
         "high": "C#5"
       },
-      "noteCount": 40,
+      "noteCount": 37,
       "instrumentsSuited": [
         "keyboard",
         "violin"
@@ -5894,7 +5894,7 @@
         "low": "D4",
         "high": "D5"
       },
-      "noteCount": 55,
+      "noteCount": 54,
       "instrumentsSuited": [
         "keyboard",
         "violin",
@@ -7281,7 +7281,7 @@
         "low": "A4",
         "high": "F6"
       },
-      "noteCount": 76,
+      "noteCount": 57,
       "instrumentsSuited": [
         "keyboard",
         "violin",
@@ -7984,7 +7984,7 @@
         "low": "D4",
         "high": "D5"
       },
-      "noteCount": 34,
+      "noteCount": 26,
       "instrumentsSuited": [
         "keyboard",
         "violin",
@@ -9656,7 +9656,7 @@
         "low": "C4",
         "high": "C5"
       },
-      "noteCount": 46,
+      "noteCount": 42,
       "instrumentsSuited": [
         "keyboard",
         "trumpet",

@@ -148,23 +148,6 @@
       "measure": 5,
       "beat": 1.0,
       "onset": 16.0,
-      "duration": 0.0,
-      "type": "note",
-      "pitch": {
-        "step": "C",
-        "alter": 0,
-        "octave": 4,
-        "midi": 60,
-        "spelled": "C4"
-      },
-      "lyric": null,
-      "tie": null
-    },
-    {
-      "i": 9,
-      "measure": 5,
-      "beat": 1.0,
-      "onset": 16.0,
       "duration": 0.25,
       "type": "note",
       "pitch": {
@@ -178,7 +161,7 @@
       "tie": null
     },
     {
-      "i": 10,
+      "i": 9,
       "measure": 5,
       "beat": 1.25,
       "onset": 16.25,
@@ -195,7 +178,7 @@
       "tie": null
     },
     {
-      "i": 11,
+      "i": 10,
       "measure": 5,
       "beat": 1.5,
       "onset": 16.5,
@@ -212,7 +195,7 @@
       "tie": null
     },
     {
-      "i": 12,
+      "i": 11,
       "measure": 5,
       "beat": 1.75,
       "onset": 16.75,
@@ -229,7 +212,7 @@
       "tie": null
     },
     {
-      "i": 13,
+      "i": 12,
       "measure": 5,
       "beat": 2.0,
       "onset": 17.0,
@@ -246,7 +229,7 @@
       "tie": null
     },
     {
-      "i": 14,
+      "i": 13,
       "measure": 5,
       "beat": 2.25,
       "onset": 17.25,
@@ -263,7 +246,7 @@
       "tie": null
     },
     {
-      "i": 15,
+      "i": 14,
       "measure": 5,
       "beat": 2.5,
       "onset": 17.5,
@@ -280,7 +263,7 @@
       "tie": null
     },
     {
-      "i": 16,
+      "i": 15,
       "measure": 5,
       "beat": 2.75,
       "onset": 17.75,
@@ -297,7 +280,7 @@
       "tie": null
     },
     {
-      "i": 17,
+      "i": 16,
       "measure": 5,
       "beat": 3.0,
       "onset": 18.0,
@@ -314,7 +297,7 @@
       "tie": null
     },
     {
-      "i": 18,
+      "i": 17,
       "measure": 6,
       "beat": 1.0,
       "onset": 20.0,
@@ -331,7 +314,7 @@
       "tie": null
     },
     {
-      "i": 19,
+      "i": 18,
       "measure": 6,
       "beat": 2.0,
       "onset": 21.0,
@@ -348,7 +331,7 @@
       "tie": null
     },
     {
-      "i": 20,
+      "i": 19,
       "measure": 6,
       "beat": 2.25,
       "onset": 21.25,
@@ -365,7 +348,7 @@
       "tie": null
     },
     {
-      "i": 21,
+      "i": 20,
       "measure": 6,
       "beat": 2.5,
       "onset": 21.5,
@@ -382,7 +365,7 @@
       "tie": null
     },
     {
-      "i": 22,
+      "i": 21,
       "measure": 6,
       "beat": 2.75,
       "onset": 21.75,
@@ -399,7 +382,7 @@
       "tie": null
     },
     {
-      "i": 23,
+      "i": 22,
       "measure": 6,
       "beat": 3.0,
       "onset": 22.0,
@@ -416,7 +399,7 @@
       "tie": null
     },
     {
-      "i": 24,
+      "i": 23,
       "measure": 6,
       "beat": 4.0,
       "onset": 23.0,
@@ -433,7 +416,7 @@
       "tie": null
     },
     {
-      "i": 25,
+      "i": 24,
       "measure": 7,
       "beat": 1.0,
       "onset": 24.0,
@@ -450,7 +433,7 @@
       "tie": null
     },
     {
-      "i": 26,
+      "i": 25,
       "measure": 7,
       "beat": 1.25,
       "onset": 24.25,
@@ -467,7 +450,7 @@
       "tie": null
     },
     {
-      "i": 27,
+      "i": 26,
       "measure": 7,
       "beat": 1.5,
       "onset": 24.5,
@@ -484,7 +467,7 @@
       "tie": null
     },
     {
-      "i": 28,
+      "i": 27,
       "measure": 7,
       "beat": 1.75,
       "onset": 24.75,
@@ -501,7 +484,7 @@
       "tie": null
     },
     {
-      "i": 29,
+      "i": 28,
       "measure": 7,
       "beat": 2.0,
       "onset": 25.0,
@@ -518,7 +501,7 @@
       "tie": null
     },
     {
-      "i": 30,
+      "i": 29,
       "measure": 7,
       "beat": 2.25,
       "onset": 25.25,
@@ -535,7 +518,7 @@
       "tie": null
     },
     {
-      "i": 31,
+      "i": 30,
       "measure": 7,
       "beat": 2.5,
       "onset": 25.5,
@@ -552,7 +535,7 @@
       "tie": null
     },
     {
-      "i": 32,
+      "i": 31,
       "measure": 7,
       "beat": 2.75,
       "onset": 25.75,
@@ -569,7 +552,7 @@
       "tie": null
     },
     {
-      "i": 33,
+      "i": 32,
       "measure": 7,
       "beat": 3.0,
       "onset": 26.0,
@@ -586,7 +569,7 @@
       "tie": null
     },
     {
-      "i": 34,
+      "i": 33,
       "measure": 8,
       "beat": 1.0,
       "onset": 28.0,
@@ -603,7 +586,7 @@
       "tie": null
     },
     {
-      "i": 35,
+      "i": 34,
       "measure": 8,
       "beat": 2.0,
       "onset": 29.0,
@@ -620,7 +603,7 @@
       "tie": null
     },
     {
-      "i": 36,
+      "i": 35,
       "measure": 8,
       "beat": 2.25,
       "onset": 29.25,
@@ -637,7 +620,7 @@
       "tie": null
     },
     {
-      "i": 37,
+      "i": 36,
       "measure": 8,
       "beat": 2.5,
       "onset": 29.5,
@@ -654,7 +637,7 @@
       "tie": null
     },
     {
-      "i": 38,
+      "i": 37,
       "measure": 8,
       "beat": 2.75,
       "onset": 29.75,
@@ -671,7 +654,7 @@
       "tie": null
     },
     {
-      "i": 39,
+      "i": 38,
       "measure": 8,
       "beat": 3.0,
       "onset": 30.0,
@@ -688,7 +671,7 @@
       "tie": null
     },
     {
-      "i": 40,
+      "i": 39,
       "measure": 8,
       "beat": 4.0,
       "onset": 31.0,
@@ -705,7 +688,7 @@
       "tie": null
     },
     {
-      "i": 41,
+      "i": 40,
       "measure": 9,
       "beat": 1.0,
       "onset": 32.0,
@@ -722,7 +705,7 @@
       "tie": null
     },
     {
-      "i": 42,
+      "i": 41,
       "measure": 9,
       "beat": 1.25,
       "onset": 32.25,
@@ -739,7 +722,7 @@
       "tie": null
     },
     {
-      "i": 43,
+      "i": 42,
       "measure": 9,
       "beat": 1.5,
       "onset": 32.5,
@@ -756,7 +739,7 @@
       "tie": null
     },
     {
-      "i": 44,
+      "i": 43,
       "measure": 9,
       "beat": 1.75,
       "onset": 32.75,
@@ -773,7 +756,7 @@
       "tie": null
     },
     {
-      "i": 45,
+      "i": 44,
       "measure": 9,
       "beat": 2.0,
       "onset": 33.0,
@@ -790,7 +773,7 @@
       "tie": null
     },
     {
-      "i": 46,
+      "i": 45,
       "measure": 9,
       "beat": 2.25,
       "onset": 33.25,
@@ -807,7 +790,7 @@
       "tie": null
     },
     {
-      "i": 47,
+      "i": 46,
       "measure": 9,
       "beat": 2.5,
       "onset": 33.5,
@@ -824,7 +807,7 @@
       "tie": null
     },
     {
-      "i": 48,
+      "i": 47,
       "measure": 9,
       "beat": 2.75,
       "onset": 33.75,
@@ -841,7 +824,7 @@
       "tie": null
     },
     {
-      "i": 49,
+      "i": 48,
       "measure": 9,
       "beat": 3.0,
       "onset": 34.0,
@@ -858,7 +841,7 @@
       "tie": null
     },
     {
-      "i": 50,
+      "i": 49,
       "measure": 9,
       "beat": 4.0,
       "onset": 35.0,
@@ -875,7 +858,7 @@
       "tie": null
     },
     {
-      "i": 51,
+      "i": 50,
       "measure": 10,
       "beat": 1.0,
       "onset": 36.0,
@@ -892,7 +875,7 @@
       "tie": null
     },
     {
-      "i": 52,
+      "i": 51,
       "measure": 10,
       "beat": 2.0,
       "onset": 37.0,
@@ -909,7 +892,7 @@
       "tie": null
     },
     {
-      "i": 53,
+      "i": 52,
       "measure": 10,
       "beat": 2.25,
       "onset": 37.25,
@@ -926,7 +909,7 @@
       "tie": null
     },
     {
-      "i": 54,
+      "i": 53,
       "measure": 10,
       "beat": 2.5,
       "onset": 37.5,
@@ -943,7 +926,7 @@
       "tie": null
     },
     {
-      "i": 55,
+      "i": 54,
       "measure": 10,
       "beat": 2.75,
       "onset": 37.75,
@@ -960,7 +943,7 @@
       "tie": null
     },
     {
-      "i": 56,
+      "i": 55,
       "measure": 10,
       "beat": 3.0,
       "onset": 38.0,
@@ -977,7 +960,7 @@
       "tie": null
     },
     {
-      "i": 57,
+      "i": 56,
       "measure": 10,
       "beat": 4.0,
       "onset": 39.0,
@@ -994,7 +977,7 @@
       "tie": null
     },
     {
-      "i": 58,
+      "i": 57,
       "measure": 11,
       "beat": 1.0,
       "onset": 40.0,

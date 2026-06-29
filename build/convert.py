@@ -17,7 +17,8 @@ import re
 import sys
 from pathlib import Path
 
-from music21 import converter, note, chord, tempo, key as m21key, meter, pitch as m21pitch
+from music21 import (converter, note, chord, harmony, tempo, key as m21key,
+                     meter, pitch as m21pitch)
 
 
 def _spelled(p):
@@ -91,8 +92,15 @@ def convert_song(song_dir: Path):
     if measures and measures[0].duration.quarterLength < bar_dur:
         pickup_beats = float(bar_dur - measures[0].duration.quarterLength)
 
-    # build raw events; normalize measure numbers so the first bar == 1
-    raw = list(flat.notesAndRests)
+    # build raw events; normalize measure numbers so the first bar == 1.
+    # Exclude chord-symbol/annotation objects (quoted "Dm", "A7", "f" in the ABC
+    # parse as zero-duration harmony.Harmony) and ornamental grace notes — both
+    # would otherwise emit phantom zero-duration events. The MusicXML written
+    # above keeps them; song.json is the clean monophonic melody.
+    raw = [n for n in flat.notesAndRests
+           if not isinstance(n, harmony.Harmony)
+           and not n.duration.isGrace
+           and n.duration.quarterLength > 0]
     min_meas = min((n.measureNumber for n in raw if n.measureNumber is not None),
                    default=1)
     shift = 1 - min_meas
