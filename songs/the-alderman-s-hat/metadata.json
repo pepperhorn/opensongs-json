@@ -1,0 +1,23 @@
+{
+  "id": "the-alderman-s-hat",
+  "title": "The Alderman's Hat",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "English country dance (Playford, 1651+); anonymous traditional"
+  },
+  "tags": [
+    "english-country-dance",
+    "playford",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

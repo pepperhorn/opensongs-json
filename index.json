@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 321,
+  "count": 346,
   "schemaVersion": 1,
   "songs": [
     {
@@ -3272,6 +3272,40 @@
       }
     },
     {
+      "id": "abbotts-bromley-horn-dance",
+      "title": "Abbotts Bromley Horn Dance",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "F#5"
+      },
+      "noteCount": 38,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/abbotts-bromley-horn-dance/song.json",
+        "abc": "songs/abbotts-bromley-horn-dance/song.abc",
+        "musicxml": "songs/abbotts-bromley-horn-dance/song.musicxml"
+      }
+    },
+    {
       "id": "aint-misbehavin",
       "title": "Ain't Misbehavin'",
       "composer": "Fats Waller",
@@ -3874,6 +3908,40 @@
       }
     },
     {
+      "id": "beaux-of-london-city",
+      "title": "Beaux of London City",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        9,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 56,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/beaux-of-london-city/song.json",
+        "abc": "songs/beaux-of-london-city/song.abc",
+        "musicxml": "songs/beaux-of-london-city/song.musicxml"
+      }
+    },
+    {
       "id": "berceuse",
       "title": "Berceuse",
       "composer": "Gabriel Faur\u00e9",
@@ -3940,6 +4008,40 @@
         "song": "songs/beyond-the-blue-horizon/song.json",
         "abc": "songs/beyond-the-blue-horizon/song.abc",
         "musicxml": "songs/beyond-the-blue-horizon/song.musicxml"
+      }
+    },
+    {
+      "id": "blue-bells-of-scotland",
+      "title": "Blue Bells of Scotland",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "F#5"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/blue-bells-of-scotland/song.json",
+        "abc": "songs/blue-bells-of-scotland/song.abc",
+        "musicxml": "songs/blue-bells-of-scotland/song.musicxml"
       }
     },
     {
@@ -4452,6 +4554,40 @@
       }
     },
     {
+      "id": "constant-billy",
+      "title": "Constant Billy",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "A5"
+      },
+      "noteCount": 35,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/constant-billy/song.json",
+        "abc": "songs/constant-billy/song.abc",
+        "musicxml": "songs/constant-billy/song.musicxml"
+      }
+    },
+    {
       "id": "coppelia-waltz",
       "title": "Copp\u00e9lia Waltz",
       "composer": "L\u00e9o Delibes",
@@ -4657,6 +4793,40 @@
         "song": "songs/denis-murphy-s/song.json",
         "abc": "songs/denis-murphy-s/song.abc",
         "musicxml": "songs/denis-murphy-s/song.musicxml"
+      }
+    },
+    {
+      "id": "dick-s-maggot",
+      "title": "Dick's Maggot",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        2
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "F5"
+      },
+      "noteCount": 47,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/dick-s-maggot/song.json",
+        "abc": "songs/dick-s-maggot/song.abc",
+        "musicxml": "songs/dick-s-maggot/song.musicxml"
       }
     },
     {
@@ -4999,6 +5169,40 @@
       }
     },
     {
+      "id": "fieldtown-processional",
+      "title": "Fieldtown Processional",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "E5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/fieldtown-processional/song.json",
+        "abc": "songs/fieldtown-processional/song.abc",
+        "musicxml": "songs/fieldtown-processional/song.musicxml"
+      }
+    },
+    {
       "id": "flight-of-the-bumblebee",
       "title": "Flight of the Bumblebee",
       "composer": "Nikolai Rimsky-Korsakov",
@@ -5135,6 +5339,40 @@
         "song": "songs/funeral-march-sonata-no-2/song.json",
         "abc": "songs/funeral-march-sonata-no-2/song.abc",
         "musicxml": "songs/funeral-march-sonata-no-2/song.musicxml"
+      }
+    },
+    {
+      "id": "gisburn-processional",
+      "title": "Gisburn Processional",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/gisburn-processional/song.json",
+        "abc": "songs/gisburn-processional/song.abc",
+        "musicxml": "songs/gisburn-processional/song.musicxml"
       }
     },
     {
@@ -5510,6 +5748,40 @@
       }
     },
     {
+      "id": "highland-mary",
+      "title": "Highland Mary",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A3",
+        "high": "D5"
+      },
+      "noteCount": 42,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/highland-mary/song.json",
+        "abc": "songs/highland-mary/song.abc",
+        "musicxml": "songs/highland-mary/song.musicxml"
+      }
+    },
+    {
       "id": "hole-in-the-wall",
       "title": "Hole in the Wall",
       "composer": "Traditional",
@@ -5850,6 +6122,73 @@
       }
     },
     {
+      "id": "jockey-to-the-fair",
+      "title": "Jockey to the Fair",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "G5"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/jockey-to-the-fair/song.json",
+        "abc": "songs/jockey-to-the-fair/song.abc",
+        "musicxml": "songs/jockey-to-the-fair/song.musicxml"
+      }
+    },
+    {
+      "id": "jubilate-deo-round",
+      "title": "Jubilate Deo (round)",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B5"
+      },
+      "noteCount": 18,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/jubilate-deo-round/song.json",
+        "abc": "songs/jubilate-deo-round/song.abc",
+        "musicxml": "songs/jubilate-deo-round/song.musicxml"
+      }
+    },
+    {
       "id": "jupiter-i-vow-to-thee-theme-the-planets",
       "title": "Jupiter / I Vow to Thee (theme, The Planets)",
       "composer": "Gustav Holst",
@@ -6021,6 +6360,40 @@
       }
     },
     {
+      "id": "lads-a-bunchum",
+      "title": "Lads a Bunchum",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        2
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "F#5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/lads-a-bunchum/song.json",
+        "abc": "songs/lads-a-bunchum/song.abc",
+        "musicxml": "songs/lads-a-bunchum/song.musicxml"
+      }
+    },
+    {
       "id": "largo-ombra-mai-fu-xerxes",
       "title": "Largo (Ombra mai fu) from Xerxes",
       "composer": "George Frideric Handel",
@@ -6053,6 +6426,40 @@
         "song": "songs/largo-ombra-mai-fu-xerxes/song.json",
         "abc": "songs/largo-ombra-mai-fu-xerxes/song.abc",
         "musicxml": "songs/largo-ombra-mai-fu-xerxes/song.musicxml"
+      }
+    },
+    {
+      "id": "leapfrog",
+      "title": "Leapfrog",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G5"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/leapfrog/song.json",
+        "abc": "songs/leapfrog/song.abc",
+        "musicxml": "songs/leapfrog/song.musicxml"
       }
     },
     {
@@ -6582,6 +6989,74 @@
         "song": "songs/morning-mood-peer-gynt/song.json",
         "abc": "songs/morning-mood-peer-gynt/song.abc",
         "musicxml": "songs/morning-mood-peer-gynt/song.musicxml"
+      }
+    },
+    {
+      "id": "morning-star",
+      "title": "Morning Star",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "B5"
+      },
+      "noteCount": 71,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/morning-star/song.json",
+        "abc": "songs/morning-star/song.abc",
+        "musicxml": "songs/morning-star/song.musicxml"
+      }
+    },
+    {
+      "id": "morris-off",
+      "title": "Morris Off",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "F#5"
+      },
+      "noteCount": 42,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/morris-off/song.json",
+        "abc": "songs/morris-off/song.abc",
+        "musicxml": "songs/morris-off/song.musicxml"
       }
     },
     {
@@ -8182,6 +8657,40 @@
       }
     },
     {
+      "id": "sadlers-wells",
+      "title": "Sadlers Wells",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        6,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "B5"
+      },
+      "noteCount": 43,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sadlers-wells/song.json",
+        "abc": "songs/sadlers-wells/song.abc",
+        "musicxml": "songs/sadlers-wells/song.musicxml"
+      }
+    },
+    {
       "id": "salut-damour",
       "title": "Salut d'Amour",
       "composer": "Edward Elgar",
@@ -8385,6 +8894,40 @@
         "song": "songs/sicilienne/song.json",
         "abc": "songs/sicilienne/song.abc",
         "musicxml": "songs/sicilienne/song.musicxml"
+      }
+    },
+    {
+      "id": "singing-of-the-travels",
+      "title": "Singing of the Travels",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/singing-of-the-travels/song.json",
+        "abc": "songs/singing-of-the-travels/song.abc",
+        "musicxml": "songs/singing-of-the-travels/song.musicxml"
       }
     },
     {
@@ -8692,6 +9235,40 @@
       }
     },
     {
+      "id": "st-hugh-s-jig",
+      "title": "St Hugh's Jig",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D5",
+        "high": "A5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/st-hugh-s-jig/song.json",
+        "abc": "songs/st-hugh-s-jig/song.abc",
+        "musicxml": "songs/st-hugh-s-jig/song.musicxml"
+      }
+    },
+    {
       "id": "staines-morris",
       "title": "Staines Morris",
       "composer": "Traditional",
@@ -8827,6 +9404,40 @@
         "song": "songs/sweet-adeline/song.json",
         "abc": "songs/sweet-adeline/song.abc",
         "musicxml": "songs/sweet-adeline/song.musicxml"
+      }
+    },
+    {
+      "id": "sweet-jenny-jones",
+      "title": "Sweet Jenny Jones",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sweet-jenny-jones/song.json",
+        "abc": "songs/sweet-jenny-jones/song.abc",
+        "musicxml": "songs/sweet-jenny-jones/song.musicxml"
       }
     },
     {
@@ -9329,6 +9940,40 @@
       }
     },
     {
+      "id": "the-alderman-s-hat",
+      "title": "The Alderman's Hat",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "A5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-alderman-s-hat/song.json",
+        "abc": "songs/the-alderman-s-hat/song.abc",
+        "musicxml": "songs/the-alderman-s-hat/song.musicxml"
+      }
+    },
+    {
       "id": "the-barley-mow",
       "title": "The Barley Mow",
       "composer": "Traditional",
@@ -9561,6 +10206,40 @@
         "song": "songs/the-entertainer/song.json",
         "abc": "songs/the-entertainer/song.abc",
         "musicxml": "songs/the-entertainer/song.musicxml"
+      }
+    },
+    {
+      "id": "the-forester",
+      "title": "The Forester",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "G5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-forester/song.json",
+        "abc": "songs/the-forester/song.abc",
+        "musicxml": "songs/the-forester/song.musicxml"
       }
     },
     {
@@ -9799,6 +10478,40 @@
       }
     },
     {
+      "id": "the-queen-s-jig",
+      "title": "The Queen's Jig",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-queen-s-jig/song.json",
+        "abc": "songs/the-queen-s-jig/song.abc",
+        "musicxml": "songs/the-queen-s-jig/song.musicxml"
+      }
+    },
+    {
       "id": "the-swan-carnival-of-animals",
       "title": "The Swan (Carnival of Animals)",
       "composer": "Camille Saint-Sa\u00ebns",
@@ -9928,6 +10641,40 @@
         "song": "songs/the-wild-horseman/song.json",
         "abc": "songs/the-wild-horseman/song.abc",
         "musicxml": "songs/the-wild-horseman/song.musicxml"
+      }
+    },
+    {
+      "id": "tideswell-processional",
+      "title": "Tideswell Processional",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 17,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/tideswell-processional/song.json",
+        "abc": "songs/tideswell-processional/song.abc",
+        "musicxml": "songs/tideswell-processional/song.musicxml"
       }
     },
     {
@@ -10572,6 +11319,39 @@
       }
     },
     {
+      "id": "wassail-2",
+      "title": "Wassail 2",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "E5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/wassail-2/song.json",
+        "abc": "songs/wassail-2/song.abc",
+        "musicxml": "songs/wassail-2/song.musicxml"
+      }
+    },
+    {
       "id": "wedding-march-a-midsummer-nights-dream",
       "title": "Wedding March (A Midsummer Night's Dream)",
       "composer": "Felix Mendelssohn",
@@ -10604,6 +11384,74 @@
         "song": "songs/wedding-march-a-midsummer-nights-dream/song.json",
         "abc": "songs/wedding-march-a-midsummer-nights-dream/song.abc",
         "musicxml": "songs/wedding-march-a-midsummer-nights-dream/song.musicxml"
+      }
+    },
+    {
+      "id": "wheatley-processional",
+      "title": "Wheatley Processional",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "F#5"
+      },
+      "noteCount": 52,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/wheatley-processional/song.json",
+        "abc": "songs/wheatley-processional/song.abc",
+        "musicxml": "songs/wheatley-processional/song.musicxml"
+      }
+    },
+    {
+      "id": "william-and-nancy",
+      "title": "William and Nancy",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G5"
+      },
+      "noteCount": 64,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/william-and-nancy/song.json",
+        "abc": "songs/william-and-nancy/song.abc",
+        "musicxml": "songs/william-and-nancy/song.musicxml"
       }
     },
     {
