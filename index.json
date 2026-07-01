@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 346,
+  "count": 371,
   "schemaVersion": 1,
   "songs": [
     {
@@ -3373,6 +3373,72 @@
       }
     },
     {
+      "id": "all-those-endearing-young-charms",
+      "title": "All Those Endearing Young Charms",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/all-those-endearing-young-charms/song.json",
+        "abc": "songs/all-those-endearing-young-charms/song.abc",
+        "musicxml": "songs/all-those-endearing-young-charms/song.musicxml"
+      }
+    },
+    {
+      "id": "alnwick-castle",
+      "title": "Alnwick Castle",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "D5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/alnwick-castle/song.json",
+        "abc": "songs/alnwick-castle/song.abc",
+        "musicxml": "songs/alnwick-castle/song.musicxml"
+      }
+    },
+    {
       "id": "also-sprach-zarathustra-opening",
       "title": "Also sprach Zarathustra (opening)",
       "composer": "Richard Strauss",
@@ -3469,6 +3535,39 @@
         "song": "songs/anvil-chorus-il-trovatore/song.json",
         "abc": "songs/anvil-chorus-il-trovatore/song.abc",
         "musicxml": "songs/anvil-chorus-il-trovatore/song.musicxml"
+      }
+    },
+    {
+      "id": "april-waltz",
+      "title": "April Waltz",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/april-waltz/song.json",
+        "abc": "songs/april-waltz/song.abc",
+        "musicxml": "songs/april-waltz/song.musicxml"
       }
     },
     {
@@ -4011,6 +4110,105 @@
       }
     },
     {
+      "id": "blaenwern",
+      "title": "Blaenwern",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/blaenwern/song.json",
+        "abc": "songs/blaenwern/song.abc",
+        "musicxml": "songs/blaenwern/song.musicxml"
+      }
+    },
+    {
+      "id": "blodau-r-drain",
+      "title": "Blodau'r Drain",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A4"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/blodau-r-drain/song.json",
+        "abc": "songs/blodau-r-drain/song.abc",
+        "musicxml": "songs/blodau-r-drain/song.musicxml"
+      }
+    },
+    {
+      "id": "blow-the-wind-southerly",
+      "title": "Blow the Wind Southerly",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A5"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/blow-the-wind-southerly/song.json",
+        "abc": "songs/blow-the-wind-southerly/song.abc",
+        "musicxml": "songs/blow-the-wind-southerly/song.musicxml"
+      }
+    },
+    {
       "id": "blue-bells-of-scotland",
       "title": "Blue Bells of Scotland",
       "composer": "Traditional",
@@ -4077,6 +4275,39 @@
         "song": "songs/bolero-theme/song.json",
         "abc": "songs/bolero-theme/song.abc",
         "musicxml": "songs/bolero-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "bonnie-dundee",
+      "title": "Bonnie Dundee",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/bonnie-dundee/song.json",
+        "abc": "songs/bonnie-dundee/song.abc",
+        "musicxml": "songs/bonnie-dundee/song.musicxml"
       }
     },
     {
@@ -4249,6 +4480,72 @@
         "song": "songs/but-not-for-me/song.json",
         "abc": "songs/but-not-for-me/song.abc",
         "musicxml": "songs/but-not-for-me/song.musicxml"
+      }
+    },
+    {
+      "id": "caerdroea",
+      "title": "Caerdroea",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/caerdroea/song.json",
+        "abc": "songs/caerdroea/song.abc",
+        "musicxml": "songs/caerdroea/song.musicxml"
+      }
+    },
+    {
+      "id": "cairn-on-the-moor",
+      "title": "Cairn on the Moor",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B5"
+      },
+      "noteCount": 35,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/cairn-on-the-moor/song.json",
+        "abc": "songs/cairn-on-the-moor/song.abc",
+        "musicxml": "songs/cairn-on-the-moor/song.musicxml"
       }
     },
     {
@@ -4658,6 +4955,39 @@
       }
     },
     {
+      "id": "daisy-daisy",
+      "title": "Daisy Daisy",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/daisy-daisy/song.json",
+        "abc": "songs/daisy-daisy/song.abc",
+        "musicxml": "songs/daisy-daisy/song.musicxml"
+      }
+    },
+    {
       "id": "dance-of-the-reed-flutes",
       "title": "Dance of the Reed Flutes",
       "composer": "Pyotr Ilyich Tchaikovsky",
@@ -4861,6 +5191,39 @@
         "song": "songs/ding-dong/song.json",
         "abc": "songs/ding-dong/song.abc",
         "musicxml": "songs/ding-dong/song.musicxml"
+      }
+    },
+    {
+      "id": "down-in-the-mines",
+      "title": "Down in the Mines",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A5"
+      },
+      "noteCount": 52,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/down-in-the-mines/song.json",
+        "abc": "songs/down-in-the-mines/song.abc",
+        "musicxml": "songs/down-in-the-mines/song.musicxml"
       }
     },
     {
@@ -5166,6 +5529,39 @@
         "song": "songs/faust-waltz-theme/song.json",
         "abc": "songs/faust-waltz-theme/song.abc",
         "musicxml": "songs/faust-waltz-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "ffarwel-ir-marian",
+      "title": "Ffarwel Ir Marian",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 16,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ffarwel-ir-marian/song.json",
+        "abc": "songs/ffarwel-ir-marian/song.abc",
+        "musicxml": "songs/ffarwel-ir-marian/song.musicxml"
       }
     },
     {
@@ -5714,6 +6110,39 @@
       }
     },
     {
+      "id": "hector-the-hero",
+      "title": "Hector the Hero",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "B5"
+      },
+      "noteCount": 43,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hector-the-hero/song.json",
+        "abc": "songs/hector-the-hero/song.abc",
+        "musicxml": "songs/hector-the-hero/song.musicxml"
+      }
+    },
+    {
       "id": "heidenroslein-wild-rose",
       "title": "Heidenr\u00f6slein / Wild Rose",
       "composer": "Franz Schubert",
@@ -6022,6 +6451,39 @@
       }
     },
     {
+      "id": "i-belong-to-glasgow",
+      "title": "I Belong to Glasgow",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-belong-to-glasgow/song.json",
+        "abc": "songs/i-belong-to-glasgow/song.abc",
+        "musicxml": "songs/i-belong-to-glasgow/song.musicxml"
+      }
+    },
+    {
       "id": "i-got-rhythm",
       "title": "I Got Rhythm",
       "composer": "George Gershwin",
@@ -6053,6 +6515,39 @@
         "song": "songs/i-got-rhythm/song.json",
         "abc": "songs/i-got-rhythm/song.abc",
         "musicxml": "songs/i-got-rhythm/song.musicxml"
+      }
+    },
+    {
+      "id": "i-went-to-pick-some-blaeberries",
+      "title": "I Went to Pick Some Blaeberries",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-went-to-pick-some-blaeberries/song.json",
+        "abc": "songs/i-went-to-pick-some-blaeberries/song.abc",
+        "musicxml": "songs/i-went-to-pick-some-blaeberries/song.musicxml"
       }
     },
     {
@@ -6224,6 +6719,39 @@
       }
     },
     {
+      "id": "just-as-the-sun-was-setting",
+      "title": "Just as the Sun was Setting",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "B3",
+        "high": "E5"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/just-as-the-sun-was-setting/song.json",
+        "abc": "songs/just-as-the-sun-was-setting/song.abc",
+        "musicxml": "songs/just-as-the-sun-was-setting/song.musicxml"
+      }
+    },
+    {
       "id": "keep-the-home-fires-burning",
       "title": "Keep the Home Fires Burning",
       "composer": "Ivor Novello",
@@ -6254,6 +6782,39 @@
         "song": "songs/keep-the-home-fires-burning/song.json",
         "abc": "songs/keep-the-home-fires-burning/song.abc",
         "musicxml": "songs/keep-the-home-fires-burning/song.musicxml"
+      }
+    },
+    {
+      "id": "kelvingrove",
+      "title": "Kelvingrove",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/kelvingrove/song.json",
+        "abc": "songs/kelvingrove/song.abc",
+        "musicxml": "songs/kelvingrove/song.musicxml"
       }
     },
     {
@@ -6531,6 +7092,39 @@
       }
     },
     {
+      "id": "logie-o-buchan",
+      "title": "Logie O'Buchan",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/logie-o-buchan/song.json",
+        "abc": "songs/logie-o-buchan/song.abc",
+        "musicxml": "songs/logie-o-buchan/song.musicxml"
+      }
+    },
+    {
       "id": "louis-waltz",
       "title": "Louis Waltz",
       "composer": "Traditional",
@@ -6562,6 +7156,72 @@
         "song": "songs/louis-waltz/song.json",
         "abc": "songs/louis-waltz/song.abc",
         "musicxml": "songs/louis-waltz/song.musicxml"
+      }
+    },
+    {
+      "id": "m-t-b",
+      "title": "M.T.B.",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "B5"
+      },
+      "noteCount": 51,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/m-t-b/song.json",
+        "abc": "songs/m-t-b/song.abc",
+        "musicxml": "songs/m-t-b/song.musicxml"
+      }
+    },
+    {
+      "id": "maid-of-glenconnel",
+      "title": "Maid of GlenConnel",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 50,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/maid-of-glenconnel/song.json",
+        "abc": "songs/maid-of-glenconnel/song.abc",
+        "musicxml": "songs/maid-of-glenconnel/song.musicxml"
       }
     },
     {
@@ -6693,6 +7353,72 @@
         "song": "songs/meditation-tha-s/song.json",
         "abc": "songs/meditation-tha-s/song.abc",
         "musicxml": "songs/meditation-tha-s/song.musicxml"
+      }
+    },
+    {
+      "id": "merch-megan",
+      "title": "Merch Megan",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "B4"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/merch-megan/song.json",
+        "abc": "songs/merch-megan/song.abc",
+        "musicxml": "songs/merch-megan/song.musicxml"
+      }
+    },
+    {
+      "id": "mexican-waltz",
+      "title": "Mexican Waltz",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/mexican-waltz/song.json",
+        "abc": "songs/mexican-waltz/song.abc",
+        "musicxml": "songs/mexican-waltz/song.musicxml"
       }
     },
     {
@@ -6860,6 +7586,39 @@
         "song": "songs/minute-waltz/song.json",
         "abc": "songs/minute-waltz/song.abc",
         "musicxml": "songs/minute-waltz/song.musicxml"
+      }
+    },
+    {
+      "id": "mist-on-the-marsh",
+      "title": "Mist on the Marsh",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "A5"
+      },
+      "noteCount": 56,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/mist-on-the-marsh/song.json",
+        "abc": "songs/mist-on-the-marsh/song.abc",
+        "musicxml": "songs/mist-on-the-marsh/song.musicxml"
       }
     },
     {
@@ -7196,6 +7955,39 @@
         "song": "songs/my-darling-asleep/song.json",
         "abc": "songs/my-darling-asleep/song.abc",
         "musicxml": "songs/my-darling-asleep/song.musicxml"
+      }
+    },
+    {
+      "id": "nan-s-waltz",
+      "title": "Nan's Waltz",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/nan-s-waltz/song.json",
+        "abc": "songs/nan-s-waltz/song.abc",
+        "musicxml": "songs/nan-s-waltz/song.musicxml"
       }
     },
     {
@@ -11487,6 +12279,40 @@
         "song": "songs/william-tell-overture-finale/song.json",
         "abc": "songs/william-tell-overture-finale/song.abc",
         "musicxml": "songs/william-tell-overture-finale/song.musicxml"
+      }
+    },
+    {
+      "id": "winster-processional",
+      "title": "Winster Processional",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "morris",
+        "english",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/winster-processional/song.json",
+        "abc": "songs/winster-processional/song.abc",
+        "musicxml": "songs/winster-processional/song.musicxml"
       }
     },
     {

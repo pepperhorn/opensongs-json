@@ -1,0 +1,22 @@
+{
+  "id": "bonnie-dundee",
+  "title": "Bonnie Dundee",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional waltz (pre-1900)"
+  },
+  "tags": [
+    "waltz",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}
