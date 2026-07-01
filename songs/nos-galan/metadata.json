@@ -1,0 +1,24 @@
+{
+  "id": "nos-galan",
+  "title": "Nos Galan",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Welsh traditional ('Deck the Halls' tune)"
+  },
+  "tags": [
+    "carol",
+    "christmas",
+    "welsh",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "carol",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

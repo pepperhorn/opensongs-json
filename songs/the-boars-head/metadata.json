@@ -1,0 +1,23 @@
+{
+  "id": "the-boars-head",
+  "title": "The Boar's Head",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "The Boar's Head Carol, 15th c."
+  },
+  "tags": [
+    "carol",
+    "christmas",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "carol",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

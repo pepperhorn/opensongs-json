@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 294,
+  "count": 297,
   "schemaVersion": 1,
   "songs": [
     {
@@ -5030,6 +5030,40 @@
       }
     },
     {
+      "id": "good-christian-men-rejoice",
+      "title": "Good Christian Men Rejoice",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 59,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/good-christian-men-rejoice/song.json",
+        "abc": "songs/good-christian-men-rejoice/song.abc",
+        "musicxml": "songs/good-christian-men-rejoice/song.musicxml"
+      }
+    },
+    {
       "id": "great-gate-of-kiev-theme",
       "title": "Great Gate of Kiev (theme)",
       "composer": "Modest Mussorgsky",
@@ -6445,6 +6479,41 @@
         "song": "songs/nocturne-op-9-no-2/song.json",
         "abc": "songs/nocturne-op-9-no-2/song.abc",
         "musicxml": "songs/nocturne-op-9-no-2/song.musicxml"
+      }
+    },
+    {
+      "id": "nos-galan",
+      "title": "Nos Galan",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "welsh",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "F5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/nos-galan/song.json",
+        "abc": "songs/nos-galan/song.abc",
+        "musicxml": "songs/nos-galan/song.musicxml"
       }
     },
     {
@@ -8701,6 +8770,40 @@
         "song": "songs/the-blue-danube/song.json",
         "abc": "songs/the-blue-danube/song.abc",
         "musicxml": "songs/the-blue-danube/song.musicxml"
+      }
+    },
+    {
+      "id": "the-boars-head",
+      "title": "The Boar's Head",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-boars-head/song.json",
+        "abc": "songs/the-boars-head/song.abc",
+        "musicxml": "songs/the-boars-head/song.musicxml"
       }
     },
     {
