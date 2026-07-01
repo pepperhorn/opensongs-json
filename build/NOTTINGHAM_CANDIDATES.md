@@ -1,0 +1,1026 @@
+# Nottingham ABC_cleaned — Vetted PD Candidate Pool
+
+Full pass across the entire jukedeck/nottingham-dataset `ABC_cleaned` set (1034 tunes parsed). This is a **reference manifest** — metadata only, no GPLv3 ABC copied. Re-author each melody as our own `song.abc` to keep output CC0.
+
+- **969 clear-PD candidates** not yet built
+- 25 already in the 25-tune `nottingham_queue.json` sampler
+- 3 already in the library; 10 flagged; 3 excluded (copyright)
+
+PD basis: dance-tune collections are anonymous-traditional folk (PD by nature); waltzes & xmas vetted per-title against AU life+70 (composer/lyricist d.≤1955).
+
+> **Beginner-suitability note:** many reels/jigs are fast and wide-range. Use `meter`, `has_meter_change`, `has_key_change` to pick beginner-friendly, single-part tunes first when authoring.
+
+## Carols (11)
+
+- Ding Dong — 4/4, key Bb  _(in-sampler)_
+- God rest you, merry gentlemen — 4/4, key Em  _(in-sampler)_
+- Good Christian Men Rejoice — 6/8, key F  _(in-sampler)_
+- Jubilate Deo (round) — 4/4, key C
+- Nos Galan — 4/4, key F
+- On Christmas Night — 6/8, key G  _(in-sampler, multi-part)_
+- The Boar's Head — 4/4, key C
+- The Holly and the Ivy — 3/4, key D  _(in-sampler, multi-part)_
+- Wassail 1 — 6/8, key Dm  _(in-sampler, multi-part)_
+- Wassail 2 — 6/8, key D
+- Wassail 3 — 6/8, key G  _(multi-part)_
+
+## Playford (English country dance, 1651+) (12)
+
+- Dick's Maggot — 3/2, key G
+- Hole in the Wall — 3/2, key Bb  _(in-sampler)_
+- Mr Beveridge's Maggot — 3/2, key Gm  _(in-sampler)_
+- Never Love Thee More — 6/8, key G  _(in-sampler)_
+- Nonesuch — 4/4, key Dm  _(in-sampler)_
+- Rufty Tufty — 4/4, key D  _(in-sampler, multi-part)_
+- Sadlers Wells — 6/4, key Dm
+- St Hugh's Jig — 4/4, key D
+- Staines Morris — 4/4, key Dm  _(in-sampler)_
+- The Alderman's Hat — 4/4, key Gm
+- The Indian Queen — 4/4, key D  _(in-sampler)_
+- The Queen's Jig — 6/8, key D
+
+## Waltzes / airs (44)
+
+- All Those Endearing Young Charms — 3/4, key G
+- Alnwick Castle — 3/4, key G
+- April Waltz — 3/4, key G
+- Blaenwern — 3/4, key G
+- Blodau'r Drain — 3/4, key Am
+- Blow the Wind Southerly — 3/4, key D
+- Bonnie Dundee — 3/4, key F
+- Caerdroea — 3/4, key D
+- Cairn on the Moor — 3/4, key G
+- Daisy Daisy — 3/4, key D
+- Down in the Mines — 3/4, key G
+- Ffarwel Ir Marian — 3/4, key Dm
+- Hector the Hero — 3/4, key Bb
+- I Belong to Glasgow — 3/4, key G
+- I Went to Pick Some Blaeberries — 3/4, key A
+- Just as the Sun was Setting — 3/4, key Am
+- Kelvingrove — 3/4, key G
+- Logie O'Buchan — 3/4, key D
+- Louis Waltz — 3/4, key D  _(in-sampler)_
+- M.T.B. — 3/4, key G
+- Maid of GlenConnel — 3/4, key D
+- Merch Megan — 3/4, key G
+- Mexican Waltz — 3/4, key G
+- Mist on the Marsh — 3/4, key G
+- Nan's Waltz — 3/4, key G
+- Northern Lights — 3/4, key D
+- Pam's Fancy — 3/4, key G
+- Planxty Irwin — 3/4, key D
+- Plodder Seam — 3/4, key C
+- Road to Dundee — 3/4, key G
+- Rope Waltz — 3/4, key D
+- Scots Wha Hae — 3/4, key F
+- Seamus O'Brien — 3/4, key G
+- Shebag Shebong — 3/4, key D
+- So Long — 3/4, key G  _(in-sampler)_
+- Starry Nights of Shetland — 3/4, key C
+- Sunset Over Ayr — 3/4, key G
+- The Greenwood Tree — 3/4, key D
+- Twickenham Ferry — 3/4, key G
+- Waters of Tyne — 3/4, key D
+- Weeping and Wailing — 3/4, key D
+- Wind on the Heath — 3/4, key D
+- Ye Banks and Braes — 3/4, key D
+- Young Jane — 3/4, key G
+
+## Morris (24)
+
+- Abbotts Bromley Horn Dance — 6/8, key Gm
+- Abram Circle — 4/4, key G  _(multi-part)_
+- Beaux of London City — 9/8, key F
+- Blue Bells of Scotland — 4/4, key G
+- Bonny Green Garters — 6/8, key D  _(multi-part)_
+- Constant Billy — 6/8, key A
+- Fieldtown Processional — 4/4, key G
+- Gisburn Processional — 6/8, key G
+- Highland Mary — 4/4, key G
+- Jockey to the Fair — 6/8, key G
+- Lads a Bunchum — 2/2, key F
+- Leapfrog — 4/4, key Bb
+- Morning Star — 4/4, key G
+- Morris Off — 4/4, key G
+- Orange in Bloom — 6/8, key D  _(multi-part)_
+- Princess Royal — 4/4, key G  _(multi-part)_
+- Singing of the Travels — 4/4, key G
+- Sweet Jenny Jones — 3/4, key C
+- The Forester — 4/4, key D
+- Tideswell Processional — 4/4, key G
+- Valentine — 6/8, key G  _(multi-part)_
+- Wheatley Processional — 4/4, key G
+- William and Nancy — 6/8, key G
+- Winster Processional — 4/4, key G
+
+## Slip jigs (11)
+
+- Drops of Brandy — 9/8, key G
+- Dublin Streets — 9/8, key Em
+- Gingerhog's No.2 — 4/4, key D  _(multi-part)_
+- Kid on the Mountain — 9/8, key Em
+- Sir Roger de Coverley — 9/8, key G
+- Slip Jig — 9/8, key D
+- Staggering Home — 9/8, key G
+- The Glass Of Stout — 9/8, key A
+- The Lamppost — 9/8, key G
+- The Racehorse — 9/8, key Bb  _(multi-part)_
+- The Rocky Road To Dublin — 9/8, key Am
+
+## Hornpipes (59)
+
+- Aunt Hessie's White Horse — 4/4, key G
+- Barn Dance 1 — 4/4, key D
+- Barn Dance 2 — 4/4, key G
+- Beaux of Oakhill — 4/4, key D
+- Blue Bell Polka — 4/4, key G  _(multi-part)_
+- Caber Feigh — 4/4, key C
+- Castles in the Air — 4/4, key G
+- City of Savannah — 4/4, key D
+- Colosseum — 4/4, key A
+- Croen y Ddeted Felan — 4/4, key G
+- Crossing the Minch — 4/4, key D
+- Down the Glen — 4/4, key D
+- Fisher's Hornpipe — 4/4, key D
+- Gipsy's Hornpipe — 4/4, key G
+- Green Grow the Rushes — 4/4, key G
+- Greencastle Hornpipe — 4/4, key G
+- Hamish — 4/4, key D
+- Harvest Home — 4/4, key D
+- Humours of California — 4/4, key G
+- Jenny's Bawbee — 4/4, key D
+- John Peel — 4/4, key A
+- John Peel Variations — 4/4, key A
+- Kafoozalum — 4/4, key A
+- King of the Fairies — 4/4, key Em
+- Kitty O'Niel — 4/4, key A
+- Kitty O'Niel's Champion — 4/4, key A
+- Liverpool Hornpipe — 4/4, key D
+- Londonderry Hornpipe — 4/4, key D
+- Lord Moira — 4/4, key G
+- MacAllan — 4/4, key A
+- Madame Bonaparte — 4/4, key G
+- Madame Bonaparte Variation — 4/4, key G
+- Maggie Pickens — 4/4, key G
+- Man from Newry — 4/4, key G
+- Manchester — 4/4, key D
+- Marquis of Lorne — 4/4, key G
+- McCusker — 4/4, key D
+- Millicent's Favourite — 4/4, key D
+- Mrs Willis — 4/4, key F  _(multi-part)_
+- Navvie on the Line — 4/4, key G
+- Orange and Blue — 4/4, key D
+- Penny on the H2O — 4/4, key D
+- Phillibelula — 4/4, key D
+- Proudlocks's Hornpipe — 4/4, key G
+- Proudlocks's Variation — 4/4, key G
+- Puddlegum's Misery — 4/4, key Am
+- Redesdale Hornpipe — 4/4, key G
+- Sheffield Hornpipe — 4/4, key D
+- Shetland Polka — 4/4, key G
+- Steam-boat Hornpipe — 4/4, key G
+- Thames Hornpipe — 4/4, key G  _(multi-part)_
+- The Blackbird — 4/4, key G
+- The Cuckoo — 4/4, key G
+- The Friendly Visit — 4/4, key G
+- The High Level — 4/4, key G  _(multi-part)_
+- The Lad with the Plaidie — 4/4, key D
+- Three Little Blackberries — 4/4, key D
+- Tom Howard's — 4/4, key A
+- Trumpet — 4/4, key G
+
+## Misc (Ashover) (44)
+
+- A and A's Waltz — 3/4, key G  _(multi-part)_
+- Barry's Favourite — 2/2, key D
+- Black Boy — 2/4, key A  _(multi-part)_
+- Black Tulip Hornpipe — 2/2, key G
+- Bobbin Mill Reel — 4/4, key D
+- Busker Brag — 4/4, key C
+- Caymann Reel — 4/4, key A
+- Chestnut Reel — 4/4, key G  _(multi-part)_
+- Cheviners Jig — 6/8, key D
+- Cuillin Reel — 4/4, key G
+- Duchess of Hamilton's Rant — 6/8, key A
+- Duncan's Waltz — 3/4, key C
+- Espresso Polka — 2/4, key G  _(multi-part)_
+- Falling About — 4/4, key E  _(multi-part)_
+- Flapjack — 4/4, key F
+- Fradley Reel — 4/4, key C  _(multi-part)_
+- Harper's Frolick — 2/4, key D
+- Hopwas Hornpipe — 2/2, key G
+- London — 2/4, key A
+- MacDonald's Jig — 6/8, key A
+- Major O'Flacherty — 6/8, key C
+- Old Man of Mow — 6/8, key G
+- One More Dance \& Then — 2/4, key G
+- Paddy in Flow — 6/8, key D  _(multi-part)_
+- Racoon Reel — 2/4, key A
+- Roman Reel — 2/4, key A
+- Russian Dance — 2/4, key C
+- Sallylun Jig — 6/8, key D
+- Scottish Caddie — 6/8, key C
+- Stepping Stone — 3/4, key G
+- Temperley Hornpipe — 2/2, key D  _(multi-part)_
+- The Chaco Waltz — 3/4, key Bb  _(multi-part)_
+- The Dance of the Polygon — 4/4, key D
+- The Five Wells — 6/8, key F
+- The Frantocini — 6/8, key F
+- The Polygon — 6/8, key D
+- The Scotch Ramble — 4/4, key A
+- The Sluggard Tapper — 3/4, key D  _(multi-part)_
+- The Toastmaster — 4/4, key G  _(multi-part)_
+- The Trouper — 4/4, key G
+- Verdi's Waltz — 3/4, key C
+- Via Gellia — 6/8, key G
+- Vole Crossing — 6/8, key D
+- Washtap Reel — 4/4, key G
+
+## Jigs (330)
+
+- A and D — 4/4, key A  _(multi-part)_
+- A Pinch Of Saltire — 6/8, key A
+- Abacus — 6/8, key G
+- Ap Shenkin — 4/4, key G  _(multi-part)_
+- Armstrongs — 6/8, key A
+- Art Wooten's Quadrille — 6/8, key Bb
+- Arthur Darley — 6/8, key D  _(multi-part)_
+- As Luck Will Have It — 6/8, key D
+- Atholl Highlanders — 6/8, key A
+- Aunt Mary's Canadian Jig — 6/8, key D
+- Aux Bois De Norwich or Norwich Woods — 6/8, key G
+- Avon Jig — 6/8, key Em
+- Backstairs Jig — 4/4, key G  _(multi-part)_
+- Ballybunion — 6/8, key G
+- Banks of the Allan — 6/8, key D
+- Barbary Bell — 6/8, key G
+- Bean Setting (North Skelton) — 6/8, key G
+- Belfast Almanac — 6/8, key G
+- Bell's Favourite — 6/8, key D
+- Biddy The Bowl Wife — 6/8, key A
+- Bill Charlton's Fancy — 6/8, key G
+- Blackberry Quadrille — 6/8, key D
+- Blackthorne Stick — 6/8, key G
+- Blarney Pilgrim — 6/8, key G
+- Blaydon Races — 6/8, key D
+- Bonnets So Blue — 4/4, key C  _(multi-part)_
+- Brian Borouhme — 6/8, key Am
+- Bridal Jig — 6/8, key G
+- Buggy Ride Jig — 6/8, key G
+- Bung Your Eye — 6/8, key Am
+- Cadeau's Jig — 6/8, key Bb
+- Captain White — 6/8, key D
+- Cat in the Kitchen — 6/8, key Bm
+- Cavan Buck — 6/8, key Bm
+- Champion Jig — 6/8, key Em
+- Charlbytown Two-Step — 6/8, key C
+- Charlie Hunter — 6/8, key D
+- Chelmsford Races — 6/8, key Bb
+- Cherish The Ladies — 6/8, key D  _(in-sampler)_
+- Christmas Day in da Morning — 6/8, key D
+- Chuntering Charlie — 6/8, key C
+- Circle Around — 6/8, key G
+- Cleveland Park — 6/8, key Dm
+- Cock of the North — 6/8, key A
+- Coleraine — 6/8, key Am  _(in-sampler)_
+- Colonel Sanders' March — 6/8, key G
+- Come Up The Back Stairs — 6/8, key G
+- Crossing The Cascades — 6/8, key D
+- Cumberland Reel — 6/8, key D  _(in-sampler)_
+- Cupid's Dart — 6/8, key D
+- Da Aald Hill Grinnd — 4/4, key G  _(multi-part)_
+- Da Brigg — 6/8, key D
+- Dan Powrie's Farewell — 6/8, key F
+- Danbury Hill — 6/8, key Am
+- Dance 'Til Dawn — 6/8, key D
+- Dancing Tailor — 6/8, key D
+- Danny MacPhail's Dilemma — 6/8, key D  _(multi-part)_
+- Danse De Chez Nous — 6/8, key A
+- Davie's Brae — 6/8, key G
+- Debbie's Jig — 6/8, key Bb  _(multi-part)_
+- Denis Murphy's — 6/8, key D  _(in-sampler)_
+- Dingle Regatta — 6/8, key G
+- Dinny O'Keefe's — 6/8, key D
+- Dixden — 6/8, key D
+- Doc Boyd — 6/8, key C
+- Donald Ian Rankine — 6/8, key G
+- Double Rise — 4/4, key D  _(multi-part)_
+- Down the Tannoch Road — 6/8, key D
+- Drummond Castle — 6/8, key Am
+- Earl Bley's Jig — 6/8, key D
+- Easter Chick — 6/8, key G
+- Edmund MacKenzie of Plockton — 6/8, key G
+- Fair Jenny's Jig — 6/8, key D
+- Farewell — 6/8, key G
+- Farewell To Joe — 6/8, key A
+- Farmer's Jamboree — 6/8, key A
+- Father Kelly's Jig — 6/8, key G  _(in-sampler)_
+- Feathers — 6/8, key G
+- Fiddle Hill Jig — 6/8, key G  _(multi-part)_
+- Fiery Clock Fyece — 6/8, key C
+- Fifty Not Out — 6/8, key C
+- First Western Change — 6/8, key G
+- Flirtation !!! — 6/8, key Am
+- Footy Aygen The Wa' — 6/8, key Em
+- Fram Apon Him — 6/8, key D
+- Freds Frolics — 6/8, key G
+- French Canadian Four-step — 6/8, key G
+- Garry Owen — 6/8, key A
+- Garster's Dream — 4/4, key G  _(multi-part)_
+- George's Corkscrew — 6/8, key C
+- Glendaruel Highlanders — 6/8, key A
+- Go to the Devil and Shake Yourself — 6/8, key D
+- Goat on the Hill — 6/8, key Am
+- Grandfather's Pet — 6/8, key D
+- Greenholm — 6/8, key G
+- Happy Meeting — 6/8, key G
+- Harmonica — 6/8, key G
+- Haste To The Wedding — 6/8, key D
+- Haymaker's Jig — 6/8, key G
+- Hexham Quadrille — 6/8, key G
+- Hexham Races — 6/8, key G
+- High Spy — 6/8, key D
+- Hilly-Go Filly-Go — 6/8, key D
+- Hogmany Jig — 6/8, key D
+- Honeypot Jig — 6/8, key C
+- Hot Punch — 6/8, key D
+- Hugh's Happy — 6/8, key Am  _(multi-part)_
+- Hullichan Jig — 6/8, key G
+- Humber Jumber (The Frisky) — 6/8, key G
+- Humours of Donnybrook — 6/8, key A
+- Hunt The Squirrel — 6/8, key A
+- I Do Like To Be Beside The Seaside — 6/8, key C
+- Icy Jig — 6/8, key Am
+- Indian Point — 6/8, key Em
+- Ingalls' Jingle — 6/8, key G
+- Irish Washerwoman — 6/8, key G
+- Irish Whiskey — 6/8, key G
+- Jan Martindale's Trip To The Bathroom — 6/8, key D  _(multi-part)_
+- Jig For Chris — 6/8, key G
+- Jig from the Water Music — 6/8, key G  _(multi-part)_
+- Joan of Arc — 6/8, key Dm
+- Joanie's Jig — 6/8, key D
+- John Brown's Body — 6/8, key D
+- Johnny MacGill — 6/8, key F
+- Jonathan's Jig — 6/8, key D
+- Jopplety How — 6/8, key G
+- Joy of the Dance — 6/8, key D
+- Joy Street Jig — 6/8, key A
+- Julian's Jig — 6/8, key C
+- Julie's Jig — 6/8, key G
+- Jump at the Sun — 6/8, key Gm
+- Katie's Rambles — 6/8, key D
+- Kennet Jig (For Kennet Mixer) — 6/8, key G
+- Kenny Gilles of Portnalong — 6/8, key A
+- Kilty Lads — 6/8, key Em
+- La Poule — 6/8, key D
+- Lady in the Boat — 6/8, key D
+- Lady Mary Douglas — 6/8, key D
+- Laird O' Cockpen — 6/8, key C
+- Lamb Skinnet — 6/8, key A
+- Lannigan's Ball — 6/8, key Em
+- Larry O'Gaff — 6/8, key G
+- Lass O' Dallogill — 6/8, key D
+- Leaping Jack — 6/8, key A
+- Lemonville Jig — 6/8, key D
+- Lesley Dolman's Jig — 6/8, key D
+- Liberty Bell — 6/8, key G  _(multi-part)_
+- Life is all Chequered — 6/8, key G
+- Lindbergh's Crate — 6/8, key D
+- Little Burnt Potato — 6/8, key D
+- Lively Tim — 6/8, key A
+- Longthwaite — 6/8, key Am
+- Lost My Love — 6/8, key Am
+- Louisburg — 6/8, key G  _(multi-part)_
+- Love, Port and Sherry — 6/8, key D
+- Luck Penny — 6/8, key G
+- Maggie's Favourite — 6/8, key G
+- Major Mackie — 6/8, key D
+- Mallorca — 6/8, key G
+- Manor Gardens — 6/8, key G
+- Maple Leaf Jig — 6/8, key G  _(multi-part)_
+- Mazawattee Tea Break — 6/8, key F  _(multi-part)_
+- McQuillen's Irish Green — 6/8, key G
+- Melange — 6/8, key A
+- Merry Month of May — 6/8, key A
+- Mid-Day Jig — 6/8, key D
+- Milford Pavillion — 6/8, key G  _(multi-part)_
+- Miss Bennet's Jig — 6/8, key G
+- Mo's Peerie Boston — 6/8, key A
+- Morecambe Bay — 6/8, key D
+- Mrs Casey — 6/8, key Em
+- Mucking of Geordie's Byre — 6/8, key D
+- My Darling Asleep — 6/8, key D  _(in-sampler)_
+- My Favourite Flute — 6/8, key D
+- My Wife's a Wanton Wee Thing — 6/8, key D
+- Nancy Dawson — 6/8, key G
+- Nantwich Fair — 6/8, key D
+- New Rigged Ship — 6/8, key D
+- Ninepins — 6/8, key D  _(multi-part)_
+- North Skelton 1, v 1 — 6/8, key C
+- North Skelton 1, v 2 — 6/8, key C
+- North Skelton 1, v 3 — 6/8, key C
+- North Skelton 2, v 1 — 6/8, key G
+- North Skelton 2, v 2 — 6/8, key G
+- Northern Hospitality Jig or Seamus Plagiarism — 6/8, key C
+- Nutting Girl — 4/4, key A  _(multi-part)_
+- Off She Goes — 6/8, key D
+- Oh Dear, What Can The Matter Be — 6/8, key G
+- On the Trail of the Lonesome Pine — 6/8, key D
+- One For The Pot — 6/8, key Am
+- Orange Rogue — 6/8, key Em
+- Orcadian — 6/8, key D
+- Over The Hills — 6/8, key Em
+- Oyster Girl — 6/8, key G
+- Paddy Carey — 6/8, key D
+- Paddy the Dandy — 6/8, key A
+- Paddy Whack — 6/8, key G
+- Pat's Parlour — 6/8, key D
+- Pet of the Pipers — 6/8, key A
+- Pete's Peerie Boat — 6/8, key D
+- Pine Cones — 6/8, key D
+- Piper's Fancy — 6/8, key D
+- Pizza and Apple Pies — 6/8, key G
+- Platnix — 6/8, key G
+- Pop Goes the Wheezle — 6/8, key G
+- Portland Fancy — 6/8, key A  _(multi-part)_
+- Princess Margaret — 6/8, key G
+- Quaker's Wife — 6/8, key G
+- Queen Victoria — 6/8, key A  _(multi-part)_
+- Queen's Fancy — 6/8, key D
+- Rake Maker's Jig — 6/8, key G
+- Rakes of Kildare — 6/8, key Am
+- Ralph Page Jig — 6/8, key D
+- Ran-Tan — 6/8, key A  _(multi-part)_
+- Rattlebones — 6/8, key G
+- Red Cigar — 6/8, key G
+- Red Leciester — 6/8, key D
+- Red Stocking — 6/8, key G
+- Reg's Cigar — 6/8, key G
+- Road To Lisdoonvarna — 6/8, key Em
+- Roddy Miller's Jig — 6/8, key G
+- Rolling Off A Log — 6/8, key C  _(multi-part)_
+- Rory O'More — 6/8, key A
+- Rosin The Beau — 6/8, key G
+- Rushwick — 6/8, key G
+- Saddle The Pony — 6/8, key G
+- Sailor's Wife — 6/8, key Dm
+- Sally Hunter — 6/8, key D
+- Sarah's Jig — 6/8, key D
+- Scarce O' Tatties — 6/8, key Am
+- Scollys — 6/8, key D
+- Scotsbroome Jig — 6/8, key D
+- Scottish Reform — 6/8, key D
+- Scrabble On Sunday ? — 6/8, key Em
+- Seven Stars — 6/8, key D
+- Sgiandubh — 6/8, key Em
+- Shafters Shindig — 6/8, key A
+- Shandon Bells — 6/8, key D
+- Shane's Fancy — 6/8, key G
+- Sheards of Foula — 6/8, key G
+- Shetland Boston — 6/8, key D
+- Silver Roses For June — 6/8, key D
+- Sir Watkin's Jigg — 6/8, key G
+- Slashers — 6/8, key D
+- Smash the Windows — 6/8, key D
+- Soldiers Dance — 6/8, key A
+- Solomon Levi — 6/8, key C
+- Spencefield Lane — 6/8, key Am
+- Spider Island — 6/8, key D
+- Sprig of Shillelah — 6/8, key G
+- Squire of Bensham — 4/4, key C  _(multi-part)_
+- St. Bruno — 6/8, key Dm
+- St. Lawrence Jig — 6/8, key D
+- Starry Night for a Ramble — 6/8, key D
+- Steamboat Quickstep — 6/8, key A
+- Stool of Repentance — 6/8, key G
+- Stratfield Saye — 6/8, key G
+- Summer Lightning — 6/8, key D
+- Swallowtail — 6/8, key Em
+- Sweets of May — 6/8, key G
+- Swimming In The Gutter — 6/8, key Gm
+- Swine Jig — 6/8, key G
+- Tam's Hunting Horn — 6/8, key C
+- Tenpenny Bit — 6/8, key Am
+- Terry Teehan's — 6/8, key D
+- Teviot Bridge — 6/8, key A
+- The American Dwarf — 6/8, key D
+- The Barley Mow — 6/8, key G  _(in-sampler)_
+- The Bent Pin — 6/8, key D
+- The Burdett — 6/8, key D
+- The Castle — 6/8, key G
+- The Cobbler — 6/8, key D  _(in-sampler)_
+- The Connaught Man's Rambles — 6/8, key D  _(in-sampler)_
+- The Corner House Jig — 6/8, key D
+- The Dancing Dustman — 6/8, key G  _(multi-part)_
+- The Devil Among the Taylors — 6/8, key A
+- The Director — 6/8, key A  _(multi-part)_
+- The Family's Pride — 6/8, key D
+- The Flight — 6/8, key C
+- The General Gathering 1745 — 6/8, key D
+- The Giant's Silver — 6/8, key A
+- The Gobby O — 6/8, key Am
+- The Grindstone — 6/8, key F
+- The Household Brigade — 6/8, key G
+- The Hundred Pipers — 6/8, key A
+- The Lady Of The Lake — 6/8, key G
+- The Lark in the Clear Air — 6/4, key D  _(multi-part)_
+- The Lark In The Morning — 6/8, key D
+- The Lassie's Fancy — 6/8, key D
+- The Leaking Bagpipe — 6/8, key G
+- The Lucky Linslader — 6/8, key C
+- The Matelot — 6/8, key D
+- The Monaghan Jig — 6/8, key Em
+- The Mug of Brown Ale — 6/8, key G  _(in-sampler)_
+- The Muses — 6/8, key D
+- The Naughty 'Noochie — 6/8, key G
+- The Old Horned Sheep or The Humours Of Donnybrook — 6/8, key G
+- The Perfect Cure — 6/8, key D
+- The Pleated Plaidie — 6/8, key A
+- The Quaker's Wife — 6/8, key D
+- The Railway — 6/8, key G
+- The Rocking Horse — 6/8, key C
+- The Rogue's March — 6/8, key G
+- The Rollicking Irishman — 6/8, key D
+- The Self — 6/8, key G
+- The Spaceman — 6/8, key G
+- The Stone Court — 6/8, key D
+- The Sylph — 6/8, key D
+- The Wandle — 6/8, key G
+- The Weaver and His Wife — 6/8, key A
+- The Widow Magee — 6/8, key G
+- The Wonder — 6/8, key A
+- There Came A Young Man — 6/8, key Am
+- Thursday Night — 6/8, key A
+- Tobin's Favourite — 6/8, key D
+- Top of the Cork Road — 6/8, key D
+- Trip To Margate — 6/8, key F
+- Tripping Upstairs — 6/8, key D
+- Turnpike Side — 6/8, key D
+- Wakefield Hunt — 6/8, key G
+- Walking To Heel — 6/8, key D
+- Wee Emma — 6/8, key F
+- Wellington's Advance — 6/8, key Am
+- When Daylight Shines — 6/8, key G
+- Whitby Workshop — 6/8, key Am
+- White Heather Jig — 6/8, key G  _(multi-part)_
+- Whose — 6/8, key G
+- Wi' a 100 Pipers — 6/8, key A
+- Wideford Hill — 6/8, key A
+- Workshop Jig — 6/8, key C
+
+## Reels (434)
+
+- 2nd part for B music — 4/4, key D
+- A La 'Page' — 4/4, key G
+- Aaron's (Rarified) Air — 4/4, key G
+- Abbeyfield — 4/4, key G
+- Aiken Drum — 4/4, key A
+- Alabama Jubilee — 4/4, key G
+- All The Way To Galway — 4/4, key D
+- Aly Anderson — 4/4, key D
+- Angeline The Baker — 4/4, key D
+- Anniversary Reel — 4/4, key D
+- Applejack's Reel — 4/4, key D
+- Arkensas Traveller — 4/4, key A
+- Astley's Ride — 4/4, key D
+- Athole Flowers of Edinburgh — 4/4, key G
+- B. Variation — 4/4, key G
+- Ballantynes — 4/4, key D
+- Ballyhoura Mountains — 2/4, key G
+- Balquhidder Lasses — 4/4, key Gm
+- Bandersnatch — 4/4, key G
+- Barren Rocks of Aden — 4/4, key D
+- Beaver Creek — 4/4, key D
+- Big Corral — 4/4, key A
+- Bill Cheetham — 4/4, key A
+- Billy In The Lowground — 4/4, key C
+- Billy's Forty Footer — 4/4, key G
+- Black Mountain Reel — 4/4, key A
+- Boatie Rows — 4/4, key D
+- Boggy Brays — 4/4, key D
+- Boil 'Em Cabbage Down — 2/4, key D
+- Bonnie Kate — 4/4, key D
+- Bonny Breast Knot — 4/4, key C
+- Bonny Breast Knot (Devon) — 4/4, key G  _(multi-part)_
+- Bonny Laddie — 4/4, key G
+- Bonny Lass of Fyfie — 4/4, key G
+- Bottom of the Punch Bowl — 4/4, key D
+- Brighton Camp — 4/4, key G
+- Buffalo Gals — 4/4, key G
+- Buttered Peas — 2/2, key G
+- Caddum Woods — 4/4, key G
+- California Here I Come — 4/4, key C
+- Captain Lachlan MacPhail — 4/4, key A
+- Captain Maguire — 4/4, key D
+- Careless Sally's Reel — 4/4, key G
+- Cart Tracks — 4/4, key G
+- Cherokee Shuffle — 4/4, key A
+- Chicken On The Fence Post — 2/4, key G  _(multi-part)_
+- Chilly Winds — 4/4, key Dm
+- Chinese Breakdown — 4/4, key D
+- Chorus Jig — 4/4, key D  _(multi-part)_
+- Clap Dance (Miss McLeod) — 4/4, key G
+- Clear The Way — 4/4, key A
+- Coleg y Br Fyrgol Abertawe — 4/4, key G
+- Coloured Aristocracy — 4/4, key G
+- Come Dance and Sing — 4/4, key D
+- Corn Rigs — 4/4, key D
+- Cornish Quickstep — 4/4, key D
+- Cripple Creek — 4/4, key A
+- Crooked Stove Pipe — 4/4, key G  _(multi-part)_
+- Crossing The Brazos — 4/4, key D
+- Cuckoo In The Tree — 2/4, key D
+- Cuckoo's Nest — 4/4, key A  _(multi-part)_
+- Dance All Night — 4/4, key G
+- Dashing White Sergeant — 4/4, key D
+- Dennis Murphy's — 4/4, key D
+- Devil Among the Tailors — 4/4, key A
+- Dill Pickle Rag — 4/4, key G  _(multi-part)_
+- Dinah — 4/4, key A
+- Dinners 1 — 4/4, key A
+- Dinners 2 — 4/4, key D
+- Dixie Hoedown — 4/4, key G
+- Djatchko Kolo — 4/4, key D
+- Don Tremaine's Reel — 4/4, key D
+- Dornoch Links — 4/4, key A
+- Dorset Four Hand Reel — 4/4, key G  _(multi-part)_
+- Down The Road — 4/4, key G
+- Drowsy Maggie — 4/4, key Em
+- Drunken Piper — 4/4, key Am
+- Drunken Sailor — 4/4, key D
+- Dubuque — 4/4, key D
+- Duke Of Perth — 4/4, key G
+- Durham Rangers — 4/4, key D
+- East Dene — 4/4, key Bb
+- East Hill Breakdown — 4/4, key C
+- East Neuk of Fife — 4/4, key G
+- East Tennessee Blues — 4/4, key C
+- Egan's — 2/4, key D
+- Einstein's Reel — 4/4, key E  _(multi-part)_
+- English Dance — 4/4, key D
+- Erlegh March — 4/4, key D
+- Eyes of Blue — 4/4, key C
+- Fairy Dance — 4/4, key D
+- Far From Home — 4/4, key G
+- Farewell to Whisky — 4/4, key D  _(multi-part)_
+- Fiddling Around — 4/4, key C
+- Fireside Reel — 4/4, key G
+- Fishers's Hornpipe — 4/4, key D
+- Flop Ear'd Mule — 4/4, key G  _(multi-part)_
+- Flop-eared Mule — 4/4, key G  _(multi-part)_
+- Flowers of Edinburgh — 4/4, key G
+- Foot and Fiddle — 4/4, key A
+- For Beth — 4/4, key C
+- Fred Roden's Reel — 4/4, key D
+- Galopede — 4/4, key G
+- Gaspe Reel — 4/4, key D
+- Geordie Hinnie — 4/4, key G
+- Gilderoy — 4/4, key Am
+- Gin I Were Where The Gadie Rins — 4/4, key D
+- Glengarry's March — 4/4, key A
+- Going Down South — 4/4, key G
+- Golden Slippers — 4/4, key D
+- Good Humour — 4/4, key G  _(multi-part)_
+- Good Night and Joy be with you — 4/4, key D  _(multi-part)_
+- Good Old Summertime — 4/4, key G
+- Good-bye Girls — 4/4, key G
+- Goodbye Girls I'm Going To Boston — 2/4, key G
+- Grand Old Duke of York — 4/4, key D
+- Grandpa's — 4/4, key D
+- Great North Run '86 — 4/4, key G
+- Green Meadow — 4/4, key G
+- Green Mountain Petronella — 4/4, key G
+- Greetwell — 4/4, key D
+- Gyre And Gimble — 4/4, key D
+- H.R.H. The Prince of Wales's Favourite — 4/4, key D
+- Hallowe'en — 4/4, key G
+- Hannah Onestep — 4/4, key G
+- Happy Day — 4/4, key G
+- Harum Scarum — 4/4, key C
+- Heights of Alma — 4/4, key A
+- Hell Broke Loose In Georgia — 4/4, key G
+- Hi-There — 4/4, key D
+- High Caul Cap — 4/4, key D
+- Ho Ro My Nut Brown Maiden — 4/4, key C
+- Home From Holm — 4/4, key G
+- Hon Ms Fraser — 4/4, key Bm
+- Honey Harbour — 4/4, key A
+- Hosannah — 4/4, key G
+- Hot Time — 4/4, key D
+- Hull's Victory — 4/4, key F
+- Huntsman's Chorus — 4/4, key G
+- Ian Duncan — 4/4, key D
+- Ian James Wilson — 4/4, key G
+- Imitiation Reel — 4/4, key A
+- Inauguration Reel or The Clinton Canter — 4/4, key D  _(multi-part)_
+- Indian Reel — 4/4, key G  _(multi-part)_
+- It's a Long Way to Tipperary — 4/4, key D
+- J B Milne — 4/4, key A
+- Jack O'Lantern — 4/4, key D
+- Jack's Life — 4/4, key G
+- Jackson's Breakdown — 4/4, key D
+- Jacob (or Enrico) — 4/4, key D
+- Jaque Latin — 2/4, key G
+- Jaybird — 4/4, key D
+- Jenny Lind — 4/4, key D  _(multi-part)_
+- Jessie's Hornpipe — 4/4, key G
+- Jimmy Allen — 4/4, key G
+- Jinglin Johnnie — 4/4, key A
+- John and Tony — 4/4, key D
+- John Ryan's — 4/4, key G
+- Johnny's Down the River — 4/4, key A
+- Johnny's Gone to France — 4/4, key Em
+- Johnny's Lover's gone — 4/4, key G
+- Jolly Dogs — 2/4, key A
+- Joys Of Quebec — 4/4, key A
+- Keel Row — 4/4, key G
+- Kelly the Boy From Kilken — 4/4, key G
+- Kelsterne Gardens — 4/4, key Dm
+- Kingussie Flower — 2/4, key D
+- Kiss Me Quick Me Mither's Coming — 4/4, key D
+- Kitchen Girl — 4/4, key D
+- Knick-Knack — 4/4, key G
+- Knotted Cord — 4/4, key D
+- Korybushka — 4/4, key Em  _(multi-part)_
+- La Bastringue — 4/4, key D
+- La Grande Chaine — 4/4, key G
+- La Russe — 4/4, key G  _(multi-part)_
+- Ladies' Triumph — 4/4, key G
+- Lady of Ardross — 4/4, key C
+- Lady Of The Lake — 4/4, key G
+- Lambeth Walk — 4/4, key G
+- Lamplighter's Hornpipe — 4/4, key A
+- Late Evening Reel — 4/4, key D
+- Le Parc de Sceaux — 4/4, key Am
+- Le Reel Des Jeunes Maries — 4/4, key D
+- Lea Riggs — 4/4, key G
+- Levantine's Barrel — 4/4, key D
+- Levi Jackson — 4/4, key G
+- Lexie McAskill — 4/4, key Am
+- Liberty — 4/4, key D
+- Linhope Loup — 4/4, key D
+- Little Brown Jug — 4/4, key D
+- Little Czech Number — 4/4, key Am
+- Little Liza Jane — 4/4, key A
+- Little Red Waggon — 4/4, key D
+- Live Country — 4/4, key A
+- Liza Jane — 4/4, key D
+- Llanover Reel — 4/4, key G
+- Lloyd of Binghampton — 4/4, key Bb
+- Lock My Heart — 4/4, key D
+- Log Cabin — 4/4, key G
+- Lonesome Injun — 4/4, key A
+- Long Long Trail — 6/8, key G
+- Lord of the Dance — 4/4, key G
+- Lord Wellington — 4/4, key G
+- Lorna's Reel — 4/4, key G
+- Lost Indian — 2/4, key G
+- Lothian Scottish — 4/4, key F
+- Louise's New Parlor — 4/4, key D
+- Madness ! — 4/4, key F
+- Mairie's Wedding — 4/4, key D
+- Maple Sugar — 4/4, key D
+- March of St Timothy — 2/4, key G
+- Marching Through Georgia — 2/4, key C
+- Marmaduke's Hornpipe — 4/4, key D
+- Mason's Apron — 4/4, key A
+- May Day (Miss McLeod's Reel) — 4/4, key G
+- McElroy's Fancy — 2/4, key D
+- McQuillen's March — 4/4, key G
+- McQuillen's Squeezebox — 4/4, key C
+- Meggy's Foot — 4/4, key G
+- Merry Blacksmith — 4/4, key D
+- Merrydale Romp — 4/4, key D  _(multi-part)_
+- Mersey — 4/4, key Em
+- Miss Campbell — 4/4, key G
+- Miss Forbes' Farewell to Banff — 4/4, key G
+- Miss Kay Rose — 4/4, key A
+- Miss Lyall — 4/4, key D
+- Miss Mary Printy — 4/4, key F
+- Miss Monaghan — 4/4, key D
+- Miss S. Campbell of Saddle — 4/4, key A
+- Miss Supertest's Victory Reel — 4/4, key D  _(multi-part)_
+- Miss Susan Cooper — 4/4, key D
+- Miss Thompson's Hornpipe — 4/4, key D
+- Missing title ? — 4/4, key A
+- Mississipi Sawyer — 4/4, key D
+- Montecarlo or Bust — 4/4, key G
+- Morpeth Rant — 4/4, key D
+- Mother Riley's Tour — 4/4, key D
+- Mr Turveydrop — 4/4, key Dm
+- Muddy Water — 4/4, key D
+- Munster Hop — 4/4, key G
+- My Love is but a Lassie Yet — 4/4, key D
+- My Old Man — 4/4, key D
+- My Son's A Prawn — 4/4, key A
+- Nae Luck Aboot the Hoose (For Thady U Gander) — 4/4, key A
+- Nancy — 4/4, key D
+- Nancy's Fancy — 4/4, key G
+- Needle Case — 4/4, key D
+- New High Level — 4/4, key G  _(multi-part)_
+- Newark March — 4/4, key D
+- Newcastle Station — 4/4, key G
+- Nick Nack Paddy Whack — 4/4, key G
+- Nine Pint Cloggie — 4/4, key G
+- North Skelton 3, v 1 — 4/4, key D
+- North Skelton 3, v 2 — 4/4, key D
+- Nottingham Knees Up ! — 4/4, key D
+- O'Carolan's Concerto — 4/4, key D
+- Old French — 4/4, key D
+- Old Joe Clark 1 — 4/4, key A
+- Old Joe Clark 2 — 4/4, key A
+- Old Joe's Ife — 4/4, key A
+- Olde Tyme Quadrille — 4/4, key D
+- On The Road To Boston — 2/4, key D
+- Opera Reel — 4/4, key D
+- Outer Magnolia Reel — 4/4, key A
+- Pack Up Your Troubles — 4/4, key D
+- Pany Corlan yr Wyn — 4/4, key G
+- Patchwork Polka — 2/4, key D
+- Payne and Bond — 4/4, key A
+- Peacock Rag — 4/4, key G
+- Peat Fire Flame — 4/4, key Em
+- Petit Larousse — 4/4, key Am
+- Petronella — 4/4, key D
+- Pilgarlic — 4/4, key D
+- Pleasures of the Town — 4/4, key A
+- Pnt ur y Bys — 4/4, key G
+- Preston Tally-Ho ! — 4/4, key G
+- Pretty Little Widder — 2/4, key D
+- Primrose Polka — 4/4, key D  _(multi-part)_
+- Prince Charlie's Welcome to Skye — 4/4, key G
+- Quigley's Reel — 4/4, key D
+- Raggety Anne — 4/4, key D
+- Ragtime Annie — 2/4, key D
+- Randel's Reel — 4/4, key G
+- Rattigan's — 4/4, key G
+- Rattling Bog — 4/4, key D
+- Red Haired Boy — 4/4, key A
+- Redwing — 4/4, key F
+- Reel de Mattawa — 4/4, key D
+- Reel De Montreal — 4/4, key D  _(multi-part)_
+- Rhos-y-gwaliau Romp — 4/4, key G
+- Rhubarb Sandwich — 4/4, key G
+- Rights of Man — 4/4, key Em
+- Rigs O' Mallow — 4/4, key G
+- Road to Butlins A52 — 4/4, key D
+- Road To Errol — 4/4, key G
+- Roberston's Reel — 4/4, key G
+- Roddy McCawley — 4/4, key G
+- Rodney's Glory — 4/4, key C
+- Rollin' In — 4/4, key D  _(multi-part)_
+- Rollstone Mountain — 4/4, key D
+- Rose Tree — 4/4, key D
+- Ross's Reel — 4/4, key F
+- Roxburgh Castle — 4/4, key A
+- Russ Allen — 4/4, key D
+- Ryan's Rant — 4/4, key Am
+- S.H. Reel — 4/4, key G
+- Sackett's Harbor — 4/4, key Am
+- Sailor's Hornpipe — 4/4, key G
+- Saints — 4/4, key G
+- Sally Gardens — 4/4, key G
+- Sally Picker — 4/4, key G
+- Salmon Tails — 4/4, key G
+- Sandy River Belles — 4/4, key D
+- Saratoga — 4/4, key A
+- Scotland the Brave — 4/4, key G
+- Scottish Circassian Circle — 4/4, key G
+- Service ! — 4/4, key C
+- Set De La Baie St Paul — 4/4, key D
+- Seventy Second's Farewell — 4/4, key D
+- Shepton Reel — 4/4, key G
+- Silver and Gold — 4/4, key D
+- Sir Sidney Smith — 4/4, key G
+- Slow March for Pipers — 4/4, key D
+- So-so Polka — 2/2, key G  _(multi-part)_
+- Soldiers' Joy — 4/4, key D
+- Spanish Dance — 2/4, key G
+- Speed The Plough — 4/4, key A
+- Spence's Tent — 4/4, key B
+- St Anne's (L) — 4/4, key D
+- St Anne's (V) — 4/4, key D
+- Staten Island — 4/4, key D
+- Storrers — 4/4, key A  _(multi-part)_
+- Sugar in my Coffee-o — 4/4, key G
+- Sugar in the Gourd — 4/4, key A
+- Swannee — 4/4, key D
+- Swedish Masquerade — 4/4, key G  _(multi-part)_
+- Sweet Ellen — 4/4, key D
+- Sweet Georgia Brown — 4/4, key G
+- Teetotaller's Reel — 4/4, key G
+- Teetotaller's Reel Descant — 4/4, key G
+- That's All — 4/4, key A
+- The 29th of May — 4/4, key D
+- The Artusi Polka — 4/4, key D
+- The Ballydesmond Polkas No 1 — 2/4, key G
+- The Ballydesmond Polkas No 2 — 2/4, key G
+- The Big Ship — 4/4, key G
+- The Black Bird — 4/4, key D  _(multi-part)_
+- The Bluebell Reel — 2/4, key G
+- The Breakdown — 4/4, key A
+- The Cat Walk — 4/4, key D
+- The Chest Of Drawers — 4/4, key D
+- The Chickadee's Polka — 4/4, key G
+- The Donegall — 4/4, key D
+- The Doodler's Hornpipe — 4/4, key G
+- The Drummer — 4/4, key Am
+- The Dublin Dance — 4/4, key D
+- The First Frost — 4/4, key D
+- The First Frost - Second part — 4/4, key D
+- The Flowers of Limerick — 4/4, key Gm
+- The Fruits Of Newbury - A New Bourree — 4/4, key D
+- The Girl With the Blue Dress on — 4/4, key G  _(multi-part)_
+- The Girl With The Green Hat On — 4/4, key D
+- The Glendoan Fancy — 4/4, key Am
+- The Golden Farmer — 4/4, key D
+- The Graceful Girl — 4/4, key G
+- The Guillemot's Revenge — 4/4, key Gm
+- The Happy One-Step — 4/4, key G
+- The Headlands — 4/4, key A
+- The Hurler's March — 2/4, key D
+- The Jolly Coppersmith — 4/4, key D  _(multi-part)_
+- The King of the Fairies — 4/4, key Em
+- The Leaving of Liverpool — 2/4, key D
+- The Lodge Road — 2/4, key D
+- The Maid Behind The Bar — 4/4, key D
+- The Meeting of the Waters — 4/4, key D
+- The Minstrel Boy — 4/4, key G
+- The New Year's Resolution — 4/4, key G
+- The Old Grey Cat — 4/4, key Em
+- The Ornithologist's Retreat — 4/4, key D
+- The Pearl Wedding — 4/4, key D
+- The Pinch of Snuff — 4/4, key D  _(multi-part)_
+- The Piper O' Dundee — 4/4, key Am
+- The Poker Party Polka — 2/4, key Gm
+- The Rant — 4/4, key D
+- The Scholar — 4/4, key D
+- The Swallow's Tail — 4/4, key G
+- The Swiss Boy — 4/4, key D
+- The Tipsy Parson — 4/4, key D
+- The Ton or Jessie's Hornpipe — 4/4, key G
+- The Trip To London — 4/4, key D
+- The Waterloo Dance — 2/4, key D
+- The West End — 4/4, key D
+- The White Cockade — 4/4, key G
+- The Wild Irishman — 4/4, key D
+- The Yeti — 4/4, key A
+- Thirty Years Ago — 4/4, key G
+- Thornbury Rise — 2/4, key G
+- Timour The Tartar — 4/4, key A
+- Tin Gee Gee — 2/4, key D
+- Tinkerbell — 4/4, key D
+- Tom and Jerry — 4/4, key A
+- Tom Pate — 4/4, key G
+- Tralee Gaol — 2/4, key G
+- Trent — 4/4, key D
+- Trial Run — 4/4, key G
+- Trick Or Treat — 4/4, key G
+- Turkey in the Straw — 4/4, key G
+- Uncle Reuben — 2/4, key G
+- Up Jumped The Devil — 4/4, key A  _(multi-part)_
+- Waiting For The Federals — 4/4, key G
+- Walking In My Sleep — 4/4, key G
+- Walter Bulliver — 4/4, key G  _(multi-part)_
+- Ways Of The World — 4/4, key D
+- Welsh Clog — 4/4, key G
+- West Fork Gals — 4/4, key D
+- West's — 4/4, key D
+- Western Country — 4/4, key D
+- Westlands — 4/4, key D
+- What the Devil — 4/4, key D  _(multi-part)_
+- When You And I Were Young Maggie — 2/4, key G
+- Whinshields — 4/4, key G
+- Willaford — 4/4, key D
+- William Tell Overture — 4/4, key C
+- Wiltshire Six Hand Reel — 4/4, key D
+- Wiltshire Tempest — 4/4, key D  _(multi-part)_
+- Winhams — 4/4, key G
+- Winster Galop — 4/4, key G
+- With Booze You Lose — 4/4, key A
+- Wollaton Park — 4/4, key D  _(multi-part)_
+- Woodland Revels — 4/4, key Em
+- Workshop Reel — 4/4, key D
+- Year End Two-Step — 4/4, key G
+- You Shall Go Out With Joy — 4/4, key Dm
+- Zeak Waltz — 4/4, key D
+
+## ⚠ Flagged for manual review
+
+- **CAL 1** (playford) — abbreviation/code, not a real title
+- **CAL 2** (playford) — abbreviation/code, not a real title
+- **Dreaming** (waltzes) — generic/ambiguous title — verify tune
+- **GKW** (xmas) — abbreviation/code, not a real title
+- **Lullaby** (waltzes) — generic/ambiguous title — verify tune
+- **My Home** (waltzes) — generic/ambiguous title — verify tune
+- **My Love is Like a Red Red Frog** (waltzes) — joke/parody title — verify underlying tune
+- **One More Step ...** (reelsm-q) — placeholder/incomplete title
+- **She Was a ...** (waltzes) — placeholder/incomplete title
+- **W3KOOA** (xmas) — abbreviation/code, not a real title
+
+## ✗ Excluded (not AU-PD)
+
+- **Great is Thy Faithfulness** — music W. Runyan d.1957 — AU-PD only from 2028
+- **Close Every Door** — Andrew Lloyd Webber, 1968 — in copyright
+- **Lord of all Hopefulness** — text Jan Struther 1931 — melody (Slane) PD but title in copyright
