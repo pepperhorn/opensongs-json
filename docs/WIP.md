@@ -1,52 +1,37 @@
 # Work In Progress — opensongs-json
 
-_Last updated: 2026-07-01_
+_Last updated: 2026-07-02_
 
 Snapshot of in-flight work on the public-domain melody library. See
 `songplan.md` for the overall plan and `README.md` for the published overview.
 
 ## Library size
 
-- **346 songs** in `index.json`, all passing `build/validate.py`.
+- **371 songs** in `index.json`, all passing `build/validate.py`.
 - Progression: 294 (all prior queues) → 297 (3 Nottingham carols) → 321
-  (25-tune Nottingham sampler complete) → **346** (Wave 1 of the 969 candidate
-  pool — *uncommitted, see below*).
+  (25-tune Nottingham sampler complete) → 346 (candidate Wave 1) → **371**
+  (candidate Wave 2). All committed + pushed.
 
 ## Uncommitted right now
 
-Wave 1 of the Nottingham candidate pool — **25 songs, built + validated but not
-yet committed**:
+Nothing — working tree clean; Waves 1 and 2 are on `origin/master`.
 
-- 2 carols: `jubilate-deo-round`, `wassail-2`
-- 5 Playford: `dick-s-maggot`, `sadlers-wells`, `st-hugh-s-jig`,
-  `the-alderman-s-hat`, `the-queen-s-jig`
-- 18 morris: `abbotts-bromley-horn-dance`, `beaux-of-london-city`,
-  `blue-bells-of-scotland`, `constant-billy`, `fieldtown-processional`,
-  `gisburn-processional`, `highland-mary`, `jockey-to-the-fair`,
-  `lads-a-bunchum`, `leapfrog`, `morning-star`, `morris-off`,
-  `singing-of-the-travels`, `sweet-jenny-jones`, `the-forester`,
-  `tideswell-processional`, `wheatley-processional`, `william-and-nancy`
+## Completed waves (candidate pool)
 
-Also uncommitted: `build/scaffold_candidates.py` (new tool) and the `index.json`
-bump.
+- **Wave 1 (25):** 2 carols, 5 Playford, 18 morris. Commit `baac984`.
+- **Wave 2 (25):** 24 waltzes (Daisy Bell, Kelvingrove, Hector the Hero, I
+  Belong to Glasgow, …) + `winster-processional`. Melody-only. Commit `c943bd4`.
 
-### Quality checks on Wave 1 (all passed)
+Every wave: verbatim check clean (no shared strain with the GPLv3 source),
+all ranges in tolerance, `validate.py` green.
 
-- **Verbatim/CC0 check:** longest shared note-run vs the GPLv3 source = **0
-  chars**. No song reproduces the dataset encoding. (Anti-verbatim rule — pick a
-  key different from the source, add own phrasing — was baked into authoring
-  this time, so no re-do cycle was needed.)
-- **Range audit** (target ~C4–C6): two minor, acceptable outliers, left as
-  optional polish:
-  - `highland-mary` — dips to A3 (57) on one low phrase.
-  - `st-hugh-s-jig` — sits entirely in the upper octave, D5–A5 (74–81).
-- Fidelity caveat from the authoring agents: `gisburn-processional` and
-  `highland-mary` are lesser-known titles authored from contour only (not
-  verified against a canonical morris setting); worth an ear-check before
-  relying on them.
+### Minor polish backlog (optional, non-blocking)
 
-**Next action for this wave:** commit (suggested split: the
-`scaffold_candidates.py` tool, then the 25 songs + index), then push.
+- `highland-mary` (W1) dips to A3; `just-as-the-sun-was-setting` (W2) floors at
+  B3 — both one/two semitones under the C4 target, acceptable.
+- Ear-check lesser-known titles authored from contour only:
+  `gisburn-processional`, `highland-mary` (W1); `ffarwel-ir-marian`,
+  `mist-on-the-marsh` (W2, flagged as freer reinterpretations).
 
 ## Pipeline & tooling
 
@@ -64,7 +49,7 @@ bump.
 
 Source manifest: `build/NOTTINGHAM_CANDIDATES.md` + `build/nottingham_candidates.json`
 (reference-only, metadata only — no GPLv3 ABC in the repo). It began as 969
-clear-PD tunes not yet built; after Wave 1, **917 remain**:
+clear-PD tunes not yet built; after Waves 1–2, **892 remain**:
 
 | type | remaining |
 |------|-----------|
@@ -72,9 +57,9 @@ clear-PD tunes not yet built; after Wave 1, **917 remain**:
 | jig | 320 |
 | hornpipe | 59 |
 | misc | 44 |
-| waltz | 42 |
+| waltz | 18 |
 | slip-jig | 11 |
-| morris | 6 |
+| morris | 5 |
 | carol | 1 |
 
 Strategy: continue in curated **~25-tune waves**, beginner-friendly types first
@@ -82,6 +67,13 @@ Strategy: continue in curated **~25-tune waves**, beginner-friendly types first
 leaving the 434 fast fiddle reels for last. Wave selection filters out anything
 already built and dedupes by normalized title (Wave 1 dropped `the-boar-s-head`
 as a dup of the existing `the-boars-head`).
+
+**The "easy" pool is nearly drained.** Only **18 waltzes + 5 morris + 1 carol**
+of the no-meter/key-change beginner types remain — one more wave. After that it's
+all jigs/reels/hornpipes/slip-jigs: faster, wider-range session tunes. For those,
+tighten selection on beginner suitability (favor simpler jigs/hornpipes, expect
+more transposing-down for range, and consider raising difficulty ratings) — worth
+a quick decision on approach before Wave 4.
 
 ### How to author the next wave (repeatable recipe)
 
