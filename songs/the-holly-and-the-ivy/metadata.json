@@ -1,0 +1,23 @@
+{
+  "id": "the-holly-and-the-ivy",
+  "title": "The Holly and the Ivy",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional English carol"
+  },
+  "tags": [
+    "carol",
+    "christmas",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "carol",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "god-rest-you-merry-gentlemen",
+  "title": "God rest you, merry gentlemen",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional English carol (pre-1900)"
+  },
+  "tags": [
+    "carol",
+    "christmas",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "carol",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

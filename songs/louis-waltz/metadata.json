@@ -1,0 +1,23 @@
+{
+  "id": "louis-waltz",
+  "title": "Louis Waltz",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Trad French-Canadian waltz"
+  },
+  "tags": [
+    "folk",
+    "waltz",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

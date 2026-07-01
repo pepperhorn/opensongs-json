@@ -1,0 +1,24 @@
+{
+  "id": "the-mug-of-brown-ale",
+  "title": "The Mug of Brown Ale",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Irish jig"
+  },
+  "tags": [
+    "folk",
+    "jig",
+    "irish",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

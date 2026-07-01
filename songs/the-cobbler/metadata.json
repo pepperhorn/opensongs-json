@@ -1,0 +1,24 @@
+{
+  "id": "the-cobbler",
+  "title": "The Cobbler",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional jig"
+  },
+  "tags": [
+    "folk",
+    "jig",
+    "irish",
+    "beginner"
+  ],
+  "difficulty": 3,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

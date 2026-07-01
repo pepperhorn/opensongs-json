@@ -1,0 +1,24 @@
+{
+  "id": "rufty-tufty",
+  "title": "Rufty Tufty",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Playford 1651, PD"
+  },
+  "tags": [
+    "folk",
+    "english-country-dance",
+    "playford",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

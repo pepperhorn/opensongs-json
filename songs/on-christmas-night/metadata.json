@@ -1,0 +1,23 @@
+{
+  "id": "on-christmas-night",
+  "title": "On Christmas Night",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Sussex Carol, traditional"
+  },
+  "tags": [
+    "carol",
+    "christmas",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "carol",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

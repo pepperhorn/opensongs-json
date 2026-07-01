@@ -1,0 +1,24 @@
+{
+  "id": "denis-murphy-s",
+  "title": "Denis Murphy's",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Irish jig (Sliabh Luachra)"
+  },
+  "tags": [
+    "folk",
+    "jig",
+    "irish",
+    "beginner"
+  ],
+  "difficulty": 3,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

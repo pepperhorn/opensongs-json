@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 297,
+  "count": 321,
   "schemaVersion": 1,
   "songs": [
     {
@@ -4252,6 +4252,41 @@
       }
     },
     {
+      "id": "cherish-the-ladies",
+      "title": "Cherish The Ladies",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "jig",
+        "irish",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A5"
+      },
+      "noteCount": 47,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/cherish-the-ladies/song.json",
+        "abc": "songs/cherish-the-ladies/song.abc",
+        "musicxml": "songs/cherish-the-ladies/song.musicxml"
+      }
+    },
+    {
       "id": "clair-de-lune",
       "title": "Clair de Lune",
       "composer": "Claude Debussy",
@@ -4350,6 +4385,41 @@
       }
     },
     {
+      "id": "coleraine",
+      "title": "Coleraine",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "jig",
+        "irish",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 43,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/coleraine/song.json",
+        "abc": "songs/coleraine/song.abc",
+        "musicxml": "songs/coleraine/song.musicxml"
+      }
+    },
+    {
       "id": "consolation-no-3",
       "title": "Consolation No. 3",
       "composer": "Franz Liszt",
@@ -4414,6 +4484,41 @@
         "song": "songs/coppelia-waltz/song.json",
         "abc": "songs/coppelia-waltz/song.abc",
         "musicxml": "songs/coppelia-waltz/song.musicxml"
+      }
+    },
+    {
+      "id": "cumberland-reel",
+      "title": "Cumberland Reel",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "jig",
+        "irish",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "F#5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/cumberland-reel/song.json",
+        "abc": "songs/cumberland-reel/song.abc",
+        "musicxml": "songs/cumberland-reel/song.musicxml"
       }
     },
     {
@@ -4517,6 +4622,75 @@
         "song": "songs/deep-purple/song.json",
         "abc": "songs/deep-purple/song.abc",
         "musicxml": "songs/deep-purple/song.musicxml"
+      }
+    },
+    {
+      "id": "denis-murphy-s",
+      "title": "Denis Murphy's",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "jig",
+        "irish",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/denis-murphy-s/song.json",
+        "abc": "songs/denis-murphy-s/song.abc",
+        "musicxml": "songs/denis-murphy-s/song.musicxml"
+      }
+    },
+    {
+      "id": "ding-dong",
+      "title": "Ding Dong",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A5"
+      },
+      "noteCount": 54,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ding-dong/song.json",
+        "abc": "songs/ding-dong/song.abc",
+        "musicxml": "songs/ding-dong/song.musicxml"
       }
     },
     {
@@ -4752,6 +4926,41 @@
         "song": "songs/farandole-larlesienne/song.json",
         "abc": "songs/farandole-larlesienne/song.abc",
         "musicxml": "songs/farandole-larlesienne/song.musicxml"
+      }
+    },
+    {
+      "id": "father-kelly-s-jig",
+      "title": "Father Kelly's Jig",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "jig",
+        "irish",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A5"
+      },
+      "noteCount": 93,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/father-kelly-s-jig/song.json",
+        "abc": "songs/father-kelly-s-jig/song.abc",
+        "musicxml": "songs/father-kelly-s-jig/song.musicxml"
       }
     },
     {
@@ -4997,6 +5206,40 @@
       }
     },
     {
+      "id": "god-rest-you-merry-gentlemen",
+      "title": "God rest you, merry gentlemen",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/god-rest-you-merry-gentlemen/song.json",
+        "abc": "songs/god-rest-you-merry-gentlemen/song.abc",
+        "musicxml": "songs/god-rest-you-merry-gentlemen/song.musicxml"
+      }
+    },
+    {
       "id": "golliwoggs-cakewalk",
       "title": "Golliwogg's Cakewalk",
       "composer": "Claude Debussy",
@@ -5040,16 +5283,16 @@
         "christmas",
         "beginner"
       ],
-      "key": "F major",
+      "key": "G major",
       "timeSignature": [
         6,
         8
       ],
       "noteRange": {
-        "low": "D4",
-        "high": "D5"
+        "low": "G4",
+        "high": "G5"
       },
-      "noteCount": 59,
+      "noteCount": 32,
       "instrumentsSuited": [
         "keyboard",
         "recorder",
@@ -5264,6 +5507,41 @@
         "song": "songs/heidenroslein-wild-rose/song.json",
         "abc": "songs/heidenroslein-wild-rose/song.abc",
         "musicxml": "songs/heidenroslein-wild-rose/song.musicxml"
+      }
+    },
+    {
+      "id": "hole-in-the-wall",
+      "title": "Hole in the Wall",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        3,
+        2
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "Bb4"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hole-in-the-wall/song.json",
+        "abc": "songs/hole-in-the-wall/song.abc",
+        "musicxml": "songs/hole-in-the-wall/song.musicxml"
       }
     },
     {
@@ -5846,6 +6124,40 @@
       }
     },
     {
+      "id": "louis-waltz",
+      "title": "Louis Waltz",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "waltz",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G5"
+      },
+      "noteCount": 59,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/louis-waltz/song.json",
+        "abc": "songs/louis-waltz/song.abc",
+        "musicxml": "songs/louis-waltz/song.musicxml"
+      }
+    },
+    {
       "id": "maple-leaf-rag",
       "title": "Maple Leaf Rag",
       "composer": "Scott Joplin",
@@ -6273,6 +6585,41 @@
       }
     },
     {
+      "id": "mr-beveridge-s-maggot",
+      "title": "Mr Beveridge's Maggot",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        3,
+        2
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/mr-beveridge-s-maggot/song.json",
+        "abc": "songs/mr-beveridge-s-maggot/song.abc",
+        "musicxml": "songs/mr-beveridge-s-maggot/song.musicxml"
+      }
+    },
+    {
       "id": "musettas-waltz-la-boheme",
       "title": "Musetta's Waltz (La Boh\u00e8me)",
       "composer": "Giacomo Puccini",
@@ -6342,6 +6689,41 @@
       }
     },
     {
+      "id": "my-darling-asleep",
+      "title": "My Darling Asleep",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "jig",
+        "irish",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/my-darling-asleep/song.json",
+        "abc": "songs/my-darling-asleep/song.abc",
+        "musicxml": "songs/my-darling-asleep/song.musicxml"
+      }
+    },
+    {
       "id": "nessun-dorma-theme",
       "title": "Nessun dorma (theme)",
       "composer": "Giacomo Puccini",
@@ -6375,6 +6757,41 @@
         "song": "songs/nessun-dorma-theme/song.json",
         "abc": "songs/nessun-dorma-theme/song.abc",
         "musicxml": "songs/nessun-dorma-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "never-love-thee-more",
+      "title": "Never Love Thee More",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/never-love-thee-more/song.json",
+        "abc": "songs/never-love-thee-more/song.abc",
+        "musicxml": "songs/never-love-thee-more/song.musicxml"
       }
     },
     {
@@ -6482,6 +6899,41 @@
       }
     },
     {
+      "id": "nonesuch",
+      "title": "Nonesuch",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C5",
+        "high": "A5"
+      },
+      "noteCount": 20,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/nonesuch/song.json",
+        "abc": "songs/nonesuch/song.abc",
+        "musicxml": "songs/nonesuch/song.musicxml"
+      }
+    },
+    {
       "id": "nos-galan",
       "title": "Nos Galan",
       "composer": "Traditional",
@@ -6585,6 +7037,40 @@
         "song": "songs/o-mio-babbino-caro/song.json",
         "abc": "songs/o-mio-babbino-caro/song.abc",
         "musicxml": "songs/o-mio-babbino-caro/song.musicxml"
+      }
+    },
+    {
+      "id": "on-christmas-night",
+      "title": "On Christmas Night",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/on-christmas-night/song.json",
+        "abc": "songs/on-christmas-night/song.abc",
+        "musicxml": "songs/on-christmas-night/song.musicxml"
       }
     },
     {
@@ -7661,6 +8147,41 @@
       }
     },
     {
+      "id": "rufty-tufty",
+      "title": "Rufty Tufty",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 1,
+      "tags": [
+        "folk",
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "G5"
+      },
+      "noteCount": 23,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/rufty-tufty/song.json",
+        "abc": "songs/rufty-tufty/song.abc",
+        "musicxml": "songs/rufty-tufty/song.musicxml"
+      }
+    },
+    {
       "id": "salut-damour",
       "title": "Salut d'Amour",
       "composer": "Edward Elgar",
@@ -7901,6 +8422,40 @@
       }
     },
     {
+      "id": "so-long",
+      "title": "So Long",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "waltz",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "E5"
+      },
+      "noteCount": 20,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/so-long/song.json",
+        "abc": "songs/so-long/song.abc",
+        "musicxml": "songs/so-long/song.musicxml"
+      }
+    },
+    {
       "id": "solace",
       "title": "Solace",
       "composer": "Scott Joplin",
@@ -8134,6 +8689,41 @@
         "song": "songs/spring-song-songs-without-words/song.json",
         "abc": "songs/spring-song-songs-without-words/song.abc",
         "musicxml": "songs/spring-song-songs-without-words/song.musicxml"
+      }
+    },
+    {
+      "id": "staines-morris",
+      "title": "Staines Morris",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/staines-morris/song.json",
+        "abc": "songs/staines-morris/song.abc",
+        "musicxml": "songs/staines-morris/song.musicxml"
       }
     },
     {
@@ -8739,6 +9329,41 @@
       }
     },
     {
+      "id": "the-barley-mow",
+      "title": "The Barley Mow",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "jig",
+        "irish",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 39,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-barley-mow/song.json",
+        "abc": "songs/the-barley-mow/song.abc",
+        "musicxml": "songs/the-barley-mow/song.musicxml"
+      }
+    },
+    {
       "id": "the-blue-danube",
       "title": "The Blue Danube",
       "composer": "Johann Strauss II",
@@ -8804,6 +9429,76 @@
         "song": "songs/the-boars-head/song.json",
         "abc": "songs/the-boars-head/song.abc",
         "musicxml": "songs/the-boars-head/song.musicxml"
+      }
+    },
+    {
+      "id": "the-cobbler",
+      "title": "The Cobbler",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "jig",
+        "irish",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B5"
+      },
+      "noteCount": 93,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-cobbler/song.json",
+        "abc": "songs/the-cobbler/song.abc",
+        "musicxml": "songs/the-cobbler/song.musicxml"
+      }
+    },
+    {
+      "id": "the-connaught-man-s-rambles",
+      "title": "The Connaught Man's Rambles",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "jig",
+        "irish",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G5"
+      },
+      "noteCount": 47,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-connaught-man-s-rambles/song.json",
+        "abc": "songs/the-connaught-man-s-rambles/song.abc",
+        "musicxml": "songs/the-connaught-man-s-rambles/song.musicxml"
       }
     },
     {
@@ -8937,6 +9632,75 @@
       }
     },
     {
+      "id": "the-holly-and-the-ivy",
+      "title": "The Holly and the Ivy",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "E5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-holly-and-the-ivy/song.json",
+        "abc": "songs/the-holly-and-the-ivy/song.abc",
+        "musicxml": "songs/the-holly-and-the-ivy/song.musicxml"
+      }
+    },
+    {
+      "id": "the-indian-queen",
+      "title": "The Indian Queen",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "english-country-dance",
+        "playford",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-indian-queen/song.json",
+        "abc": "songs/the-indian-queen/song.abc",
+        "musicxml": "songs/the-indian-queen/song.musicxml"
+      }
+    },
+    {
       "id": "the-japanese-sandman",
       "title": "The Japanese Sandman",
       "composer": "Richard A. Whiting",
@@ -8997,6 +9761,41 @@
         "song": "songs/the-liberty-bell/song.json",
         "abc": "songs/the-liberty-bell/song.abc",
         "musicxml": "songs/the-liberty-bell/song.musicxml"
+      }
+    },
+    {
+      "id": "the-mug-of-brown-ale",
+      "title": "The Mug of Brown Ale",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "jig",
+        "irish",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "A5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-mug-of-brown-ale/song.json",
+        "abc": "songs/the-mug-of-brown-ale/song.abc",
+        "musicxml": "songs/the-mug-of-brown-ale/song.musicxml"
       }
     },
     {
@@ -9736,6 +10535,40 @@
         "song": "songs/waltz-of-the-flowers-theme/song.json",
         "abc": "songs/waltz-of-the-flowers-theme/song.abc",
         "musicxml": "songs/waltz-of-the-flowers-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "wassail-1",
+      "title": "Wassail 1",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/wassail-1/song.json",
+        "abc": "songs/wassail-1/song.abc",
+        "musicxml": "songs/wassail-1/song.musicxml"
       }
     },
     {

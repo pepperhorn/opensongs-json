@@ -1,0 +1,24 @@
+{
+  "id": "the-barley-mow",
+  "title": "The Barley Mow",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional jig"
+  },
+  "tags": [
+    "folk",
+    "jig",
+    "irish",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

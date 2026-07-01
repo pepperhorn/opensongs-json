@@ -1,0 +1,23 @@
+{
+  "id": "ding-dong",
+  "title": "Ding Dong",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "'Ding Dong Merrily on High'; tune from Arbeau 1589"
+  },
+  "tags": [
+    "carol",
+    "christmas",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "carol",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

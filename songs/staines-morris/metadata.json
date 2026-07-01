@@ -1,0 +1,24 @@
+{
+  "id": "staines-morris",
+  "title": "Staines Morris",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional, Playford, PD"
+  },
+  "tags": [
+    "folk",
+    "english-country-dance",
+    "playford",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

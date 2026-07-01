@@ -1,0 +1,24 @@
+{
+  "id": "hole-in-the-wall",
+  "title": "Hole in the Wall",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Henry Purcell / Playford 1698; Purcell d.1695 -> PD"
+  },
+  "tags": [
+    "folk",
+    "english-country-dance",
+    "playford",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}
