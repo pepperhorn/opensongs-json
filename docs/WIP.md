@@ -1,20 +1,37 @@
 # Work In Progress — opensongs-json
 
-_Last updated: 2026-07-02_
+_Last updated: 2026-10-21_
 
 Snapshot of in-flight work on the public-domain melody library. See
 `songplan.md` for the overall plan and `README.md` for the published overview.
 
 ## Library size
 
-- **371 songs** in `index.json`, all passing `build/validate.py`.
+- **457 songs** in `index.json`, all passing `build/validate.py`.
 - Progression: 294 (all prior queues) → 297 (3 Nottingham carols) → 321
-  (25-tune Nottingham sampler complete) → 346 (candidate Wave 1) → **371**
-  (candidate Wave 2). All committed + pushed.
+  (25-tune Nottingham sampler complete) → 346 (candidate Wave 1) → 371
+  (candidate Wave 2) → **457** (world folk wave). All committed + pushed.
 
 ## Uncommitted right now
 
-Nothing — working tree clean; Waves 1 and 2 are on `origin/master`.
+Nothing — working tree clean.
+
+## World folk wave (2026-10-21, 86 songs)
+
+Source list: `docs/folk-songs/normalized_folk_traditional_songs_master_list.md`
+(~250 titles). 86 authored; the rest skipped as duplicates of existing songs,
+non-AU-PD (composer d. > 1955), or no reliable melody reference.
+
+- Lesson: authoring from memory alone fails (Sonnet skipped nearly all; Opus
+  drafts were often wrong). What worked: Opus subagents that **verify every
+  melody note-by-note against a published reference** (Wikipedia scores,
+  abcnotation/trillian, thesession, flutetunes, hymnary, Levy, national
+  songbooks), then re-author as our own ABC.
+- Converter gotchas found: only the first `w:` line is read; repeat signs are
+  not expanded (write repeats out); an over-long bar can still report OK with a
+  bogus meter — check per-measure durations.
+- Ear-check backlog: hush-little-baby (rhythm inferred), frog-went-a-courtin /
+  the-ants-go-marching (lyric fitting), sakura-sakura (final cadence).
 
 ## Completed waves (candidate pool)
 

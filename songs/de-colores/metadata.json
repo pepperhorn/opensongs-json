@@ -1,0 +1,24 @@
+{
+  "id": "de-colores",
+  "title": "De Colores",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional"
+  },
+  "tags": [
+    "folk",
+    "spanish",
+    "mexican",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

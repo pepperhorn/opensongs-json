@@ -1,0 +1,23 @@
+{
+  "id": "alma-llanera",
+  "title": "Alma Llanera",
+  "composer": "Pedro Elías Gutiérrez",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Gutiérrez (d. 1954), 1914; public domain in AU"
+  },
+  "tags": [
+    "folk",
+    "venezuelan",
+    "beginner"
+  ],
+  "difficulty": 3,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

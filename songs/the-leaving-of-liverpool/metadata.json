@@ -1,0 +1,24 @@
+{
+  "id": "the-leaving-of-liverpool",
+  "title": "The Leaving of Liverpool",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional sea song"
+  },
+  "tags": [
+    "folk",
+    "english",
+    "sea-song",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

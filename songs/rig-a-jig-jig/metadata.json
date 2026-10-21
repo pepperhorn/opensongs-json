@@ -1,0 +1,24 @@
+{
+  "id": "rig-a-jig-jig",
+  "title": "Rig-a-Jig-Jig",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional nursery rhyme"
+  },
+  "tags": [
+    "nursery",
+    "action",
+    "singing-game",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

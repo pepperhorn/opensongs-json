@@ -1,0 +1,24 @@
+{
+  "id": "zum-gali-gali",
+  "title": "Zum Gali Gali",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Hebrew work song"
+  },
+  "tags": [
+    "folk",
+    "jewish",
+    "hebrew",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

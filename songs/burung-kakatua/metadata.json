@@ -1,0 +1,23 @@
+{
+  "id": "burung-kakatua",
+  "title": "Burung Kakatua",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Indonesian"
+  },
+  "tags": [
+    "folk",
+    "indonesian",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

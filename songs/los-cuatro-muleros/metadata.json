@@ -1,0 +1,23 @@
+{
+  "id": "los-cuatro-muleros",
+  "title": "Los Cuatro Muleros",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Andalusian (collected by Lorca, d. 1936)"
+  },
+  "tags": [
+    "folk",
+    "spanish",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

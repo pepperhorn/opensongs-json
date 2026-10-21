@@ -1,0 +1,23 @@
+{
+  "id": "rock-a-bye-baby",
+  "title": "Rock-a-bye Baby",
+  "composer": "Effie Crockett (Canning)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Tune by Effie Crockett (d. 1940); public domain"
+  },
+  "tags": [
+    "nursery",
+    "lullaby",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

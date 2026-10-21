@@ -1,0 +1,24 @@
+{
+  "id": "santa-lucia",
+  "title": "Santa Lucia",
+  "composer": "Teodoro Cottrau",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Cottrau (d. 1879), 1849; public domain"
+  },
+  "tags": [
+    "folk",
+    "italian",
+    "neapolitan",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "vieni-sul-mar",
+  "title": "Vieni Sul Mar",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Italian"
+  },
+  "tags": [
+    "folk",
+    "italian",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tom-dooley",
+  "title": "Tom Dooley",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional North Carolina ballad"
+  },
+  "tags": [
+    "folk",
+    "american",
+    "ballad",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

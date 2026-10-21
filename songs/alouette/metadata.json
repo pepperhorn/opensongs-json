@@ -1,0 +1,24 @@
+{
+  "id": "alouette",
+  "title": "Alouette",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional French-Canadian"
+  },
+  "tags": [
+    "folk",
+    "french",
+    "canadian",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

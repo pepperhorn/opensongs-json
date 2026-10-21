@@ -1,0 +1,23 @@
+{
+  "id": "a-tisket-a-tasket",
+  "title": "A-Tisket, A-Tasket",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional nursery rhyme"
+  },
+  "tags": [
+    "nursery",
+    "singing-game",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "oy-chanukah",
+  "title": "Oy Chanukah",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Yiddish"
+  },
+  "tags": [
+    "folk",
+    "jewish",
+    "yiddish",
+    "hanukkah",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "seasonal",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

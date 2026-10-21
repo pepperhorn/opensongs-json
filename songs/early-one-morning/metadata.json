@@ -1,0 +1,23 @@
+{
+  "id": "early-one-morning",
+  "title": "Early One Morning",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional English (pub. c. 1787)"
+  },
+  "tags": [
+    "folk",
+    "english",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

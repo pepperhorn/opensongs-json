@@ -1,0 +1,24 @@
+{
+  "id": "hava-nagila",
+  "title": "Hava Nagila",
+  "composer": "Traditional (arr. A. Z. Idelsohn)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Hasidic niggun; Idelsohn (d. 1938); public domain"
+  },
+  "tags": [
+    "folk",
+    "jewish",
+    "hebrew",
+    "beginner"
+  ],
+  "difficulty": 3,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

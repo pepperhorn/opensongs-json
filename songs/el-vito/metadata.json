@@ -1,0 +1,23 @@
+{
+  "id": "el-vito",
+  "title": "El Vito",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Andalusian"
+  },
+  "tags": [
+    "folk",
+    "spanish",
+    "beginner"
+  ],
+  "difficulty": 3,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

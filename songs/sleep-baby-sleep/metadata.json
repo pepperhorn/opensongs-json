@@ -1,0 +1,24 @@
+{
+  "id": "sleep-baby-sleep",
+  "title": "Sleep, Baby, Sleep",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional German lullaby (Schlaf, Kindlein, schlaf)"
+  },
+  "tags": [
+    "nursery",
+    "lullaby",
+    "german",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

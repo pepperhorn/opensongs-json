@@ -1,0 +1,24 @@
+{
+  "id": "los-peces-en-el-rio",
+  "title": "Los Peces en el Río",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Spanish villancico"
+  },
+  "tags": [
+    "carol",
+    "spanish",
+    "christmas",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "carol",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

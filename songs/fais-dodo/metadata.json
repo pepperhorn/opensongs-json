@@ -1,0 +1,24 @@
+{
+  "id": "fais-dodo",
+  "title": "Fais Dodo, Colas Mon P'tit Frère",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional French lullaby"
+  },
+  "tags": [
+    "nursery",
+    "french",
+    "lullaby",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

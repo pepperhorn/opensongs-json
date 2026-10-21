@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 371,
+  "count": 457,
   "schemaVersion": 1,
   "songs": [
     {
@@ -3272,6 +3272,74 @@
       }
     },
     {
+      "id": "a-la-claire-fontaine",
+      "title": "\u00c0 la Claire Fontaine",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "french",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/a-la-claire-fontaine/song.json",
+        "abc": "songs/a-la-claire-fontaine/song.abc",
+        "musicxml": "songs/a-la-claire-fontaine/song.musicxml"
+      }
+    },
+    {
+      "id": "a-tisket-a-tasket",
+      "title": "A-Tisket, A-Tasket",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "singing-game",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "A4"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/a-tisket-a-tasket/song.json",
+        "abc": "songs/a-tisket-a-tasket/song.abc",
+        "musicxml": "songs/a-tisket-a-tasket/song.musicxml"
+      }
+    },
+    {
       "id": "abbotts-bromley-horn-dance",
       "title": "Abbotts Bromley Horn Dance",
       "composer": "Traditional",
@@ -3406,6 +3474,40 @@
       }
     },
     {
+      "id": "alma-llanera",
+      "title": "Alma Llanera",
+      "composer": "Pedro El\u00edas Guti\u00e9rrez",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "venezuelan",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "E5"
+      },
+      "noteCount": 42,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/alma-llanera/song.json",
+        "abc": "songs/alma-llanera/song.abc",
+        "musicxml": "songs/alma-llanera/song.musicxml"
+      }
+    },
+    {
       "id": "alnwick-castle",
       "title": "Alnwick Castle",
       "composer": "Traditional",
@@ -3439,6 +3541,41 @@
       }
     },
     {
+      "id": "alouette",
+      "title": "Alouette",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 1,
+      "tags": [
+        "folk",
+        "french",
+        "canadian",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 64,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/alouette/song.json",
+        "abc": "songs/alouette/song.abc",
+        "musicxml": "songs/alouette/song.musicxml"
+      }
+    },
+    {
       "id": "also-sprach-zarathustra-opening",
       "title": "Also sprach Zarathustra (opening)",
       "composer": "Richard Strauss",
@@ -3465,6 +3602,40 @@
         "song": "songs/also-sprach-zarathustra-opening/song.json",
         "abc": "songs/also-sprach-zarathustra-opening/song.abc",
         "musicxml": "songs/also-sprach-zarathustra-opening/song.musicxml"
+      }
+    },
+    {
+      "id": "anda-jaleo",
+      "title": "Anda Jaleo",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "spanish",
+        "beginner"
+      ],
+      "key": "D dorian",
+      "timeSignature": [
+        3,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/anda-jaleo/song.json",
+        "abc": "songs/anda-jaleo/song.abc",
+        "musicxml": "songs/anda-jaleo/song.musicxml"
       }
     },
     {
@@ -3670,6 +3841,41 @@
       }
     },
     {
+      "id": "arirang",
+      "title": "Arirang",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "korean",
+        "pentatonic",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 61,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/arirang/song.json",
+        "abc": "songs/arirang/song.abc",
+        "musicxml": "songs/arirang/song.musicxml"
+      }
+    },
+    {
       "id": "arrival-of-the-queen-of-sheba",
       "title": "Arrival of the Queen of Sheba",
       "composer": "George Frideric Handel",
@@ -3734,6 +3940,40 @@
         "song": "songs/as-time-goes-by/song.json",
         "abc": "songs/as-time-goes-by/song.abc",
         "musicxml": "songs/as-time-goes-by/song.musicxml"
+      }
+    },
+    {
+      "id": "aupres-de-ma-blonde",
+      "title": "Aupr\u00e8s de ma Blonde",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "french",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 63,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/aupres-de-ma-blonde/song.json",
+        "abc": "songs/aupres-de-ma-blonde/song.abc",
+        "musicxml": "songs/aupres-de-ma-blonde/song.musicxml"
       }
     },
     {
@@ -4041,6 +4281,40 @@
       }
     },
     {
+      "id": "bella-ciao",
+      "title": "Bella Ciao",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "italian",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "F5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/bella-ciao/song.json",
+        "abc": "songs/bella-ciao/song.abc",
+        "musicxml": "songs/bella-ciao/song.musicxml"
+      }
+    },
+    {
       "id": "berceuse",
       "title": "Berceuse",
       "composer": "Gabriel Faur\u00e9",
@@ -4240,6 +4514,40 @@
         "song": "songs/blue-bells-of-scotland/song.json",
         "abc": "songs/blue-bells-of-scotland/song.abc",
         "musicxml": "songs/blue-bells-of-scotland/song.musicxml"
+      }
+    },
+    {
+      "id": "bobby-shafto",
+      "title": "Bobby Shafto",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "english",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/bobby-shafto/song.json",
+        "abc": "songs/bobby-shafto/song.abc",
+        "musicxml": "songs/bobby-shafto/song.musicxml"
       }
     },
     {
@@ -4449,6 +4757,74 @@
       }
     },
     {
+      "id": "buffalo-gals",
+      "title": "Buffalo Gals",
+      "composer": "Cool White (John Hodges)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G5"
+      },
+      "noteCount": 64,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/buffalo-gals/song.json",
+        "abc": "songs/buffalo-gals/song.abc",
+        "musicxml": "songs/buffalo-gals/song.musicxml"
+      }
+    },
+    {
+      "id": "burung-kakatua",
+      "title": "Burung Kakatua",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 1,
+      "tags": [
+        "folk",
+        "indonesian",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 58,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/burung-kakatua/song.json",
+        "abc": "songs/burung-kakatua/song.abc",
+        "musicxml": "songs/burung-kakatua/song.musicxml"
+      }
+    },
+    {
       "id": "but-not-for-me",
       "title": "But Not for Me",
       "composer": "George Gershwin",
@@ -4480,6 +4856,40 @@
         "song": "songs/but-not-for-me/song.json",
         "abc": "songs/but-not-for-me/song.abc",
         "musicxml": "songs/but-not-for-me/song.musicxml"
+      }
+    },
+    {
+      "id": "bye-baby-bunting",
+      "title": "Bye, Baby Bunting",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "lullaby",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/bye-baby-bunting/song.json",
+        "abc": "songs/bye-baby-bunting/song.abc",
+        "musicxml": "songs/bye-baby-bunting/song.musicxml"
       }
     },
     {
@@ -4579,6 +4989,40 @@
         "song": "songs/caprice-no-24-theme/song.json",
         "abc": "songs/caprice-no-24-theme/song.abc",
         "musicxml": "songs/caprice-no-24-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "caranguejo-nao-e-peixe",
+      "title": "Caranguejo N\u00e3o \u00c9 Peixe",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "brazilian",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "B3",
+        "high": "C5"
+      },
+      "noteCount": 58,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/caranguejo-nao-e-peixe/song.json",
+        "abc": "songs/caranguejo-nao-e-peixe/song.abc",
+        "musicxml": "songs/caranguejo-nao-e-peixe/song.musicxml"
       }
     },
     {
@@ -4920,6 +5364,111 @@
       }
     },
     {
+      "id": "cotton-eyed-joe",
+      "title": "Cotton-Eyed Joe",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "fiddle",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "G5"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/cotton-eyed-joe/song.json",
+        "abc": "songs/cotton-eyed-joe/song.abc",
+        "musicxml": "songs/cotton-eyed-joe/song.musicxml"
+      }
+    },
+    {
+      "id": "country-gardens",
+      "title": "Country Gardens",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "english",
+        "morris",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 77,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/country-gardens/song.json",
+        "abc": "songs/country-gardens/song.abc",
+        "musicxml": "songs/country-gardens/song.musicxml"
+      }
+    },
+    {
+      "id": "cumberland-gap",
+      "title": "Cumberland Gap",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "fiddle",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B5"
+      },
+      "noteCount": 61,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/cumberland-gap/song.json",
+        "abc": "songs/cumberland-gap/song.abc",
+        "musicxml": "songs/cumberland-gap/song.musicxml"
+      }
+    },
+    {
       "id": "cumberland-reel",
       "title": "Cumberland Reel",
       "composer": "Traditional",
@@ -5054,6 +5603,41 @@
         "song": "songs/danse-macabre-theme/song.json",
         "abc": "songs/danse-macabre-theme/song.abc",
         "musicxml": "songs/danse-macabre-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "de-colores",
+      "title": "De Colores",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "spanish",
+        "mexican",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 89,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/de-colores/song.json",
+        "abc": "songs/de-colores/song.abc",
+        "musicxml": "songs/de-colores/song.musicxml"
       }
     },
     {
@@ -5194,6 +5778,111 @@
       }
     },
     {
+      "id": "do-lord",
+      "title": "Do Lord",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "spiritual",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/do-lord/song.json",
+        "abc": "songs/do-lord/song.abc",
+        "musicxml": "songs/do-lord/song.musicxml"
+      }
+    },
+    {
+      "id": "doraji-taryeong",
+      "title": "Doraji Taryeong",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "korean",
+        "pentatonic",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        9,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 62,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/doraji-taryeong/song.json",
+        "abc": "songs/doraji-taryeong/song.abc",
+        "musicxml": "songs/doraji-taryeong/song.musicxml"
+      }
+    },
+    {
+      "id": "down-by-the-riverside",
+      "title": "Down by the Riverside",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "spiritual",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 50,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/down-by-the-riverside/song.json",
+        "abc": "songs/down-by-the-riverside/song.abc",
+        "musicxml": "songs/down-by-the-riverside/song.musicxml"
+      }
+    },
+    {
       "id": "down-in-the-mines",
       "title": "Down in the Mines",
       "composer": "Traditional",
@@ -5227,6 +5916,40 @@
       }
     },
     {
+      "id": "early-one-morning",
+      "title": "Early One Morning",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "english",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "C6"
+      },
+      "noteCount": 52,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/early-one-morning/song.json",
+        "abc": "songs/early-one-morning/song.abc",
+        "musicxml": "songs/early-one-morning/song.musicxml"
+      }
+    },
+    {
       "id": "egmont-overture-theme",
       "title": "Egmont Overture (theme)",
       "composer": "Ludwig van Beethoven",
@@ -5256,6 +5979,109 @@
         "song": "songs/egmont-overture-theme/song.json",
         "abc": "songs/egmont-overture-theme/song.abc",
         "musicxml": "songs/egmont-overture-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "el-barquito-chiquitito",
+      "title": "El Barquito Chiquitito",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "spanish",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 54,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/el-barquito-chiquitito/song.json",
+        "abc": "songs/el-barquito-chiquitito/song.abc",
+        "musicxml": "songs/el-barquito-chiquitito/song.musicxml"
+      }
+    },
+    {
+      "id": "el-condor-pasa",
+      "title": "El C\u00f3ndor Pasa",
+      "composer": "Daniel Alom\u00eda Robles",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "peruvian",
+        "andean",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C6"
+      },
+      "noteCount": 71,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/el-condor-pasa/song.json",
+        "abc": "songs/el-condor-pasa/song.abc",
+        "musicxml": "songs/el-condor-pasa/song.musicxml"
+      }
+    },
+    {
+      "id": "el-vito",
+      "title": "El Vito",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "spanish",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        3,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/el-vito/song.json",
+        "abc": "songs/el-vito/song.abc",
+        "musicxml": "songs/el-vito/song.musicxml"
       }
     },
     {
@@ -5357,6 +6183,41 @@
         "song": "songs/emperors-hymn-string-quartet-op-76-no-3/song.json",
         "abc": "songs/emperors-hymn-string-quartet-op-76-no-3/song.abc",
         "musicxml": "songs/emperors-hymn-string-quartet-op-76-no-3/song.musicxml"
+      }
+    },
+    {
+      "id": "fais-dodo",
+      "title": "Fais Dodo, Colas Mon P'tit Fr\u00e8re",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "french",
+        "lullaby",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "G4"
+      },
+      "noteCount": 55,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/fais-dodo/song.json",
+        "abc": "songs/fais-dodo/song.abc",
+        "musicxml": "songs/fais-dodo/song.musicxml"
       }
     },
     {
@@ -5599,6 +6460,40 @@
       }
     },
     {
+      "id": "five-green-bottles",
+      "title": "Five Green Bottles",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "counting",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 41,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/five-green-bottles/song.json",
+        "abc": "songs/five-green-bottles/song.abc",
+        "musicxml": "songs/five-green-bottles/song.musicxml"
+      }
+    },
+    {
       "id": "flight-of-the-bumblebee",
       "title": "Flight of the Bumblebee",
       "composer": "Nikolai Rimsky-Korsakov",
@@ -5669,6 +6564,41 @@
       }
     },
     {
+      "id": "frog-went-a-courtin",
+      "title": "Frog Went A-Courtin'",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "animal",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/frog-went-a-courtin/song.json",
+        "abc": "songs/frog-went-a-courtin/song.abc",
+        "musicxml": "songs/frog-went-a-courtin/song.musicxml"
+      }
+    },
+    {
       "id": "funeral-march-of-a-marionette",
       "title": "Funeral March of a Marionette",
       "composer": "Charles Gounod",
@@ -5735,6 +6665,109 @@
         "song": "songs/funeral-march-sonata-no-2/song.json",
         "abc": "songs/funeral-march-sonata-no-2/song.abc",
         "musicxml": "songs/funeral-march-sonata-no-2/song.musicxml"
+      }
+    },
+    {
+      "id": "funiculi-funicula",
+      "title": "Funicul\u00ec, Funicul\u00e0",
+      "composer": "Luigi Denza",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "italian",
+        "neapolitan",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/funiculi-funicula/song.json",
+        "abc": "songs/funiculi-funicula/song.abc",
+        "musicxml": "songs/funiculi-funicula/song.musicxml"
+      }
+    },
+    {
+      "id": "fuyu-no-yoru",
+      "title": "Fuyu no Yoru (Winter Night)",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "japanese",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 90,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/fuyu-no-yoru/song.json",
+        "abc": "songs/fuyu-no-yoru/song.abc",
+        "musicxml": "songs/fuyu-no-yoru/song.musicxml"
+      }
+    },
+    {
+      "id": "girls-and-boys-come-out-to-play",
+      "title": "Girls and Boys Come Out to Play",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "english",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 71,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/girls-and-boys-come-out-to-play/song.json",
+        "abc": "songs/girls-and-boys-come-out-to-play/song.abc",
+        "musicxml": "songs/girls-and-boys-come-out-to-play/song.musicxml"
       }
     },
     {
@@ -5840,6 +6873,42 @@
       }
     },
     {
+      "id": "go-tell-it-on-the-mountain",
+      "title": "Go Tell It on the Mountain",
+      "composer": "Traditional",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "spiritual",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/go-tell-it-on-the-mountain/song.json",
+        "abc": "songs/go-tell-it-on-the-mountain/song.abc",
+        "musicxml": "songs/go-tell-it-on-the-mountain/song.musicxml"
+      }
+    },
+    {
       "id": "god-rest-you-merry-gentlemen",
       "title": "God rest you, merry gentlemen",
       "composer": "Traditional",
@@ -5938,6 +7007,40 @@
         "song": "songs/good-christian-men-rejoice/song.json",
         "abc": "songs/good-christian-men-rejoice/song.abc",
         "musicxml": "songs/good-christian-men-rejoice/song.musicxml"
+      }
+    },
+    {
+      "id": "goodnight-ladies",
+      "title": "Goodnight, Ladies",
+      "composer": "Edwin P. Christy",
+      "category": "folk",
+      "difficulty": 1,
+      "tags": [
+        "folk",
+        "american",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/goodnight-ladies/song.json",
+        "abc": "songs/goodnight-ladies/song.abc",
+        "musicxml": "songs/goodnight-ladies/song.musicxml"
       }
     },
     {
@@ -6078,6 +7181,41 @@
       }
     },
     {
+      "id": "hava-nagila",
+      "title": "Hava Nagila",
+      "composer": "Traditional (arr. A. Z. Idelsohn)",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "jewish",
+        "hebrew",
+        "beginner"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 127,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hava-nagila/song.json",
+        "abc": "songs/hava-nagila/song.abc",
+        "musicxml": "songs/hava-nagila/song.musicxml"
+      }
+    },
+    {
       "id": "hebrides-overture-theme",
       "title": "Hebrides Overture (theme)",
       "composer": "Felix Mendelssohn",
@@ -6174,6 +7312,74 @@
         "song": "songs/heidenroslein-wild-rose/song.json",
         "abc": "songs/heidenroslein-wild-rose/song.abc",
         "musicxml": "songs/heidenroslein-wild-rose/song.musicxml"
+      }
+    },
+    {
+      "id": "hevenu-shalom-aleichem",
+      "title": "Hevenu Shalom Aleichem",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 1,
+      "tags": [
+        "folk",
+        "jewish",
+        "hebrew",
+        "beginner"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "A3",
+        "high": "D5"
+      },
+      "noteCount": 37,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hevenu-shalom-aleichem/song.json",
+        "abc": "songs/hevenu-shalom-aleichem/song.abc",
+        "musicxml": "songs/hevenu-shalom-aleichem/song.musicxml"
+      }
+    },
+    {
+      "id": "hey-diddle-diddle",
+      "title": "Hey Diddle Diddle",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hey-diddle-diddle/song.json",
+        "abc": "songs/hey-diddle-diddle/song.abc",
+        "musicxml": "songs/hey-diddle-diddle/song.musicxml"
       }
     },
     {
@@ -6349,6 +7555,39 @@
       }
     },
     {
+      "id": "humpty-dumpty",
+      "title": "Humpty Dumpty",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "G5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/humpty-dumpty/song.json",
+        "abc": "songs/humpty-dumpty/song.abc",
+        "musicxml": "songs/humpty-dumpty/song.musicxml"
+      }
+    },
+    {
       "id": "hungarian-dance-no-5",
       "title": "Hungarian Dance No. 5",
       "composer": "Johannes Brahms",
@@ -6448,6 +7687,41 @@
         "song": "songs/hungarian-rhapsody-no-2-theme/song.json",
         "abc": "songs/hungarian-rhapsody-no-2-theme/song.abc",
         "musicxml": "songs/hungarian-rhapsody-no-2-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "hush-little-baby",
+      "title": "Hush, Little Baby",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "lullaby",
+        "american",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 38,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hush-little-baby/song.json",
+        "abc": "songs/hush-little-baby/song.abc",
+        "musicxml": "songs/hush-little-baby/song.musicxml"
       }
     },
     {
@@ -6551,6 +7825,40 @@
       }
     },
     {
+      "id": "il-etait-un-petit-navire",
+      "title": "Il \u00c9tait un Petit Navire",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "french",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 38,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/il-etait-un-petit-navire/song.json",
+        "abc": "songs/il-etait-un-petit-navire/song.abc",
+        "musicxml": "songs/il-etait-un-petit-navire/song.musicxml"
+      }
+    },
+    {
       "id": "in-the-shade-of-the-old-apple-tree",
       "title": "In the Shade of the Old Apple Tree",
       "composer": "Egbert Van Alstyne",
@@ -6614,6 +7922,107 @@
         "song": "songs/italian-symphony-1st-mvt-theme/song.json",
         "abc": "songs/italian-symphony-1st-mvt-theme/song.abc",
         "musicxml": "songs/italian-symphony-1st-mvt-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "ive-been-working-on-the-railroad",
+      "title": "I've Been Working on the Railroad",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 57,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ive-been-working-on-the-railroad/song.json",
+        "abc": "songs/ive-been-working-on-the-railroad/song.abc",
+        "musicxml": "songs/ive-been-working-on-the-railroad/song.musicxml"
+      }
+    },
+    {
+      "id": "jack-and-jill",
+      "title": "Jack and Jill",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "E5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/jack-and-jill/song.json",
+        "abc": "songs/jack-and-jill/song.abc",
+        "musicxml": "songs/jack-and-jill/song.musicxml"
+      }
+    },
+    {
+      "id": "jai-perdu-le-do",
+      "title": "J'ai Perdu le Do de Ma Clarinette",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "french",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 73,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/jai-perdu-le-do/song.json",
+        "abc": "songs/jai-perdu-le-do/song.abc",
+        "musicxml": "songs/jai-perdu-le-do/song.musicxml"
       }
     },
     {
@@ -6752,6 +8161,41 @@
       }
     },
     {
+      "id": "kangding-qingge",
+      "title": "Kangding Qingge (Kangding Love Song)",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "chinese",
+        "pentatonic",
+        "beginner"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/kangding-qingge/song.json",
+        "abc": "songs/kangding-qingge/song.abc",
+        "musicxml": "songs/kangding-qingge/song.musicxml"
+      }
+    },
+    {
       "id": "keep-the-home-fires-burning",
       "title": "Keep the Home Fires Burning",
       "composer": "Ivor Novello",
@@ -6818,6 +8262,74 @@
       }
     },
     {
+      "id": "la-adelita",
+      "title": "La Adelita",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "mexican",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/la-adelita/song.json",
+        "abc": "songs/la-adelita/song.abc",
+        "musicxml": "songs/la-adelita/song.musicxml"
+      }
+    },
+    {
+      "id": "la-bamba",
+      "title": "La Bamba",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "mexican",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "B4",
+        "high": "F5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/la-bamba/song.json",
+        "abc": "songs/la-bamba/song.abc",
+        "musicxml": "songs/la-bamba/song.musicxml"
+      }
+    },
+    {
       "id": "la-campanella-theme",
       "title": "La Campanella (theme)",
       "composer": "Franz Liszt",
@@ -6847,6 +8359,40 @@
         "song": "songs/la-campanella-theme/song.json",
         "abc": "songs/la-campanella-theme/song.abc",
         "musicxml": "songs/la-campanella-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "la-cucaracha",
+      "title": "La Cucaracha",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "mexican",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "A5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/la-cucaracha/song.json",
+        "abc": "songs/la-cucaracha/song.abc",
+        "musicxml": "songs/la-cucaracha/song.musicxml"
       }
     },
     {
@@ -6921,6 +8467,41 @@
       }
     },
     {
+      "id": "la-llorona",
+      "title": "La Llorona",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "mexican",
+        "waltz",
+        "beginner"
+      ],
+      "key": "c minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "Eb5"
+      },
+      "noteCount": 43,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/la-llorona/song.json",
+        "abc": "songs/la-llorona/song.abc",
+        "musicxml": "songs/la-llorona/song.musicxml"
+      }
+    },
+    {
       "id": "lads-a-bunchum",
       "title": "Lads a Bunchum",
       "composer": "Traditional",
@@ -6987,6 +8568,40 @@
         "song": "songs/largo-ombra-mai-fu-xerxes/song.json",
         "abc": "songs/largo-ombra-mai-fu-xerxes/song.abc",
         "musicxml": "songs/largo-ombra-mai-fu-xerxes/song.musicxml"
+      }
+    },
+    {
+      "id": "las-mananitas",
+      "title": "Las Ma\u00f1anitas",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "mexican",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 60,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/las-mananitas/song.json",
+        "abc": "songs/las-mananitas/song.abc",
+        "musicxml": "songs/las-mananitas/song.musicxml"
       }
     },
     {
@@ -7058,6 +8673,39 @@
       }
     },
     {
+      "id": "little-bo-peep",
+      "title": "Little Bo-Peep",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "G4"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/little-bo-peep/song.json",
+        "abc": "songs/little-bo-peep/song.abc",
+        "musicxml": "songs/little-bo-peep/song.musicxml"
+      }
+    },
+    {
       "id": "little-fugue-in-g-minor-theme",
       "title": "Little Fugue in G minor (theme)",
       "composer": "Johann Sebastian Bach",
@@ -7122,6 +8770,110 @@
         "song": "songs/logie-o-buchan/song.json",
         "abc": "songs/logie-o-buchan/song.abc",
         "musicxml": "songs/logie-o-buchan/song.musicxml"
+      }
+    },
+    {
+      "id": "looby-loo",
+      "title": "Looby Loo",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "action",
+        "singing-game",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C5",
+        "high": "A5"
+      },
+      "noteCount": 57,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/looby-loo/song.json",
+        "abc": "songs/looby-loo/song.abc",
+        "musicxml": "songs/looby-loo/song.musicxml"
+      }
+    },
+    {
+      "id": "los-cuatro-muleros",
+      "title": "Los Cuatro Muleros",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "spanish",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 38,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/los-cuatro-muleros/song.json",
+        "abc": "songs/los-cuatro-muleros/song.abc",
+        "musicxml": "songs/los-cuatro-muleros/song.musicxml"
+      }
+    },
+    {
+      "id": "los-peces-en-el-rio",
+      "title": "Los Peces en el R\u00edo",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "spanish",
+        "christmas",
+        "beginner"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "B4",
+        "high": "A5"
+      },
+      "noteCount": 77,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/los-peces-en-el-rio/song.json",
+        "abc": "songs/los-peces-en-el-rio/song.abc",
+        "musicxml": "songs/los-peces-en-el-rio/song.musicxml"
       }
     },
     {
@@ -7489,6 +9241,40 @@
       }
     },
     {
+      "id": "milo-mou-kokkino",
+      "title": "Milo Mou Kokkino",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "greek",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        7,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 70,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/milo-mou-kokkino/song.json",
+        "abc": "songs/milo-mou-kokkino/song.abc",
+        "musicxml": "songs/milo-mou-kokkino/song.musicxml"
+      }
+    },
+    {
       "id": "minuet-in-g-woo-10-no-2",
       "title": "Minuet in G (WoO 10 No. 2)",
       "composer": "Ludwig van Beethoven",
@@ -7619,6 +9405,41 @@
         "song": "songs/mist-on-the-marsh/song.json",
         "abc": "songs/mist-on-the-marsh/song.abc",
         "musicxml": "songs/mist-on-the-marsh/song.musicxml"
+      }
+    },
+    {
+      "id": "mo-li-hua",
+      "title": "Mo Li Hua (Jasmine Flower)",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "chinese",
+        "pentatonic",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "F5"
+      },
+      "noteCount": 78,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/mo-li-hua/song.json",
+        "abc": "songs/mo-li-hua/song.abc",
+        "musicxml": "songs/mo-li-hua/song.musicxml"
       }
     },
     {
@@ -8341,6 +10162,41 @@
       }
     },
     {
+      "id": "on-top-of-old-smoky",
+      "title": "On Top of Old Smoky",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "waltz",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/on-top-of-old-smoky/song.json",
+        "abc": "songs/on-top-of-old-smoky/song.abc",
+        "musicxml": "songs/on-top-of-old-smoky/song.musicxml"
+      }
+    },
+    {
       "id": "on-wings-of-song",
       "title": "On Wings of Song",
       "composer": "Felix Mendelssohn",
@@ -8372,6 +10228,40 @@
         "song": "songs/on-wings-of-song/song.json",
         "abc": "songs/on-wings-of-song/song.abc",
         "musicxml": "songs/on-wings-of-song/song.musicxml"
+      }
+    },
+    {
+      "id": "once-i-caught-a-fish-alive",
+      "title": "One, Two, Three, Four, Five (Once I Caught a Fish Alive)",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "counting",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/once-i-caught-a-fish-alive/song.json",
+        "abc": "songs/once-i-caught-a-fish-alive/song.abc",
+        "musicxml": "songs/once-i-caught-a-fish-alive/song.musicxml"
       }
     },
     {
@@ -8407,6 +10297,42 @@
         "song": "songs/organ-symphony-finale-theme/song.json",
         "abc": "songs/organ-symphony-finale-theme/song.abc",
         "musicxml": "songs/organ-symphony-finale-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "oy-chanukah",
+      "title": "Oy Chanukah",
+      "composer": "Traditional",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "jewish",
+        "yiddish",
+        "hanukkah",
+        "beginner"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 80,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/oy-chanukah/song.json",
+        "abc": "songs/oy-chanukah/song.abc",
+        "musicxml": "songs/oy-chanukah/song.musicxml"
       }
     },
     {
@@ -8578,6 +10504,41 @@
         "song": "songs/pavane-theme/song.json",
         "abc": "songs/pavane-theme/song.abc",
         "musicxml": "songs/pavane-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "peace-like-a-river",
+      "title": "Peace Like a River",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "spiritual",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 50,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/peace-like-a-river/song.json",
+        "abc": "songs/peace-like-a-river/song.abc",
+        "musicxml": "songs/peace-like-a-river/song.musicxml"
       }
     },
     {
@@ -8850,6 +10811,40 @@
       }
     },
     {
+      "id": "polly-wolly-doodle",
+      "title": "Polly Wolly Doodle",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "A4"
+      },
+      "noteCount": 79,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/polly-wolly-doodle/song.json",
+        "abc": "songs/polly-wolly-doodle/song.abc",
+        "musicxml": "songs/polly-wolly-doodle/song.musicxml"
+      }
+    },
+    {
       "id": "polovtsian-dances-stranger-in-paradise-theme",
       "title": "Polovtsian Dances / Stranger in Paradise (theme)",
       "composer": "Alexander Borodin",
@@ -9083,6 +11078,40 @@
       }
     },
     {
+      "id": "que-llueva-que-llueva",
+      "title": "Que Llueva, Que Llueva",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "spanish",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "A4"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/que-llueva-que-llueva/song.json",
+        "abc": "songs/que-llueva-que-llueva/song.abc",
+        "musicxml": "songs/que-llueva-que-llueva/song.musicxml"
+      }
+    },
+    {
       "id": "queen-of-the-night-aria-theme",
       "title": "Queen of the Night aria (theme)",
       "composer": "Wolfgang Amadeus Mozart",
@@ -9114,6 +11143,40 @@
         "song": "songs/queen-of-the-night-aria-theme/song.json",
         "abc": "songs/queen-of-the-night-aria-theme/song.abc",
         "musicxml": "songs/queen-of-the-night-aria-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "quel-mazzolin-di-fiori",
+      "title": "Quel Mazzolin di Fiori",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "italian",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "C6"
+      },
+      "noteCount": 39,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/quel-mazzolin-di-fiori/song.json",
+        "abc": "songs/quel-mazzolin-di-fiori/song.abc",
+        "musicxml": "songs/quel-mazzolin-di-fiori/song.musicxml"
       }
     },
     {
@@ -9216,6 +11279,41 @@
       }
     },
     {
+      "id": "rasa-sayang",
+      "title": "Rasa Sayang",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 1,
+      "tags": [
+        "folk",
+        "malay",
+        "indonesian",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "B3",
+        "high": "C5"
+      },
+      "noteCount": 63,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/rasa-sayang/song.json",
+        "abc": "songs/rasa-sayang/song.abc",
+        "musicxml": "songs/rasa-sayang/song.musicxml"
+      }
+    },
+    {
       "id": "rhapsody-on-a-theme-of-paganini-18th-var",
       "title": "Rhapsody on a Theme of Paganini (18th var.)",
       "composer": "Sergei Rachmaninoff",
@@ -9277,6 +11375,75 @@
         "song": "songs/ride-of-the-valkyries/song.json",
         "abc": "songs/ride-of-the-valkyries/song.abc",
         "musicxml": "songs/ride-of-the-valkyries/song.musicxml"
+      }
+    },
+    {
+      "id": "rig-a-jig-jig",
+      "title": "Rig-a-Jig-Jig",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "action",
+        "singing-game",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 62,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/rig-a-jig-jig/song.json",
+        "abc": "songs/rig-a-jig-jig/song.abc",
+        "musicxml": "songs/rig-a-jig-jig/song.musicxml"
+      }
+    },
+    {
+      "id": "rock-a-bye-baby",
+      "title": "Rock-a-bye Baby",
+      "composer": "Effie Crockett (Canning)",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "lullaby",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "F5"
+      },
+      "noteCount": 37,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/rock-a-bye-baby/song.json",
+        "abc": "songs/rock-a-bye-baby/song.abc",
+        "musicxml": "songs/rock-a-bye-baby/song.musicxml"
       }
     },
     {
@@ -9483,6 +11650,75 @@
       }
     },
     {
+      "id": "saeya-saeya",
+      "title": "Saeya Saeya (Bird, Bird, Blue Bird)",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 1,
+      "tags": [
+        "folk",
+        "korean",
+        "pentatonic",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/saeya-saeya/song.json",
+        "abc": "songs/saeya-saeya/song.abc",
+        "musicxml": "songs/saeya-saeya/song.musicxml"
+      }
+    },
+    {
+      "id": "sakura-sakura",
+      "title": "Sakura Sakura",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "japanese",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "B3",
+        "high": "C5"
+      },
+      "noteCount": 50,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sakura-sakura/song.json",
+        "abc": "songs/sakura-sakura/song.abc",
+        "musicxml": "songs/sakura-sakura/song.musicxml"
+      }
+    },
+    {
       "id": "salut-damour",
       "title": "Salut d'Amour",
       "composer": "Edward Elgar",
@@ -9515,6 +11751,109 @@
         "song": "songs/salut-damour/song.json",
         "abc": "songs/salut-damour/song.abc",
         "musicxml": "songs/salut-damour/song.musicxml"
+      }
+    },
+    {
+      "id": "samba-lele",
+      "title": "Samba L\u00eal\u00ea",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "brazilian",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "A4"
+      },
+      "noteCount": 64,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/samba-lele/song.json",
+        "abc": "songs/samba-lele/song.abc",
+        "musicxml": "songs/samba-lele/song.musicxml"
+      }
+    },
+    {
+      "id": "samiotissa",
+      "title": "Samiotissa",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "greek",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        7,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 75,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/samiotissa/song.json",
+        "abc": "songs/samiotissa/song.abc",
+        "musicxml": "songs/samiotissa/song.musicxml"
+      }
+    },
+    {
+      "id": "santa-lucia",
+      "title": "Santa Lucia",
+      "composer": "Teodoro Cottrau",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "italian",
+        "neapolitan",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 49,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/santa-lucia/song.json",
+        "abc": "songs/santa-lucia/song.abc",
+        "musicxml": "songs/santa-lucia/song.musicxml"
       }
     },
     {
@@ -9654,6 +11993,40 @@
       }
     },
     {
+      "id": "shoo-fly-dont-bother-me",
+      "title": "Shoo Fly, Don't Bother Me",
+      "composer": "Frank Campbell / Billy Reeves",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/shoo-fly-dont-bother-me/song.json",
+        "abc": "songs/shoo-fly-dont-bother-me/song.abc",
+        "musicxml": "songs/shoo-fly-dont-bother-me/song.musicxml"
+      }
+    },
+    {
       "id": "sicilienne",
       "title": "Sicilienne",
       "composer": "Gabriel Faur\u00e9",
@@ -9723,6 +12096,40 @@
       }
     },
     {
+      "id": "skidamarink",
+      "title": "Skidamarink",
+      "composer": "Felix F. Feist & Al Piantadosi",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "action",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "B4"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/skidamarink/song.json",
+        "abc": "songs/skidamarink/song.abc",
+        "musicxml": "songs/skidamarink/song.musicxml"
+      }
+    },
+    {
       "id": "slavonic-dance-no-8-theme",
       "title": "Slavonic Dance No. 8 (theme)",
       "composer": "Anton\u00edn Dvo\u0159\u00e1k",
@@ -9754,6 +12161,41 @@
         "song": "songs/slavonic-dance-no-8-theme/song.json",
         "abc": "songs/slavonic-dance-no-8-theme/song.abc",
         "musicxml": "songs/slavonic-dance-no-8-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "sleep-baby-sleep",
+      "title": "Sleep, Baby, Sleep",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "lullaby",
+        "german",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sleep-baby-sleep/song.json",
+        "abc": "songs/sleep-baby-sleep/song.abc",
+        "musicxml": "songs/sleep-baby-sleep/song.musicxml"
       }
     },
     {
@@ -10129,6 +12571,41 @@
       }
     },
     {
+      "id": "sur-le-pont-davignon",
+      "title": "Sur le Pont d'Avignon",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "french",
+        "singing-game",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 27,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sur-le-pont-davignon/song.json",
+        "abc": "songs/sur-le-pont-davignon/song.abc",
+        "musicxml": "songs/sur-le-pont-davignon/song.musicxml"
+      }
+    },
+    {
       "id": "swan-theme-reprise",
       "title": "Swan Theme reprise",
       "composer": "Pyotr Ilyich Tchaikovsky",
@@ -10230,6 +12707,41 @@
         "song": "songs/sweet-jenny-jones/song.json",
         "abc": "songs/sweet-jenny-jones/song.abc",
         "musicxml": "songs/sweet-jenny-jones/song.musicxml"
+      }
+    },
+    {
+      "id": "swing-low-sweet-chariot",
+      "title": "Swing Low, Sweet Chariot",
+      "composer": "Traditional (Wallace Willis)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "spiritual",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/swing-low-sweet-chariot/song.json",
+        "abc": "songs/swing-low-sweet-chariot/song.abc",
+        "musicxml": "songs/swing-low-sweet-chariot/song.musicxml"
       }
     },
     {
@@ -10698,6 +13210,41 @@
       }
     },
     {
+      "id": "tarantella-napoletana",
+      "title": "Tarantella Napoletana",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 3,
+      "tags": [
+        "folk",
+        "italian",
+        "dance",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G#4",
+        "high": "A5"
+      },
+      "noteCount": 77,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/tarantella-napoletana/song.json",
+        "abc": "songs/tarantella-napoletana/song.abc",
+        "musicxml": "songs/tarantella-napoletana/song.musicxml"
+      }
+    },
+    {
       "id": "tea-for-two",
       "title": "Tea for Two",
       "composer": "Vincent Youmans",
@@ -10729,6 +13276,40 @@
         "song": "songs/tea-for-two/song.json",
         "abc": "songs/tea-for-two/song.abc",
         "musicxml": "songs/tea-for-two/song.musicxml"
+      }
+    },
+    {
+      "id": "ten-in-the-bed",
+      "title": "Ten in the Bed",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "counting",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ten-in-the-bed/song.json",
+        "abc": "songs/ten-in-the-bed/song.abc",
+        "musicxml": "songs/ten-in-the-bed/song.musicxml"
       }
     },
     {
@@ -10766,6 +13347,41 @@
       }
     },
     {
+      "id": "the-ants-go-marching",
+      "title": "The Ants Go Marching",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "counting",
+        "american",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 57,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-ants-go-marching/song.json",
+        "abc": "songs/the-ants-go-marching/song.abc",
+        "musicxml": "songs/the-ants-go-marching/song.musicxml"
+      }
+    },
+    {
       "id": "the-barley-mow",
       "title": "The Barley Mow",
       "composer": "Traditional",
@@ -10798,6 +13414,40 @@
         "song": "songs/the-barley-mow/song.json",
         "abc": "songs/the-barley-mow/song.abc",
         "musicxml": "songs/the-barley-mow/song.musicxml"
+      }
+    },
+    {
+      "id": "the-bear-went-over-the-mountain",
+      "title": "The Bear Went Over the Mountain",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "animal",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-bear-went-over-the-mountain/song.json",
+        "abc": "songs/the-bear-went-over-the-mountain/song.abc",
+        "musicxml": "songs/the-bear-went-over-the-mountain/song.musicxml"
       }
     },
     {
@@ -11206,6 +13856,41 @@
       }
     },
     {
+      "id": "the-leaving-of-liverpool",
+      "title": "The Leaving of Liverpool",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "english",
+        "sea-song",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-leaving-of-liverpool/song.json",
+        "abc": "songs/the-leaving-of-liverpool/song.abc",
+        "musicxml": "songs/the-leaving-of-liverpool/song.musicxml"
+      }
+    },
+    {
       "id": "the-liberty-bell",
       "title": "The Liberty Bell",
       "composer": "John Philip Sousa",
@@ -11232,6 +13917,40 @@
         "song": "songs/the-liberty-bell/song.json",
         "abc": "songs/the-liberty-bell/song.abc",
         "musicxml": "songs/the-liberty-bell/song.musicxml"
+      }
+    },
+    {
+      "id": "the-more-we-get-together",
+      "title": "The More We Get Together",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "german",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-more-we-get-together/song.json",
+        "abc": "songs/the-more-we-get-together/song.abc",
+        "musicxml": "songs/the-more-we-get-together/song.musicxml"
       }
     },
     {
@@ -11267,6 +13986,40 @@
         "song": "songs/the-mug-of-brown-ale/song.json",
         "abc": "songs/the-mug-of-brown-ale/song.abc",
         "musicxml": "songs/the-mug-of-brown-ale/song.musicxml"
+      }
+    },
+    {
+      "id": "the-oak-and-the-ash",
+      "title": "The Oak and the Ash",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "english",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "G5"
+      },
+      "noteCount": 73,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-oak-and-the-ash/song.json",
+        "abc": "songs/the-oak-and-the-ash/song.abc",
+        "musicxml": "songs/the-oak-and-the-ash/song.musicxml"
       }
     },
     {
@@ -11370,6 +14123,40 @@
         "song": "songs/the-trout-die-forelle/song.json",
         "abc": "songs/the-trout-die-forelle/song.abc",
         "musicxml": "songs/the-trout-die-forelle/song.musicxml"
+      }
+    },
+    {
+      "id": "the-wabash-cannonball",
+      "title": "The Wabash Cannonball",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 60,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-wabash-cannonball/song.json",
+        "abc": "songs/the-wabash-cannonball/song.abc",
+        "musicxml": "songs/the-wabash-cannonball/song.musicxml"
       }
     },
     {
@@ -11535,6 +14322,41 @@
         "song": "songs/toccata-and-fugue-in-d-minor-opening/song.json",
         "abc": "songs/toccata-and-fugue-in-d-minor-opening/song.abc",
         "musicxml": "songs/toccata-and-fugue-in-d-minor-opening/song.musicxml"
+      }
+    },
+    {
+      "id": "tom-dooley",
+      "title": "Tom Dooley",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "american",
+        "ballad",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/tom-dooley/song.json",
+        "abc": "songs/tom-dooley/song.abc",
+        "musicxml": "songs/tom-dooley/song.musicxml"
       }
     },
     {
@@ -11810,6 +14632,41 @@
       }
     },
     {
+      "id": "un-flambeau-jeannette-isabelle",
+      "title": "Un Flambeau, Jeannette, Isabelle",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "french",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 55,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/un-flambeau-jeannette-isabelle/song.json",
+        "abc": "songs/un-flambeau-jeannette-isabelle/song.abc",
+        "musicxml": "songs/un-flambeau-jeannette-isabelle/song.musicxml"
+      }
+    },
+    {
       "id": "va-pensiero-chorus-of-hebrew-slaves",
       "title": "Va pensiero (Chorus of Hebrew Slaves)",
       "composer": "Giuseppe Verdi",
@@ -11841,6 +14698,40 @@
         "song": "songs/va-pensiero-chorus-of-hebrew-slaves/song.json",
         "abc": "songs/va-pensiero-chorus-of-hebrew-slaves/song.abc",
         "musicxml": "songs/va-pensiero-chorus-of-hebrew-slaves/song.musicxml"
+      }
+    },
+    {
+      "id": "vieni-sul-mar",
+      "title": "Vieni Sul Mar",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "italian",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/vieni-sul-mar/song.json",
+        "abc": "songs/vieni-sul-mar/song.abc",
+        "musicxml": "songs/vieni-sul-mar/song.musicxml"
       }
     },
     {
@@ -12380,6 +15271,75 @@
         "song": "songs/yes-sir-thats-my-baby/song.json",
         "abc": "songs/yes-sir-thats-my-baby/song.abc",
         "musicxml": "songs/yes-sir-thats-my-baby/song.musicxml"
+      }
+    },
+    {
+      "id": "yuki",
+      "title": "Yuki (Snow)",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 1,
+      "tags": [
+        "nursery",
+        "japanese",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 52,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/yuki/song.json",
+        "abc": "songs/yuki/song.abc",
+        "musicxml": "songs/yuki/song.musicxml"
+      }
+    },
+    {
+      "id": "zum-gali-gali",
+      "title": "Zum Gali Gali",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 1,
+      "tags": [
+        "folk",
+        "jewish",
+        "hebrew",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "glockenspiel"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/zum-gali-gali/song.json",
+        "abc": "songs/zum-gali-gali/song.abc",
+        "musicxml": "songs/zum-gali-gali/song.musicxml"
       }
     }
   ]

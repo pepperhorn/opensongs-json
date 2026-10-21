@@ -1,0 +1,23 @@
+{
+  "id": "polly-wolly-doodle",
+  "title": "Polly Wolly Doodle",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional American (pub. 1880)"
+  },
+  "tags": [
+    "folk",
+    "american",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hush-little-baby",
+  "title": "Hush, Little Baby",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional American lullaby"
+  },
+  "tags": [
+    "nursery",
+    "lullaby",
+    "american",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

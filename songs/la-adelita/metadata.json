@@ -1,0 +1,23 @@
+{
+  "id": "la-adelita",
+  "title": "La Adelita",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Mexican revolutionary corrido"
+  },
+  "tags": [
+    "folk",
+    "mexican",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

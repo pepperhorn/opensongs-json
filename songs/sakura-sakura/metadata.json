@@ -1,0 +1,23 @@
+{
+  "id": "sakura-sakura",
+  "title": "Sakura Sakura",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Japanese"
+  },
+  "tags": [
+    "folk",
+    "japanese",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

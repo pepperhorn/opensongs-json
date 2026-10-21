@@ -1,0 +1,23 @@
+{
+  "id": "ten-in-the-bed",
+  "title": "Ten in the Bed",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional nursery rhyme"
+  },
+  "tags": [
+    "nursery",
+    "counting",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

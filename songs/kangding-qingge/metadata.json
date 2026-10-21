@@ -1,0 +1,24 @@
+{
+  "id": "kangding-qingge",
+  "title": "Kangding Qingge (Kangding Love Song)",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Sichuan folk song"
+  },
+  "tags": [
+    "folk",
+    "chinese",
+    "pentatonic",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

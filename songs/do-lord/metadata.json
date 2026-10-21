@@ -1,0 +1,24 @@
+{
+  "id": "do-lord",
+  "title": "Do Lord",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional spiritual"
+  },
+  "tags": [
+    "folk",
+    "american",
+    "spiritual",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

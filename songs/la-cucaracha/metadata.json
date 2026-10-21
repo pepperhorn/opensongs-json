@@ -1,0 +1,23 @@
+{
+  "id": "la-cucaracha",
+  "title": "La Cucaracha",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional"
+  },
+  "tags": [
+    "folk",
+    "mexican",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

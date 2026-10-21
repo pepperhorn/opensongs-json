@@ -1,0 +1,23 @@
+{
+  "id": "il-etait-un-petit-navire",
+  "title": "Il Était un Petit Navire",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional French"
+  },
+  "tags": [
+    "nursery",
+    "french",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

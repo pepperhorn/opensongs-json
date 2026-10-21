@@ -1,0 +1,23 @@
+{
+  "id": "anda-jaleo",
+  "title": "Anda Jaleo",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Andalusian (collected by Lorca, d. 1936)"
+  },
+  "tags": [
+    "folk",
+    "spanish",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

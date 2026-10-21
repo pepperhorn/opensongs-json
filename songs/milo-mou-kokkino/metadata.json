@@ -1,0 +1,23 @@
+{
+  "id": "milo-mou-kokkino",
+  "title": "Milo Mou Kokkino",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Greek"
+  },
+  "tags": [
+    "folk",
+    "greek",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

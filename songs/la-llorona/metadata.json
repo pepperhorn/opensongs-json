@@ -1,0 +1,24 @@
+{
+  "id": "la-llorona",
+  "title": "La Llorona",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Mexican"
+  },
+  "tags": [
+    "folk",
+    "mexican",
+    "waltz",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

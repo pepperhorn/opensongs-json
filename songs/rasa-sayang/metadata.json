@@ -1,0 +1,24 @@
+{
+  "id": "rasa-sayang",
+  "title": "Rasa Sayang",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Malay"
+  },
+  "tags": [
+    "folk",
+    "malay",
+    "indonesian",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

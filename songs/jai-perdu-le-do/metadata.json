@@ -1,0 +1,23 @@
+{
+  "id": "jai-perdu-le-do",
+  "title": "J'ai Perdu le Do de Ma Clarinette",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional French"
+  },
+  "tags": [
+    "nursery",
+    "french",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

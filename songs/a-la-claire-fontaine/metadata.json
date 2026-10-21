@@ -1,0 +1,23 @@
+{
+  "id": "a-la-claire-fontaine",
+  "title": "À la Claire Fontaine",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional French"
+  },
+  "tags": [
+    "folk",
+    "french",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

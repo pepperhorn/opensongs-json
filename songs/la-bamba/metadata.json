@@ -1,0 +1,23 @@
+{
+  "id": "la-bamba",
+  "title": "La Bamba",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional son jarocho"
+  },
+  "tags": [
+    "folk",
+    "mexican",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

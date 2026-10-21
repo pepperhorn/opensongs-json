@@ -1,0 +1,23 @@
+{
+  "id": "the-oak-and-the-ash",
+  "title": "The Oak and the Ash",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional English (17th c.)"
+  },
+  "tags": [
+    "folk",
+    "english",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

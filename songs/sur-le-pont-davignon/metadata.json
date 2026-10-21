@@ -1,0 +1,24 @@
+{
+  "id": "sur-le-pont-davignon",
+  "title": "Sur le Pont d'Avignon",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional French"
+  },
+  "tags": [
+    "nursery",
+    "french",
+    "singing-game",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

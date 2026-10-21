@@ -1,0 +1,24 @@
+{
+  "id": "cumberland-gap",
+  "title": "Cumberland Gap",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional American"
+  },
+  "tags": [
+    "folk",
+    "american",
+    "fiddle",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "the-wabash-cannonball",
+  "title": "The Wabash Cannonball",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional American (pub. 1882 as The Great Rock Island Route)"
+  },
+  "tags": [
+    "folk",
+    "american",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

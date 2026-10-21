@@ -1,0 +1,24 @@
+{
+  "id": "doraji-taryeong",
+  "title": "Doraji Taryeong",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Korean"
+  },
+  "tags": [
+    "folk",
+    "korean",
+    "pentatonic",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

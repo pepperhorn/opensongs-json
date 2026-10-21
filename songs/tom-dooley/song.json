@@ -1,0 +1,462 @@
+{
+  "id": "tom-dooley",
+  "title": "Tom Dooley",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional North Carolina ballad"
+  },
+  "tags": [
+    "folk",
+    "american",
+    "ballad",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "key": "G major",
+  "keySignature": 1,
+  "timeSignature": [
+    4,
+    4
+  ],
+  "tempo": 100,
+  "pickupBeats": 0.0,
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "noteRange": {
+    "low": "D4",
+    "high": "B4"
+  },
+  "chords": [],
+  "events": [
+    {
+      "i": 0,
+      "measure": 1,
+      "beat": 1.0,
+      "onset": 0.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "Hang",
+      "tie": null
+    },
+    {
+      "i": 1,
+      "measure": 1,
+      "beat": 1.5,
+      "onset": 0.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "down",
+      "tie": null
+    },
+    {
+      "i": 2,
+      "measure": 1,
+      "beat": 2.5,
+      "onset": 1.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "your",
+      "tie": null
+    },
+    {
+      "i": 3,
+      "measure": 1,
+      "beat": 3.0,
+      "onset": 2.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "head",
+      "tie": null
+    },
+    {
+      "i": 4,
+      "measure": 1,
+      "beat": 3.5,
+      "onset": 2.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "Tom",
+      "tie": null
+    },
+    {
+      "i": 5,
+      "measure": 2,
+      "beat": 1.0,
+      "onset": 4.0,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "Doo",
+      "tie": null
+    },
+    {
+      "i": 6,
+      "measure": 2,
+      "beat": 2.5,
+      "onset": 5.5,
+      "duration": 2.5,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "ley",
+      "tie": null
+    },
+    {
+      "i": 7,
+      "measure": 3,
+      "beat": 1.0,
+      "onset": 8.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "Hang",
+      "tie": null
+    },
+    {
+      "i": 8,
+      "measure": 3,
+      "beat": 1.5,
+      "onset": 8.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "down",
+      "tie": null
+    },
+    {
+      "i": 9,
+      "measure": 3,
+      "beat": 2.5,
+      "onset": 9.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "your",
+      "tie": null
+    },
+    {
+      "i": 10,
+      "measure": 3,
+      "beat": 3.0,
+      "onset": 10.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "head",
+      "tie": null
+    },
+    {
+      "i": 11,
+      "measure": 3,
+      "beat": 3.5,
+      "onset": 10.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "and",
+      "tie": null
+    },
+    {
+      "i": 12,
+      "measure": 4,
+      "beat": 1.0,
+      "onset": 12.0,
+      "duration": 4.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "cry",
+      "tie": null
+    },
+    {
+      "i": 13,
+      "measure": 5,
+      "beat": 1.0,
+      "onset": 16.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "Killed",
+      "tie": null
+    },
+    {
+      "i": 14,
+      "measure": 5,
+      "beat": 1.5,
+      "onset": 16.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 4,
+        "midi": 62,
+        "spelled": "D4"
+      },
+      "lyric": "poor",
+      "tie": null
+    },
+    {
+      "i": 15,
+      "measure": 5,
+      "beat": 2.5,
+      "onset": 17.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "Lau",
+      "tie": null
+    },
+    {
+      "i": 16,
+      "measure": 5,
+      "beat": 3.5,
+      "onset": 18.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "ra",
+      "tie": null
+    },
+    {
+      "i": 17,
+      "measure": 6,
+      "beat": 1.0,
+      "onset": 20.0,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "Fos",
+      "tie": null
+    },
+    {
+      "i": 18,
+      "measure": 6,
+      "beat": 2.5,
+      "onset": 21.5,
+      "duration": 2.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "ter",
+      "tie": null
+    },
+    {
+      "i": 19,
+      "measure": 7,
+      "beat": 1.0,
+      "onset": 24.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "You",
+      "tie": null
+    },
+    {
+      "i": 20,
+      "measure": 7,
+      "beat": 1.5,
+      "onset": 24.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "know",
+      "tie": null
+    },
+    {
+      "i": 21,
+      "measure": 7,
+      "beat": 2.5,
+      "onset": 25.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "you're",
+      "tie": null
+    },
+    {
+      "i": 22,
+      "measure": 7,
+      "beat": 3.0,
+      "onset": 26.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "bound",
+      "tie": null
+    },
+    {
+      "i": 23,
+      "measure": 7,
+      "beat": 4.0,
+      "onset": 27.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "to",
+      "tie": null
+    },
+    {
+      "i": 24,
+      "measure": 8,
+      "beat": 1.0,
+      "onset": 28.0,
+      "duration": 4.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "die",
+      "tie": null
+    }
+  ]
+}

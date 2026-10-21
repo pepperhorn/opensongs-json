@@ -1,0 +1,23 @@
+{
+  "id": "buffalo-gals",
+  "title": "Buffalo Gals",
+  "composer": "Cool White (John Hodges)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "1844; public domain"
+  },
+  "tags": [
+    "folk",
+    "american",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

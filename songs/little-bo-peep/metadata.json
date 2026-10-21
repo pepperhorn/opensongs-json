@@ -1,0 +1,22 @@
+{
+  "id": "little-bo-peep",
+  "title": "Little Bo-Peep",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional nursery rhyme"
+  },
+  "tags": [
+    "nursery",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

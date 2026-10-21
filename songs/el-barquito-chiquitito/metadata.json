@@ -1,0 +1,23 @@
+{
+  "id": "el-barquito-chiquitito",
+  "title": "El Barquito Chiquitito",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional"
+  },
+  "tags": [
+    "nursery",
+    "spanish",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

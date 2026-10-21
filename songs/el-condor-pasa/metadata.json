@@ -1,0 +1,24 @@
+{
+  "id": "el-condor-pasa",
+  "title": "El Cóndor Pasa",
+  "composer": "Daniel Alomía Robles",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Robles (d. 1942), 1913; public domain in AU"
+  },
+  "tags": [
+    "folk",
+    "peruvian",
+    "andean",
+    "beginner"
+  ],
+  "difficulty": 3,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

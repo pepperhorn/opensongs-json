@@ -1,0 +1,24 @@
+{
+  "id": "country-gardens",
+  "title": "Country Gardens",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional English morris tune"
+  },
+  "tags": [
+    "folk",
+    "english",
+    "morris",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

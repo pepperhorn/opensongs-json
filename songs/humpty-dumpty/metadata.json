@@ -1,0 +1,22 @@
+{
+  "id": "humpty-dumpty",
+  "title": "Humpty Dumpty",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional nursery rhyme"
+  },
+  "tags": [
+    "nursery",
+    "beginner"
+  ],
+  "difficulty": 1,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}

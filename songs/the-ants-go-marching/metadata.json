@@ -1,0 +1,24 @@
+{
+  "id": "the-ants-go-marching",
+  "title": "The Ants Go Marching",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional (tune: When Johnny Comes Marching Home, 1863)"
+  },
+  "tags": [
+    "nursery",
+    "counting",
+    "american",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "glockenspiel"
+  ],
+  "chords": []
+}
