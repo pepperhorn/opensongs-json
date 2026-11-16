@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 606,
+  "count": 608,
   "schemaVersion": 1,
   "songs": [
     {
@@ -15825,6 +15825,39 @@
       }
     },
     {
+      "id": "softly-now-the-light-of-day",
+      "title": "Softly Now the Light of Day",
+      "composer": "Carl Maria von Weber",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/softly-now-the-light-of-day/song.json",
+        "abc": "songs/softly-now-the-light-of-day/song.abc",
+        "musicxml": "songs/softly-now-the-light-of-day/song.musicxml"
+      }
+    },
+    {
       "id": "solace",
       "title": "Solace",
       "composer": "Scott Joplin",
@@ -15851,6 +15884,39 @@
         "song": "songs/solace/song.json",
         "abc": "songs/solace/song.abc",
         "musicxml": "songs/solace/song.musicxml"
+      }
+    },
+    {
+      "id": "soldiers-of-christ-arise",
+      "title": "Soldiers of Christ, Arise",
+      "composer": "William B. Bradbury",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 35,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/soldiers-of-christ-arise/song.json",
+        "abc": "songs/soldiers-of-christ-arise/song.abc",
+        "musicxml": "songs/soldiers-of-christ-arise/song.musicxml"
       }
     },
     {

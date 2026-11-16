@@ -7,7 +7,7 @@ Snapshot of in-flight work on the public-domain melody library. See
 
 ## Library size
 
-- **606 songs** in `index.json`, all passing `build/validate.py`.
+- **608 songs** in `index.json`, all passing `build/validate.py`.
 - Progression: 294 (all prior queues) → 297 (3 Nottingham carols) → 321
   (25-tune Nottingham sampler complete) → 346 (candidate Wave 1) → 371
   (candidate Wave 2) → **457** (world folk wave). All committed + pushed.

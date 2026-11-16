@@ -727,7 +727,7 @@
   "expectedRange": "1,2,3,5,6",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
+  "statusNote": "retry: GARTAN not sourced"
  },
  {
   "id": "the-cherry-tree-carol",
@@ -1071,7 +1071,7 @@
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 3: no reachable score/PD English text"
+  "statusNote": "retry: lyrics unverifiable"
  },
  {
   "id": "let-all-mortal-flesh-keep-silence",
@@ -1089,7 +1089,7 @@
   "expectedRange": "natural minor 1-8",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 3: no readable PICARDY score reachable"
+  "statusNote": "only readable score is the 1906 Vaughan Williams (d.1958) setting; need a pre-1906 notation of the folk melody"
  },
  {
   "id": "little-children-can-you-tell",
@@ -1705,12 +1705,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "G.W. Doane words; tune SEYMOUR (Weber, d.1826) — PD",
+  "copyrightNotes": "Words G.W. Doane 1824; tune attributed C.M. von Weber (d.1826) (SEYMOUR, unconfirmed) — PD",
   "tuneHint": "",
   "expectedRange": "7,1,2,3,4,5,6",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 4: hymnal scan ambiguous, no second source"
+  "status": "done"
  },
  {
   "id": "soldiers-of-christ-arise",
@@ -1722,12 +1721,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "C. Wesley words; Bradbury tune — PD; verify which tune",
+  "copyrightNotes": "Words C. Wesley 1749; music W.B. Bradbury (d.1868) — PD",
   "tuneHint": "",
   "expectedRange": "7,1,2,3,4,5,6",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 4: hymnal scan ambiguous, no second source"
+  "status": "done"
  },
  {
   "id": "stand-up-stand-up-for-jesus",
