@@ -2056,7 +2056,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "hark-the-gentle-voice",
@@ -2072,7 +2072,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "have-thine-own-way-lord",
@@ -2088,7 +2088,7 @@
   "tuneHint": "",
   "expectedRange": "7,1,#1,2,3,4,#4,5,6,7",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "he-keeps-me-singing",
@@ -2104,7 +2104,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,#1,2,#2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "higher-ground",
@@ -2120,11 +2120,11 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "his-way-with-thee",
-  "title": "His Way with Thee",
+  "title": "His Way with Thee (Let Him Have His Way with Thee)",
   "composer": "Cyrus S. Nusbaum",
   "category": "hymn",
   "tags": [
@@ -2136,7 +2136,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "holy-holy-holy",
@@ -2152,11 +2152,11 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "how-brightly-beams-the-morning-star",
-  "title": "How Brightly Beams the Morning Star",
+  "title": "Wie schön leuchtet der Morgenstern (O Morning Star, How Fair and Bright)",
   "composer": "Philipp Nicolai",
   "category": "hymn",
   "tags": [
@@ -2164,11 +2164,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "WIE SCHÖN LEUCHTET (Nicolai 1599) — PD",
+  "copyrightNotes": "WIE SCHÖN LEUCHTET (Nicolai 1599), soprano as in Bach BWV 1.6 — PD. Instrumental (English text not verifiable word-for-word).",
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "how-can-i-keep-from-singing",
@@ -2180,11 +2180,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "R. Lowry (d.1899), 1868 — PD",
+  "copyrightNotes": "Tune R. Lowry 1869 (d.1899); words anon. 'Pauline T.' 1868 — PD. Single melody source; ear-check.",
   "tuneHint": "",
   "expectedRange": "5,6,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "how-firm-a-foundation",
@@ -2200,7 +2200,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "ill-live-for-him",
@@ -2216,7 +2216,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "i-love-thy-kingdom-lord",
@@ -2232,7 +2232,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "is-thy-heart-right-with-god",
@@ -2248,7 +2248,7 @@
   "tuneHint": "",
   "expectedRange": "3,4,5,6,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "is-your-lamp-still-burning",
@@ -2264,7 +2264,8 @@
   "tuneHint": "",
   "expectedRange": "3,4,5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 5: no Baltzell setting found"
  },
  {
   "id": "i-surrender-all",
@@ -2280,7 +2281,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "i-want-to-be-a-worker",
@@ -2296,7 +2297,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "i-will-follow-jesus",
@@ -2312,7 +2313,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 5: only a different same-titled hymn found"
  },
  {
   "id": "i-will-sing-the-wondrous-story",
@@ -2328,7 +2330,7 @@
   "tuneHint": "Bilhorn tune WONDROUS STORY (not HYFRYDOL)",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "i-will-sing-you-a-song",
@@ -2344,7 +2346,7 @@
   "tuneHint": "'Of that beautiful land'",
   "expectedRange": "1,2,3,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "jesus-once-of-humble-birth",
@@ -2360,7 +2362,8 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 5: DELIVERANCE tune not reachable"
  },
  {
   "id": "just-when-i-need-him-most",
@@ -2376,7 +2379,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "let-him-in",
@@ -2392,7 +2395,7 @@
   "tuneHint": "",
   "expectedRange": "3,4,5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "live-for-jesus",
@@ -2408,23 +2411,23 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "lord-we-come-before-thee-now",
   "title": "Lord, We Come Before Thee Now",
-  "composer": "Ignaz Pleyel",
+  "composer": "C.H.A. Malan, arr. Lowell Mason",
   "category": "hymn",
   "tags": [
    "hymn",
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "W. Hammond words; tune PLEYEL'S HYMN (Pleyel d.1831) — PD",
+  "copyrightNotes": "Tune as printed in PD hymnal: Malan (d.1864), arr. Mason (d.1872) — not Pleyel's Hymn; words W. Hammond (1745) — PD",
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "majestic-sweetness-sits-enthroned",
@@ -2440,7 +2443,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "a-mighty-fortress-is-our-god",
@@ -2456,7 +2459,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "more-about-jesus",
@@ -2472,7 +2475,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "my-faith-looks-up-to-thee",
@@ -2488,7 +2491,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "my-jesus-as-thou-wilt",
@@ -2504,7 +2507,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,5,#5,6,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "my-soul-be-on-thy-guard",
@@ -2520,7 +2523,7 @@
   "tuneHint": "",
   "expectedRange": "3,4,5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "nearer-still-nearer",

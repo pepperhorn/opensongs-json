@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 548,
+  "count": 575,
   "schemaVersion": 1,
   "songs": [
     {
@@ -3370,6 +3370,39 @@
         "song": "songs/a-la-claire-fontaine/song.json",
         "abc": "songs/a-la-claire-fontaine/song.abc",
         "musicxml": "songs/a-la-claire-fontaine/song.musicxml"
+      }
+    },
+    {
+      "id": "a-mighty-fortress-is-our-god",
+      "title": "A Mighty Fortress Is Our God",
+      "composer": "Martin Luther",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 73,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/a-mighty-fortress-is-our-god/song.json",
+        "abc": "songs/a-mighty-fortress-is-our-god/song.abc",
+        "musicxml": "songs/a-mighty-fortress-is-our-god/song.musicxml"
       }
     },
     {
@@ -8379,6 +8412,72 @@
       }
     },
     {
+      "id": "hark-hark-my-soul",
+      "title": "Hark, Hark, My Soul!",
+      "composer": "Henry Smart",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 63,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hark-hark-my-soul/song.json",
+        "abc": "songs/hark-hark-my-soul/song.abc",
+        "musicxml": "songs/hark-hark-my-soul/song.musicxml"
+      }
+    },
+    {
+      "id": "hark-the-gentle-voice",
+      "title": "Hark, the Gentle Voice",
+      "composer": "Asa B. Everett",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 70,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hark-the-gentle-voice/song.json",
+        "abc": "songs/hark-the-gentle-voice/song.abc",
+        "musicxml": "songs/hark-the-gentle-voice/song.musicxml"
+      }
+    },
+    {
       "id": "hava-nagila",
       "title": "Hava Nagila",
       "composer": "Traditional (arr. A. Z. Idelsohn)",
@@ -8411,6 +8510,72 @@
         "song": "songs/hava-nagila/song.json",
         "abc": "songs/hava-nagila/song.abc",
         "musicxml": "songs/hava-nagila/song.musicxml"
+      }
+    },
+    {
+      "id": "have-thine-own-way-lord",
+      "title": "Have Thine Own Way, Lord",
+      "composer": "George C. Stebbins",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/have-thine-own-way-lord/song.json",
+        "abc": "songs/have-thine-own-way-lord/song.abc",
+        "musicxml": "songs/have-thine-own-way-lord/song.musicxml"
+      }
+    },
+    {
+      "id": "he-keeps-me-singing",
+      "title": "He Keeps Me Singing",
+      "composer": "Luther B. Bridgers",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 57,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/he-keeps-me-singing/song.json",
+        "abc": "songs/he-keeps-me-singing/song.abc",
+        "musicxml": "songs/he-keeps-me-singing/song.musicxml"
       }
     },
     {
@@ -8581,6 +8746,39 @@
       }
     },
     {
+      "id": "higher-ground",
+      "title": "Higher Ground",
+      "composer": "Charles H. Gabriel",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 64,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/higher-ground/song.json",
+        "abc": "songs/higher-ground/song.abc",
+        "musicxml": "songs/higher-ground/song.musicxml"
+      }
+    },
+    {
       "id": "highland-mary",
       "title": "Highland Mary",
       "composer": "Traditional",
@@ -8612,6 +8810,39 @@
         "song": "songs/highland-mary/song.json",
         "abc": "songs/highland-mary/song.abc",
         "musicxml": "songs/highland-mary/song.musicxml"
+      }
+    },
+    {
+      "id": "his-way-with-thee",
+      "title": "His Way with Thee (Let Him Have His Way with Thee)",
+      "composer": "Cyrus S. Nusbaum",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 84,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/his-way-with-thee/song.json",
+        "abc": "songs/his-way-with-thee/song.abc",
+        "musicxml": "songs/his-way-with-thee/song.musicxml"
       }
     },
     {
@@ -8647,6 +8878,39 @@
         "song": "songs/hole-in-the-wall/song.json",
         "abc": "songs/hole-in-the-wall/song.abc",
         "musicxml": "songs/hole-in-the-wall/song.musicxml"
+      }
+    },
+    {
+      "id": "holy-holy-holy",
+      "title": "Holy, Holy, Holy",
+      "composer": "John B. Dykes",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/holy-holy-holy/song.json",
+        "abc": "songs/holy-holy-holy/song.abc",
+        "musicxml": "songs/holy-holy-holy/song.musicxml"
       }
     },
     {
@@ -8715,6 +8979,105 @@
         "song": "songs/hornpipe-water-music/song.json",
         "abc": "songs/hornpipe-water-music/song.abc",
         "musicxml": "songs/hornpipe-water-music/song.musicxml"
+      }
+    },
+    {
+      "id": "how-brightly-beams-the-morning-star",
+      "title": "Wie sch\u00f6n leuchtet der Morgenstern (O Morning Star, How Fair and Bright)",
+      "composer": "Philipp Nicolai",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "F5"
+      },
+      "noteCount": 70,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/how-brightly-beams-the-morning-star/song.json",
+        "abc": "songs/how-brightly-beams-the-morning-star/song.abc",
+        "musicxml": "songs/how-brightly-beams-the-morning-star/song.musicxml"
+      }
+    },
+    {
+      "id": "how-can-i-keep-from-singing",
+      "title": "How Can I Keep from Singing",
+      "composer": "Robert Lowry",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 64,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/how-can-i-keep-from-singing/song.json",
+        "abc": "songs/how-can-i-keep-from-singing/song.abc",
+        "musicxml": "songs/how-can-i-keep-from-singing/song.musicxml"
+      }
+    },
+    {
+      "id": "how-firm-a-foundation",
+      "title": "How Firm a Foundation",
+      "composer": "Traditional",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        2,
+        2
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/how-firm-a-foundation/song.json",
+        "abc": "songs/how-firm-a-foundation/song.abc",
+        "musicxml": "songs/how-firm-a-foundation/song.musicxml"
       }
     },
     {
@@ -9057,6 +9420,39 @@
       }
     },
     {
+      "id": "i-love-thy-kingdom-lord",
+      "title": "I Love Thy Kingdom, Lord",
+      "composer": "Asa B. Everett",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 58,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-love-thy-kingdom-lord/song.json",
+        "abc": "songs/i-love-thy-kingdom-lord/song.abc",
+        "musicxml": "songs/i-love-thy-kingdom-lord/song.musicxml"
+      }
+    },
+    {
       "id": "i-need-thee-every-hour",
       "title": "I Need Thee Every Hour",
       "composer": "Robert Lowry",
@@ -9124,6 +9520,72 @@
       }
     },
     {
+      "id": "i-surrender-all",
+      "title": "I Surrender All",
+      "composer": "Winfield S. Weeden",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-surrender-all/song.json",
+        "abc": "songs/i-surrender-all/song.abc",
+        "musicxml": "songs/i-surrender-all/song.musicxml"
+      }
+    },
+    {
+      "id": "i-want-to-be-a-worker",
+      "title": "I Want to Be a Worker",
+      "composer": "Isaac Baltzell",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 78,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-want-to-be-a-worker/song.json",
+        "abc": "songs/i-want-to-be-a-worker/song.abc",
+        "musicxml": "songs/i-want-to-be-a-worker/song.musicxml"
+      }
+    },
+    {
       "id": "i-went-to-pick-some-blaeberries",
       "title": "I Went to Pick Some Blaeberries",
       "composer": "Traditional",
@@ -9154,6 +9616,72 @@
         "song": "songs/i-went-to-pick-some-blaeberries/song.json",
         "abc": "songs/i-went-to-pick-some-blaeberries/song.abc",
         "musicxml": "songs/i-went-to-pick-some-blaeberries/song.musicxml"
+      }
+    },
+    {
+      "id": "i-will-sing-the-wondrous-story",
+      "title": "I Will Sing the Wondrous Story",
+      "composer": "Peter P. Bilhorn",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-will-sing-the-wondrous-story/song.json",
+        "abc": "songs/i-will-sing-the-wondrous-story/song.abc",
+        "musicxml": "songs/i-will-sing-the-wondrous-story/song.musicxml"
+      }
+    },
+    {
+      "id": "i-will-sing-you-a-song",
+      "title": "I Will Sing You a Song",
+      "composer": "Philip Phillips",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 73,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-will-sing-you-a-song/song.json",
+        "abc": "songs/i-will-sing-you-a-song/song.abc",
+        "musicxml": "songs/i-will-sing-you-a-song/song.musicxml"
       }
     },
     {
@@ -9221,6 +9749,39 @@
         "song": "songs/ill-go-where-you-want-me-to-go/song.json",
         "abc": "songs/ill-go-where-you-want-me-to-go/song.abc",
         "musicxml": "songs/ill-go-where-you-want-me-to-go/song.musicxml"
+      }
+    },
+    {
+      "id": "ill-live-for-him",
+      "title": "I'll Live for Him",
+      "composer": "Charles R. Dunbar",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 60,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ill-live-for-him/song.json",
+        "abc": "songs/ill-live-for-him/song.abc",
+        "musicxml": "songs/ill-live-for-him/song.musicxml"
       }
     },
     {
@@ -9357,6 +9918,39 @@
         "song": "songs/infant-so-gentle/song.json",
         "abc": "songs/infant-so-gentle/song.abc",
         "musicxml": "songs/infant-so-gentle/song.musicxml"
+      }
+    },
+    {
+      "id": "is-thy-heart-right-with-god",
+      "title": "Is Thy Heart Right with God?",
+      "composer": "Elisha A. Hoffman",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 60,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/is-thy-heart-right-with-god/song.json",
+        "abc": "songs/is-thy-heart-right-with-god/song.abc",
+        "musicxml": "songs/is-thy-heart-right-with-god/song.musicxml"
       }
     },
     {
@@ -9759,6 +10353,39 @@
         "song": "songs/just-as-the-sun-was-setting/song.json",
         "abc": "songs/just-as-the-sun-was-setting/song.abc",
         "musicxml": "songs/just-as-the-sun-was-setting/song.musicxml"
+      }
+    },
+    {
+      "id": "just-when-i-need-him-most",
+      "title": "Just When I Need Him Most",
+      "composer": "Charles H. Gabriel",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        9,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/just-when-i-need-him-most/song.json",
+        "abc": "songs/just-when-i-need-him-most/song.abc",
+        "musicxml": "songs/just-when-i-need-him-most/song.musicxml"
       }
     },
     {
@@ -10273,6 +10900,39 @@
       }
     },
     {
+      "id": "let-him-in",
+      "title": "Let Him In",
+      "composer": "Edwin O. Excell",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/let-him-in/song.json",
+        "abc": "songs/let-him-in/song.abc",
+        "musicxml": "songs/let-him-in/song.musicxml"
+      }
+    },
+    {
       "id": "liebestraum-no-3-theme",
       "title": "Liebestraum No. 3 (theme)",
       "composer": "Franz Liszt",
@@ -10408,6 +11068,39 @@
       }
     },
     {
+      "id": "live-for-jesus",
+      "title": "Live for Jesus",
+      "composer": "Frank M. Davis",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        9,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 67,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/live-for-jesus/song.json",
+        "abc": "songs/live-for-jesus/song.abc",
+        "musicxml": "songs/live-for-jesus/song.musicxml"
+      }
+    },
+    {
       "id": "logie-o-buchan",
       "title": "Logie O'Buchan",
       "composer": "Traditional",
@@ -10473,6 +11166,39 @@
         "song": "songs/looby-loo/song.json",
         "abc": "songs/looby-loo/song.abc",
         "musicxml": "songs/looby-loo/song.musicxml"
+      }
+    },
+    {
+      "id": "lord-we-come-before-thee-now",
+      "title": "Lord, We Come Before Thee Now",
+      "composer": "C.H.A. Malan, arr. Lowell Mason",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/lord-we-come-before-thee-now/song.json",
+        "abc": "songs/lord-we-come-before-thee-now/song.abc",
+        "musicxml": "songs/lord-we-come-before-thee-now/song.musicxml"
       }
     },
     {
@@ -10642,6 +11368,39 @@
         "song": "songs/maid-of-glenconnel/song.json",
         "abc": "songs/maid-of-glenconnel/song.abc",
         "musicxml": "songs/maid-of-glenconnel/song.musicxml"
+      }
+    },
+    {
+      "id": "majestic-sweetness-sits-enthroned",
+      "title": "Majestic Sweetness Sits Enthroned",
+      "composer": "Thomas Hastings",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "F5"
+      },
+      "noteCount": 39,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/majestic-sweetness-sits-enthroned/song.json",
+        "abc": "songs/majestic-sweetness-sits-enthroned/song.abc",
+        "musicxml": "songs/majestic-sweetness-sits-enthroned/song.musicxml"
       }
     },
     {
@@ -11205,6 +11964,39 @@
       }
     },
     {
+      "id": "more-about-jesus",
+      "title": "More About Jesus",
+      "composer": "John R. Sweney",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 60,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/more-about-jesus/song.json",
+        "abc": "songs/more-about-jesus/song.abc",
+        "musicxml": "songs/more-about-jesus/song.musicxml"
+      }
+    },
+    {
       "id": "more-love-to-thee",
       "title": "More Love to Thee",
       "composer": "William H. Doane",
@@ -11477,6 +12269,105 @@
         "song": "songs/my-darling-asleep/song.json",
         "abc": "songs/my-darling-asleep/song.abc",
         "musicxml": "songs/my-darling-asleep/song.musicxml"
+      }
+    },
+    {
+      "id": "my-faith-looks-up-to-thee",
+      "title": "My Faith Looks Up to Thee",
+      "composer": "Lowell Mason",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        2,
+        2
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 38,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/my-faith-looks-up-to-thee/song.json",
+        "abc": "songs/my-faith-looks-up-to-thee/song.abc",
+        "musicxml": "songs/my-faith-looks-up-to-thee/song.musicxml"
+      }
+    },
+    {
+      "id": "my-jesus-as-thou-wilt",
+      "title": "My Jesus, as Thou Wilt",
+      "composer": "Carl Maria von Weber",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 61,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/my-jesus-as-thou-wilt/song.json",
+        "abc": "songs/my-jesus-as-thou-wilt/song.abc",
+        "musicxml": "songs/my-jesus-as-thou-wilt/song.musicxml"
+      }
+    },
+    {
+      "id": "my-soul-be-on-thy-guard",
+      "title": "My Soul, Be on Thy Guard",
+      "composer": "Lowell Mason",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/my-soul-be-on-thy-guard/song.json",
+        "abc": "songs/my-soul-be-on-thy-guard/song.abc",
+        "musicxml": "songs/my-soul-be-on-thy-guard/song.musicxml"
       }
     },
     {

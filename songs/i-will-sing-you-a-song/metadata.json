@@ -1,0 +1,22 @@
+{
+  "id": "i-will-sing-you-a-song",
+  "title": "I Will Sing You a Song",
+  "composer": "Philip Phillips",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "E.H. Gates words; Phillips (d.1895), 1865 — PD"
+  },
+  "tags": [
+    "hymn",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "hymn",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}
