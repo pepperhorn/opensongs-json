@@ -1,0 +1,23 @@
+{
+  "id": "the-friendly-beasts",
+  "title": "The Friendly Beasts",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "12th-c. French melody (Orientis Partibus); English words Robert Davis (1881–1950), pub. 1920 — PD"
+  },
+  "tags": [
+    "carol",
+    "christmas",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "carol",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}

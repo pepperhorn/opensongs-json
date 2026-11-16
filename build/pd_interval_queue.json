@@ -1,0 +1,3024 @@
+[
+ {
+  "id": "alleluia-round",
+  "title": "Alleluia (round)",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional camp round",
+  "tuneHint": "Simple 'Alleluia' round, all on one word",
+  "expectedRange": "5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "PD provenance unverified (only source a 2002 arrangement)"
+ },
+ {
+  "id": "apples-and-bananas",
+  "title": "Apples and Bananas",
+  "composer": "Traditional",
+  "category": "nursery",
+  "tags": [
+   "nursery",
+   "children",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional American children's song (pre-1900 folk origin)",
+  "tuneHint": "Vowel-swap song; NOT Raffi's arrangement",
+  "expectedRange": "7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "old-aunt-kate",
+  "title": "Old Aunt Kate",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional American folk/fiddle song",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "willum-he-had-seven-sons",
+  "title": "Willum He Had Seven Sons",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional (aka William He Had Seven Sons)",
+  "tuneHint": "natural minor",
+  "expectedRange": "1-6 (natural minor)",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: no note-readable source"
+ },
+ {
+  "id": "the-boll-weevil",
+  "title": "The Boll Weevil",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional American blues/folk song",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-cruel-war-is-raging",
+  "title": "The Cruel War Is Raging",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional American folk song",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: no note-readable source"
+ },
+ {
+  "id": "go-tell-aunt-rhody",
+  "title": "Go Tell Aunt Rhody",
+  "composer": "Traditional",
+  "category": "nursery",
+  "tags": [
+   "nursery",
+   "children",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional; tune from Rousseau's 'Le Devin du village' (1752)",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "kentucky-bootlegger",
+  "title": "Kentucky Bootlegger",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional American folk song",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: only a garbled auto-converted ABC"
+ },
+ {
+  "id": "on-mondays-i-never-go-to-work",
+  "title": "On Mondays I Never Go to Work",
+  "composer": "Traditional",
+  "category": "nursery",
+  "tags": [
+   "nursery",
+   "children",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional cumulative song",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: no source found"
+ },
+ {
+  "id": "dry-bones",
+  "title": "Dry Bones",
+  "composer": "James Weldon Johnson & J. Rosamond Johnson",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Spiritual; J.W. Johnson (d.1938), J.R. Johnson (d.1954) — AU-PD (d. before 1955)",
+  "tuneHint": "'Dem Bones' — the chromatic ascending/descending 'toe bone connected to the...' tune",
+  "expectedRange": "1,#1,2,#2,3,4,#4,5,#5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-erie-canal",
+  "title": "The Erie Canal",
+  "composer": "Thomas S. Allen",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "T.S. Allen, 'Low Bridge, Everybody Down' (pub. 1913; d.1919) — PD",
+  "tuneHint": "minor verse",
+  "expectedRange": "minor 1,2,3,4,5,6,#6,7",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "come-all-ye-fair-and-tender-maidens",
+  "title": "Come All Ye Fair and Tender Maidens",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional Appalachian (aka Tiny Sparrow)",
+  "tuneHint": "",
+  "expectedRange": "5,6,1,2,3,5",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: no note-readable source"
+ },
+ {
+  "id": "dont-let-your-deal-go-down",
+  "title": "Don't Let Your Deal Go Down",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional American",
+  "tuneHint": "",
+  "expectedRange": "6,1,2,3,4,#4,5,6",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: no note-readable source"
+ },
+ {
+  "id": "git-along-little-dogies",
+  "title": "Git Along, Little Dogies",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional cowboy song (Whoopee Ti Yi Yo)",
+  "tuneHint": "",
+  "expectedRange": "1,3,4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-juniper-tree",
+  "title": "The Juniper Tree (Old Sister Phoebe)",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional American play-party song (Roud 4507) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,1,2,3,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-old-chisholm-trail",
+  "title": "The Old Chisholm Trail",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional cowboy song",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "old-joe-clark",
+  "title": "Old Joe Clark",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional Appalachian fiddle song",
+  "tuneHint": "Mixolydian",
+  "expectedRange": "b7,1,2,3,4,5,6,b7",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "over-the-river-and-through-the-wood",
+  "title": "Over the River and Through the Wood",
+  "composer": "Traditional",
+  "category": "seasonal",
+  "tags": [
+   "seasonal",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Lydia Maria Child poem (d.1880); traditional tune",
+  "tuneHint": "Thanksgiving song",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "snake-baked-a-hoecake",
+  "title": "Snake Baked a Hoecake",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional American folk song",
+  "tuneHint": "",
+  "expectedRange": "5,6,1,2,3,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "song-of-the-ship",
+  "title": "Song of the Ship",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Listed as traditional — verify origin",
+  "tuneHint": "natural minor",
+  "expectedRange": "natural minor 1-8",
+  "verifyPdFirst": true,
+  "status": "needs-source",
+  "statusNote": "not identifiable"
+ },
+ {
+  "id": "sourwood-mountain",
+  "title": "Sourwood Mountain",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional Appalachian",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-streets-of-laredo",
+  "title": "The Streets of Laredo",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional cowboy ballad",
+  "tuneHint": "",
+  "expectedRange": "5,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "sweet-betsy-from-pike",
+  "title": "Sweet Betsy from Pike",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional (Gold Rush era; tune Villikins)",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-young-man-who-wouldnt-hoe-corn",
+  "title": "The Young Man Who Wouldn't Hoe Corn",
+  "composer": "Traditional",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional American",
+  "tuneHint": "",
+  "expectedRange": "5,6,1,2,3,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "when-johnny-comes-marching-home",
+  "title": "When Johnny Comes Marching Home",
+  "composer": "Patrick S. Gilmore",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "P.S. Gilmore (d.1892), 1863 — PD",
+  "tuneHint": "minor",
+  "expectedRange": "minor 5,b7,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "just-a-closer-walk-with-thee",
+  "title": "Just a Closer Walk with Thee",
+  "composer": "Traditional",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional spiritual melody (author our own melody-only setting; NOT the Baxter 1940s arrangement)",
+  "tuneHint": "",
+  "expectedRange": "3,4,#4,5,#5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "not-pd",
+  "statusNote": "Known version published 1940 by Kenneth Morris (d.1989); no pre-1930 traditional source"
+ },
+ {
+  "id": "battle-hymn-of-the-republic",
+  "title": "Battle Hymn of the Republic",
+  "composer": "William Steffe / Julia Ward Howe",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Tune 'John Brown's Body' (1856, trad/Steffe); Howe words (d.1910) — PD. Covers John Brown's Body too.",
+  "tuneHint": "",
+  "expectedRange": "3,4,5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "hey-ho-nobody-home",
+  "title": "Hey Ho, Nobody Home",
+  "composer": "Traditional (pub. Thomas Ravenscroft, Pammelia, 1609)",
+  "category": "folk",
+  "tags": [
+   "folk",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Round, Ravenscroft's Pammelia (1609) — PD",
+  "tuneHint": "natural minor round",
+  "expectedRange": "natural minor 5,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "give-my-regards-to-broadway",
+  "title": "Give My Regards to Broadway",
+  "composer": "George M. Cohan",
+  "category": "seasonal",
+  "tags": [
+   "seasonal",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "G.M. Cohan (d.1942), 1904 — PD (US & AU)",
+  "tuneHint": "chorus",
+  "expectedRange": "5,6,7,1,#1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "yankee-doodle-boy",
+  "title": "Yankee Doodle Boy (Yankee Doodle Dandy)",
+  "composer": "George M. Cohan",
+  "category": "seasonal",
+  "tags": [
+   "seasonal",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "G.M. Cohan (d.1942), 1904 — PD",
+  "tuneHint": "chorus 'I'm a Yankee Doodle Dandy'",
+  "expectedRange": "5,6,7,1,#1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "youre-a-grand-old-flag",
+  "title": "You're a Grand Old Flag",
+  "composer": "George M. Cohan",
+  "category": "seasonal",
+  "tags": [
+   "seasonal",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "G.M. Cohan (d.1942), 1906 — PD",
+  "tuneHint": "chorus",
+  "expectedRange": "5,6,b7,7,1,#1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "ein-ton",
+  "title": "Ein Ton (The Monotone)",
+  "composer": "Peter Cornelius",
+  "category": "classical",
+  "tags": [
+   "classical",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "P. Cornelius (d.1874), Trauer und Trost Op.3 — PD",
+  "tuneHint": "Voice part only: whole song on ONE pitch (minor key scale degree 5). Melody-only = the vocal line.",
+  "expectedRange": "unison on minor 5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "o-jesulein-suss",
+  "title": "O Jesulein süß (O Savior Sweet)",
+  "composer": "J.S. Bach",
+  "category": "classical",
+  "tags": [
+   "classical",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J.S. Bach (d.1750), BWV 493 — PD",
+  "tuneHint": "Schemelli Gesangbuch",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: only an SA-combined ABC; melody not separable"
+ },
+ {
+  "id": "slumber-song-of-the-infant-jesus",
+  "title": "Slumber Song of the Infant Jesus",
+  "composer": "François-Auguste Gevaert",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional French carol 'Entre le bœuf et l'âne gris', arr. Gevaert (d.1908) — PD; melody only (English translator unverified)",
+  "tuneHint": "'Le sommeil de l'enfant Jésus'",
+  "expectedRange": "minor 1,2,3,#3,4,5,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "remember-o-thou-man",
+  "title": "Remember, O Thou Man",
+  "composer": "Thomas Ravenscroft",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Ravenscroft, Melismata (1611) — PD",
+  "tuneHint": "",
+  "expectedRange": "minor #6,b7,7,1,2,3,#3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-coventry-carol",
+  "title": "The Coventry Carol",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "16th-c. English carol — PD",
+  "tuneHint": "'Lully, lulla'",
+  "expectedRange": "minor 7,1,2,3,#3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "pat-a-pan",
+  "title": "Pat-a-Pan",
+  "composer": "Traditional (words: Bernard de La Monnoye)",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Anonymous Burgundian tune; words B. de La Monnoye (d.1728) — PD",
+  "tuneHint": "'Willie, take your little drum'",
+  "expectedRange": "minor 7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "as-each-happy-christmas",
+  "title": "As Each Happy Christmas",
+  "composer": "J.C.H. Rink",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J.C.H. Rink (d.1846) — PD; verify which tune hymnals use",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "as-lately-we-watched",
+  "title": "As Lately We Watched",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Austrian carol (19th c.) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: no source"
+ },
+ {
+  "id": "christ-was-born-on-christmas-day",
+  "title": "Christ Was Born on Christmas Day",
+  "composer": "Traditional (adapt. Thomas Helmore)",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Resonet in laudibus (14th c.), adapt. Helmore (d.1890); words J.M. Neale (d.1866) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "infant-so-gentle",
+  "title": "Infant So Gentle",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional French carol — PD",
+  "tuneHint": "Likely tune: Entre le bœuf et l'âne gris — verify",
+  "expectedRange": "1-6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "jolly-old-saint-nicholas",
+  "title": "Jolly Old Saint Nicholas",
+  "composer": "James R. Murray",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Tune J.R. Murray (d.1905); words Emily Huntington Miller (d.1913) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "up-on-the-housetop",
+  "title": "Up on the Housetop",
+  "composer": "Benjamin Hanby",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "B. Hanby (d.1867), 1864 — PD",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "love-came-down-at-christmas",
+  "title": "Love Came Down at Christmas",
+  "composer": "Traditional / Christina Rossetti",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Rossetti words (d.1894); tune GARTAN (Irish trad) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,5,6",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: GARTAN not sourced"
+ },
+ {
+  "id": "the-cherry-tree-carol",
+  "title": "The Cherry Tree Carol",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional English carol (As Joseph Was A-Walking) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "a-child-is-born-in-bethlehem",
+  "title": "A Child Is Born in Bethlehem",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Puer natus in Bethlehem, Wittenberg/Danish major form — PD",
+  "tuneHint": "Dorian",
+  "expectedRange": "Dorian 1-7",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-friendly-beasts",
+  "title": "The Friendly Beasts",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "12th-c. French melody (Orientis Partibus); English words Robert Davis (1881–1950), pub. 1920 — PD",
+  "tuneHint": "",
+  "expectedRange": "7,1,2,3,4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "fum-fum-fum",
+  "title": "Fum, Fum, Fum",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Catalan carol — PD",
+  "tuneHint": "",
+  "expectedRange": "minor 5,b7,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "gabriels-message",
+  "title": "Gabriel's Message",
+  "composer": "Piae Cantiones (1582)",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Tune ANGELUS EMITTITUR (Piae Cantiones 1582); words J.M. Neale (d.1866) — PD",
+  "tuneHint": "'Gabriel's message does away'",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "i-am-so-glad-on-christmas-eve",
+  "title": "I Am So Glad on Christmas Eve",
+  "composer": "Peder Knudsen",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "P. Knudsen (d.1863) tune, 1859; words Marie Wexelsen (d.1911) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "rocking-czech-carol",
+  "title": "Rocking (Czech Carol)",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Czech carol 'Hajej, nynej'; Dearmer words (d.1936) — PD",
+  "tuneHint": "'Little Jesus, sweetly sleep'",
+  "expectedRange": "7,1,2,3,4,#4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-angel-gabriel-from-heaven-came",
+  "title": "The Angel Gabriel from Heaven Came",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Basque carol; S. Baring-Gould words (d.1924) — PD",
+  "tuneHint": "",
+  "expectedRange": "natural minor 5,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-bells-of-paradise",
+  "title": "The Bells of Paradise",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Corpus Christi Carol (trad English) — PD",
+  "tuneHint": "verify which traditional tune",
+  "expectedRange": "minor 5,#6,b7,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "not-pd",
+  "statusNote": "OBC \"All Bells in Paradise\" tune is Martin Shaw (d.1958); traditional Castleton tune not sourced"
+ },
+ {
+  "id": "beside-thy-manger-here-i-stand",
+  "title": "Ich steh an deiner Krippen hier (Beside Thy Manger Here I Stand)",
+  "composer": "Johann Sebastian Bach",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Bach (d.1750), BWV 469 (Schemelli 1736); text Paul Gerhardt (d.1676) — PD. German verse 1.",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "break-forth-o-beauteous-heavenly-light",
+  "title": "Break Forth, O Beauteous Heavenly Light",
+  "composer": "Johann Schop",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Schop (d.1667) tune ERMUNTRE DICH, harm. Bach — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "from-every-spire-on-christmas-eve",
+  "title": "From Every Spire on Christmas Eve",
+  "composer": "George Coles",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Words Eleanor A. Hunter (1855–1915), 1888; tune George Coles (1792–1858) — PD. Rhythm single-source.",
+  "tuneHint": "",
+  "expectedRange": "5,7,1,2,3,4,5",
+  "verifyPdFirst": true,
+  "status": "done"
+ },
+ {
+  "id": "from-heaven-above-to-earth-i-come",
+  "title": "From Heaven Above to Earth I Come",
+  "composer": "Martin Luther",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "VOM HIMMEL HOCH (1539) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "gesu-bambin-le-nato",
+  "title": "Gesù Bambin l'è nato",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Italian carol — PD",
+  "tuneHint": "'Jesus Was Born to Mary'",
+  "expectedRange": "5,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: no source"
+ },
+ {
+  "id": "god-bless-all",
+  "title": "God Bless All",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional English carol — PD",
+  "tuneHint": "verify tune",
+  "expectedRange": "5,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: carol not identifiable"
+ },
+ {
+  "id": "infant-holy-infant-lowly",
+  "title": "Infant Holy, Infant Lowly",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Polish carol W ŻŁOBIE LEŻY; Edith Reed words (d.1933) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "in-the-bleak-midwinter",
+  "title": "In the Bleak Midwinter",
+  "composer": "Gustav Holst",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Holst CRANHAM (1906; d.1934); Rossetti words (d.1894) — PD",
+  "tuneHint": "",
+  "expectedRange": "6,7,1,2,3,4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "i-saw-three-ships",
+  "title": "I Saw Three Ships",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional English carol — PD",
+  "tuneHint": "",
+  "expectedRange": "5,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "it-came-upon-the-midnight-clear",
+  "title": "It Came Upon the Midnight Clear",
+  "composer": "Richard Storrs Willis",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "R.S. Willis CAROL (1850; d.1900); E.H. Sears words — PD",
+  "tuneHint": "US tune CAROL (not Sullivan's NOEL)",
+  "expectedRange": "3,#4,5,#5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "joseph-dearest-joseph-mine",
+  "title": "Joseph Dearest, Joseph Mine",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "German 'Joseph, lieber Joseph mein' (14th c.) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "retry: lyrics unverifiable"
+ },
+ {
+  "id": "let-all-mortal-flesh-keep-silence",
+  "title": "Let All Mortal Flesh Keep Silence",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "French tune PICARDY — PD",
+  "tuneHint": "",
+  "expectedRange": "natural minor 1-8",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "only readable score is the 1906 Vaughan Williams (d.1958) setting; need a pre-1906 notation of the folk melody"
+ },
+ {
+  "id": "little-children-can-you-tell",
+  "title": "Little Children, Can You Tell?",
+  "composer": "E. J. Day",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Tune CHRISTMAS MORNING, E. J. Day (pub. 1870 — composer active 1870, so d. before 1955); words anonymous — PD. Single melody source; ear-check.",
+  "tuneHint": "verify tune",
+  "expectedRange": "1,2,3,4,5,6,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "o-come-little-children",
+  "title": "O Come, Little Children",
+  "composer": "J.A.P. Schulz",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Schulz (d.1800) 'Ihr Kinderlein, kommet' — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,5,6,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "o-come-o-come-emmanuel",
+  "title": "O Come, O Come, Emmanuel",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "VENI EMMANUEL (15th c. French) — PD",
+  "tuneHint": "",
+  "expectedRange": "natural minor 7,1,2,3,4,5,6,7",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "o-sanctissima",
+  "title": "O Sanctissima",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Sicilian Mariners' Hymn — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-seven-joys-of-mary",
+  "title": "The Seven Joys of Mary",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional English carol — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-snow-lay-on-the-ground",
+  "title": "The Snow Lay on the Ground",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional (Irish/English) carol 'Venite adoremus' — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "a-virgin-unspotted",
+  "title": "A Virgin Unspotted",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional English carol (Broadwood 1893); Billings made a choral setting (d.1800) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "we-three-kings-of-orient-are",
+  "title": "We Three Kings of Orient Are",
+  "composer": "John Henry Hopkins Jr.",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J.H. Hopkins Jr. (d.1891), 1857 — PD",
+  "tuneHint": "",
+  "expectedRange": "natural minor 7,1,2,3,4,5,6,7",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "brightest-and-best",
+  "title": "Brightest and Best",
+  "composer": "James P. Harding",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Heber words (d.1826); tune MORNING STAR (Harding, d.1911) — PD; verify tune",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-holly-and-the-ivy-minor-setting",
+  "title": "The Holly and the Ivy (minor setting)",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional — PD (minor-key folk setting, distinct from existing major version)",
+  "tuneHint": "existing repo has the major tune in D — this is a minor setting",
+  "expectedRange": "minor 1-8 chromatic",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "wassail-wassail",
+  "title": "Wassail, Wassail!",
+  "composer": "Traditional",
+  "category": "carol",
+  "tags": [
+   "carol",
+   "christmas",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Traditional — check not a duplicate of existing wassail-1 / wassail-2",
+  "tuneHint": "",
+  "expectedRange": "5,7,1,2,3,4,5",
+  "verifyPdFirst": true,
+  "status": "duplicate",
+  "statusNote": "same tune as existing wassail-1/2"
+ },
+ {
+  "id": "when-i-survey-the-wondrous-cross",
+  "title": "When I Survey the Wondrous Cross",
+  "composer": "Lowell Mason",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Watts words (d.1748); tune HAMBURG (Mason 1824, d.1872) — PD",
+  "tuneHint": "",
+  "expectedRange": "7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "nothing-but-the-blood",
+  "title": "Nothing But the Blood",
+  "composer": "Robert Lowry",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "R. Lowry (d.1899), 1876 — PD",
+  "tuneHint": "",
+  "expectedRange": "1-5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "o-how-i-love-jesus",
+  "title": "O How I Love Jesus",
+  "composer": "Traditional / Frederick Whitfield",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Trad. American tune (Bradbury 1864); words F. Whitfield 1855 (d.1904) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "a-charge-to-keep-i-have",
+  "title": "A Charge to Keep I Have",
+  "composer": "Lowell Mason",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "C. Wesley words; tune BOYLSTON (Mason 1832) — PD",
+  "tuneHint": "",
+  "expectedRange": "3,4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "abide-with-me",
+  "title": "Abide with Me",
+  "composer": "William H. Monk",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Lyte words (d.1847); tune EVENTIDE (Monk 1861, d.1889) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "am-i-a-soldier-of-the-cross",
+  "title": "Am I a Soldier of the Cross?",
+  "composer": "Thomas A. Arne",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Watts words; tune ARLINGTON (Arne, d.1778) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "christ-is-precious",
+  "title": "Christ Is Precious",
+  "composer": "J.H. Fillmore",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Eliza Sherman words; J.H. Fillmore (d.1936) — verify pub date (pre-1930 => PD US too)",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "come-thou-long-expected-jesus",
+  "title": "Come, Thou Long-Expected Jesus",
+  "composer": "Rowland H. Prichard",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "C. Wesley words; tune HYFRYDOL (Prichard 1830, d.1887) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "footsteps-of-jesus",
+  "title": "Footsteps of Jesus",
+  "composer": "Asa B. Everett",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "M.B.C. Slade words (d.1882); A.B. Everett (d.1875) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "ill-go-where-you-want-me-to-go",
+  "title": "I'll Go Where You Want Me to Go",
+  "composer": "Carrie E. Rounsefell",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Words Mary Brown (d.1918); C.E. Rounsefell (d.1930), 1894 — PD",
+  "tuneHint": "",
+  "expectedRange": "1,#1,2,3,4,#4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "leaning-on-the-everlasting-arms",
+  "title": "Leaning on the Everlasting Arms",
+  "composer": "Anthony J. Showalter",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E.A. Hoffman words (d.1929); Showalter (d.1924), 1887 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-sheltering-rock",
+  "title": "The Sheltering Rock",
+  "composer": "William E. Penn",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "W.E. Penn (d.1895) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "there-is-power-in-the-blood",
+  "title": "There Is Power in the Blood",
+  "composer": "Lewis E. Jones",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "L.E. Jones (d.1936), 1899 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,#1,2,#2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "well-work-till-jesus-comes",
+  "title": "We'll Work Till Jesus Comes",
+  "composer": "William Miller",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Elizabeth Mills words (d.1829); W. Miller tune (19th c.) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "where-he-leads-ill-follow",
+  "title": "Where He Leads I'll Follow",
+  "composer": "William A. Ogden",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "W.A. Ogden (d.1897), 1885 — PD",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "work-for-the-night-is-coming",
+  "title": "Work, for the Night Is Coming",
+  "composer": "Lowell Mason",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Annie L. Walker words; tune WORK SONG (Mason 1864) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "blessed-be-the-name",
+  "title": "Blessed Be the Name",
+  "composer": "Anonymous, arr. Ralph E. Hudson",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Tune anonymous, arr. R.E. Hudson 1887 (d.1901); words Charles Wesley — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "come-sinner-come",
+  "title": "Come, Sinner, Come",
+  "composer": "Horatio R. Palmer",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "W.E. Witter words; H.R. Palmer (d.1907) — PD",
+  "tuneHint": "",
+  "expectedRange": "6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "faith-of-our-fathers",
+  "title": "Faith of Our Fathers",
+  "composer": "Henri F. Hemy",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Faber words (d.1863); tune ST. CATHERINE (Hemy d.1888, adapt. Walton) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "i-gave-my-life-for-thee",
+  "title": "I Gave My Life for Thee",
+  "composer": "Philip P. Bliss",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Havergal words (d.1879); Bliss tune KENOSIS (d.1876) — PD",
+  "tuneHint": "",
+  "expectedRange": "3,4,5,6,7,1,2",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "i-need-thee-every-hour",
+  "title": "I Need Thee Every Hour",
+  "composer": "Robert Lowry",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Annie S. Hawks words (d.1918); Lowry (d.1899) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "ive-found-a-friend",
+  "title": "I've Found a Friend",
+  "composer": "George C. Stebbins",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J.G. Small words; Stebbins (d.1945), 1878 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "jesus-savior-pilot-me",
+  "title": "Jesus, Savior, Pilot Me",
+  "composer": "John E. Gould",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E. Hopper words; tune PILOT (Gould 1871, d.1875) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "more-love-to-thee",
+  "title": "More Love to Thee",
+  "composer": "William H. Doane",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E. Prentiss words; Doane (d.1915), 1870 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "the-morning-light-is-breaking",
+  "title": "The Morning Light Is Breaking",
+  "composer": "George J. Webb",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "S.F. Smith words; tune WEBB (1837, d.1887) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "o-come-angel-band",
+  "title": "O Come, Angel Band",
+  "composer": "William B. Bradbury",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J. Hascall words; Bradbury (d.1868) — PD",
+  "tuneHint": "'The Land of Beulah'",
+  "expectedRange": "3,5,6,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "softly-now-the-light-of-day",
+  "title": "Softly Now the Light of Day",
+  "composer": "Carl Maria von Weber",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Words G.W. Doane 1824; tune attributed C.M. von Weber (d.1826) (SEYMOUR, unconfirmed) — PD",
+  "tuneHint": "",
+  "expectedRange": "7,1,2,3,4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "soldiers-of-christ-arise",
+  "title": "Soldiers of Christ, Arise",
+  "composer": "William B. Bradbury",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Words C. Wesley 1749; music W.B. Bradbury (d.1868) — PD",
+  "tuneHint": "",
+  "expectedRange": "7,1,2,3,4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "stand-up-stand-up-for-jesus",
+  "title": "Stand Up, Stand Up for Jesus",
+  "composer": "George J. Webb",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "G. Duffield words; tune WEBB — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "sun-of-my-soul",
+  "title": "Sun of My Soul",
+  "composer": "Peter Ritter",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Keble words; tune HURSLEY (Ritter 1792) — PD",
+  "tuneHint": "",
+  "expectedRange": "7,1,2,3,4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "take-time-to-be-holy",
+  "title": "Take Time to Be Holy",
+  "composer": "George C. Stebbins",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "W.D. Longstaff words; Stebbins HOLINESS (1890) — PD",
+  "tuneHint": "",
+  "expectedRange": "7,1,2,3,4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "yield-not-to-temptation",
+  "title": "Yield Not to Temptation",
+  "composer": "Horatio R. Palmer",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "H.R. Palmer (d.1907), 1868 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "near-to-the-heart-of-god",
+  "title": "Near to the Heart of God",
+  "composer": "Cleland B. McAfee",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "C.B. McAfee (d.1944), 1903 — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,#2,3,4,5,6,7",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "at-the-cross",
+  "title": "At the Cross (Alas, and Did My Savior Bleed)",
+  "composer": "Ralph E. Hudson",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Watts words; Hudson refrain/tune (1885, d.1901) — PD",
+  "tuneHint": "",
+  "expectedRange": "6,7,1,2,3,4,5,6",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "all-the-way-my-savior-leads-me",
+  "title": "All the Way My Savior Leads Me",
+  "composer": "Robert Lowry",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "F. Crosby words (d.1915); Lowry (d.1899) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "all-people-that-on-earth-do-dwell",
+  "title": "All People That on Earth Do Dwell (Old 100th)",
+  "composer": "Louis Bourgeois",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "OLD HUNDREDTH (Genevan Psalter 1551) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "angry-words",
+  "title": "Angry Words",
+  "composer": "Horatio R. Palmer",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "H.R. Palmer (d.1907), 1867 — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,#5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "anywhere-with-jesus",
+  "title": "Anywhere with Jesus",
+  "composer": "Daniel B. Towner",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J.B. Pounds words (d.1921); Towner (d.1919), 1887 — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "arise-my-soul-arise",
+  "title": "Arise, My Soul, Arise",
+  "composer": "Lewis Edson",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "C. Wesley words; tune LENOX (Edson 1782, d.1820) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "beneath-the-cross-of-jesus",
+  "title": "Beneath the Cross of Jesus",
+  "composer": "Frederick C. Maker",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E.C. Clephane words; tune ST. CHRISTOPHER (Maker 1881, d.1927) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,#2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "break-thou-the-bread-of-life",
+  "title": "Break Thou the Bread of Life",
+  "composer": "William F. Sherwin",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "M.A. Lathbury words; tune BREAD OF LIFE (Sherwin 1877, d.1888) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "count-your-blessings",
+  "title": "Count Your Blessings",
+  "composer": "Edwin O. Excell",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J. Oatman Jr. words (d.1922); Excell (d.1921), 1897 — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "crown-him-with-many-crowns",
+  "title": "Crown Him with Many Crowns",
+  "composer": "George J. Elvey",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Bridges/Thring words; tune DIADEMATA (Elvey 1868, d.1893) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "glory-to-his-name",
+  "title": "Glory to His Name",
+  "composer": "John H. Stockton",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E.A. Hoffman words; Stockton (d.1877), 1878 — PD",
+  "tuneHint": "'Down at the cross where my Savior died'",
+  "expectedRange": "5,6,7,1,2,3,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "god-moves-in-a-mysterious-way",
+  "title": "God Moves in a Mysterious Way",
+  "composer": "Scottish Psalter (1615)",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Scottish Psalter tune (probably DUNFERMLINE C.M., 1615; pdhymns setting) — not DUNDEE; words W. Cowper (d.1800) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "grace-tis-a-charming-sound",
+  "title": "Grace! 'Tis a Charming Sound",
+  "composer": "Isaac Smith",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "P. Doddridge words; Isaac Smith (d.1805) tune — PD; verify tune",
+  "tuneHint": "",
+  "expectedRange": "3,#4,5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "hallelujah-what-a-savior",
+  "title": "Hallelujah! What a Savior!",
+  "composer": "Philip P. Bliss",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "P.P. Bliss (d.1876), 1875 — PD",
+  "tuneHint": "'Man of Sorrows'",
+  "expectedRange": "3,5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "hark-hark-my-soul",
+  "title": "Hark, Hark, My Soul!",
+  "composer": "Henry Smart",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "F.W. Faber words; tune PILGRIMS (Smart 1868, d.1879) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "hark-the-gentle-voice",
+  "title": "Hark, the Gentle Voice",
+  "composer": "Asa B. Everett",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "M.B.C. Slade words; A.B. Everett (d.1875) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "have-thine-own-way-lord",
+  "title": "Have Thine Own Way, Lord",
+  "composer": "George C. Stebbins",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "A.A. Pollard words (d.1934); tune ADELAIDE (Stebbins 1907, d.1945) — PD",
+  "tuneHint": "",
+  "expectedRange": "7,1,#1,2,3,4,#4,5,6,7",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "he-keeps-me-singing",
+  "title": "He Keeps Me Singing",
+  "composer": "Luther B. Bridgers",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "L.B. Bridgers (d.1948), 1910 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,#1,2,#2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "higher-ground",
+  "title": "Higher Ground",
+  "composer": "Charles H. Gabriel",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J. Oatman Jr. words; C.H. Gabriel (d.1932), 1898 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "his-way-with-thee",
+  "title": "His Way with Thee (Let Him Have His Way with Thee)",
+  "composer": "Cyrus S. Nusbaum",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "C.S. Nusbaum (d.1937), 1898 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "holy-holy-holy",
+  "title": "Holy, Holy, Holy",
+  "composer": "John B. Dykes",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "R. Heber words; tune NICAEA (Dykes 1861, d.1876) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "how-brightly-beams-the-morning-star",
+  "title": "Wie schön leuchtet der Morgenstern (O Morning Star, How Fair and Bright)",
+  "composer": "Philipp Nicolai",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "WIE SCHÖN LEUCHTET (Nicolai 1599), soprano as in Bach BWV 1.6 — PD. Instrumental (English text not verifiable word-for-word).",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "how-can-i-keep-from-singing",
+  "title": "How Can I Keep from Singing",
+  "composer": "Robert Lowry",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Tune R. Lowry 1869 (d.1899); words anon. 'Pauline T.' 1868 — PD. Single melody source; ear-check.",
+  "tuneHint": "",
+  "expectedRange": "5,6,1,2,3,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "how-firm-a-foundation",
+  "title": "How Firm a Foundation",
+  "composer": "Traditional",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "tune FOUNDATION (Funk's Genuine Church Music 1832) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,1,2,3,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "ill-live-for-him",
+  "title": "I'll Live for Him",
+  "composer": "Charles R. Dunbar",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "R.E. Hudson words (d.1901); C.R. Dunbar tune (1882) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "i-love-thy-kingdom-lord",
+  "title": "I Love Thy Kingdom, Lord",
+  "composer": "Asa B. Everett",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "T. Dwight words (d.1817); A.B. Everett tune — PD; verify tune",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "is-thy-heart-right-with-god",
+  "title": "Is Thy Heart Right with God?",
+  "composer": "Elisha A. Hoffman",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E.A. Hoffman (d.1929), 1900 — PD",
+  "tuneHint": "",
+  "expectedRange": "3,4,5,6,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "is-your-lamp-still-burning",
+  "title": "Is Your Lamp Still Burning?",
+  "composer": "Isaac Baltzell",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "P.J. Owens words (d.1907); I. Baltzell (d.1893) — PD",
+  "tuneHint": "",
+  "expectedRange": "3,4,5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "wave 5: no Baltzell setting found"
+ },
+ {
+  "id": "i-surrender-all",
+  "title": "I Surrender All",
+  "composer": "Winfield S. Weeden",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J.W. Van de Venter words (d.1939); Weeden (d.1908), 1896 — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "i-want-to-be-a-worker",
+  "title": "I Want to Be a Worker",
+  "composer": "Isaac Baltzell",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "I. Baltzell (d.1893) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "i-will-follow-jesus",
+  "title": "I Will Follow Jesus",
+  "composer": "Ralph E. Hudson",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "R.E. Hudson (d.1901) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "wave 5: only a different same-titled hymn found"
+ },
+ {
+  "id": "i-will-sing-the-wondrous-story",
+  "title": "I Will Sing the Wondrous Story",
+  "composer": "Peter P. Bilhorn",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "F.H. Rowley words; Bilhorn (d.1936), 1886 — PD",
+  "tuneHint": "Bilhorn tune WONDROUS STORY (not HYFRYDOL)",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "i-will-sing-you-a-song",
+  "title": "I Will Sing You a Song",
+  "composer": "Philip Phillips",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E.H. Gates words; Phillips (d.1895), 1865 — PD",
+  "tuneHint": "'Of that beautiful land'",
+  "expectedRange": "1,2,3,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "jesus-once-of-humble-birth",
+  "title": "Jesus, Once of Humble Birth",
+  "composer": "Giacomo Meyerbeer",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "P.P. Pratt words (d.1857); Meyerbeer (d.1864) tune — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "wave 5: DELIVERANCE tune not reachable"
+ },
+ {
+  "id": "just-when-i-need-him-most",
+  "title": "Just When I Need Him Most",
+  "composer": "Charles H. Gabriel",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "W.C. Poole words; C.H. Gabriel (d.1932), 1908 — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "let-him-in",
+  "title": "Let Him In",
+  "composer": "Edwin O. Excell",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J.B. Atchinson words; Excell (d.1921), 1883 — PD",
+  "tuneHint": "",
+  "expectedRange": "3,4,5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "live-for-jesus",
+  "title": "Live for Jesus",
+  "composer": "Frank M. Davis",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E.R. Latta words; F.M. Davis (d.1896) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "lord-we-come-before-thee-now",
+  "title": "Lord, We Come Before Thee Now",
+  "composer": "C.H.A. Malan, arr. Lowell Mason",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Tune as printed in PD hymnal: Malan (d.1864), arr. Mason (d.1872) — not Pleyel's Hymn; words W. Hammond (1745) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "majestic-sweetness-sits-enthroned",
+  "title": "Majestic Sweetness Sits Enthroned",
+  "composer": "Thomas Hastings",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "S. Stennett words; tune ORTONVILLE (Hastings 1837, d.1872) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "a-mighty-fortress-is-our-god",
+  "title": "A Mighty Fortress Is Our God",
+  "composer": "Martin Luther",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "EIN FESTE BURG (Luther 1529) — PD; use the isometric (Bach) form",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "more-about-jesus",
+  "title": "More About Jesus",
+  "composer": "John R. Sweney",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E.E. Hewitt words (d.1920); Sweney (d.1899), 1887 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "my-faith-looks-up-to-thee",
+  "title": "My Faith Looks Up to Thee",
+  "composer": "Lowell Mason",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "R. Palmer words; tune OLIVET (Mason 1832) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "my-jesus-as-thou-wilt",
+  "title": "My Jesus, as Thou Wilt",
+  "composer": "Carl Maria von Weber",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "B. Schmolck words; tune JEWETT (Weber arr.) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,5,#5,6,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "my-soul-be-on-thy-guard",
+  "title": "My Soul, Be on Thy Guard",
+  "composer": "Lowell Mason",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "G. Heath words; tune LABAN (Mason 1830) — PD",
+  "tuneHint": "",
+  "expectedRange": "3,4,5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "nearer-still-nearer",
+  "title": "Nearer, Still Nearer",
+  "composer": "Lelia N. Morris",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "L.N. Morris (d.1929), 1898 — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "purer-in-heart-o-god",
+  "title": "Purer in Heart, O God",
+  "composer": "James H. Fillmore",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Mrs. A.L. Davison words; J.H. Fillmore (d.1936), 1877 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,#4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "rescue-the-perishing",
+  "title": "Rescue the Perishing",
+  "composer": "William H. Doane",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "F. Crosby words; Doane (d.1915), 1870 — PD",
+  "tuneHint": "",
+  "expectedRange": "3,4,5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "rock-of-ages",
+  "title": "Rock of Ages",
+  "composer": "Thomas Hastings",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "A.M. Toplady words; tune TOPLADY (Hastings 1830) — PD",
+  "tuneHint": "",
+  "expectedRange": "3,5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "safely-through-another-week",
+  "title": "Safely Through Another Week",
+  "composer": "Lowell Mason",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J. Newton words; tune SABBATH (Mason 1824) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "savior-again-to-thy-dear-name-we-raise",
+  "title": "Savior, Again to Thy Dear Name We Raise",
+  "composer": "Edward J. Hopkins",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J. Ellerton words; tune ELLERS (Hopkins 1869, d.1901) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,#4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "savior-like-a-shepherd-lead-us",
+  "title": "Savior, Like a Shepherd Lead Us",
+  "composer": "William B. Bradbury",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "D.A. Thrupp words; tune BRADBURY (1859) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "savior-teach-me-day-by-day",
+  "title": "Savior, Teach Me Day by Day",
+  "composer": "Traditional",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Jane E. Leeson words (d.1881); verify tune (several in use) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "several tunes in use; queue doesn't specify which"
+ },
+ {
+  "id": "shall-we-gather-at-the-river",
+  "title": "Shall We Gather at the River",
+  "composer": "Robert Lowry",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "R. Lowry (d.1899), HANSON PLACE (1864) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "something-for-thee",
+  "title": "Something for Thee",
+  "composer": "Robert Lowry",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "S.D. Phelps words; Lowry (d.1899), 1871 — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "songs-of-praise-the-angels-sang",
+  "title": "Songs of Praise the Angels Sang",
+  "composer": "Isaac Smith",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J. Montgomery words (d.1854); verify tune — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "needs-source",
+  "statusNote": "no Isaac Smith setting found"
+ },
+ {
+  "id": "sweet-hour-of-prayer",
+  "title": "Sweet Hour of Prayer",
+  "composer": "William B. Bradbury",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "W.W. Walford words; tune SWEET HOUR (Bradbury 1861) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "take-my-life-and-let-it-be",
+  "title": "Take My Life, and Let It Be",
+  "composer": "R. M. McIntosh (arr.)",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Tune YARBROUGH arr. R.M. McIntosh (1836–1899), New Life 1879 — not Bradbury; words F.R. Havergal (d.1879) — PD",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,5",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "there-is-a-green-hill-far-away",
+  "title": "There Is a Green Hill Far Away",
+  "composer": "George C. Stebbins",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "C.F. Alexander words; tune GREEN HILL (Stebbins 1878) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "thou-didst-leave-thy-throne",
+  "title": "Thou Didst Leave Thy Throne",
+  "composer": "Timothy R. Matthews",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E.E.S. Elliott words; tune MARGARET (Matthews 1876, d.1910) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "to-the-work",
+  "title": "To the Work",
+  "composer": "William H. Doane",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "F. Crosby words; tune TOILING ON (Doane 1871) — PD",
+  "tuneHint": "",
+  "expectedRange": "1,2,3,4,#4,5,6,7,1",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "watchman-tell-us-of-the-night",
+  "title": "Watchman, Tell Us of the Night",
+  "composer": "Lowell Mason",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J. Bowring words; tune WATCHMAN (Mason 1830) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "what-a-wonderful-savior",
+  "title": "What a Wonderful Savior",
+  "composer": "Elisha A. Hoffman",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E.A. Hoffman (d.1929), 1891 — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "when-morning-gilds-the-skies",
+  "title": "When Morning Gilds the Skies",
+  "composer": "Joseph Barnby",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "tune LAUDES DOMINI (Barnby 1868, d.1896) — PD",
+  "tuneHint": "",
+  "expectedRange": "3,4,5,6,7,1,2,3",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "who-will-follow-jesus",
+  "title": "Who Will Follow Jesus?",
+  "composer": "William J. Kirkpatrick",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "E.E. Hewitt words; Kirkpatrick (d.1921) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": false,
+  "status": "done"
+ },
+ {
+  "id": "will-you-not-tell-it-today",
+  "title": "Will You Not Tell It Today?",
+  "composer": "J. H. Fillmore",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Music J.H. Fillmore (d.1936), words Jessie B. Pounds (d.1921) — PD",
+  "tuneHint": "",
+  "expectedRange": "1-8",
+  "verifyPdFirst": true,
+  "status": "done"
+ },
+ {
+  "id": "o-thou-who-in-jordan-didst-bow",
+  "title": "O Thou Who in Jordan Didst Bow",
+  "composer": "Unknown",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "G.W. Bethune words (d.1862); tune composer unknown — verify",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3,4,#4,5",
+  "verifyPdFirst": true,
+  "status": "needs-source",
+  "statusNote": "words PD; tune undecided (several in use)"
+ },
+ {
+  "id": "no-tears-in-heaven",
+  "title": "No Tears in Heaven",
+  "composer": "Robert S. Arnold",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "R.S. Arnold, 1935 — VERIFY: death date & US renewal; only author if AU-PD (d. before 1955)",
+  "tuneHint": "",
+  "expectedRange": "1-5",
+  "verifyPdFirst": true,
+  "status": "not-pd",
+  "statusNote": "R.S. Arnold 1905–2003"
+ },
+ {
+  "id": "dont-let-your-light-burn-low",
+  "title": "Don't Let Your Light Burn Low",
+  "composer": "J.E. Williams",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Mark D. Ussery words, J.E. Williams tune — VERIFY dates",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,3",
+  "verifyPdFirst": true,
+  "status": "needs-source",
+  "statusNote": "PD unknown: tune J.E. Williams dates not found"
+ },
+ {
+  "id": "im-going-that-way",
+  "title": "I'm Going That Way",
+  "composer": "L.B. Register",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "James Rowe words (d.1933); L.B. Register tune — VERIFY dates",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,#2,3",
+  "verifyPdFirst": true,
+  "status": "needs-source",
+  "statusNote": "PD unknown: L.B. Register dates not found"
+ },
+ {
+  "id": "sitting-at-the-feet-of-jesus",
+  "title": "Sitting at the Feet of Jesus",
+  "composer": "J.W. Davis",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "K.C. Minter words, J.W. Davis tune — VERIFY dates",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": true,
+  "status": "needs-source",
+  "statusNote": "PD unknown (c)1939"
+ },
+ {
+  "id": "ill-follow",
+  "title": "I'll Follow",
+  "composer": "James C. Moore",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "J.C. Moore — VERIFY dates",
+  "tuneHint": "",
+  "expectedRange": "5,6,7,1,2,#2,3,4,5",
+  "verifyPdFirst": true,
+  "status": "not-pd",
+  "statusNote": "J.C. Moore 1888–1962"
+ },
+ {
+  "id": "nobody-knows-but-jesus",
+  "title": "Nobody Knows But Jesus",
+  "composer": "Jackson Leslie",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Havergal? words, Jackson Leslie tune — VERIFY",
+  "tuneHint": "",
+  "expectedRange": "1,2,#2,3,4,#4,5,6",
+  "verifyPdFirst": true,
+  "status": "needs-source",
+  "statusNote": "PD unknown: Jackson Leslie dates not found (c)1917"
+ },
+ {
+  "id": "ye-are-the-light-of-the-world",
+  "title": "Ye Are the Light of the World",
+  "composer": "Emmett S. Dean",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Pearl Hatchett words, E.S. Dean tune — VERIFY dates & pub year",
+  "tuneHint": "",
+  "expectedRange": "1-6",
+  "verifyPdFirst": true,
+  "status": "needs-source",
+  "statusNote": "PD unknown; lyricist possibly d.1963"
+ },
+ {
+  "id": "one-step-at-a-time",
+  "title": "One Step at a Time",
+  "composer": "James H. Rosecrans",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "Words T.J. Shelton 1880; music J.H. Rosecrans (1844–1926) 1880 — PD",
+  "tuneHint": "",
+  "expectedRange": "#4,5,6,7,1,2,3,4",
+  "verifyPdFirst": true,
+  "status": "done"
+ },
+ {
+  "id": "hide-you-in-the-blood",
+  "title": "Hide You in the Blood",
+  "composer": "R.E. Winsett",
+  "category": "hymn",
+  "tags": [
+   "hymn",
+   "beginner"
+  ],
+  "difficulty": 2,
+  "copyrightNotes": "H.H. Sewell words; R.E. Winsett (d.1952) — VERIFY pub year",
+  "tuneHint": "",
+  "expectedRange": "6,1,2,3,5,6",
+  "verifyPdFirst": true,
+  "status": "needs-source",
+  "statusNote": "PD unknown: H. Sewell dates not found"
+ }
+]

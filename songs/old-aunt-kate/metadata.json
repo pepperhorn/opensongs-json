@@ -1,0 +1,22 @@
+{
+  "id": "old-aunt-kate",
+  "title": "Old Aunt Kate",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional American folk/fiddle song"
+  },
+  "tags": [
+    "folk",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}

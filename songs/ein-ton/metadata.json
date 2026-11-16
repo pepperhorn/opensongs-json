@@ -1,0 +1,22 @@
+{
+  "id": "ein-ton",
+  "title": "Ein Ton (The Monotone)",
+  "composer": "Peter Cornelius",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "P. Cornelius (d.1874), Trauer und Trost Op.3 — PD"
+  },
+  "tags": [
+    "classical",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "classical",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}

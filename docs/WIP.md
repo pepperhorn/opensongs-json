@@ -7,7 +7,7 @@ Snapshot of in-flight work on the public-domain melody library. See
 
 ## Library size
 
-- **457 songs** in `index.json`, all passing `build/validate.py`.
+- **609 songs** in `index.json`, all passing `build/validate.py`.
 - Progression: 294 (all prior queues) → 297 (3 Nottingham carols) → 321
   (25-tune Nottingham sampler complete) → 346 (candidate Wave 1) → 371
   (candidate Wave 2) → **457** (world folk wave). All committed + pushed.
@@ -15,6 +15,35 @@ Snapshot of in-flight work on the public-domain melody library. See
 ## Uncommitted right now
 
 Nothing — working tree clean.
+
+## PD interval-range wave (2026-11-16, in progress)
+
+Queue: `build/pd_interval_queue.json` (184 songs; `status` per record). Instructions:
+`docs/pd-interval-wave.md`. Sonnet authors + Sonnet checkers, ~6 songs/batch.
+
+- Wave 2 (30 carols/classical): **22 done**, 8 `needs-source`.
+- Wave 3 (30 carols/hymns): **28 done**, 2 `needs-source`.
+- Wave 4 (30 hymns): **28 done**, 2 `needs-source`.
+- Wave 5 (30 hymns): **27 done**, 3 `needs-source`.
+- **Queue complete (2026-11-18):** 152 done, 27 `needs-source` (no reliable PD notation reachable or PD unprovable), 4 `not-pd`, 1 duplicate — see `status`/`statusNote` in the queue JSON.
+  Remaining `queued`: batches 25–28 (20 hymns, drafts interrupted, unchecked),
+  plus from-every-spire-on-christmas-eve and one-step-at-a-time (authored, PD-confirmed,
+  awaiting check). Verify-PD research done: no-tears-in-heaven + ill-follow NOT-PD;
+  will-you-not-tell-it-today IS PD (Fillmore d.1936, Pounds d.1921) → author;
+  o-thou-who-in-jordan needs a tune decision; others UNKNOWN (left queued/unauthored).
+  Then retry `needs-source` songs against the hymnal PDFs.
+- Resume recipe: re-download hymnal PDFs (pdhymns.com/PDHymnal/Great%20Hymns_norm_122223.pdf,
+  PD%20Christmas_Normal.pdf), rebuild page index with pdftotext, scaffold into a git
+  worktree outside the repo, Sonnet author → Sonnet checker per 6-song batch, copy
+  passing songs in, index + validate, commit.
+- Hymn source: pdhymns.com PD hymnal PDFs (539 pp + 41 pp Christmas), indexed by page — agents read pages as images.
+- Wave 1 (30 folk/children/Cohan): **13 done**, 16 `needs-source`, 1 `not-pd`
+  (Just a Closer Walk — 1940 Kenneth Morris).
+- Network: added reference hosts to the environment allowlist. Use `curl`
+  (WebFetch fails DNS). abcnotation raw ABC + bethsnotesplus score images work;
+  hymnary media downloads are bot-blocked; hymntime.com doesn't connect.
+- Lesson: obscure folk titles often have no free notation — expect higher yield
+  on hymns/carols (abcnotation has many).
 
 ## World folk wave (2026-10-21, 86 songs)
 

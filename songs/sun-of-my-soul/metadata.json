@@ -1,0 +1,22 @@
+{
+  "id": "sun-of-my-soul",
+  "title": "Sun of My Soul",
+  "composer": "Peter Ritter",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Keble words; tune HURSLEY (Ritter 1792) — PD"
+  },
+  "tags": [
+    "hymn",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "hymn",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}

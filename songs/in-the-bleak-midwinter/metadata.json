@@ -1,0 +1,23 @@
+{
+  "id": "in-the-bleak-midwinter",
+  "title": "In the Bleak Midwinter",
+  "composer": "Gustav Holst",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Holst CRANHAM (1906; d.1934); Rossetti words (d.1894) — PD"
+  },
+  "tags": [
+    "carol",
+    "christmas",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "carol",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}

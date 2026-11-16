@@ -1,0 +1,23 @@
+{
+  "id": "pat-a-pan",
+  "title": "Pat-a-Pan",
+  "composer": "Traditional (words: Bernard de La Monnoye)",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Anonymous Burgundian tune; words B. de La Monnoye (d.1728) — PD"
+  },
+  "tags": [
+    "carol",
+    "christmas",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "carol",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}
