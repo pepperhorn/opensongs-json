@@ -1,0 +1,22 @@
+{
+  "id": "rock-of-ages",
+  "title": "Rock of Ages",
+  "composer": "Thomas Hastings",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "A.M. Toplady words; tune TOPLADY (Hastings 1830) — PD"
+  },
+  "tags": [
+    "hymn",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "hymn",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}

@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 575,
+  "count": 606,
   "schemaVersion": 1,
   "songs": [
     {
@@ -4041,6 +4041,40 @@
       }
     },
     {
+      "id": "apples-and-bananas",
+      "title": "Apples and Bananas",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "Bb4"
+      },
+      "noteCount": 24,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/apples-and-bananas/song.json",
+        "abc": "songs/apples-and-bananas/song.abc",
+        "musicxml": "songs/apples-and-bananas/song.musicxml"
+      }
+    },
+    {
       "id": "april-waltz",
       "title": "April Waltz",
       "composer": "Traditional",
@@ -4845,6 +4879,40 @@
         "song": "songs/berceuse/song.json",
         "abc": "songs/berceuse/song.abc",
         "musicxml": "songs/berceuse/song.musicxml"
+      }
+    },
+    {
+      "id": "beside-thy-manger-here-i-stand",
+      "title": "Ich steh an deiner Krippen hier (Beside Thy Manger Here I Stand)",
+      "composer": "Johann Sebastian Bach",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "c minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "Eb5"
+      },
+      "noteCount": 55,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/beside-thy-manger-here-i-stand/song.json",
+        "abc": "songs/beside-thy-manger-here-i-stand/song.abc",
+        "musicxml": "songs/beside-thy-manger-here-i-stand/song.musicxml"
       }
     },
     {
@@ -6747,6 +6815,39 @@
       }
     },
     {
+      "id": "dry-bones",
+      "title": "Dry Bones",
+      "composer": "James Weldon Johnson & J. Rosamond Johnson",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C#5"
+      },
+      "noteCount": 149,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/dry-bones/song.json",
+        "abc": "songs/dry-bones/song.abc",
+        "musicxml": "songs/dry-bones/song.musicxml"
+      }
+    },
+    {
       "id": "early-one-morning",
       "title": "Early One Morning",
       "composer": "Traditional",
@@ -7529,6 +7630,40 @@
       }
     },
     {
+      "id": "from-every-spire-on-christmas-eve",
+      "title": "From Every Spire on Christmas Eve",
+      "composer": "George Coles",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 68,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/from-every-spire-on-christmas-eve/song.json",
+        "abc": "songs/from-every-spire-on-christmas-eve/song.abc",
+        "musicxml": "songs/from-every-spire-on-christmas-eve/song.musicxml"
+      }
+    },
+    {
       "id": "from-heaven-above-to-earth-i-come",
       "title": "From Heaven Above to Earth I Come",
       "composer": "Martin Luther",
@@ -7834,6 +7969,39 @@
         "song": "songs/gisburn-processional/song.json",
         "abc": "songs/gisburn-processional/song.abc",
         "musicxml": "songs/gisburn-processional/song.musicxml"
+      }
+    },
+    {
+      "id": "git-along-little-dogies",
+      "title": "Git Along, Little Dogies",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 91,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/git-along-little-dogies/song.json",
+        "abc": "songs/git-along-little-dogies/song.abc",
+        "musicxml": "songs/git-along-little-dogies/song.musicxml"
       }
     },
     {
@@ -8743,6 +8911,39 @@
         "song": "songs/hey-diddle-diddle/song.json",
         "abc": "songs/hey-diddle-diddle/song.abc",
         "musicxml": "songs/hey-diddle-diddle/song.musicxml"
+      }
+    },
+    {
+      "id": "hey-ho-nobody-home",
+      "title": "Hey Ho, Nobody Home",
+      "composer": "Traditional (pub. Thomas Ravenscroft, Pammelia, 1609)",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 25,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hey-ho-nobody-home/song.json",
+        "abc": "songs/hey-ho-nobody-home/song.abc",
+        "musicxml": "songs/hey-ho-nobody-home/song.musicxml"
       }
     },
     {
@@ -12437,6 +12638,39 @@
       }
     },
     {
+      "id": "nearer-still-nearer",
+      "title": "Nearer, Still Nearer",
+      "composer": "Lelia N. Morris",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/nearer-still-nearer/song.json",
+        "abc": "songs/nearer-still-nearer/song.abc",
+        "musicxml": "songs/nearer-still-nearer/song.musicxml"
+      }
+    },
+    {
       "id": "nessun-dorma-theme",
       "title": "Nessun dorma (theme)",
       "composer": "Giacomo Puccini",
@@ -13154,6 +13388,39 @@
         "song": "songs/once-i-caught-a-fish-alive/song.json",
         "abc": "songs/once-i-caught-a-fish-alive/song.abc",
         "musicxml": "songs/once-i-caught-a-fish-alive/song.musicxml"
+      }
+    },
+    {
+      "id": "one-step-at-a-time",
+      "title": "One Step at a Time",
+      "composer": "James H. Rosecrans",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C#5"
+      },
+      "noteCount": 66,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/one-step-at-a-time/song.json",
+        "abc": "songs/one-step-at-a-time/song.abc",
+        "musicxml": "songs/one-step-at-a-time/song.musicxml"
       }
     },
     {
@@ -14037,6 +14304,39 @@
       }
     },
     {
+      "id": "purer-in-heart-o-god",
+      "title": "Purer in Heart, O God",
+      "composer": "James H. Fillmore",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/purer-in-heart-o-god/song.json",
+        "abc": "songs/purer-in-heart-o-god/song.abc",
+        "musicxml": "songs/purer-in-heart-o-god/song.musicxml"
+      }
+    },
+    {
       "id": "que-llueva-que-llueva",
       "title": "Que Llueva, Que Llueva",
       "composer": "Traditional",
@@ -14307,6 +14607,39 @@
       }
     },
     {
+      "id": "rescue-the-perishing",
+      "title": "Rescue the Perishing",
+      "composer": "William H. Doane",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 63,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/rescue-the-perishing/song.json",
+        "abc": "songs/rescue-the-perishing/song.abc",
+        "musicxml": "songs/rescue-the-perishing/song.musicxml"
+      }
+    },
+    {
       "id": "rhapsody-on-a-theme-of-paganini-18th-var",
       "title": "Rhapsody on a Theme of Paganini (18th var.)",
       "composer": "Sergei Rachmaninoff",
@@ -14437,6 +14770,39 @@
         "song": "songs/rock-a-bye-baby/song.json",
         "abc": "songs/rock-a-bye-baby/song.abc",
         "musicxml": "songs/rock-a-bye-baby/song.musicxml"
+      }
+    },
+    {
+      "id": "rock-of-ages",
+      "title": "Rock of Ages",
+      "composer": "Thomas Hastings",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 42,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/rock-of-ages/song.json",
+        "abc": "songs/rock-of-ages/song.abc",
+        "musicxml": "songs/rock-of-ages/song.musicxml"
       }
     },
     {
@@ -14712,6 +15078,39 @@
       }
     },
     {
+      "id": "safely-through-another-week",
+      "title": "Safely Through Another Week",
+      "composer": "Lowell Mason",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 42,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/safely-through-another-week/song.json",
+        "abc": "songs/safely-through-another-week/song.abc",
+        "musicxml": "songs/safely-through-another-week/song.musicxml"
+      }
+    },
+    {
       "id": "sakura-sakura",
       "title": "Sakura Sakura",
       "composer": "Traditional",
@@ -14917,6 +15316,72 @@
       }
     },
     {
+      "id": "savior-again-to-thy-dear-name-we-raise",
+      "title": "Savior, Again to Thy Dear Name We Raise",
+      "composer": "Edward J. Hopkins",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/savior-again-to-thy-dear-name-we-raise/song.json",
+        "abc": "songs/savior-again-to-thy-dear-name-we-raise/song.abc",
+        "musicxml": "songs/savior-again-to-thy-dear-name-we-raise/song.musicxml"
+      }
+    },
+    {
+      "id": "savior-like-a-shepherd-lead-us",
+      "title": "Savior, Like a Shepherd Lead Us",
+      "composer": "William B. Bradbury",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 62,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/savior-like-a-shepherd-lead-us/song.json",
+        "abc": "songs/savior-like-a-shepherd-lead-us/song.abc",
+        "musicxml": "songs/savior-like-a-shepherd-lead-us/song.musicxml"
+      }
+    },
+    {
       "id": "scheherazade-theme",
       "title": "Scheherazade (theme)",
       "composer": "Nikolai Rimsky-Korsakov",
@@ -14983,6 +15448,39 @@
         "song": "songs/serenade-standchen/song.json",
         "abc": "songs/serenade-standchen/song.abc",
         "musicxml": "songs/serenade-standchen/song.musicxml"
+      }
+    },
+    {
+      "id": "shall-we-gather-at-the-river",
+      "title": "Shall We Gather at the River",
+      "composer": "Robert Lowry",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 70,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/shall-we-gather-at-the-river/song.json",
+        "abc": "songs/shall-we-gather-at-the-river/song.abc",
+        "musicxml": "songs/shall-we-gather-at-the-river/song.musicxml"
       }
     },
     {
@@ -15226,6 +15724,40 @@
       }
     },
     {
+      "id": "slumber-song-of-the-infant-jesus",
+      "title": "Slumber Song of the Infant Jesus",
+      "composer": "Fran\u00e7ois-Auguste Gevaert",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "f minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "F5"
+      },
+      "noteCount": 38,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/slumber-song-of-the-infant-jesus/song.json",
+        "abc": "songs/slumber-song-of-the-infant-jesus/song.abc",
+        "musicxml": "songs/slumber-song-of-the-infant-jesus/song.musicxml"
+      }
+    },
+    {
       "id": "snake-baked-a-hoecake",
       "title": "Snake Baked a Hoecake",
       "composer": "Traditional",
@@ -15425,6 +15957,39 @@
       }
     },
     {
+      "id": "something-for-thee",
+      "title": "Something for Thee",
+      "composer": "Robert Lowry",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/something-for-thee/song.json",
+        "abc": "songs/something-for-thee/song.abc",
+        "musicxml": "songs/something-for-thee/song.musicxml"
+      }
+    },
+    {
       "id": "song-of-india",
       "title": "Song of India",
       "composer": "Nikolai Rimsky-Korsakov",
@@ -15492,6 +16057,39 @@
         "song": "songs/song-to-the-moon-rusalka/song.json",
         "abc": "songs/song-to-the-moon-rusalka/song.abc",
         "musicxml": "songs/song-to-the-moon-rusalka/song.musicxml"
+      }
+    },
+    {
+      "id": "sourwood-mountain",
+      "title": "Sourwood Mountain",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "D5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sourwood-mountain/song.json",
+        "abc": "songs/sourwood-mountain/song.abc",
+        "musicxml": "songs/sourwood-mountain/song.musicxml"
       }
     },
     {
@@ -15832,6 +16430,39 @@
         "song": "songs/sweet-betsy-from-pike/song.json",
         "abc": "songs/sweet-betsy-from-pike/song.abc",
         "musicxml": "songs/sweet-betsy-from-pike/song.musicxml"
+      }
+    },
+    {
+      "id": "sweet-hour-of-prayer",
+      "title": "Sweet Hour of Prayer",
+      "composer": "William B. Bradbury",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 67,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sweet-hour-of-prayer/song.json",
+        "abc": "songs/sweet-hour-of-prayer/song.abc",
+        "musicxml": "songs/sweet-hour-of-prayer/song.musicxml"
       }
     },
     {
@@ -16335,6 +16966,39 @@
       }
     },
     {
+      "id": "take-my-life-and-let-it-be",
+      "title": "Take My Life, and Let It Be",
+      "composer": "R. M. McIntosh (arr.)",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A major",
+      "timeSignature": [
+        9,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/take-my-life-and-let-it-be/song.json",
+        "abc": "songs/take-my-life-and-let-it-be/song.abc",
+        "musicxml": "songs/take-my-life-and-let-it-be/song.musicxml"
+      }
+    },
+    {
       "id": "take-time-to-be-holy",
       "title": "Take Time to Be Holy",
       "composer": "George C. Stebbins",
@@ -16745,6 +17409,39 @@
       }
     },
     {
+      "id": "the-boll-weevil",
+      "title": "The Boll Weevil",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 62,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-boll-weevil/song.json",
+        "abc": "songs/the-boll-weevil/song.abc",
+        "musicxml": "songs/the-boll-weevil/song.musicxml"
+      }
+    },
+    {
       "id": "the-cherry-tree-carol",
       "title": "The Cherry Tree Carol",
       "composer": "Traditional",
@@ -16942,6 +17639,39 @@
         "song": "songs/the-entertainer/song.json",
         "abc": "songs/the-entertainer/song.abc",
         "musicxml": "songs/the-entertainer/song.musicxml"
+      }
+    },
+    {
+      "id": "the-erie-canal",
+      "title": "The Erie Canal",
+      "composer": "Thomas S. Allen",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 117,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-erie-canal/song.json",
+        "abc": "songs/the-erie-canal/song.abc",
+        "musicxml": "songs/the-erie-canal/song.musicxml"
       }
     },
     {
@@ -17218,6 +17948,39 @@
       }
     },
     {
+      "id": "the-juniper-tree",
+      "title": "The Juniper Tree (Old Sister Phoebe)",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 37,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-juniper-tree/song.json",
+        "abc": "songs/the-juniper-tree/song.abc",
+        "musicxml": "songs/the-juniper-tree/song.musicxml"
+      }
+    },
+    {
       "id": "the-leaving-of-liverpool",
       "title": "The Leaving of Liverpool",
       "composer": "Traditional",
@@ -17415,6 +18178,39 @@
         "song": "songs/the-oak-and-the-ash/song.json",
         "abc": "songs/the-oak-and-the-ash/song.abc",
         "musicxml": "songs/the-oak-and-the-ash/song.musicxml"
+      }
+    },
+    {
+      "id": "the-old-chisholm-trail",
+      "title": "The Old Chisholm Trail",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        2
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-old-chisholm-trail/song.json",
+        "abc": "songs/the-old-chisholm-trail/song.abc",
+        "musicxml": "songs/the-old-chisholm-trail/song.musicxml"
       }
     },
     {
@@ -17785,6 +18581,39 @@
       }
     },
     {
+      "id": "there-is-a-green-hill-far-away",
+      "title": "There Is a Green Hill Far Away",
+      "composer": "George C. Stebbins",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 62,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/there-is-a-green-hill-far-away/song.json",
+        "abc": "songs/there-is-a-green-hill-far-away/song.abc",
+        "musicxml": "songs/there-is-a-green-hill-far-away/song.musicxml"
+      }
+    },
+    {
       "id": "there-is-power-in-the-blood",
       "title": "There Is Power in the Blood",
       "composer": "Lewis E. Jones",
@@ -17815,6 +18644,39 @@
         "song": "songs/there-is-power-in-the-blood/song.json",
         "abc": "songs/there-is-power-in-the-blood/song.abc",
         "musicxml": "songs/there-is-power-in-the-blood/song.musicxml"
+      }
+    },
+    {
+      "id": "thou-didst-leave-thy-throne",
+      "title": "Thou Didst Leave Thy Throne",
+      "composer": "Timothy R. Matthews",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/thou-didst-leave-thy-throne/song.json",
+        "abc": "songs/thou-didst-leave-thy-throne/song.abc",
+        "musicxml": "songs/thou-didst-leave-thy-throne/song.musicxml"
       }
     },
     {
@@ -17883,6 +18745,39 @@
         "song": "songs/tip-toe-through-the-tulips/song.json",
         "abc": "songs/tip-toe-through-the-tulips/song.abc",
         "musicxml": "songs/tip-toe-through-the-tulips/song.musicxml"
+      }
+    },
+    {
+      "id": "to-the-work",
+      "title": "To the Work",
+      "composer": "William H. Doane",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "F5"
+      },
+      "noteCount": 74,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/to-the-work/song.json",
+        "abc": "songs/to-the-work/song.abc",
+        "musicxml": "songs/to-the-work/song.musicxml"
       }
     },
     {
@@ -18664,6 +19559,39 @@
       }
     },
     {
+      "id": "watchman-tell-us-of-the-night",
+      "title": "Watchman, Tell Us of the Night",
+      "composer": "Lowell Mason",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 56,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/watchman-tell-us-of-the-night/song.json",
+        "abc": "songs/watchman-tell-us-of-the-night/song.abc",
+        "musicxml": "songs/watchman-tell-us-of-the-night/song.musicxml"
+      }
+    },
+    {
       "id": "we-three-kings-of-orient-are",
       "title": "We Three Kings of Orient Are",
       "composer": "John Henry Hopkins Jr.",
@@ -18763,6 +19691,39 @@
         "song": "songs/well-work-till-jesus-comes/song.json",
         "abc": "songs/well-work-till-jesus-comes/song.abc",
         "musicxml": "songs/well-work-till-jesus-comes/song.musicxml"
+      }
+    },
+    {
+      "id": "what-a-wonderful-savior",
+      "title": "What a Wonderful Savior",
+      "composer": "Elisha A. Hoffman",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 55,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/what-a-wonderful-savior/song.json",
+        "abc": "songs/what-a-wonderful-savior/song.abc",
+        "musicxml": "songs/what-a-wonderful-savior/song.musicxml"
       }
     },
     {
@@ -18866,6 +19827,39 @@
       }
     },
     {
+      "id": "when-morning-gilds-the-skies",
+      "title": "When Morning Gilds the Skies",
+      "composer": "Joseph Barnby",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 37,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/when-morning-gilds-the-skies/song.json",
+        "abc": "songs/when-morning-gilds-the-skies/song.abc",
+        "musicxml": "songs/when-morning-gilds-the-skies/song.musicxml"
+      }
+    },
+    {
       "id": "where-he-leads-ill-follow",
       "title": "Where He Leads I'll Follow",
       "composer": "William A. Ogden",
@@ -18896,6 +19890,39 @@
         "song": "songs/where-he-leads-ill-follow/song.json",
         "abc": "songs/where-he-leads-ill-follow/song.abc",
         "musicxml": "songs/where-he-leads-ill-follow/song.musicxml"
+      }
+    },
+    {
+      "id": "who-will-follow-jesus",
+      "title": "Who Will Follow Jesus?",
+      "composer": "William J. Kirkpatrick",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 88,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/who-will-follow-jesus/song.json",
+        "abc": "songs/who-will-follow-jesus/song.abc",
+        "musicxml": "songs/who-will-follow-jesus/song.musicxml"
       }
     },
     {

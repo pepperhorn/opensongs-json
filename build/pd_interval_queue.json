@@ -31,8 +31,7 @@
   "tuneHint": "Vowel-swap song; NOT Raffi's arrangement",
   "expectedRange": "7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "status": "done"
  },
  {
   "id": "old-aunt-kate",
@@ -65,7 +64,7 @@
   "expectedRange": "1-6 (natural minor)",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "statusNote": "retry: no note-readable source"
  },
  {
   "id": "the-boll-weevil",
@@ -81,8 +80,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,3",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "status": "done"
  },
  {
   "id": "the-cruel-war-is-raging",
@@ -99,7 +97,7 @@
   "expectedRange": "5,6,7,1,2,3",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "statusNote": "retry: no note-readable source"
  },
  {
   "id": "go-tell-aunt-rhody",
@@ -133,7 +131,7 @@
   "expectedRange": "1-6",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "statusNote": "retry: only a garbled auto-converted ABC"
  },
  {
   "id": "on-mondays-i-never-go-to-work",
@@ -151,7 +149,7 @@
   "expectedRange": "5,6,7,1,2,3",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "statusNote": "retry: no source found"
  },
  {
   "id": "dry-bones",
@@ -167,8 +165,7 @@
   "tuneHint": "'Dem Bones' — the chromatic ascending/descending 'toe bone connected to the...' tune",
   "expectedRange": "1,#1,2,#2,3,4,#4,5,#5,6",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "status": "done"
  },
  {
   "id": "the-erie-canal",
@@ -180,12 +177,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "T.S. Allen 'Low Bridge, Everybody Down' (1905; d.1919) — PD",
+  "copyrightNotes": "T.S. Allen, 'Low Bridge, Everybody Down' (pub. 1913; d.1919) — PD",
   "tuneHint": "minor verse",
   "expectedRange": "minor 1,2,3,4,5,6,#6,7",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "status": "done"
  },
  {
   "id": "come-all-ye-fair-and-tender-maidens",
@@ -202,7 +198,7 @@
   "expectedRange": "5,6,1,2,3,5",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "statusNote": "retry: no note-readable source"
  },
  {
   "id": "dont-let-your-deal-go-down",
@@ -219,7 +215,7 @@
   "expectedRange": "6,1,2,3,4,#4,5,6",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "statusNote": "retry: no note-readable source"
  },
  {
   "id": "git-along-little-dogies",
@@ -235,12 +231,11 @@
   "tuneHint": "",
   "expectedRange": "1,3,4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "status": "done"
  },
  {
   "id": "the-juniper-tree",
-  "title": "The Juniper Tree",
+  "title": "The Juniper Tree (Old Sister Phoebe)",
   "composer": "Traditional",
   "category": "folk",
   "tags": [
@@ -248,12 +243,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "Traditional American folk song",
+  "copyrightNotes": "Traditional American play-party song (Roud 4507) — PD",
   "tuneHint": "",
   "expectedRange": "5,6,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "status": "done"
  },
  {
   "id": "the-old-chisholm-trail",
@@ -269,8 +263,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "status": "done"
  },
  {
   "id": "old-joe-clark",
@@ -334,7 +327,8 @@
   "tuneHint": "natural minor",
   "expectedRange": "natural minor 1-8",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "not identifiable"
  },
  {
   "id": "sourwood-mountain",
@@ -350,8 +344,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "no words+notes source to validate lyric fit"
+  "status": "done"
  },
  {
   "id": "the-streets-of-laredo",
@@ -453,7 +446,7 @@
  {
   "id": "hey-ho-nobody-home",
   "title": "Hey Ho, Nobody Home",
-  "composer": "Thomas Ravenscroft",
+  "composer": "Traditional (pub. Thomas Ravenscroft, Pammelia, 1609)",
   "category": "folk",
   "tags": [
    "folk",
@@ -464,8 +457,7 @@
   "tuneHint": "natural minor round",
   "expectedRange": "natural minor 5,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 1: no note-readable reference found"
+  "status": "done"
  },
  {
   "id": "give-my-regards-to-broadway",
@@ -546,7 +538,7 @@
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
+  "statusNote": "retry: only an SA-combined ABC; melody not separable"
  },
  {
   "id": "slumber-song-of-the-infant-jesus",
@@ -559,12 +551,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "F.-A. Gevaert (d.1908) — PD",
+  "copyrightNotes": "Traditional French carol 'Entre le bœuf et l'âne gris', arr. Gevaert (d.1908) — PD; melody only (English translator unverified)",
   "tuneHint": "'Le sommeil de l'enfant Jésus'",
   "expectedRange": "minor 1,2,3,#3,4,5,1",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
+  "status": "done"
  },
  {
   "id": "remember-o-thou-man",
@@ -650,7 +641,7 @@
   "expectedRange": "5,6,7,1,2,3",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
+  "statusNote": "retry: no source"
  },
  {
   "id": "christ-was-born-on-christmas-day",
@@ -889,13 +880,13 @@
   "tuneHint": "verify which traditional tune",
   "expectedRange": "minor 5,#6,b7,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
+  "status": "not-pd",
+  "statusNote": "OBC \"All Bells in Paradise\" tune is Martin Shaw (d.1958); traditional Castleton tune not sourced"
  },
  {
   "id": "beside-thy-manger-here-i-stand",
-  "title": "Beside Thy Manger Here I Stand",
-  "composer": "Traditional",
+  "title": "Ich steh an deiner Krippen hier (Beside Thy Manger Here I Stand)",
+  "composer": "Johann Sebastian Bach",
   "category": "carol",
   "tags": [
    "carol",
@@ -903,12 +894,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "'Ich steh an deiner Krippen hier' (Nürnberg 1544 / Bach BWV 469) — PD; verify which tune",
+  "copyrightNotes": "Bach (d.1750), BWV 469 (Schemelli 1736); text Paul Gerhardt (d.1676) — PD. German verse 1.",
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "needs-source",
-  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
+  "status": "done"
  },
  {
   "id": "break-forth-o-beauteous-heavenly-light",
@@ -938,11 +928,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "Eleanor A. Hunter words; George Coles tune — verify dates",
+  "copyrightNotes": "Words Eleanor A. Hunter (1855–1915), 1888; tune George Coles (1792–1858) — PD. Rhythm single-source.",
   "tuneHint": "",
   "expectedRange": "5,7,1,2,3,4,5",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "from-heaven-above-to-earth-i-come",
@@ -977,7 +967,7 @@
   "expectedRange": "5,1,2,3,4,5",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
+  "statusNote": "retry: no source"
  },
  {
   "id": "god-bless-all",
@@ -995,7 +985,7 @@
   "expectedRange": "5,1,2,3,4,5",
   "verifyPdFirst": false,
   "status": "needs-source",
-  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
+  "statusNote": "retry: carol not identifiable"
  },
  {
   "id": "infant-holy-infant-lowly",
@@ -1286,7 +1276,8 @@
   "tuneHint": "",
   "expectedRange": "5,7,1,2,3,4,5",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "duplicate",
+  "statusNote": "same tune as existing wassail-1/2"
  },
  {
   "id": "when-i-survey-the-wondrous-cross",
@@ -2539,7 +2530,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "purer-in-heart-o-god",
@@ -2555,7 +2546,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,#4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "rescue-the-perishing",
@@ -2571,7 +2562,7 @@
   "tuneHint": "",
   "expectedRange": "3,4,5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "rock-of-ages",
@@ -2587,7 +2578,7 @@
   "tuneHint": "",
   "expectedRange": "3,5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "safely-through-another-week",
@@ -2603,7 +2594,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "savior-again-to-thy-dear-name-we-raise",
@@ -2619,7 +2610,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,#4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "savior-like-a-shepherd-lead-us",
@@ -2635,7 +2626,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "savior-teach-me-day-by-day",
@@ -2651,7 +2642,8 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "several tunes in use; queue doesn't specify which"
  },
  {
   "id": "shall-we-gather-at-the-river",
@@ -2667,7 +2659,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "something-for-thee",
@@ -2683,7 +2675,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "songs-of-praise-the-angels-sang",
@@ -2699,7 +2691,8 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "no Isaac Smith setting found"
  },
  {
   "id": "sweet-hour-of-prayer",
@@ -2715,23 +2708,23 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "take-my-life-and-let-it-be",
   "title": "Take My Life, and Let It Be",
-  "composer": "William B. Bradbury",
+  "composer": "R. M. McIntosh (arr.)",
   "category": "hymn",
   "tags": [
    "hymn",
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "F.R. Havergal words; Bradbury tune — PD; verify which Bradbury tune",
+  "copyrightNotes": "Tune YARBROUGH arr. R.M. McIntosh (1836–1899), New Life 1879 — not Bradbury; words F.R. Havergal (d.1879) — PD",
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "there-is-a-green-hill-far-away",
@@ -2747,7 +2740,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "thou-didst-leave-thy-throne",
@@ -2763,7 +2756,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "to-the-work",
@@ -2779,7 +2772,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "watchman-tell-us-of-the-night",
@@ -2795,7 +2788,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "what-a-wonderful-savior",
@@ -2811,7 +2804,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "when-morning-gilds-the-skies",
@@ -2827,7 +2820,7 @@
   "tuneHint": "",
   "expectedRange": "3,4,5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "who-will-follow-jesus",
@@ -2843,7 +2836,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "will-you-not-tell-it-today",
@@ -2875,7 +2868,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,#4,5",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "words PD; tune undecided (several in use)"
  },
  {
   "id": "no-tears-in-heaven",
@@ -2891,7 +2885,8 @@
   "tuneHint": "",
   "expectedRange": "1-5",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "not-pd",
+  "statusNote": "R.S. Arnold 1905–2003"
  },
  {
   "id": "dont-let-your-light-burn-low",
@@ -2907,7 +2902,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "PD unknown: tune J.E. Williams dates not found"
  },
  {
   "id": "im-going-that-way",
@@ -2923,7 +2919,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,#2,3",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "PD unknown: L.B. Register dates not found"
  },
  {
   "id": "sitting-at-the-feet-of-jesus",
@@ -2939,7 +2936,8 @@
   "tuneHint": "",
   "expectedRange": "1-6",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "PD unknown (c)1939"
  },
  {
   "id": "ill-follow",
@@ -2955,7 +2953,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,#2,3,4,5",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "not-pd",
+  "statusNote": "J.C. Moore 1888–1962"
  },
  {
   "id": "nobody-knows-but-jesus",
@@ -2971,7 +2970,8 @@
   "tuneHint": "",
   "expectedRange": "1,2,#2,3,4,#4,5,6",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "PD unknown: Jackson Leslie dates not found (c)1917"
  },
  {
   "id": "ye-are-the-light-of-the-world",
@@ -2987,7 +2987,8 @@
   "tuneHint": "",
   "expectedRange": "1-6",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "PD unknown; lyricist possibly d.1963"
  },
  {
   "id": "one-step-at-a-time",
@@ -2999,11 +3000,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "T.J. Shelton words, J.H. Rosecrans tune — VERIFY dates",
+  "copyrightNotes": "Words T.J. Shelton 1880; music J.H. Rosecrans (1844–1926) 1880 — PD",
   "tuneHint": "",
   "expectedRange": "#4,5,6,7,1,2,3,4",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "hide-you-in-the-blood",
@@ -3019,6 +3020,7 @@
   "tuneHint": "",
   "expectedRange": "6,1,2,3,5,6",
   "verifyPdFirst": true,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "PD unknown: H. Sewell dates not found"
  }
 ]

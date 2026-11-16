@@ -1,0 +1,22 @@
+{
+  "id": "sourwood-mountain",
+  "title": "Sourwood Mountain",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Appalachian"
+  },
+  "tags": [
+    "folk",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}
