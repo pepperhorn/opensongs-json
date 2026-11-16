@@ -387,7 +387,7 @@
       "measure": 7,
       "beat": 1.0,
       "onset": 24.0,
-      "duration": 0.5,
+      "duration": 1.0,
       "type": "note",
       "pitch": {
         "step": "D",
@@ -402,26 +402,9 @@
     {
       "i": 22,
       "measure": 7,
-      "beat": 1.5,
-      "onset": 24.5,
-      "duration": 0.5,
-      "type": "note",
-      "pitch": {
-        "step": "E",
-        "alter": 0,
-        "octave": 4,
-        "midi": 64,
-        "spelled": "E4"
-      },
-      "lyric": "filled",
-      "tie": null
-    },
-    {
-      "i": 23,
-      "measure": 7,
       "beat": 2.0,
       "onset": 25.0,
-      "duration": 0.5,
+      "duration": 1.0,
       "type": "note",
       "pitch": {
         "step": "F",
@@ -430,28 +413,11 @@
         "midi": 66,
         "spelled": "F#4"
       },
-      "lyric": "with",
+      "lyric": "filled",
       "tie": null
     },
     {
-      "i": 24,
-      "measure": 7,
-      "beat": 2.5,
-      "onset": 25.5,
-      "duration": 0.5,
-      "type": "note",
-      "pitch": {
-        "step": "D",
-        "alter": 0,
-        "octave": 4,
-        "midi": 62,
-        "spelled": "D4"
-      },
-      "lyric": "chick",
-      "tie": null
-    },
-    {
-      "i": 25,
+      "i": 23,
       "measure": 7,
       "beat": 3.0,
       "onset": 26.0,
@@ -464,11 +430,11 @@
         "midi": 64,
         "spelled": "E4"
       },
-      "lyric": null,
+      "lyric": "with",
       "tie": null
     },
     {
-      "i": 26,
+      "i": 24,
       "measure": 7,
       "beat": 4.0,
       "onset": 27.0,
@@ -481,11 +447,11 @@
         "midi": 60,
         "spelled": "C4"
       },
-      "lyric": null,
+      "lyric": "chick",
       "tie": null
     },
     {
-      "i": 27,
+      "i": 25,
       "measure": 8,
       "beat": 1.0,
       "onset": 28.0,
@@ -502,7 +468,7 @@
       "tie": null
     },
     {
-      "i": 28,
+      "i": 26,
       "measure": 8,
       "beat": 3.0,
       "onset": 30.0,
@@ -519,7 +485,7 @@
       "tie": null
     },
     {
-      "i": 29,
+      "i": 27,
       "measure": 8,
       "beat": 4.0,
       "onset": 31.0,
@@ -530,7 +496,7 @@
       "tie": null
     },
     {
-      "i": 30,
+      "i": 28,
       "measure": 9,
       "beat": 1.0,
       "onset": 32.0,
@@ -547,7 +513,7 @@
       "tie": null
     },
     {
-      "i": 31,
+      "i": 29,
       "measure": 9,
       "beat": 2.5,
       "onset": 33.5,
@@ -564,7 +530,7 @@
       "tie": null
     },
     {
-      "i": 32,
+      "i": 30,
       "measure": 9,
       "beat": 3.0,
       "onset": 34.0,
@@ -581,7 +547,7 @@
       "tie": null
     },
     {
-      "i": 33,
+      "i": 31,
       "measure": 10,
       "beat": 1.0,
       "onset": 36.0,
@@ -598,7 +564,7 @@
       "tie": null
     },
     {
-      "i": 34,
+      "i": 32,
       "measure": 10,
       "beat": 2.0,
       "onset": 37.0,
@@ -615,7 +581,7 @@
       "tie": null
     },
     {
-      "i": 35,
+      "i": 33,
       "measure": 10,
       "beat": 3.0,
       "onset": 38.0,
@@ -632,7 +598,7 @@
       "tie": null
     },
     {
-      "i": 36,
+      "i": 34,
       "measure": 11,
       "beat": 1.0,
       "onset": 40.0,
@@ -649,7 +615,7 @@
       "tie": null
     },
     {
-      "i": 37,
+      "i": 35,
       "measure": 11,
       "beat": 2.5,
       "onset": 41.5,
@@ -666,7 +632,7 @@
       "tie": null
     },
     {
-      "i": 38,
+      "i": 36,
       "measure": 11,
       "beat": 3.0,
       "onset": 42.0,
@@ -683,7 +649,7 @@
       "tie": null
     },
     {
-      "i": 39,
+      "i": 37,
       "measure": 11,
       "beat": 4.0,
       "onset": 43.0,
@@ -700,7 +666,7 @@
       "tie": null
     },
     {
-      "i": 40,
+      "i": 38,
       "measure": 12,
       "beat": 1.0,
       "onset": 44.0,
@@ -717,7 +683,7 @@
       "tie": null
     },
     {
-      "i": 41,
+      "i": 39,
       "measure": 12,
       "beat": 3.0,
       "onset": 46.0,
@@ -728,7 +694,7 @@
       "tie": null
     },
     {
-      "i": 42,
+      "i": 40,
       "measure": 13,
       "beat": 1.0,
       "onset": 48.0,
@@ -745,7 +711,7 @@
       "tie": null
     },
     {
-      "i": 43,
+      "i": 41,
       "measure": 13,
       "beat": 2.5,
       "onset": 49.5,
@@ -762,7 +728,7 @@
       "tie": null
     },
     {
-      "i": 44,
+      "i": 42,
       "measure": 13,
       "beat": 3.0,
       "onset": 50.0,
@@ -779,7 +745,7 @@
       "tie": null
     },
     {
-      "i": 45,
+      "i": 43,
       "measure": 14,
       "beat": 1.0,
       "onset": 52.0,
@@ -796,7 +762,7 @@
       "tie": null
     },
     {
-      "i": 46,
+      "i": 44,
       "measure": 14,
       "beat": 2.0,
       "onset": 53.0,
@@ -813,7 +779,7 @@
       "tie": null
     },
     {
-      "i": 47,
+      "i": 45,
       "measure": 14,
       "beat": 3.0,
       "onset": 54.0,
@@ -830,7 +796,7 @@
       "tie": null
     },
     {
-      "i": 48,
+      "i": 46,
       "measure": 15,
       "beat": 1.0,
       "onset": 56.0,
@@ -847,7 +813,7 @@
       "tie": null
     },
     {
-      "i": 49,
+      "i": 47,
       "measure": 15,
       "beat": 2.0,
       "onset": 57.0,
@@ -864,7 +830,7 @@
       "tie": null
     },
     {
-      "i": 50,
+      "i": 48,
       "measure": 15,
       "beat": 3.0,
       "onset": 58.0,
@@ -881,7 +847,7 @@
       "tie": null
     },
     {
-      "i": 51,
+      "i": 49,
       "measure": 15,
       "beat": 4.0,
       "onset": 59.0,
@@ -898,7 +864,7 @@
       "tie": null
     },
     {
-      "i": 52,
+      "i": 50,
       "measure": 16,
       "beat": 1.0,
       "onset": 60.0,
@@ -915,7 +881,7 @@
       "tie": null
     },
     {
-      "i": 53,
+      "i": 51,
       "measure": 16,
       "beat": 3.0,
       "onset": 62.0,
@@ -932,7 +898,7 @@
       "tie": null
     },
     {
-      "i": 54,
+      "i": 52,
       "measure": 16,
       "beat": 4.0,
       "onset": 63.0,

@@ -1,0 +1,1602 @@
+{
+  "id": "battle-hymn-of-the-republic",
+  "title": "Battle Hymn of the Republic",
+  "composer": "William Steffe / Julia Ward Howe",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Tune 'John Brown's Body' (1856, trad/Steffe); Howe words (d.1910) \u2014 PD. Covers John Brown's Body too."
+  },
+  "tags": [
+    "folk",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "key": "D major",
+  "keySignature": 2,
+  "timeSignature": [
+    6,
+    8
+  ],
+  "tempo": 116,
+  "pickupBeats": 2.5,
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "noteRange": {
+    "low": "F#4",
+    "high": "F#5"
+  },
+  "chords": [],
+  "events": [
+    {
+      "i": 0,
+      "measure": 1,
+      "beat": 2.667,
+      "onset": 0.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "Mine",
+      "tie": null
+    },
+    {
+      "i": 1,
+      "measure": 2,
+      "beat": 1.0,
+      "onset": 0.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "eyes",
+      "tie": null
+    },
+    {
+      "i": 2,
+      "measure": 2,
+      "beat": 1.667,
+      "onset": 1.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "have",
+      "tie": null
+    },
+    {
+      "i": 3,
+      "measure": 2,
+      "beat": 2.0,
+      "onset": 2.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "seen",
+      "tie": null
+    },
+    {
+      "i": 4,
+      "measure": 2,
+      "beat": 2.667,
+      "onset": 3.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 5,
+      "measure": 3,
+      "beat": 1.0,
+      "onset": 3.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 4,
+        "midi": 66,
+        "spelled": "F#4"
+      },
+      "lyric": "glo",
+      "tie": null
+    },
+    {
+      "i": 6,
+      "measure": 3,
+      "beat": 1.667,
+      "onset": 4.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "ry",
+      "tie": null
+    },
+    {
+      "i": 7,
+      "measure": 3,
+      "beat": 2.0,
+      "onset": 5.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "of",
+      "tie": null
+    },
+    {
+      "i": 8,
+      "measure": 3,
+      "beat": 2.667,
+      "onset": 6.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 5,
+        "midi": 76,
+        "spelled": "E5"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 9,
+      "measure": 4,
+      "beat": 1.0,
+      "onset": 6.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 5,
+        "midi": 78,
+        "spelled": "F#5"
+      },
+      "lyric": "com",
+      "tie": null
+    },
+    {
+      "i": 10,
+      "measure": 4,
+      "beat": 1.667,
+      "onset": 7.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 5,
+        "midi": 78,
+        "spelled": "F#5"
+      },
+      "lyric": "ing",
+      "tie": null
+    },
+    {
+      "i": 11,
+      "measure": 4,
+      "beat": 2.0,
+      "onset": 8.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 5,
+        "midi": 78,
+        "spelled": "F#5"
+      },
+      "lyric": "of",
+      "tie": null
+    },
+    {
+      "i": 12,
+      "measure": 4,
+      "beat": 2.667,
+      "onset": 9.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 5,
+        "midi": 76,
+        "spelled": "E5"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 13,
+      "measure": 5,
+      "beat": 1.0,
+      "onset": 9.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "Lord",
+      "tie": null
+    },
+    {
+      "i": 14,
+      "measure": 5,
+      "beat": 2.0,
+      "onset": 11.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "He",
+      "tie": null
+    },
+    {
+      "i": 15,
+      "measure": 5,
+      "beat": 2.667,
+      "onset": 12.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 1,
+        "octave": 5,
+        "midi": 73,
+        "spelled": "C#5"
+      },
+      "lyric": "is",
+      "tie": null
+    },
+    {
+      "i": 16,
+      "measure": 6,
+      "beat": 1.0,
+      "onset": 12.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "tramp",
+      "tie": null
+    },
+    {
+      "i": 17,
+      "measure": 6,
+      "beat": 1.667,
+      "onset": 13.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "ling",
+      "tie": null
+    },
+    {
+      "i": 18,
+      "measure": 6,
+      "beat": 2.0,
+      "onset": 14.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "out",
+      "tie": null
+    },
+    {
+      "i": 19,
+      "measure": 6,
+      "beat": 2.667,
+      "onset": 15.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 1,
+        "octave": 5,
+        "midi": 73,
+        "spelled": "C#5"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 20,
+      "measure": 7,
+      "beat": 1.0,
+      "onset": 15.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "vin",
+      "tie": null
+    },
+    {
+      "i": 21,
+      "measure": 7,
+      "beat": 1.667,
+      "onset": 16.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 1,
+        "octave": 5,
+        "midi": 73,
+        "spelled": "C#5"
+      },
+      "lyric": "tage",
+      "tie": null
+    },
+    {
+      "i": 22,
+      "measure": 7,
+      "beat": 2.0,
+      "onset": 17.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "where",
+      "tie": null
+    },
+    {
+      "i": 23,
+      "measure": 7,
+      "beat": 2.667,
+      "onset": 18.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 24,
+      "measure": 8,
+      "beat": 1.0,
+      "onset": 18.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "grapes",
+      "tie": null
+    },
+    {
+      "i": 25,
+      "measure": 8,
+      "beat": 1.667,
+      "onset": 19.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "of",
+      "tie": null
+    },
+    {
+      "i": 26,
+      "measure": 8,
+      "beat": 2.0,
+      "onset": 20.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "wrath",
+      "tie": null
+    },
+    {
+      "i": 27,
+      "measure": 8,
+      "beat": 2.667,
+      "onset": 21.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 4,
+        "midi": 66,
+        "spelled": "F#4"
+      },
+      "lyric": "are",
+      "tie": null
+    },
+    {
+      "i": 28,
+      "measure": 9,
+      "beat": 1.0,
+      "onset": 21.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "stored",
+      "tie": null
+    },
+    {
+      "i": 29,
+      "measure": 9,
+      "beat": 2.0,
+      "onset": 23.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "He",
+      "tie": null
+    },
+    {
+      "i": 30,
+      "measure": 9,
+      "beat": 2.667,
+      "onset": 24.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "hath",
+      "tie": null
+    },
+    {
+      "i": 31,
+      "measure": 10,
+      "beat": 1.0,
+      "onset": 24.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "loosed",
+      "tie": null
+    },
+    {
+      "i": 32,
+      "measure": 10,
+      "beat": 1.667,
+      "onset": 25.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 33,
+      "measure": 10,
+      "beat": 2.0,
+      "onset": 26.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "fate",
+      "tie": null
+    },
+    {
+      "i": 34,
+      "measure": 10,
+      "beat": 2.667,
+      "onset": 27.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "ful",
+      "tie": null
+    },
+    {
+      "i": 35,
+      "measure": 11,
+      "beat": 1.0,
+      "onset": 27.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 4,
+        "midi": 66,
+        "spelled": "F#4"
+      },
+      "lyric": "light",
+      "tie": null
+    },
+    {
+      "i": 36,
+      "measure": 11,
+      "beat": 1.667,
+      "onset": 28.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "ning",
+      "tie": null
+    },
+    {
+      "i": 37,
+      "measure": 11,
+      "beat": 2.0,
+      "onset": 29.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "of",
+      "tie": null
+    },
+    {
+      "i": 38,
+      "measure": 11,
+      "beat": 2.667,
+      "onset": 30.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 5,
+        "midi": 76,
+        "spelled": "E5"
+      },
+      "lyric": "his",
+      "tie": null
+    },
+    {
+      "i": 39,
+      "measure": 12,
+      "beat": 1.0,
+      "onset": 30.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 5,
+        "midi": 78,
+        "spelled": "F#5"
+      },
+      "lyric": "ter",
+      "tie": null
+    },
+    {
+      "i": 40,
+      "measure": 12,
+      "beat": 1.667,
+      "onset": 31.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 5,
+        "midi": 78,
+        "spelled": "F#5"
+      },
+      "lyric": "ri",
+      "tie": null
+    },
+    {
+      "i": 41,
+      "measure": 12,
+      "beat": 2.0,
+      "onset": 32.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 5,
+        "midi": 78,
+        "spelled": "F#5"
+      },
+      "lyric": "ble",
+      "tie": null
+    },
+    {
+      "i": 42,
+      "measure": 12,
+      "beat": 2.667,
+      "onset": 33.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 5,
+        "midi": 76,
+        "spelled": "E5"
+      },
+      "lyric": "swift",
+      "tie": null
+    },
+    {
+      "i": 43,
+      "measure": 13,
+      "beat": 1.0,
+      "onset": 33.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "sword",
+      "tie": null
+    },
+    {
+      "i": 44,
+      "measure": 13,
+      "beat": 1.667,
+      "onset": 34.5,
+      "duration": 0.5,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 45,
+      "measure": 13,
+      "beat": 2.0,
+      "onset": 35.0,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "His",
+      "tie": null
+    },
+    {
+      "i": 46,
+      "measure": 14,
+      "beat": 1.0,
+      "onset": 36.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 5,
+        "midi": 76,
+        "spelled": "E5"
+      },
+      "lyric": "truth",
+      "tie": null
+    },
+    {
+      "i": 47,
+      "measure": 14,
+      "beat": 2.0,
+      "onset": 38.0,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 5,
+        "midi": 76,
+        "spelled": "E5"
+      },
+      "lyric": "is",
+      "tie": null
+    },
+    {
+      "i": 48,
+      "measure": 15,
+      "beat": 1.0,
+      "onset": 39.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "march",
+      "tie": null
+    },
+    {
+      "i": 49,
+      "measure": 15,
+      "beat": 2.0,
+      "onset": 41.0,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 1,
+        "octave": 5,
+        "midi": 73,
+        "spelled": "C#5"
+      },
+      "lyric": "ing",
+      "tie": null
+    },
+    {
+      "i": 50,
+      "measure": 16,
+      "beat": 1.0,
+      "onset": 42.5,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "on",
+      "tie": null
+    },
+    {
+      "i": 51,
+      "measure": 17,
+      "beat": 1.0,
+      "onset": 45.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 52,
+      "measure": 17,
+      "beat": 1.667,
+      "onset": 46.5,
+      "duration": 0.5,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 53,
+      "measure": 17,
+      "beat": 2.0,
+      "onset": 47.0,
+      "duration": 1.5,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 54,
+      "measure": 18,
+      "beat": 1.0,
+      "onset": 48.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "Glo",
+      "tie": null
+    },
+    {
+      "i": 55,
+      "measure": 18,
+      "beat": 2.0,
+      "onset": 50.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "ry",
+      "tie": null
+    },
+    {
+      "i": 56,
+      "measure": 18,
+      "beat": 2.667,
+      "onset": 51.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "glo",
+      "tie": null
+    },
+    {
+      "i": 57,
+      "measure": 19,
+      "beat": 1.0,
+      "onset": 51.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 4,
+        "midi": 66,
+        "spelled": "F#4"
+      },
+      "lyric": "ry",
+      "tie": null
+    },
+    {
+      "i": 58,
+      "measure": 19,
+      "beat": 1.667,
+      "onset": 52.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "hal",
+      "tie": null
+    },
+    {
+      "i": 59,
+      "measure": 19,
+      "beat": 2.0,
+      "onset": 53.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "le",
+      "tie": null
+    },
+    {
+      "i": 60,
+      "measure": 19,
+      "beat": 2.667,
+      "onset": 54.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 5,
+        "midi": 76,
+        "spelled": "E5"
+      },
+      "lyric": "lu",
+      "tie": null
+    },
+    {
+      "i": 61,
+      "measure": 20,
+      "beat": 1.0,
+      "onset": 54.5,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 5,
+        "midi": 78,
+        "spelled": "F#5"
+      },
+      "lyric": "jah",
+      "tie": null
+    },
+    {
+      "i": 62,
+      "measure": 21,
+      "beat": 1.0,
+      "onset": 57.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 63,
+      "measure": 21,
+      "beat": 2.0,
+      "onset": 59.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 64,
+      "measure": 21,
+      "beat": 2.667,
+      "onset": 60.0,
+      "duration": 0.5,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 65,
+      "measure": 22,
+      "beat": 1.0,
+      "onset": 60.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "Glo",
+      "tie": null
+    },
+    {
+      "i": 66,
+      "measure": 22,
+      "beat": 2.0,
+      "onset": 62.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "ry",
+      "tie": null
+    },
+    {
+      "i": 67,
+      "measure": 22,
+      "beat": 2.667,
+      "onset": 63.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 1,
+        "octave": 5,
+        "midi": 73,
+        "spelled": "C#5"
+      },
+      "lyric": "glo",
+      "tie": null
+    },
+    {
+      "i": 68,
+      "measure": 23,
+      "beat": 1.0,
+      "onset": 63.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "le",
+      "tie": null
+    },
+    {
+      "i": 69,
+      "measure": 23,
+      "beat": 1.667,
+      "onset": 64.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 1,
+        "octave": 5,
+        "midi": 73,
+        "spelled": "C#5"
+      },
+      "lyric": "lu",
+      "tie": null
+    },
+    {
+      "i": 70,
+      "measure": 23,
+      "beat": 2.0,
+      "onset": 65.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "jah",
+      "tie": null
+    },
+    {
+      "i": 71,
+      "measure": 23,
+      "beat": 2.667,
+      "onset": 66.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 72,
+      "measure": 24,
+      "beat": 1.0,
+      "onset": 66.5,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 73,
+      "measure": 25,
+      "beat": 1.0,
+      "onset": 69.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 4,
+        "midi": 66,
+        "spelled": "F#4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 74,
+      "measure": 25,
+      "beat": 2.0,
+      "onset": 71.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 4,
+        "midi": 66,
+        "spelled": "F#4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 75,
+      "measure": 25,
+      "beat": 2.667,
+      "onset": 72.0,
+      "duration": 0.5,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 76,
+      "measure": 26,
+      "beat": 1.0,
+      "onset": 72.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "Glo",
+      "tie": null
+    },
+    {
+      "i": 77,
+      "measure": 26,
+      "beat": 2.0,
+      "onset": 74.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "ry",
+      "tie": null
+    },
+    {
+      "i": 78,
+      "measure": 26,
+      "beat": 2.667,
+      "onset": 75.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "glo",
+      "tie": null
+    },
+    {
+      "i": 79,
+      "measure": 27,
+      "beat": 1.0,
+      "onset": 75.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 4,
+        "midi": 66,
+        "spelled": "F#4"
+      },
+      "lyric": "ry",
+      "tie": null
+    },
+    {
+      "i": 80,
+      "measure": 27,
+      "beat": 1.667,
+      "onset": 76.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "hal",
+      "tie": null
+    },
+    {
+      "i": 81,
+      "measure": 27,
+      "beat": 2.0,
+      "onset": 77.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "le",
+      "tie": null
+    },
+    {
+      "i": 82,
+      "measure": 27,
+      "beat": 2.667,
+      "onset": 78.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 5,
+        "midi": 76,
+        "spelled": "E5"
+      },
+      "lyric": "lu",
+      "tie": null
+    },
+    {
+      "i": 83,
+      "measure": 28,
+      "beat": 1.0,
+      "onset": 78.5,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 1,
+        "octave": 5,
+        "midi": 78,
+        "spelled": "F#5"
+      },
+      "lyric": "jah",
+      "tie": null
+    },
+    {
+      "i": 84,
+      "measure": 29,
+      "beat": 1.0,
+      "onset": 81.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 85,
+      "measure": 29,
+      "beat": 1.667,
+      "onset": 82.5,
+      "duration": 0.5,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 86,
+      "measure": 29,
+      "beat": 2.0,
+      "onset": 83.0,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "His",
+      "tie": null
+    },
+    {
+      "i": 87,
+      "measure": 30,
+      "beat": 1.0,
+      "onset": 84.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 5,
+        "midi": 76,
+        "spelled": "E5"
+      },
+      "lyric": "truth",
+      "tie": null
+    },
+    {
+      "i": 88,
+      "measure": 30,
+      "beat": 2.0,
+      "onset": 86.0,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 5,
+        "midi": 76,
+        "spelled": "E5"
+      },
+      "lyric": "is",
+      "tie": null
+    },
+    {
+      "i": 89,
+      "measure": 31,
+      "beat": 1.0,
+      "onset": 87.5,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "march",
+      "tie": null
+    },
+    {
+      "i": 90,
+      "measure": 31,
+      "beat": 2.0,
+      "onset": 89.0,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 1,
+        "octave": 5,
+        "midi": 73,
+        "spelled": "C#5"
+      },
+      "lyric": "ing",
+      "tie": null
+    },
+    {
+      "i": 91,
+      "measure": 32,
+      "beat": 1.0,
+      "onset": 90.5,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "on",
+      "tie": null
+    },
+    {
+      "i": 92,
+      "measure": 33,
+      "beat": 1.0,
+      "onset": 93.5,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 93,
+      "measure": 33,
+      "beat": 1.667,
+      "onset": 94.5,
+      "duration": 0.5,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 94,
+      "measure": 33,
+      "beat": 2.0,
+      "onset": 95.0,
+      "duration": 1.0,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    }
+  ]
+}

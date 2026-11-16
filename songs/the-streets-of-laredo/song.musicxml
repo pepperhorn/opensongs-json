@@ -25,12 +25,12 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P0c068f4e592c7815ac197c00515b8d18">
+    <score-part id="P173bb2b0a9bf473f113d0fa6eb5fa98b">
       <part-name />
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P0c068f4e592c7815ac197c00515b8d18">
+  <part id="P173bb2b0a9bf473f113d0fa6eb5fa98b">
     <!--========================= Measure 0 ==========================-->
     <measure implicit="no" number="0">
       <attributes>
