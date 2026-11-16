@@ -7,7 +7,7 @@ Snapshot of in-flight work on the public-domain melody library. See
 
 ## Library size
 
-- **608 songs** in `index.json`, all passing `build/validate.py`.
+- **609 songs** in `index.json`, all passing `build/validate.py`.
 - Progression: 294 (all prior queues) → 297 (3 Nottingham carols) → 321
   (25-tune Nottingham sampler complete) → 346 (candidate Wave 1) → 371
   (candidate Wave 2) → **457** (world folk wave). All committed + pushed.
@@ -25,7 +25,7 @@ Queue: `build/pd_interval_queue.json` (184 songs; `status` per record). Instruct
 - Wave 3 (30 carols/hymns): **28 done**, 2 `needs-source`.
 - Wave 4 (30 hymns): **28 done**, 2 `needs-source`.
 - Wave 5 (30 hymns): **27 done**, 3 `needs-source`.
-- Resumed after the limit reset: batches 25–28 + PD-research + retry rounds r2–r4 done (31 songs); r1 retry awaiting check.
+- **Queue complete (2026-11-18):** 152 done, 27 `needs-source` (no reliable PD notation reachable or PD unprovable), 4 `not-pd`, 1 duplicate — see `status`/`statusNote` in the queue JSON.
   Remaining `queued`: batches 25–28 (20 hymns, drafts interrupted, unchecked),
   plus from-every-spire-on-christmas-eve and one-step-at-a-time (authored, PD-confirmed,
   awaiting check). Verify-PD research done: no-tears-in-heaven + ill-follow NOT-PD;

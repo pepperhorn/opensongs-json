@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 608,
+  "count": 609,
   "schemaVersion": 1,
   "songs": [
     {
@@ -19989,6 +19989,39 @@
         "song": "songs/who-will-follow-jesus/song.json",
         "abc": "songs/who-will-follow-jesus/song.abc",
         "musicxml": "songs/who-will-follow-jesus/song.musicxml"
+      }
+    },
+    {
+      "id": "will-you-not-tell-it-today",
+      "title": "Will You Not Tell It Today?",
+      "composer": "J. H. Fillmore",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 84,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/will-you-not-tell-it-today/song.json",
+        "abc": "songs/will-you-not-tell-it-today/song.abc",
+        "musicxml": "songs/will-you-not-tell-it-today/song.musicxml"
       }
     },
     {
