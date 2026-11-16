@@ -897,7 +897,7 @@
       "measure": 12,
       "beat": 1.0,
       "onset": 20.5,
-      "duration": 0.25,
+      "duration": 0.5,
       "type": "note",
       "pitch": {
         "step": "B",
@@ -912,9 +912,9 @@
     {
       "i": 52,
       "measure": 12,
-      "beat": 1.25,
-      "onset": 20.75,
-      "duration": 0.5,
+      "beat": 1.5,
+      "onset": 21.0,
+      "duration": 0.25,
       "type": "note",
       "pitch": {
         "step": "D",
@@ -1166,11 +1166,11 @@
       "duration": 0.25,
       "type": "note",
       "pitch": {
-        "step": "C",
-        "alter": 1,
-        "octave": 5,
-        "midi": 73,
-        "spelled": "C#5"
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
       },
       "lyric": "Keep",
       "tie": null
@@ -1268,11 +1268,11 @@
       "duration": 0.5,
       "type": "note",
       "pitch": {
-        "step": "C",
-        "alter": 1,
+        "step": "E",
+        "alter": 0,
         "octave": 5,
-        "midi": 73,
-        "spelled": "C#5"
+        "midi": 76,
+        "spelled": "E5"
       },
       "lyric": "old",
       "tie": null

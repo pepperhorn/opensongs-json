@@ -13,7 +13,8 @@
   "tuneHint": "Simple 'Alleluia' round, all on one word",
   "expectedRange": "5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "PD provenance unverified (only source a 2002 arrangement)"
  },
  {
   "id": "apples-and-bananas",
@@ -30,7 +31,8 @@
   "tuneHint": "Vowel-swap song; NOT Raffi's arrangement",
   "expectedRange": "7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "old-aunt-kate",
@@ -46,7 +48,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "willum-he-had-seven-sons",
@@ -62,7 +64,8 @@
   "tuneHint": "natural minor",
   "expectedRange": "1-6 (natural minor)",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "the-boll-weevil",
@@ -78,7 +81,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "the-cruel-war-is-raging",
@@ -94,7 +98,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "go-tell-aunt-rhody",
@@ -111,7 +116,7 @@
   "tuneHint": "",
   "expectedRange": "1-6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "kentucky-bootlegger",
@@ -127,7 +132,8 @@
   "tuneHint": "",
   "expectedRange": "1-6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "on-mondays-i-never-go-to-work",
@@ -144,7 +150,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "dry-bones",
@@ -160,7 +167,8 @@
   "tuneHint": "'Dem Bones' — the chromatic ascending/descending 'toe bone connected to the...' tune",
   "expectedRange": "1,#1,2,#2,3,4,#4,5,#5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "the-erie-canal",
@@ -176,7 +184,8 @@
   "tuneHint": "minor verse",
   "expectedRange": "minor 1,2,3,4,5,6,#6,7",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "come-all-ye-fair-and-tender-maidens",
@@ -192,7 +201,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "dont-let-your-deal-go-down",
@@ -208,7 +218,8 @@
   "tuneHint": "",
   "expectedRange": "6,1,2,3,4,#4,5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "git-along-little-dogies",
@@ -224,7 +235,8 @@
   "tuneHint": "",
   "expectedRange": "1,3,4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "the-juniper-tree",
@@ -240,7 +252,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "the-old-chisholm-trail",
@@ -256,7 +269,8 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "old-joe-clark",
@@ -272,7 +286,7 @@
   "tuneHint": "Mixolydian",
   "expectedRange": "b7,1,2,3,4,5,6,b7",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "over-the-river-and-through-the-wood",
@@ -288,7 +302,7 @@
   "tuneHint": "Thanksgiving song",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "snake-baked-a-hoecake",
@@ -304,7 +318,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "song-of-the-ship",
@@ -336,7 +350,8 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "no words+notes source to validate lyric fit"
  },
  {
   "id": "the-streets-of-laredo",
@@ -352,7 +367,7 @@
   "tuneHint": "",
   "expectedRange": "5,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "sweet-betsy-from-pike",
@@ -368,7 +383,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "the-young-man-who-wouldnt-hoe-corn",
@@ -384,7 +399,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "when-johnny-comes-marching-home",
@@ -400,7 +415,7 @@
   "tuneHint": "minor",
   "expectedRange": "minor 5,b7,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "just-a-closer-walk-with-thee",
@@ -416,7 +431,8 @@
   "tuneHint": "",
   "expectedRange": "3,4,#4,5,#5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "not-pd",
+  "statusNote": "Known version published 1940 by Kenneth Morris (d.1989); no pre-1930 traditional source"
  },
  {
   "id": "battle-hymn-of-the-republic",
@@ -432,7 +448,7 @@
   "tuneHint": "",
   "expectedRange": "3,4,5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "hey-ho-nobody-home",
@@ -448,7 +464,8 @@
   "tuneHint": "natural minor round",
   "expectedRange": "natural minor 5,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 1: no note-readable reference found"
  },
  {
   "id": "give-my-regards-to-broadway",
@@ -464,7 +481,7 @@
   "tuneHint": "chorus",
   "expectedRange": "5,6,7,1,#1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "yankee-doodle-boy",
@@ -480,7 +497,7 @@
   "tuneHint": "chorus 'I'm a Yankee Doodle Dandy'",
   "expectedRange": "5,6,7,1,#1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "youre-a-grand-old-flag",
@@ -496,7 +513,7 @@
   "tuneHint": "chorus",
   "expectedRange": "5,6,b7,7,1,#1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "ein-ton",

@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 457,
+  "count": 470,
   "schemaVersion": 1,
   "songs": [
     {
@@ -4247,6 +4247,39 @@
       }
     },
     {
+      "id": "battle-hymn-of-the-republic",
+      "title": "Battle Hymn of the Republic",
+      "composer": "William Steffe / Julia Ward Howe",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "F#5"
+      },
+      "noteCount": 87,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/battle-hymn-of-the-republic/song.json",
+        "abc": "songs/battle-hymn-of-the-republic/song.abc",
+        "musicxml": "songs/battle-hymn-of-the-republic/song.musicxml"
+      }
+    },
+    {
       "id": "beaux-of-london-city",
       "title": "Beaux of London City",
       "composer": "Traditional",
@@ -6805,6 +6838,39 @@
       }
     },
     {
+      "id": "give-my-regards-to-broadway",
+      "title": "Give My Regards to Broadway",
+      "composer": "George M. Cohan",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 62,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/give-my-regards-to-broadway/song.json",
+        "abc": "songs/give-my-regards-to-broadway/song.abc",
+        "musicxml": "songs/give-my-regards-to-broadway/song.musicxml"
+      }
+    },
+    {
       "id": "gloria-opening",
       "title": "Gloria (opening)",
       "composer": "Antonio Vivaldi",
@@ -6870,6 +6936,40 @@
         "song": "songs/gnossienne-no-1-theme/song.json",
         "abc": "songs/gnossienne-no-1-theme/song.abc",
         "musicxml": "songs/gnossienne-no-1-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "go-tell-aunt-rhody",
+      "title": "Go Tell Aunt Rhody",
+      "composer": "Traditional",
+      "category": "nursery",
+      "difficulty": 2,
+      "tags": [
+        "nursery",
+        "children",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "A4"
+      },
+      "noteCount": 58,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/go-tell-aunt-rhody/song.json",
+        "abc": "songs/go-tell-aunt-rhody/song.abc",
+        "musicxml": "songs/go-tell-aunt-rhody/song.musicxml"
       }
     },
     {
@@ -10128,6 +10228,72 @@
       }
     },
     {
+      "id": "old-aunt-kate",
+      "title": "Old Aunt Kate",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "G4"
+      },
+      "noteCount": 50,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/old-aunt-kate/song.json",
+        "abc": "songs/old-aunt-kate/song.abc",
+        "musicxml": "songs/old-aunt-kate/song.musicxml"
+      }
+    },
+    {
+      "id": "old-joe-clark",
+      "title": "Old Joe Clark",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "D mixolydian",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 49,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/old-joe-clark/song.json",
+        "abc": "songs/old-joe-clark/song.abc",
+        "musicxml": "songs/old-joe-clark/song.musicxml"
+      }
+    },
+    {
       "id": "on-christmas-night",
       "title": "On Christmas Night",
       "composer": "Traditional",
@@ -10297,6 +10463,39 @@
         "song": "songs/organ-symphony-finale-theme/song.json",
         "abc": "songs/organ-symphony-finale-theme/song.abc",
         "musicxml": "songs/organ-symphony-finale-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "over-the-river-and-through-the-wood",
+      "title": "Over the River and Through the Wood",
+      "composer": "Traditional",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 63,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/over-the-river-and-through-the-wood/song.json",
+        "abc": "songs/over-the-river-and-through-the-wood/song.abc",
+        "musicxml": "songs/over-the-river-and-through-the-wood/song.musicxml"
       }
     },
     {
@@ -12199,6 +12398,39 @@
       }
     },
     {
+      "id": "snake-baked-a-hoecake",
+      "title": "Snake Baked a Hoecake",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 50,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/snake-baked-a-hoecake/song.json",
+        "abc": "songs/snake-baked-a-hoecake/song.abc",
+        "musicxml": "songs/snake-baked-a-hoecake/song.musicxml"
+      }
+    },
+    {
       "id": "so-long",
       "title": "So Long",
       "composer": "Traditional",
@@ -12673,6 +12905,39 @@
         "song": "songs/sweet-adeline/song.json",
         "abc": "songs/sweet-adeline/song.abc",
         "musicxml": "songs/sweet-adeline/song.musicxml"
+      }
+    },
+    {
+      "id": "sweet-betsy-from-pike",
+      "title": "Sweet Betsy from Pike",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sweet-betsy-from-pike/song.json",
+        "abc": "songs/sweet-betsy-from-pike/song.abc",
+        "musicxml": "songs/sweet-betsy-from-pike/song.musicxml"
       }
     },
     {
@@ -14057,6 +14322,39 @@
       }
     },
     {
+      "id": "the-streets-of-laredo",
+      "title": "The Streets of Laredo",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-streets-of-laredo/song.json",
+        "abc": "songs/the-streets-of-laredo/song.abc",
+        "musicxml": "songs/the-streets-of-laredo/song.musicxml"
+      }
+    },
+    {
       "id": "the-swan-carnival-of-animals",
       "title": "The Swan (Carnival of Animals)",
       "composer": "Camille Saint-Sa\u00ebns",
@@ -14220,6 +14518,39 @@
         "song": "songs/the-wild-horseman/song.json",
         "abc": "songs/the-wild-horseman/song.abc",
         "musicxml": "songs/the-wild-horseman/song.musicxml"
+      }
+    },
+    {
+      "id": "the-young-man-who-wouldnt-hoe-corn",
+      "title": "The Young Man Who Wouldn't Hoe Corn",
+      "composer": "Traditional",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-young-man-who-wouldnt-hoe-corn/song.json",
+        "abc": "songs/the-young-man-who-wouldnt-hoe-corn/song.abc",
+        "musicxml": "songs/the-young-man-who-wouldnt-hoe-corn/song.musicxml"
       }
     },
     {
@@ -15104,6 +15435,39 @@
       }
     },
     {
+      "id": "when-johnny-comes-marching-home",
+      "title": "When Johnny Comes Marching Home",
+      "composer": "Patrick S. Gilmore",
+      "category": "folk",
+      "difficulty": 2,
+      "tags": [
+        "folk",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 57,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/when-johnny-comes-marching-home/song.json",
+        "abc": "songs/when-johnny-comes-marching-home/song.abc",
+        "musicxml": "songs/when-johnny-comes-marching-home/song.musicxml"
+      }
+    },
+    {
       "id": "william-and-nancy",
       "title": "William and Nancy",
       "composer": "Traditional",
@@ -15240,6 +15604,39 @@
       }
     },
     {
+      "id": "yankee-doodle-boy",
+      "title": "Yankee Doodle Boy (Yankee Doodle Dandy)",
+      "composer": "George M. Cohan",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "A5"
+      },
+      "noteCount": 72,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/yankee-doodle-boy/song.json",
+        "abc": "songs/yankee-doodle-boy/song.abc",
+        "musicxml": "songs/yankee-doodle-boy/song.musicxml"
+      }
+    },
+    {
       "id": "yes-sir-thats-my-baby",
       "title": "Yes Sir, That's My Baby",
       "composer": "Walter Donaldson",
@@ -15271,6 +15668,39 @@
         "song": "songs/yes-sir-thats-my-baby/song.json",
         "abc": "songs/yes-sir-thats-my-baby/song.abc",
         "musicxml": "songs/yes-sir-thats-my-baby/song.musicxml"
+      }
+    },
+    {
+      "id": "youre-a-grand-old-flag",
+      "title": "You're a Grand Old Flag",
+      "composer": "George M. Cohan",
+      "category": "seasonal",
+      "difficulty": 2,
+      "tags": [
+        "seasonal",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "A4",
+        "high": "A5"
+      },
+      "noteCount": 73,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/youre-a-grand-old-flag/song.json",
+        "abc": "songs/youre-a-grand-old-flag/song.abc",
+        "musicxml": "songs/youre-a-grand-old-flag/song.musicxml"
       }
     },
     {

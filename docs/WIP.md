@@ -7,7 +7,7 @@ Snapshot of in-flight work on the public-domain melody library. See
 
 ## Library size
 
-- **457 songs** in `index.json`, all passing `build/validate.py`.
+- **470 songs** in `index.json`, all passing `build/validate.py`.
 - Progression: 294 (all prior queues) → 297 (3 Nottingham carols) → 321
   (25-tune Nottingham sampler complete) → 346 (candidate Wave 1) → 371
   (candidate Wave 2) → **457** (world folk wave). All committed + pushed.
@@ -15,6 +15,19 @@ Snapshot of in-flight work on the public-domain melody library. See
 ## Uncommitted right now
 
 Nothing — working tree clean.
+
+## PD interval-range wave (2026-11-16, in progress)
+
+Queue: `build/pd_interval_queue.json` (184 songs; `status` per record). Instructions:
+`docs/pd-interval-wave.md`. Sonnet authors + Sonnet checkers, ~6 songs/batch.
+
+- Wave 1 (30 folk/children/Cohan): **13 done**, 16 `needs-source`, 1 `not-pd`
+  (Just a Closer Walk — 1940 Kenneth Morris).
+- Network: added reference hosts to the environment allowlist. Use `curl`
+  (WebFetch fails DNS). abcnotation raw ABC + bethsnotesplus score images work;
+  hymnary media downloads are bot-blocked; hymntime.com doesn't connect.
+- Lesson: obscure folk titles often have no free notation — expect higher yield
+  on hymns/carols (abcnotation has many).
 
 ## World folk wave (2026-10-21, 86 songs)
 
