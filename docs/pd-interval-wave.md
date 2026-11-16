@@ -10,6 +10,30 @@ Repo root: `/home/user/opensongs-json`. Converter:
 `.venv/bin/python build/convert.py songs/<id>` (ignore the `/home/shaun` path in
 `build/ABC_AUTHORING.md` — read that spec for the ABC format rules).
 
+## Getting references (what works in this container)
+
+Use **Bash `curl -sL`** (WebFetch may fail DNS here). Allowed hosts include
+abcnotation.com, trillian.mit.edu, hymnary.org, hymntime.com, en.wikipedia.org,
+tunearch.org, ttadev.org, folkinfo.mainlynorfolk.info, contemplator.com,
+cpdl.org, imslp.org, gutenberg.org, folktunefinder.com, bethsnotesplus.com,
+mutopiaproject.org, thesession.org. WebSearch works for finding pages.
+
+- **abcnotation.com (best)** — search:
+  `curl -sL "https://abcnotation.com/searchTunes?q=<words+of+title>&f=c&o=a&s=0" | grep -oE 'tunePage\?a=[^"]+' | sort -u`
+  then raw ABC for a hit `a=<path>`:
+  `curl -sL "https://abcnotation.com/getResource/downloads/text_/x.abc?a=<path>"`.
+  Many hymns and carols are there too (search the title or tune name). Beware
+  same-title different tunes — check against `expectedRange`/`tuneHint`.
+- **hymnary.org** — tune pages (`/tune/<name>`) give tune name, composer, dates,
+  meter, and first-line text; page HTML is readable but media downloads are
+  bot-blocked. Use it for identification, PD dates and lyrics.
+- **hymntime.com (Cyber Hymnal; connection is flaky — skip if it times out)** — hymn pages with full PD lyrics, composer
+  dates and MIDI (`.mid`). A MIDI can be read with music21:
+  `.venv/bin/python -c "import music21 as m;s=m.converter.parse('x.mid');[print(n.nameWithOctave,n.quarterLength) for n in s.parts[0].flatten().notes]"`
+  (part 0 is usually soprano = melody; chords → take the top note).
+- **Wikipedia** — `action=raw` sometimes has `<score>` LilyPond blocks.
+- **contemplator.com / folkinfo / tunearch / thesession** — folk ABC/notes.
+
 ## Author (Sonnet)
 
 For each assigned id (metadata.json already exists — do not edit it):
