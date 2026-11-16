@@ -869,7 +869,7 @@
       "measure": 15,
       "beat": 2.0,
       "onset": 41.0,
-      "duration": 1.5,
+      "duration": 1.0,
       "type": "note",
       "pitch": {
         "step": "B",
@@ -878,11 +878,28 @@
         "midi": 71,
         "spelled": "B4"
       },
-      "lyric": "when",
+      "lyric": null,
       "tie": null
     },
     {
       "i": 50,
+      "measure": 15,
+      "beat": 2.667,
+      "onset": 42.0,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "E",
+        "alter": 0,
+        "octave": 4,
+        "midi": 64,
+        "spelled": "E4"
+      },
+      "lyric": "when",
+      "tie": null
+    },
+    {
+      "i": 51,
       "measure": 16,
       "beat": 1.0,
       "onset": 42.5,
@@ -899,7 +916,7 @@
       "tie": null
     },
     {
-      "i": 51,
+      "i": 52,
       "measure": 16,
       "beat": 1.333,
       "onset": 43.0,
@@ -916,7 +933,7 @@
       "tie": null
     },
     {
-      "i": 52,
+      "i": 53,
       "measure": 16,
       "beat": 1.667,
       "onset": 43.5,
@@ -933,7 +950,7 @@
       "tie": null
     },
     {
-      "i": 53,
+      "i": 54,
       "measure": 16,
       "beat": 2.0,
       "onset": 44.0,
@@ -950,7 +967,7 @@
       "tie": null
     },
     {
-      "i": 54,
+      "i": 55,
       "measure": 16,
       "beat": 2.667,
       "onset": 45.0,
@@ -967,7 +984,7 @@
       "tie": null
     },
     {
-      "i": 55,
+      "i": 56,
       "measure": 17,
       "beat": 1.0,
       "onset": 45.5,
