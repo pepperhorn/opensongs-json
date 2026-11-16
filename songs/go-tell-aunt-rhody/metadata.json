@@ -1,0 +1,23 @@
+{
+  "id": "go-tell-aunt-rhody",
+  "title": "Go Tell Aunt Rhody",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional; tune from Rousseau's 'Le Devin du village' (1752)"
+  },
+  "tags": [
+    "nursery",
+    "children",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "nursery",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}

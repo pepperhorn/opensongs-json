@@ -1,0 +1,22 @@
+{
+  "id": "old-joe-clark",
+  "title": "Old Joe Clark",
+  "composer": "Traditional",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Traditional Appalachian fiddle song"
+  },
+  "tags": [
+    "folk",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "folk",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}
