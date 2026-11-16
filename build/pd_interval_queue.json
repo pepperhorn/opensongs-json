@@ -529,7 +529,7 @@
   "tuneHint": "Voice part only: whole song on ONE pitch (minor key scale degree 5). Melody-only = the vocal line.",
   "expectedRange": "unison on minor 5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "o-jesulein-suss",
@@ -545,7 +545,8 @@
   "tuneHint": "Schemelli Gesangbuch",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
  },
  {
   "id": "slumber-song-of-the-infant-jesus",
@@ -562,7 +563,8 @@
   "tuneHint": "'Le sommeil de l'enfant Jésus'",
   "expectedRange": "minor 1,2,3,#3,4,5,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
  },
  {
   "id": "remember-o-thou-man",
@@ -579,7 +581,7 @@
   "tuneHint": "",
   "expectedRange": "minor #6,b7,7,1,2,3,#3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "the-coventry-carol",
@@ -596,12 +598,12 @@
   "tuneHint": "'Lully, lulla'",
   "expectedRange": "minor 7,1,2,3,#3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "pat-a-pan",
   "title": "Pat-a-Pan",
-  "composer": "Bernard de La Monnoye",
+  "composer": "Traditional (words: Bernard de La Monnoye)",
   "category": "carol",
   "tags": [
    "carol",
@@ -609,11 +611,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "Burgundian carol, La Monnoye (d.1728) — PD",
+  "copyrightNotes": "Anonymous Burgundian tune; words B. de La Monnoye (d.1728) — PD",
   "tuneHint": "'Willie, take your little drum'",
   "expectedRange": "minor 7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "as-each-happy-christmas",
@@ -630,7 +632,7 @@
   "tuneHint": "",
   "expectedRange": "1-6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "as-lately-we-watched",
@@ -647,12 +649,13 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
  },
  {
   "id": "christ-was-born-on-christmas-day",
   "title": "Christ Was Born on Christmas Day",
-  "composer": "Traditional",
+  "composer": "Traditional (adapt. Thomas Helmore)",
   "category": "carol",
   "tags": [
    "carol",
@@ -660,11 +663,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "Tune 'Resonet in laudibus' (14th c.); J.M. Neale words (d.1866) — PD",
+  "copyrightNotes": "Resonet in laudibus (14th c.), adapt. Helmore (d.1890); words J.M. Neale (d.1866) — PD",
   "tuneHint": "",
   "expectedRange": "1-6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "infant-so-gentle",
@@ -681,12 +684,12 @@
   "tuneHint": "Likely tune: Entre le bœuf et l'âne gris — verify",
   "expectedRange": "1-6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "jolly-old-saint-nicholas",
   "title": "Jolly Old Saint Nicholas",
-  "composer": "Traditional",
+  "composer": "James R. Murray",
   "category": "carol",
   "tags": [
    "carol",
@@ -694,11 +697,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "American, 1860s anonymous — PD",
+  "copyrightNotes": "Tune J.R. Murray (d.1905); words Emily Huntington Miller (d.1913) — PD",
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "up-on-the-housetop",
@@ -715,7 +718,7 @@
   "tuneHint": "",
   "expectedRange": "1-6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "love-came-down-at-christmas",
@@ -732,7 +735,8 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
  },
  {
   "id": "the-cherry-tree-carol",
@@ -749,7 +753,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "a-child-is-born-in-bethlehem",
@@ -762,11 +766,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "'Puer natus in Bethlehem' (medieval) — PD",
+  "copyrightNotes": "Puer natus in Bethlehem, Wittenberg/Danish major form — PD",
   "tuneHint": "Dorian",
   "expectedRange": "Dorian 1-7",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "the-friendly-beasts",
@@ -779,11 +783,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "Tune 'Orientis Partibus' (12th c.) — PD",
+  "copyrightNotes": "12th-c. French melody (Orientis Partibus); English words Robert Davis (1881–1950), pub. 1920 — PD",
   "tuneHint": "",
   "expectedRange": "7,1,2,3,4,5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "fum-fum-fum",
@@ -800,12 +804,12 @@
   "tuneHint": "",
   "expectedRange": "minor 5,b7,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "gabriels-message",
   "title": "Gabriel's Message",
-  "composer": "Traditional",
+  "composer": "Piae Cantiones (1582)",
   "category": "carol",
   "tags": [
    "carol",
@@ -813,11 +817,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "Piae Cantiones 'Angelus emittitur'(1582); J.M. Neale words (d.1866) — PD",
+  "copyrightNotes": "Tune ANGELUS EMITTITUR (Piae Cantiones 1582); words J.M. Neale (d.1866) — PD",
   "tuneHint": "'Gabriel's message does away'",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "i-am-so-glad-on-christmas-eve",
@@ -830,11 +834,11 @@
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "P. Knudsen (d.1863), 'Jeg er så glad hver julekveld' (1859) — PD",
+  "copyrightNotes": "P. Knudsen (d.1863) tune, 1859; words Marie Wexelsen (d.1911) — PD",
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "rocking-czech-carol",
@@ -851,7 +855,7 @@
   "tuneHint": "'Little Jesus, sweetly sleep'",
   "expectedRange": "7,1,2,3,4,#4,5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "the-angel-gabriel-from-heaven-came",
@@ -868,7 +872,7 @@
   "tuneHint": "",
   "expectedRange": "natural minor 5,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "the-bells-of-paradise",
@@ -885,7 +889,8 @@
   "tuneHint": "verify which traditional tune",
   "expectedRange": "minor 5,#6,b7,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
  },
  {
   "id": "beside-thy-manger-here-i-stand",
@@ -902,7 +907,8 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
  },
  {
   "id": "break-forth-o-beauteous-heavenly-light",
@@ -919,7 +925,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "from-every-spire-on-christmas-eve",
@@ -953,7 +959,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "gesu-bambin-le-nato",
@@ -970,7 +976,8 @@
   "tuneHint": "'Jesus Was Born to Mary'",
   "expectedRange": "5,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
  },
  {
   "id": "god-bless-all",
@@ -987,7 +994,8 @@
   "tuneHint": "verify tune",
   "expectedRange": "5,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 2: no note-readable reference (retry with local PD hymnal PDFs)"
  },
  {
   "id": "infant-holy-infant-lowly",
@@ -1004,7 +1012,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "in-the-bleak-midwinter",
@@ -1021,7 +1029,7 @@
   "tuneHint": "",
   "expectedRange": "6,7,1,2,3,4,5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "i-saw-three-ships",
@@ -1038,7 +1046,7 @@
   "tuneHint": "",
   "expectedRange": "5,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "it-came-upon-the-midnight-clear",

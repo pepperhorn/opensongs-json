@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 470,
+  "count": 492,
   "schemaVersion": 1,
   "songs": [
     {
@@ -3272,6 +3272,40 @@
       }
     },
     {
+      "id": "a-child-is-born-in-bethlehem",
+      "title": "A Child Is Born in Bethlehem",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/a-child-is-born-in-bethlehem/song.json",
+        "abc": "songs/a-child-is-born-in-bethlehem/song.abc",
+        "musicxml": "songs/a-child-is-born-in-bethlehem/song.musicxml"
+      }
+    },
+    {
       "id": "a-la-claire-fontaine",
       "title": "\u00c0 la Claire Fontaine",
       "composer": "Traditional",
@@ -3906,6 +3940,40 @@
         "song": "songs/arrival-of-the-queen-of-sheba/song.json",
         "abc": "songs/arrival-of-the-queen-of-sheba/song.abc",
         "musicxml": "songs/arrival-of-the-queen-of-sheba/song.musicxml"
+      }
+    },
+    {
+      "id": "as-each-happy-christmas",
+      "title": "As Each Happy Christmas",
+      "composer": "J.C.H. Rink",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 22,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/as-each-happy-christmas/song.json",
+        "abc": "songs/as-each-happy-christmas/song.abc",
+        "musicxml": "songs/as-each-happy-christmas/song.musicxml"
       }
     },
     {
@@ -4720,6 +4788,40 @@
       }
     },
     {
+      "id": "break-forth-o-beauteous-heavenly-light",
+      "title": "Break Forth, O Beauteous Heavenly Light",
+      "composer": "Johann Schop",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 65,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/break-forth-o-beauteous-heavenly-light/song.json",
+        "abc": "songs/break-forth-o-beauteous-heavenly-light/song.abc",
+        "musicxml": "songs/break-forth-o-beauteous-heavenly-light/song.musicxml"
+      }
+    },
+    {
       "id": "bridal-chorus-here-comes-the-bride",
       "title": "Bridal Chorus / Here Comes the Bride",
       "composer": "Richard Wagner",
@@ -5160,6 +5262,40 @@
         "song": "songs/cherish-the-ladies/song.json",
         "abc": "songs/cherish-the-ladies/song.abc",
         "musicxml": "songs/cherish-the-ladies/song.musicxml"
+      }
+    },
+    {
+      "id": "christ-was-born-on-christmas-day",
+      "title": "Christ Was Born on Christmas Day",
+      "composer": "Traditional (adapt. Thomas Helmore)",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/christ-was-born-on-christmas-day/song.json",
+        "abc": "songs/christ-was-born-on-christmas-day/song.abc",
+        "musicxml": "songs/christ-was-born-on-christmas-day/song.musicxml"
       }
     },
     {
@@ -6015,6 +6151,39 @@
       }
     },
     {
+      "id": "ein-ton",
+      "title": "Ein Ton (The Monotone)",
+      "composer": "Peter Cornelius",
+      "category": "classical",
+      "difficulty": 2,
+      "tags": [
+        "classical",
+        "beginner"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "B4",
+        "high": "B4"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ein-ton/song.json",
+        "abc": "songs/ein-ton/song.abc",
+        "musicxml": "songs/ein-ton/song.musicxml"
+      }
+    },
+    {
       "id": "el-barquito-chiquitito",
       "title": "El Barquito Chiquitito",
       "composer": "Traditional",
@@ -6632,6 +6801,74 @@
       }
     },
     {
+      "id": "from-heaven-above-to-earth-i-come",
+      "title": "From Heaven Above to Earth I Come",
+      "composer": "Martin Luther",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/from-heaven-above-to-earth-i-come/song.json",
+        "abc": "songs/from-heaven-above-to-earth-i-come/song.abc",
+        "musicxml": "songs/from-heaven-above-to-earth-i-come/song.musicxml"
+      }
+    },
+    {
+      "id": "fum-fum-fum",
+      "title": "Fum, Fum, Fum",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 56,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/fum-fum-fum/song.json",
+        "abc": "songs/fum-fum-fum/song.abc",
+        "musicxml": "songs/fum-fum-fum/song.musicxml"
+      }
+    },
+    {
       "id": "funeral-march-of-a-marionette",
       "title": "Funeral March of a Marionette",
       "composer": "Charles Gounod",
@@ -6767,6 +7004,40 @@
         "song": "songs/fuyu-no-yoru/song.json",
         "abc": "songs/fuyu-no-yoru/song.abc",
         "musicxml": "songs/fuyu-no-yoru/song.musicxml"
+      }
+    },
+    {
+      "id": "gabriels-message",
+      "title": "Gabriel's Message",
+      "composer": "Piae Cantiones (1582)",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "Eb5"
+      },
+      "noteCount": 31,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/gabriels-message/song.json",
+        "abc": "songs/gabriels-message/song.abc",
+        "musicxml": "songs/gabriels-message/song.musicxml"
       }
     },
     {
@@ -7825,6 +8096,40 @@
       }
     },
     {
+      "id": "i-am-so-glad-on-christmas-eve",
+      "title": "I Am So Glad on Christmas Eve",
+      "composer": "Peder Knudsen",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-am-so-glad-on-christmas-eve/song.json",
+        "abc": "songs/i-am-so-glad-on-christmas-eve/song.abc",
+        "musicxml": "songs/i-am-so-glad-on-christmas-eve/song.musicxml"
+      }
+    },
+    {
       "id": "i-belong-to-glasgow",
       "title": "I Belong to Glasgow",
       "composer": "Traditional",
@@ -7889,6 +8194,40 @@
         "song": "songs/i-got-rhythm/song.json",
         "abc": "songs/i-got-rhythm/song.abc",
         "musicxml": "songs/i-got-rhythm/song.musicxml"
+      }
+    },
+    {
+      "id": "i-saw-three-ships",
+      "title": "I Saw Three Ships",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-saw-three-ships/song.json",
+        "abc": "songs/i-saw-three-ships/song.abc",
+        "musicxml": "songs/i-saw-three-ships/song.musicxml"
       }
     },
     {
@@ -7959,6 +8298,40 @@
       }
     },
     {
+      "id": "in-the-bleak-midwinter",
+      "title": "In the Bleak Midwinter",
+      "composer": "Gustav Holst",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/in-the-bleak-midwinter/song.json",
+        "abc": "songs/in-the-bleak-midwinter/song.abc",
+        "musicxml": "songs/in-the-bleak-midwinter/song.musicxml"
+      }
+    },
+    {
       "id": "in-the-shade-of-the-old-apple-tree",
       "title": "In the Shade of the Old Apple Tree",
       "composer": "Egbert Van Alstyne",
@@ -7990,6 +8363,74 @@
         "song": "songs/in-the-shade-of-the-old-apple-tree/song.json",
         "abc": "songs/in-the-shade-of-the-old-apple-tree/song.abc",
         "musicxml": "songs/in-the-shade-of-the-old-apple-tree/song.musicxml"
+      }
+    },
+    {
+      "id": "infant-holy-infant-lowly",
+      "title": "Infant Holy, Infant Lowly",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 60,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/infant-holy-infant-lowly/song.json",
+        "abc": "songs/infant-holy-infant-lowly/song.abc",
+        "musicxml": "songs/infant-holy-infant-lowly/song.musicxml"
+      }
+    },
+    {
+      "id": "infant-so-gentle",
+      "title": "Infant So Gentle",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/infant-so-gentle/song.json",
+        "abc": "songs/infant-so-gentle/song.abc",
+        "musicxml": "songs/infant-so-gentle/song.musicxml"
       }
     },
     {
@@ -8157,6 +8598,40 @@
         "song": "songs/jockey-to-the-fair/song.json",
         "abc": "songs/jockey-to-the-fair/song.abc",
         "musicxml": "songs/jockey-to-the-fair/song.musicxml"
+      }
+    },
+    {
+      "id": "jolly-old-saint-nicholas",
+      "title": "Jolly Old Saint Nicholas",
+      "composer": "James R. Murray",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/jolly-old-saint-nicholas/song.json",
+        "abc": "songs/jolly-old-saint-nicholas/song.abc",
+        "musicxml": "songs/jolly-old-saint-nicholas/song.musicxml"
       }
     },
     {
@@ -10569,6 +11044,40 @@
       }
     },
     {
+      "id": "pat-a-pan",
+      "title": "Pat-a-Pan",
+      "composer": "Traditional (words: Bernard de La Monnoye)",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "D5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/pat-a-pan/song.json",
+        "abc": "songs/pat-a-pan/song.abc",
+        "musicxml": "songs/pat-a-pan/song.musicxml"
+      }
+    },
+    {
       "id": "pathetique-sonata-2nd-mvt-adagio-cantabile",
       "title": "Path\u00e9tique Sonata (2nd mvt Adagio cantabile)",
       "composer": "Ludwig van Beethoven",
@@ -11513,6 +12022,40 @@
       }
     },
     {
+      "id": "remember-o-thou-man",
+      "title": "Remember, O Thou Man",
+      "composer": "Thomas Ravenscroft",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "g minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/remember-o-thou-man/song.json",
+        "abc": "songs/remember-o-thou-man/song.abc",
+        "musicxml": "songs/remember-o-thou-man/song.musicxml"
+      }
+    },
+    {
       "id": "rhapsody-on-a-theme-of-paganini-18th-var",
       "title": "Rhapsody on a Theme of Paganini (18th var.)",
       "composer": "Sergei Rachmaninoff",
@@ -11643,6 +12186,40 @@
         "song": "songs/rock-a-bye-baby/song.json",
         "abc": "songs/rock-a-bye-baby/song.abc",
         "musicxml": "songs/rock-a-bye-baby/song.musicxml"
+      }
+    },
+    {
+      "id": "rocking-czech-carol",
+      "title": "Rocking (Czech Carol)",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "E5"
+      },
+      "noteCount": 58,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/rocking-czech-carol/song.json",
+        "abc": "songs/rocking-czech-carol/song.abc",
+        "musicxml": "songs/rocking-czech-carol/song.musicxml"
       }
     },
     {
@@ -13612,6 +14189,40 @@
       }
     },
     {
+      "id": "the-angel-gabriel-from-heaven-came",
+      "title": "The Angel Gabriel from Heaven Came",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "B3",
+        "high": "B4"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-angel-gabriel-from-heaven-came/song.json",
+        "abc": "songs/the-angel-gabriel-from-heaven-came/song.abc",
+        "musicxml": "songs/the-angel-gabriel-from-heaven-came/song.musicxml"
+      }
+    },
+    {
       "id": "the-ants-go-marching",
       "title": "The Ants Go Marching",
       "composer": "Traditional",
@@ -13784,6 +14395,40 @@
       }
     },
     {
+      "id": "the-cherry-tree-carol",
+      "title": "The Cherry Tree Carol",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 30,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-cherry-tree-carol/song.json",
+        "abc": "songs/the-cherry-tree-carol/song.abc",
+        "musicxml": "songs/the-cherry-tree-carol/song.musicxml"
+      }
+    },
+    {
       "id": "the-cobbler",
       "title": "The Cobbler",
       "composer": "Traditional",
@@ -13851,6 +14496,40 @@
         "song": "songs/the-connaught-man-s-rambles/song.json",
         "abc": "songs/the-connaught-man-s-rambles/song.abc",
         "musicxml": "songs/the-connaught-man-s-rambles/song.musicxml"
+      }
+    },
+    {
+      "id": "the-coventry-carol",
+      "title": "The Coventry Carol",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "a minor",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "G#4",
+        "high": "E5"
+      },
+      "noteCount": 57,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-coventry-carol/song.json",
+        "abc": "songs/the-coventry-carol/song.abc",
+        "musicxml": "songs/the-coventry-carol/song.musicxml"
       }
     },
     {
@@ -13947,6 +14626,40 @@
         "song": "songs/the-forester/song.json",
         "abc": "songs/the-forester/song.abc",
         "musicxml": "songs/the-forester/song.musicxml"
+      }
+    },
+    {
+      "id": "the-friendly-beasts",
+      "title": "The Friendly Beasts",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 34,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-friendly-beasts/song.json",
+        "abc": "songs/the-friendly-beasts/song.abc",
+        "musicxml": "songs/the-friendly-beasts/song.musicxml"
       }
     },
     {
@@ -14995,6 +15708,40 @@
         "song": "songs/un-flambeau-jeannette-isabelle/song.json",
         "abc": "songs/un-flambeau-jeannette-isabelle/song.abc",
         "musicxml": "songs/un-flambeau-jeannette-isabelle/song.musicxml"
+      }
+    },
+    {
+      "id": "up-on-the-housetop",
+      "title": "Up on the Housetop",
+      "composer": "Benjamin Hanby",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 66,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/up-on-the-housetop/song.json",
+        "abc": "songs/up-on-the-housetop/song.abc",
+        "musicxml": "songs/up-on-the-housetop/song.musicxml"
       }
     },
     {
