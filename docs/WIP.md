@@ -25,6 +25,17 @@ Queue: `build/pd_interval_queue.json` (184 songs; `status` per record). Instruct
 - Wave 3 (30 carols/hymns): **28 done**, 2 `needs-source`.
 - Wave 4 (30 hymns): **28 done**, 2 `needs-source`.
 - Wave 5 (30 hymns): **27 done**, 3 `needs-source`.
+- **Paused 2026-11-16: Sonnet weekly limit hit (resets 2026-11-18 09:00 UTC).**
+  Remaining `queued`: batches 25–28 (20 hymns, drafts interrupted, unchecked),
+  plus from-every-spire-on-christmas-eve and one-step-at-a-time (authored, PD-confirmed,
+  awaiting check). Verify-PD research done: no-tears-in-heaven + ill-follow NOT-PD;
+  will-you-not-tell-it-today IS PD (Fillmore d.1936, Pounds d.1921) → author;
+  o-thou-who-in-jordan needs a tune decision; others UNKNOWN (left queued/unauthored).
+  Then retry `needs-source` songs against the hymnal PDFs.
+- Resume recipe: re-download hymnal PDFs (pdhymns.com/PDHymnal/Great%20Hymns_norm_122223.pdf,
+  PD%20Christmas_Normal.pdf), rebuild page index with pdftotext, scaffold into a git
+  worktree outside the repo, Sonnet author → Sonnet checker per 6-song batch, copy
+  passing songs in, index + validate, commit.
 - Hymn source: pdhymns.com PD hymnal PDFs (539 pp + 41 pp Christmas), indexed by page — agents read pages as images.
 - Wave 1 (30 folk/children/Cohan): **13 done**, 16 `needs-source`, 1 `not-pd`
   (Just a Closer Walk — 1940 Kenneth Morris).
