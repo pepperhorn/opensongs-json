@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 520,
+  "count": 548,
   "schemaVersion": 1,
   "songs": [
     {
@@ -3575,6 +3575,72 @@
       }
     },
     {
+      "id": "all-people-that-on-earth-do-dwell",
+      "title": "All People That on Earth Do Dwell (Old 100th)",
+      "composer": "Louis Bourgeois",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 32,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/all-people-that-on-earth-do-dwell/song.json",
+        "abc": "songs/all-people-that-on-earth-do-dwell/song.abc",
+        "musicxml": "songs/all-people-that-on-earth-do-dwell/song.musicxml"
+      }
+    },
+    {
+      "id": "all-the-way-my-savior-leads-me",
+      "title": "All the Way My Savior Leads Me",
+      "composer": "Robert Lowry",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 60,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/all-the-way-my-savior-leads-me/song.json",
+        "abc": "songs/all-the-way-my-savior-leads-me/song.abc",
+        "musicxml": "songs/all-the-way-my-savior-leads-me/song.musicxml"
+      }
+    },
+    {
       "id": "all-those-endearing-young-charms",
       "title": "All Those Endearing Young Charms",
       "composer": "Traditional",
@@ -3806,6 +3872,39 @@
       }
     },
     {
+      "id": "angry-words",
+      "title": "Angry Words",
+      "composer": "Horatio R. Palmer",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 73,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/angry-words/song.json",
+        "abc": "songs/angry-words/song.abc",
+        "musicxml": "songs/angry-words/song.musicxml"
+      }
+    },
+    {
       "id": "anitras-dance",
       "title": "Anitra's Dance",
       "composer": "Edvard Grieg",
@@ -3873,6 +3972,39 @@
         "song": "songs/anvil-chorus-il-trovatore/song.json",
         "abc": "songs/anvil-chorus-il-trovatore/song.abc",
         "musicxml": "songs/anvil-chorus-il-trovatore/song.musicxml"
+      }
+    },
+    {
+      "id": "anywhere-with-jesus",
+      "title": "Anywhere with Jesus",
+      "composer": "Daniel B. Towner",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 66,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/anywhere-with-jesus/song.json",
+        "abc": "songs/anywhere-with-jesus/song.abc",
+        "musicxml": "songs/anywhere-with-jesus/song.musicxml"
       }
     },
     {
@@ -4043,6 +4175,39 @@
       }
     },
     {
+      "id": "arise-my-soul-arise",
+      "title": "Arise, My Soul, Arise",
+      "composer": "Lewis Edson",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "F5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/arise-my-soul-arise/song.json",
+        "abc": "songs/arise-my-soul-arise/song.abc",
+        "musicxml": "songs/arise-my-soul-arise/song.musicxml"
+      }
+    },
+    {
       "id": "arrival-of-the-queen-of-sheba",
       "title": "Arrival of the Queen of Sheba",
       "composer": "George Frideric Handel",
@@ -4141,6 +4306,39 @@
         "song": "songs/as-time-goes-by/song.json",
         "abc": "songs/as-time-goes-by/song.abc",
         "musicxml": "songs/as-time-goes-by/song.musicxml"
+      }
+    },
+    {
+      "id": "at-the-cross",
+      "title": "At the Cross (Alas, and Did My Savior Bleed)",
+      "composer": "Ralph E. Hudson",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C#4",
+        "high": "C#5"
+      },
+      "noteCount": 71,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/at-the-cross/song.json",
+        "abc": "songs/at-the-cross/song.abc",
+        "musicxml": "songs/at-the-cross/song.musicxml"
       }
     },
     {
@@ -4546,6 +4744,39 @@
         "song": "songs/bella-ciao/song.json",
         "abc": "songs/bella-ciao/song.abc",
         "musicxml": "songs/bella-ciao/song.musicxml"
+      }
+    },
+    {
+      "id": "beneath-the-cross-of-jesus",
+      "title": "Beneath the Cross of Jesus",
+      "composer": "Frederick C. Maker",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 58,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/beneath-the-cross-of-jesus/song.json",
+        "abc": "songs/beneath-the-cross-of-jesus/song.abc",
+        "musicxml": "songs/beneath-the-cross-of-jesus/song.musicxml"
       }
     },
     {
@@ -4985,6 +5216,39 @@
         "song": "songs/break-forth-o-beauteous-heavenly-light/song.json",
         "abc": "songs/break-forth-o-beauteous-heavenly-light/song.abc",
         "musicxml": "songs/break-forth-o-beauteous-heavenly-light/song.musicxml"
+      }
+    },
+    {
+      "id": "break-thou-the-bread-of-life",
+      "title": "Break Thou the Bread of Life",
+      "composer": "William F. Sherwin",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/break-thou-the-bread-of-life/song.json",
+        "abc": "songs/break-thou-the-bread-of-life/song.abc",
+        "musicxml": "songs/break-thou-the-bread-of-life/song.musicxml"
       }
     },
     {
@@ -5665,6 +5929,39 @@
       }
     },
     {
+      "id": "come-sinner-come",
+      "title": "Come, Sinner, Come",
+      "composer": "Horatio R. Palmer",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 56,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/come-sinner-come/song.json",
+        "abc": "songs/come-sinner-come/song.abc",
+        "musicxml": "songs/come-sinner-come/song.musicxml"
+      }
+    },
+    {
       "id": "come-thou-long-expected-jesus",
       "title": "Come, Thou Long-Expected Jesus",
       "composer": "Rowland H. Prichard",
@@ -5834,6 +6131,39 @@
       }
     },
     {
+      "id": "count-your-blessings",
+      "title": "Count Your Blessings",
+      "composer": "Edwin O. Excell",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "D5"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/count-your-blessings/song.json",
+        "abc": "songs/count-your-blessings/song.abc",
+        "musicxml": "songs/count-your-blessings/song.musicxml"
+      }
+    },
+    {
       "id": "country-gardens",
       "title": "Country Gardens",
       "composer": "Traditional",
@@ -5866,6 +6196,39 @@
         "song": "songs/country-gardens/song.json",
         "abc": "songs/country-gardens/song.abc",
         "musicxml": "songs/country-gardens/song.musicxml"
+      }
+    },
+    {
+      "id": "crown-him-with-many-crowns",
+      "title": "Crown Him with Many Crowns",
+      "composer": "George J. Elvey",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "C5"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/crown-him-with-many-crowns/song.json",
+        "abc": "songs/crown-him-with-many-crowns/song.abc",
+        "musicxml": "songs/crown-him-with-many-crowns/song.musicxml"
       }
     },
     {
@@ -6689,6 +7052,39 @@
       }
     },
     {
+      "id": "faith-of-our-fathers",
+      "title": "Faith of Our Fathers",
+      "composer": "Henri F. Hemy",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 54,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/faith-of-our-fathers/song.json",
+        "abc": "songs/faith-of-our-fathers/song.abc",
+        "musicxml": "songs/faith-of-our-fathers/song.musicxml"
+      }
+    },
+    {
       "id": "fantaisie-impromptu-theme",
       "title": "Fantaisie-Impromptu (theme)",
       "composer": "Fr\u00e9d\u00e9ric Chopin",
@@ -7476,6 +7872,39 @@
       }
     },
     {
+      "id": "glory-to-his-name",
+      "title": "Glory to His Name",
+      "composer": "John H. Stockton",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 60,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/glory-to-his-name/song.json",
+        "abc": "songs/glory-to-his-name/song.abc",
+        "musicxml": "songs/glory-to-his-name/song.musicxml"
+      }
+    },
+    {
       "id": "gnossienne-no-1-theme",
       "title": "Gnossienne No. 1 (theme)",
       "composer": "Erik Satie",
@@ -7576,6 +8005,39 @@
         "song": "songs/go-tell-it-on-the-mountain/song.json",
         "abc": "songs/go-tell-it-on-the-mountain/song.abc",
         "musicxml": "songs/go-tell-it-on-the-mountain/song.musicxml"
+      }
+    },
+    {
+      "id": "god-moves-in-a-mysterious-way",
+      "title": "God Moves in a Mysterious Way",
+      "composer": "Scottish Psalter (1615)",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 28,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/god-moves-in-a-mysterious-way/song.json",
+        "abc": "songs/god-moves-in-a-mysterious-way/song.abc",
+        "musicxml": "songs/god-moves-in-a-mysterious-way/song.musicxml"
       }
     },
     {
@@ -7714,6 +8176,39 @@
       }
     },
     {
+      "id": "grace-tis-a-charming-sound",
+      "title": "Grace! 'Tis a Charming Sound",
+      "composer": "Isaac Smith",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "F5"
+      },
+      "noteCount": 33,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/grace-tis-a-charming-sound/song.json",
+        "abc": "songs/grace-tis-a-charming-sound/song.abc",
+        "musicxml": "songs/grace-tis-a-charming-sound/song.musicxml"
+      }
+    },
+    {
       "id": "great-gate-of-kiev-theme",
       "title": "Great Gate of Kiev (theme)",
       "composer": "Modest Mussorgsky",
@@ -7848,6 +8343,39 @@
         "song": "songs/hallelujah-chorus-messiah/song.json",
         "abc": "songs/hallelujah-chorus-messiah/song.abc",
         "musicxml": "songs/hallelujah-chorus-messiah/song.musicxml"
+      }
+    },
+    {
+      "id": "hallelujah-what-a-savior",
+      "title": "Hallelujah! What a Savior!",
+      "composer": "Philip P. Bliss",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/hallelujah-what-a-savior/song.json",
+        "abc": "songs/hallelujah-what-a-savior/song.abc",
+        "musicxml": "songs/hallelujah-what-a-savior/song.musicxml"
       }
     },
     {
@@ -8462,6 +8990,39 @@
       }
     },
     {
+      "id": "i-gave-my-life-for-thee",
+      "title": "I Gave My Life for Thee",
+      "composer": "Philip P. Bliss",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 48,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-gave-my-life-for-thee/song.json",
+        "abc": "songs/i-gave-my-life-for-thee/song.abc",
+        "musicxml": "songs/i-gave-my-life-for-thee/song.musicxml"
+      }
+    },
+    {
       "id": "i-got-rhythm",
       "title": "I Got Rhythm",
       "composer": "George Gershwin",
@@ -8493,6 +9054,39 @@
         "song": "songs/i-got-rhythm/song.json",
         "abc": "songs/i-got-rhythm/song.abc",
         "musicxml": "songs/i-got-rhythm/song.musicxml"
+      }
+    },
+    {
+      "id": "i-need-thee-every-hour",
+      "title": "I Need Thee Every Hour",
+      "composer": "Robert Lowry",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 49,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/i-need-thee-every-hour/song.json",
+        "abc": "songs/i-need-thee-every-hour/song.abc",
+        "musicxml": "songs/i-need-thee-every-hour/song.musicxml"
       }
     },
     {
@@ -8866,6 +9460,39 @@
       }
     },
     {
+      "id": "ive-found-a-friend",
+      "title": "I've Found a Friend",
+      "composer": "George C. Stebbins",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C5"
+      },
+      "noteCount": 62,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ive-found-a-friend/song.json",
+        "abc": "songs/ive-found-a-friend/song.abc",
+        "musicxml": "songs/ive-found-a-friend/song.musicxml"
+      }
+    },
+    {
       "id": "jack-and-jill",
       "title": "Jack and Jill",
       "composer": "Traditional",
@@ -8930,6 +9557,39 @@
         "song": "songs/jai-perdu-le-do/song.json",
         "abc": "songs/jai-perdu-le-do/song.abc",
         "musicxml": "songs/jai-perdu-le-do/song.musicxml"
+      }
+    },
+    {
+      "id": "jesus-savior-pilot-me",
+      "title": "Jesus, Savior, Pilot Me",
+      "composer": "John E. Gould",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "Eb5"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/jesus-savior-pilot-me/song.json",
+        "abc": "songs/jesus-savior-pilot-me/song.abc",
+        "musicxml": "songs/jesus-savior-pilot-me/song.musicxml"
       }
     },
     {
@@ -10545,6 +11205,39 @@
       }
     },
     {
+      "id": "more-love-to-thee",
+      "title": "More Love to Thee",
+      "composer": "William H. Doane",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "F5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/more-love-to-thee/song.json",
+        "abc": "songs/more-love-to-thee/song.abc",
+        "musicxml": "songs/more-love-to-thee/song.musicxml"
+      }
+    },
+    {
       "id": "morning-mood-peer-gynt",
       "title": "Morning Mood (Peer Gynt)",
       "composer": "Edvard Grieg",
@@ -10817,6 +11510,39 @@
         "song": "songs/nan-s-waltz/song.json",
         "abc": "songs/nan-s-waltz/song.abc",
         "musicxml": "songs/nan-s-waltz/song.musicxml"
+      }
+    },
+    {
+      "id": "near-to-the-heart-of-god",
+      "title": "Near to the Heart of God",
+      "composer": "Cleland B. McAfee",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "D major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "C#5"
+      },
+      "noteCount": 54,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/near-to-the-heart-of-god/song.json",
+        "abc": "songs/near-to-the-heart-of-god/song.abc",
+        "musicxml": "songs/near-to-the-heart-of-god/song.musicxml"
       }
     },
     {
@@ -11130,6 +11856,39 @@
         "song": "songs/nutcracker-march/song.json",
         "abc": "songs/nutcracker-march/song.abc",
         "musicxml": "songs/nutcracker-march/song.musicxml"
+      }
+    },
+    {
+      "id": "o-come-angel-band",
+      "title": "O Come, Angel Band",
+      "composer": "William B. Bradbury",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "E5"
+      },
+      "noteCount": 71,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/o-come-angel-band/song.json",
+        "abc": "songs/o-come-angel-band/song.abc",
+        "musicxml": "songs/o-come-angel-band/song.musicxml"
       }
     },
     {
@@ -13948,6 +14707,39 @@
       }
     },
     {
+      "id": "stand-up-stand-up-for-jesus",
+      "title": "Stand Up, Stand Up for Jesus",
+      "composer": "George J. Webb",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "Eb5"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/stand-up-stand-up-for-jesus/song.json",
+        "abc": "songs/stand-up-stand-up-for-jesus/song.abc",
+        "musicxml": "songs/stand-up-stand-up-for-jesus/song.musicxml"
+      }
+    },
+    {
       "id": "summer-storm-theme",
       "title": "Summer / Storm (theme, The Four Seasons)",
       "composer": "Antonio Vivaldi",
@@ -13978,6 +14770,39 @@
         "song": "songs/summer-storm-theme/song.json",
         "abc": "songs/summer-storm-theme/song.abc",
         "musicxml": "songs/summer-storm-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "sun-of-my-soul",
+      "title": "Sun of My Soul",
+      "composer": "Peter Ritter",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 37,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/sun-of-my-soul/song.json",
+        "abc": "songs/sun-of-my-soul/song.abc",
+        "musicxml": "songs/sun-of-my-soul/song.musicxml"
       }
     },
     {
@@ -14616,6 +15441,39 @@
         "song": "songs/tafelmusik-trio-theme/song.json",
         "abc": "songs/tafelmusik-trio-theme/song.abc",
         "musicxml": "songs/tafelmusik-trio-theme/song.musicxml"
+      }
+    },
+    {
+      "id": "take-time-to-be-holy",
+      "title": "Take Time to Be Holy",
+      "composer": "George C. Stebbins",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "D5"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/take-time-to-be-holy/song.json",
+        "abc": "songs/take-time-to-be-holy/song.abc",
+        "musicxml": "songs/take-time-to-be-holy/song.musicxml"
       }
     },
     {
@@ -15564,6 +16422,39 @@
         "song": "songs/the-more-we-get-together/song.json",
         "abc": "songs/the-more-we-get-together/song.abc",
         "musicxml": "songs/the-more-we-get-together/song.musicxml"
+      }
+    },
+    {
+      "id": "the-morning-light-is-breaking",
+      "title": "The Morning Light Is Breaking",
+      "composer": "George J. Webb",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "Eb5"
+      },
+      "noteCount": 53,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-morning-light-is-breaking/song.json",
+        "abc": "songs/the-morning-light-is-breaking/song.abc",
+        "musicxml": "songs/the-morning-light-is-breaking/song.musicxml"
       }
     },
     {
@@ -17350,6 +18241,39 @@
         "song": "songs/yes-sir-thats-my-baby/song.json",
         "abc": "songs/yes-sir-thats-my-baby/song.abc",
         "musicxml": "songs/yes-sir-thats-my-baby/song.musicxml"
+      }
+    },
+    {
+      "id": "yield-not-to-temptation",
+      "title": "Yield Not to Temptation",
+      "composer": "Horatio R. Palmer",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "Eb5"
+      },
+      "noteCount": 72,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/yield-not-to-temptation/song.json",
+        "abc": "songs/yield-not-to-temptation/song.abc",
+        "musicxml": "songs/yield-not-to-temptation/song.musicxml"
       }
     },
     {

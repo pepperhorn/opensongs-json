@@ -1,0 +1,22 @@
+{
+  "id": "ive-found-a-friend",
+  "title": "I've Found a Friend",
+  "composer": "George C. Stebbins",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "J.G. Small words; Stebbins (d.1945), 1878 — PD"
+  },
+  "tags": [
+    "hymn",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "hymn",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}

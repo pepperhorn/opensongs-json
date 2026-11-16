@@ -7,7 +7,7 @@ Snapshot of in-flight work on the public-domain melody library. See
 
 ## Library size
 
-- **520 songs** in `index.json`, all passing `build/validate.py`.
+- **548 songs** in `index.json`, all passing `build/validate.py`.
 - Progression: 294 (all prior queues) → 297 (3 Nottingham carols) → 321
   (25-tune Nottingham sampler complete) → 346 (candidate Wave 1) → 371
   (candidate Wave 2) → **457** (world folk wave). All committed + pushed.
@@ -23,6 +23,7 @@ Queue: `build/pd_interval_queue.json` (184 songs; `status` per record). Instruct
 
 - Wave 2 (30 carols/classical): **22 done**, 8 `needs-source`.
 - Wave 3 (30 carols/hymns): **28 done**, 2 `needs-source`.
+- Wave 4 (30 hymns): **28 done**, 2 `needs-source`.
 - Hymn source: pdhymns.com PD hymnal PDFs (539 pp + 41 pp Christmas), indexed by page — agents read pages as images.
 - Wave 1 (30 folk/children/Cohan): **13 done**, 16 `needs-source`, 1 `not-pd`
   (Just a Closer Walk — 1940 Kenneth Morris).

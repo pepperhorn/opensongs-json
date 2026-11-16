@@ -1574,7 +1574,7 @@
   "tuneHint": "",
   "expectedRange": "6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "faith-of-our-fathers",
@@ -1590,7 +1590,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "i-gave-my-life-for-thee",
@@ -1606,7 +1606,7 @@
   "tuneHint": "",
   "expectedRange": "3,4,5,6,7,1,2",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "i-need-thee-every-hour",
@@ -1622,7 +1622,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "ive-found-a-friend",
@@ -1638,7 +1638,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "jesus-savior-pilot-me",
@@ -1654,7 +1654,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "more-love-to-thee",
@@ -1670,7 +1670,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "the-morning-light-is-breaking",
@@ -1686,7 +1686,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "o-come-angel-band",
@@ -1702,7 +1702,7 @@
   "tuneHint": "'The Land of Beulah'",
   "expectedRange": "3,5,6,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "softly-now-the-light-of-day",
@@ -1718,7 +1718,8 @@
   "tuneHint": "",
   "expectedRange": "7,1,2,3,4,5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 4: hymnal scan ambiguous, no second source"
  },
  {
   "id": "soldiers-of-christ-arise",
@@ -1734,7 +1735,8 @@
   "tuneHint": "",
   "expectedRange": "7,1,2,3,4,5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "needs-source",
+  "statusNote": "wave 4: hymnal scan ambiguous, no second source"
  },
  {
   "id": "stand-up-stand-up-for-jesus",
@@ -1750,7 +1752,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "sun-of-my-soul",
@@ -1766,7 +1768,7 @@
   "tuneHint": "",
   "expectedRange": "7,1,2,3,4,5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "take-time-to-be-holy",
@@ -1782,7 +1784,7 @@
   "tuneHint": "",
   "expectedRange": "7,1,2,3,4,5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "yield-not-to-temptation",
@@ -1798,7 +1800,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "near-to-the-heart-of-god",
@@ -1814,7 +1816,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,#2,3,4,5,6,7",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "at-the-cross",
@@ -1830,7 +1832,7 @@
   "tuneHint": "",
   "expectedRange": "6,7,1,2,3,4,5,6",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "all-the-way-my-savior-leads-me",
@@ -1846,7 +1848,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "all-people-that-on-earth-do-dwell",
@@ -1862,7 +1864,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "angry-words",
@@ -1878,7 +1880,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,#5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "anywhere-with-jesus",
@@ -1894,7 +1896,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "arise-my-soul-arise",
@@ -1910,7 +1912,7 @@
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "beneath-the-cross-of-jesus",
@@ -1926,7 +1928,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,#2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "break-thou-the-bread-of-life",
@@ -1942,7 +1944,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "count-your-blessings",
@@ -1958,7 +1960,7 @@
   "tuneHint": "",
   "expectedRange": "1-8",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "crown-him-with-many-crowns",
@@ -1974,7 +1976,7 @@
   "tuneHint": "",
   "expectedRange": "1,2,3,4,#4,5,6,7,1",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "glory-to-his-name",
@@ -1990,23 +1992,23 @@
   "tuneHint": "'Down at the cross where my Savior died'",
   "expectedRange": "5,6,7,1,2,3,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "god-moves-in-a-mysterious-way",
   "title": "God Moves in a Mysterious Way",
-  "composer": "Scottish Psalter",
+  "composer": "Scottish Psalter (1615)",
   "category": "hymn",
   "tags": [
    "hymn",
    "beginner"
   ],
   "difficulty": 2,
-  "copyrightNotes": "Cowper words (d.1800); tune DUNDEE (Scottish Psalter 1615 / Ravenscroft 1621) — PD",
+  "copyrightNotes": "Scottish Psalter tune (probably DUNFERMLINE C.M., 1615; pdhymns setting) — not DUNDEE; words W. Cowper (d.1800) — PD",
   "tuneHint": "",
   "expectedRange": "5,6,7,1,2,3,4,5",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "grace-tis-a-charming-sound",
@@ -2022,7 +2024,7 @@
   "tuneHint": "",
   "expectedRange": "3,#4,5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "hallelujah-what-a-savior",
@@ -2038,7 +2040,7 @@
   "tuneHint": "'Man of Sorrows'",
   "expectedRange": "3,5,6,7,1,2,3",
   "verifyPdFirst": false,
-  "status": "queued"
+  "status": "done"
  },
  {
   "id": "hark-hark-my-soul",
