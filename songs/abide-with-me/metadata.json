@@ -1,0 +1,22 @@
+{
+  "id": "abide-with-me",
+  "title": "Abide with Me",
+  "composer": "William H. Monk",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Lyte words (d.1847); tune EVENTIDE (Monk 1861, d.1889) — PD"
+  },
+  "tags": [
+    "hymn",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "category": "hymn",
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "chords": []
+}

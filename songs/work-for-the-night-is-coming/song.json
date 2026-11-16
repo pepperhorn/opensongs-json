@@ -1,0 +1,946 @@
+{
+  "id": "work-for-the-night-is-coming",
+  "title": "Work, for the Night Is Coming",
+  "composer": "Lowell Mason",
+  "copyright": {
+    "status": "public-domain",
+    "notes": "Annie L. Walker words; tune WORK SONG (Mason 1864) \u2014 PD"
+  },
+  "tags": [
+    "hymn",
+    "beginner"
+  ],
+  "difficulty": 2,
+  "key": "F major",
+  "keySignature": -1,
+  "timeSignature": [
+    4,
+    4
+  ],
+  "tempo": 88,
+  "pickupBeats": 0.0,
+  "instrumentsSuited": [
+    "keyboard",
+    "recorder",
+    "violin",
+    "voice"
+  ],
+  "noteRange": {
+    "low": "F4",
+    "high": "D5"
+  },
+  "chords": [],
+  "events": [
+    {
+      "i": 0,
+      "measure": 1,
+      "beat": 1.0,
+      "onset": 0.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "Work,",
+      "tie": null
+    },
+    {
+      "i": 1,
+      "measure": 1,
+      "beat": 2.0,
+      "onset": 1.0,
+      "duration": 0.75,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "for",
+      "tie": null
+    },
+    {
+      "i": 2,
+      "measure": 1,
+      "beat": 2.75,
+      "onset": 1.75,
+      "duration": 0.25,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": -1,
+        "octave": 4,
+        "midi": 70,
+        "spelled": "Bb4"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 3,
+      "measure": 1,
+      "beat": 3.0,
+      "onset": 2.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "night",
+      "tie": null
+    },
+    {
+      "i": 4,
+      "measure": 1,
+      "beat": 4.0,
+      "onset": 3.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "is",
+      "tie": null
+    },
+    {
+      "i": 5,
+      "measure": 2,
+      "beat": 1.0,
+      "onset": 4.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "com",
+      "tie": null
+    },
+    {
+      "i": 6,
+      "measure": 2,
+      "beat": 3.0,
+      "onset": 6.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "ing,",
+      "tie": null
+    },
+    {
+      "i": 7,
+      "measure": 3,
+      "beat": 1.0,
+      "onset": 8.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "Work",
+      "tie": null
+    },
+    {
+      "i": 8,
+      "measure": 3,
+      "beat": 2.0,
+      "onset": 9.0,
+      "duration": 0.75,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "thru",
+      "tie": null
+    },
+    {
+      "i": 9,
+      "measure": 3,
+      "beat": 2.75,
+      "onset": 9.75,
+      "duration": 0.25,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 10,
+      "measure": 3,
+      "beat": 3.0,
+      "onset": 10.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "morn",
+      "tie": null
+    },
+    {
+      "i": 11,
+      "measure": 3,
+      "beat": 4.0,
+      "onset": 11.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "ing",
+      "tie": null
+    },
+    {
+      "i": 12,
+      "measure": 4,
+      "beat": 1.0,
+      "onset": 12.0,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "hours;",
+      "tie": null
+    },
+    {
+      "i": 13,
+      "measure": 4,
+      "beat": 4.0,
+      "onset": 15.0,
+      "duration": 1.0,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 14,
+      "measure": 5,
+      "beat": 1.0,
+      "onset": 16.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "Work",
+      "tie": null
+    },
+    {
+      "i": 15,
+      "measure": 5,
+      "beat": 2.0,
+      "onset": 17.0,
+      "duration": 0.75,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "while",
+      "tie": null
+    },
+    {
+      "i": 16,
+      "measure": 5,
+      "beat": 2.75,
+      "onset": 17.75,
+      "duration": 0.25,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": -1,
+        "octave": 4,
+        "midi": 70,
+        "spelled": "Bb4"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 17,
+      "measure": 5,
+      "beat": 3.0,
+      "onset": 18.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "dew",
+      "tie": null
+    },
+    {
+      "i": 18,
+      "measure": 5,
+      "beat": 4.0,
+      "onset": 19.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "is",
+      "tie": null
+    },
+    {
+      "i": 19,
+      "measure": 6,
+      "beat": 1.0,
+      "onset": 20.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "spar",
+      "tie": null
+    },
+    {
+      "i": 20,
+      "measure": 6,
+      "beat": 3.0,
+      "onset": 22.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "kling,",
+      "tie": null
+    },
+    {
+      "i": 21,
+      "measure": 7,
+      "beat": 1.0,
+      "onset": 24.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "Work",
+      "tie": null
+    },
+    {
+      "i": 22,
+      "measure": 7,
+      "beat": 2.0,
+      "onset": 25.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "'mid",
+      "tie": null
+    },
+    {
+      "i": 23,
+      "measure": 7,
+      "beat": 3.0,
+      "onset": 26.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "spring",
+      "tie": null
+    },
+    {
+      "i": 24,
+      "measure": 7,
+      "beat": 4.0,
+      "onset": 27.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "ing",
+      "tie": null
+    },
+    {
+      "i": 25,
+      "measure": 8,
+      "beat": 1.0,
+      "onset": 28.0,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "flow'rs.",
+      "tie": null
+    },
+    {
+      "i": 26,
+      "measure": 8,
+      "beat": 4.0,
+      "onset": 31.0,
+      "duration": 1.0,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 27,
+      "measure": 9,
+      "beat": 1.0,
+      "onset": 32.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "Work",
+      "tie": null
+    },
+    {
+      "i": 28,
+      "measure": 9,
+      "beat": 2.0,
+      "onset": 33.0,
+      "duration": 0.75,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "when",
+      "tie": null
+    },
+    {
+      "i": 29,
+      "measure": 9,
+      "beat": 2.75,
+      "onset": 33.75,
+      "duration": 0.25,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 30,
+      "measure": 9,
+      "beat": 3.0,
+      "onset": 34.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "day",
+      "tie": null
+    },
+    {
+      "i": 31,
+      "measure": 9,
+      "beat": 4.0,
+      "onset": 35.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "grows",
+      "tie": null
+    },
+    {
+      "i": 32,
+      "measure": 10,
+      "beat": 1.0,
+      "onset": 36.0,
+      "duration": 1.5,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": -1,
+        "octave": 4,
+        "midi": 70,
+        "spelled": "Bb4"
+      },
+      "lyric": "bright",
+      "tie": null
+    },
+    {
+      "i": 33,
+      "measure": 10,
+      "beat": 2.5,
+      "onset": 37.5,
+      "duration": 0.5,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 34,
+      "measure": 10,
+      "beat": 3.0,
+      "onset": 38.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "er,",
+      "tie": null
+    },
+    {
+      "i": 35,
+      "measure": 11,
+      "beat": 1.0,
+      "onset": 40.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "Work",
+      "tie": null
+    },
+    {
+      "i": 36,
+      "measure": 11,
+      "beat": 2.0,
+      "onset": 41.0,
+      "duration": 0.75,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "in",
+      "tie": null
+    },
+    {
+      "i": 37,
+      "measure": 11,
+      "beat": 2.75,
+      "onset": 41.75,
+      "duration": 0.25,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 38,
+      "measure": 11,
+      "beat": 3.0,
+      "onset": 42.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "glow",
+      "tie": null
+    },
+    {
+      "i": 39,
+      "measure": 11,
+      "beat": 4.0,
+      "onset": 43.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": 0,
+        "octave": 4,
+        "midi": 71,
+        "spelled": "B4"
+      },
+      "lyric": "ing",
+      "tie": null
+    },
+    {
+      "i": 40,
+      "measure": 12,
+      "beat": 1.0,
+      "onset": 44.0,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "sun;",
+      "tie": null
+    },
+    {
+      "i": 41,
+      "measure": 12,
+      "beat": 4.0,
+      "onset": 47.0,
+      "duration": 1.0,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    },
+    {
+      "i": 42,
+      "measure": 13,
+      "beat": 1.0,
+      "onset": 48.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "Work,",
+      "tie": null
+    },
+    {
+      "i": 43,
+      "measure": 13,
+      "beat": 2.0,
+      "onset": 49.0,
+      "duration": 0.75,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "for",
+      "tie": null
+    },
+    {
+      "i": 44,
+      "measure": 13,
+      "beat": 2.75,
+      "onset": 49.75,
+      "duration": 0.25,
+      "type": "note",
+      "pitch": {
+        "step": "B",
+        "alter": -1,
+        "octave": 4,
+        "midi": 70,
+        "spelled": "Bb4"
+      },
+      "lyric": "the",
+      "tie": null
+    },
+    {
+      "i": 45,
+      "measure": 13,
+      "beat": 3.0,
+      "onset": 50.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "night",
+      "tie": null
+    },
+    {
+      "i": 46,
+      "measure": 13,
+      "beat": 4.0,
+      "onset": 51.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "is",
+      "tie": null
+    },
+    {
+      "i": 47,
+      "measure": 14,
+      "beat": 1.0,
+      "onset": 52.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "D",
+        "alter": 0,
+        "octave": 5,
+        "midi": 74,
+        "spelled": "D5"
+      },
+      "lyric": "com",
+      "tie": null
+    },
+    {
+      "i": 48,
+      "measure": 14,
+      "beat": 3.0,
+      "onset": 54.0,
+      "duration": 2.0,
+      "type": "note",
+      "pitch": {
+        "step": "C",
+        "alter": 0,
+        "octave": 5,
+        "midi": 72,
+        "spelled": "C5"
+      },
+      "lyric": "ing,",
+      "tie": null
+    },
+    {
+      "i": 49,
+      "measure": 15,
+      "beat": 1.0,
+      "onset": 56.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "When",
+      "tie": null
+    },
+    {
+      "i": 50,
+      "measure": 15,
+      "beat": 2.0,
+      "onset": 57.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "man's",
+      "tie": null
+    },
+    {
+      "i": 51,
+      "measure": 15,
+      "beat": 3.0,
+      "onset": 58.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "A",
+        "alter": 0,
+        "octave": 4,
+        "midi": 69,
+        "spelled": "A4"
+      },
+      "lyric": "work",
+      "tie": null
+    },
+    {
+      "i": 52,
+      "measure": 15,
+      "beat": 4.0,
+      "onset": 59.0,
+      "duration": 1.0,
+      "type": "note",
+      "pitch": {
+        "step": "G",
+        "alter": 0,
+        "octave": 4,
+        "midi": 67,
+        "spelled": "G4"
+      },
+      "lyric": "is",
+      "tie": null
+    },
+    {
+      "i": 53,
+      "measure": 16,
+      "beat": 1.0,
+      "onset": 60.0,
+      "duration": 3.0,
+      "type": "note",
+      "pitch": {
+        "step": "F",
+        "alter": 0,
+        "octave": 4,
+        "midi": 65,
+        "spelled": "F4"
+      },
+      "lyric": "done.",
+      "tie": null
+    },
+    {
+      "i": 54,
+      "measure": 16,
+      "beat": 4.0,
+      "onset": 63.0,
+      "duration": 1.0,
+      "type": "rest",
+      "pitch": null,
+      "lyric": null,
+      "tie": null
+    }
+  ]
+}

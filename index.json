@@ -2,7 +2,7 @@
   "name": "opensongs-json",
   "description": "Public-domain beginner melodies as ABC, MusicXML, and normalized song.json.",
   "license": "CC0-1.0 (data) \u2014 all melodies are public domain",
-  "count": 492,
+  "count": 520,
   "schemaVersion": 1,
   "songs": [
     {
@@ -3272,6 +3272,39 @@
       }
     },
     {
+      "id": "a-charge-to-keep-i-have",
+      "title": "A Charge to Keep I Have",
+      "composer": "Lowell Mason",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "C major",
+      "timeSignature": [
+        3,
+        2
+      ],
+      "noteRange": {
+        "low": "E4",
+        "high": "C5"
+      },
+      "noteCount": 26,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/a-charge-to-keep-i-have/song.json",
+        "abc": "songs/a-charge-to-keep-i-have/song.abc",
+        "musicxml": "songs/a-charge-to-keep-i-have/song.musicxml"
+      }
+    },
+    {
       "id": "a-child-is-born-in-bethlehem",
       "title": "A Child Is Born in Bethlehem",
       "composer": "Traditional",
@@ -3374,6 +3407,40 @@
       }
     },
     {
+      "id": "a-virgin-unspotted",
+      "title": "A Virgin Unspotted",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 98,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/a-virgin-unspotted/song.json",
+        "abc": "songs/a-virgin-unspotted/song.abc",
+        "musicxml": "songs/a-virgin-unspotted/song.musicxml"
+      }
+    },
+    {
       "id": "abbotts-bromley-horn-dance",
       "title": "Abbotts Bromley Horn Dance",
       "composer": "Traditional",
@@ -3405,6 +3472,39 @@
         "song": "songs/abbotts-bromley-horn-dance/song.json",
         "abc": "songs/abbotts-bromley-horn-dance/song.abc",
         "musicxml": "songs/abbotts-bromley-horn-dance/song.musicxml"
+      }
+    },
+    {
+      "id": "abide-with-me",
+      "title": "Abide with Me",
+      "composer": "William H. Monk",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 40,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/abide-with-me/song.json",
+        "abc": "songs/abide-with-me/song.abc",
+        "musicxml": "songs/abide-with-me/song.musicxml"
       }
     },
     {
@@ -3636,6 +3736,39 @@
         "song": "songs/also-sprach-zarathustra-opening/song.json",
         "abc": "songs/also-sprach-zarathustra-opening/song.abc",
         "musicxml": "songs/also-sprach-zarathustra-opening/song.musicxml"
+      }
+    },
+    {
+      "id": "am-i-a-soldier-of-the-cross",
+      "title": "Am I a Soldier of the Cross?",
+      "composer": "Thomas A. Arne",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        3,
+        2
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 29,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/am-i-a-soldier-of-the-cross/song.json",
+        "abc": "songs/am-i-a-soldier-of-the-cross/song.abc",
+        "musicxml": "songs/am-i-a-soldier-of-the-cross/song.musicxml"
       }
     },
     {
@@ -4518,6 +4651,39 @@
       }
     },
     {
+      "id": "blessed-be-the-name",
+      "title": "Blessed Be the Name",
+      "composer": "Anonymous, arr. Ralph E. Hudson",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "C4",
+        "high": "Bb4"
+      },
+      "noteCount": 54,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/blessed-be-the-name/song.json",
+        "abc": "songs/blessed-be-the-name/song.abc",
+        "musicxml": "songs/blessed-be-the-name/song.musicxml"
+      }
+    },
+    {
       "id": "blodau-r-drain",
       "title": "Blodau'r Drain",
       "composer": "Traditional",
@@ -4854,6 +5020,40 @@
         "song": "songs/bridal-chorus-here-comes-the-bride/song.json",
         "abc": "songs/bridal-chorus-here-comes-the-bride/song.abc",
         "musicxml": "songs/bridal-chorus-here-comes-the-bride/song.musicxml"
+      }
+    },
+    {
+      "id": "brightest-and-best",
+      "title": "Brightest and Best",
+      "composer": "James P. Harding",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 46,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/brightest-and-best/song.json",
+        "abc": "songs/brightest-and-best/song.abc",
+        "musicxml": "songs/brightest-and-best/song.musicxml"
       }
     },
     {
@@ -5265,6 +5465,39 @@
       }
     },
     {
+      "id": "christ-is-precious",
+      "title": "Christ Is Precious",
+      "composer": "J.H. Fillmore",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 61,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/christ-is-precious/song.json",
+        "abc": "songs/christ-is-precious/song.abc",
+        "musicxml": "songs/christ-is-precious/song.musicxml"
+      }
+    },
+    {
       "id": "christ-was-born-on-christmas-day",
       "title": "Christ Was Born on Christmas Day",
       "composer": "Traditional (adapt. Thomas Helmore)",
@@ -5429,6 +5662,39 @@
         "song": "songs/coleraine/song.json",
         "abc": "songs/coleraine/song.abc",
         "musicxml": "songs/coleraine/song.musicxml"
+      }
+    },
+    {
+      "id": "come-thou-long-expected-jesus",
+      "title": "Come, Thou Long-Expected Jesus",
+      "composer": "Rowland H. Prichard",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        3,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 75,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/come-thou-long-expected-jesus/song.json",
+        "abc": "songs/come-thou-long-expected-jesus/song.abc",
+        "musicxml": "songs/come-thou-long-expected-jesus/song.musicxml"
       }
     },
     {
@@ -6763,6 +7029,39 @@
         "song": "songs/flower-duet-lakme/song.json",
         "abc": "songs/flower-duet-lakme/song.abc",
         "musicxml": "songs/flower-duet-lakme/song.musicxml"
+      }
+    },
+    {
+      "id": "footsteps-of-jesus",
+      "title": "Footsteps of Jesus",
+      "composer": "Asa B. Everett",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "C5"
+      },
+      "noteCount": 50,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/footsteps-of-jesus/song.json",
+        "abc": "songs/footsteps-of-jesus/song.abc",
+        "musicxml": "songs/footsteps-of-jesus/song.musicxml"
       }
     },
     {
@@ -8298,6 +8597,39 @@
       }
     },
     {
+      "id": "ill-go-where-you-want-me-to-go",
+      "title": "I'll Go Where You Want Me to Go",
+      "composer": "Carrie E. Rounsefell",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 72,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/ill-go-where-you-want-me-to-go/song.json",
+        "abc": "songs/ill-go-where-you-want-me-to-go/song.abc",
+        "musicxml": "songs/ill-go-where-you-want-me-to-go/song.musicxml"
+      }
+    },
+    {
       "id": "in-the-bleak-midwinter",
       "title": "In the Bleak Midwinter",
       "composer": "Gustav Holst",
@@ -8431,6 +8763,40 @@
         "song": "songs/infant-so-gentle/song.json",
         "abc": "songs/infant-so-gentle/song.abc",
         "musicxml": "songs/infant-so-gentle/song.musicxml"
+      }
+    },
+    {
+      "id": "it-came-upon-the-midnight-clear",
+      "title": "It Came Upon the Midnight Clear",
+      "composer": "Richard Storrs Willis",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 66,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/it-came-upon-the-midnight-clear/song.json",
+        "abc": "songs/it-came-upon-the-midnight-clear/song.abc",
+        "musicxml": "songs/it-came-upon-the-midnight-clear/song.musicxml"
       }
     },
     {
@@ -9180,6 +9546,39 @@
       }
     },
     {
+      "id": "leaning-on-the-everlasting-arms",
+      "title": "Leaning on the Everlasting Arms",
+      "composer": "Anthony J. Showalter",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 63,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/leaning-on-the-everlasting-arms/song.json",
+        "abc": "songs/leaning-on-the-everlasting-arms/song.abc",
+        "musicxml": "songs/leaning-on-the-everlasting-arms/song.musicxml"
+      }
+    },
+    {
       "id": "leapfrog",
       "title": "Leapfrog",
       "composer": "Traditional",
@@ -9278,6 +9677,40 @@
         "song": "songs/little-bo-peep/song.json",
         "abc": "songs/little-bo-peep/song.abc",
         "musicxml": "songs/little-bo-peep/song.musicxml"
+      }
+    },
+    {
+      "id": "little-children-can-you-tell",
+      "title": "Little Children, Can You Tell?",
+      "composer": "E. J. Day",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 36,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/little-children-can-you-tell/song.json",
+        "abc": "songs/little-children-can-you-tell/song.abc",
+        "musicxml": "songs/little-children-can-you-tell/song.musicxml"
       }
     },
     {
@@ -10632,6 +11065,39 @@
       }
     },
     {
+      "id": "nothing-but-the-blood",
+      "title": "Nothing But the Blood",
+      "composer": "Robert Lowry",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "C5"
+      },
+      "noteCount": 57,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/nothing-but-the-blood/song.json",
+        "abc": "songs/nothing-but-the-blood/song.abc",
+        "musicxml": "songs/nothing-but-the-blood/song.musicxml"
+      }
+    },
+    {
       "id": "nutcracker-march",
       "title": "Nutcracker March",
       "composer": "Pyotr Ilyich Tchaikovsky",
@@ -10664,6 +11130,107 @@
         "song": "songs/nutcracker-march/song.json",
         "abc": "songs/nutcracker-march/song.abc",
         "musicxml": "songs/nutcracker-march/song.musicxml"
+      }
+    },
+    {
+      "id": "o-come-little-children",
+      "title": "O Come, Little Children",
+      "composer": "J.A.P. Schulz",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "E- major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "Eb4",
+        "high": "Eb5"
+      },
+      "noteCount": 44,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/o-come-little-children/song.json",
+        "abc": "songs/o-come-little-children/song.abc",
+        "musicxml": "songs/o-come-little-children/song.musicxml"
+      }
+    },
+    {
+      "id": "o-come-o-come-emmanuel",
+      "title": "O Come, O Come, Emmanuel",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 59,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/o-come-o-come-emmanuel/song.json",
+        "abc": "songs/o-come-o-come-emmanuel/song.abc",
+        "musicxml": "songs/o-come-o-come-emmanuel/song.musicxml"
+      }
+    },
+    {
+      "id": "o-how-i-love-jesus",
+      "title": "O How I Love Jesus",
+      "composer": "Traditional / Frederick Whitfield",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "A- major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "G#4",
+        "high": "Eb5"
+      },
+      "noteCount": 59,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/o-how-i-love-jesus/song.json",
+        "abc": "songs/o-how-i-love-jesus/song.abc",
+        "musicxml": "songs/o-how-i-love-jesus/song.musicxml"
       }
     },
     {
@@ -10700,6 +11267,40 @@
         "song": "songs/o-mio-babbino-caro/song.json",
         "abc": "songs/o-mio-babbino-caro/song.abc",
         "musicxml": "songs/o-mio-babbino-caro/song.musicxml"
+      }
+    },
+    {
+      "id": "o-sanctissima",
+      "title": "O Sanctissima",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        2,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "G5"
+      },
+      "noteCount": 45,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/o-sanctissima/song.json",
+        "abc": "songs/o-sanctissima/song.abc",
+        "musicxml": "songs/o-sanctissima/song.musicxml"
       }
     },
     {
@@ -14765,6 +15366,40 @@
       }
     },
     {
+      "id": "the-holly-and-the-ivy-minor-setting",
+      "title": "The Holly and the Ivy (minor setting)",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "d minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 75,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-holly-and-the-ivy-minor-setting/song.json",
+        "abc": "songs/the-holly-and-the-ivy-minor-setting/song.abc",
+        "musicxml": "songs/the-holly-and-the-ivy-minor-setting/song.musicxml"
+      }
+    },
+    {
       "id": "the-indian-queen",
       "title": "The Indian Queen",
       "composer": "Traditional",
@@ -15035,6 +15670,107 @@
       }
     },
     {
+      "id": "the-seven-joys-of-mary",
+      "title": "The Seven Joys of Mary",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 66,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-seven-joys-of-mary/song.json",
+        "abc": "songs/the-seven-joys-of-mary/song.abc",
+        "musicxml": "songs/the-seven-joys-of-mary/song.musicxml"
+      }
+    },
+    {
+      "id": "the-sheltering-rock",
+      "title": "The Sheltering Rock",
+      "composer": "William E. Penn",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "B4"
+      },
+      "noteCount": 61,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-sheltering-rock/song.json",
+        "abc": "songs/the-sheltering-rock/song.abc",
+        "musicxml": "songs/the-sheltering-rock/song.musicxml"
+      }
+    },
+    {
+      "id": "the-snow-lay-on-the-ground",
+      "title": "The Snow Lay on the Ground",
+      "composer": "Traditional",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 66,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/the-snow-lay-on-the-ground/song.json",
+        "abc": "songs/the-snow-lay-on-the-ground/song.abc",
+        "musicxml": "songs/the-snow-lay-on-the-ground/song.musicxml"
+      }
+    },
+    {
       "id": "the-streets-of-laredo",
       "title": "The Streets of Laredo",
       "composer": "Traditional",
@@ -15264,6 +16000,39 @@
         "song": "songs/the-young-man-who-wouldnt-hoe-corn/song.json",
         "abc": "songs/the-young-man-who-wouldnt-hoe-corn/song.abc",
         "musicxml": "songs/the-young-man-who-wouldnt-hoe-corn/song.musicxml"
+      }
+    },
+    {
+      "id": "there-is-power-in-the-blood",
+      "title": "There Is Power in the Blood",
+      "composer": "Lewis E. Jones",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "B- major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "Eb5"
+      },
+      "noteCount": 54,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/there-is-power-in-the-blood/song.json",
+        "abc": "songs/there-is-power-in-the-blood/song.abc",
+        "musicxml": "songs/there-is-power-in-the-blood/song.musicxml"
       }
     },
     {
@@ -16113,6 +16882,40 @@
       }
     },
     {
+      "id": "we-three-kings-of-orient-are",
+      "title": "We Three Kings of Orient Are",
+      "composer": "John Henry Hopkins Jr.",
+      "category": "carol",
+      "difficulty": 2,
+      "tags": [
+        "carol",
+        "christmas",
+        "beginner"
+      ],
+      "key": "e minor",
+      "timeSignature": [
+        6,
+        8
+      ],
+      "noteRange": {
+        "low": "D4",
+        "high": "D5"
+      },
+      "noteCount": 62,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/we-three-kings-of-orient-are/song.json",
+        "abc": "songs/we-three-kings-of-orient-are/song.abc",
+        "musicxml": "songs/we-three-kings-of-orient-are/song.musicxml"
+      }
+    },
+    {
       "id": "wedding-march-a-midsummer-nights-dream",
       "title": "Wedding March (A Midsummer Night's Dream)",
       "composer": "Felix Mendelssohn",
@@ -16145,6 +16948,39 @@
         "song": "songs/wedding-march-a-midsummer-nights-dream/song.json",
         "abc": "songs/wedding-march-a-midsummer-nights-dream/song.abc",
         "musicxml": "songs/wedding-march-a-midsummer-nights-dream/song.musicxml"
+      }
+    },
+    {
+      "id": "well-work-till-jesus-comes",
+      "title": "We'll Work Till Jesus Comes",
+      "composer": "William Miller",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 59,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/well-work-till-jesus-comes/song.json",
+        "abc": "songs/well-work-till-jesus-comes/song.abc",
+        "musicxml": "songs/well-work-till-jesus-comes/song.musicxml"
       }
     },
     {
@@ -16182,6 +17018,39 @@
       }
     },
     {
+      "id": "when-i-survey-the-wondrous-cross",
+      "title": "When I Survey the Wondrous Cross",
+      "composer": "Lowell Mason",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F#4",
+        "high": "C5"
+      },
+      "noteCount": 39,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/when-i-survey-the-wondrous-cross/song.json",
+        "abc": "songs/when-i-survey-the-wondrous-cross/song.abc",
+        "musicxml": "songs/when-i-survey-the-wondrous-cross/song.musicxml"
+      }
+    },
+    {
       "id": "when-johnny-comes-marching-home",
       "title": "When Johnny Comes Marching Home",
       "composer": "Patrick S. Gilmore",
@@ -16212,6 +17081,39 @@
         "song": "songs/when-johnny-comes-marching-home/song.json",
         "abc": "songs/when-johnny-comes-marching-home/song.abc",
         "musicxml": "songs/when-johnny-comes-marching-home/song.musicxml"
+      }
+    },
+    {
+      "id": "where-he-leads-ill-follow",
+      "title": "Where He Leads I'll Follow",
+      "composer": "William A. Ogden",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "G major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "G4",
+        "high": "E5"
+      },
+      "noteCount": 71,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/where-he-leads-ill-follow/song.json",
+        "abc": "songs/where-he-leads-ill-follow/song.abc",
+        "musicxml": "songs/where-he-leads-ill-follow/song.musicxml"
       }
     },
     {
@@ -16348,6 +17250,39 @@
         "song": "songs/winter-theme-the-four-seasons/song.json",
         "abc": "songs/winter-theme-the-four-seasons/song.abc",
         "musicxml": "songs/winter-theme-the-four-seasons/song.musicxml"
+      }
+    },
+    {
+      "id": "work-for-the-night-is-coming",
+      "title": "Work, for the Night Is Coming",
+      "composer": "Lowell Mason",
+      "category": "hymn",
+      "difficulty": 2,
+      "tags": [
+        "hymn",
+        "beginner"
+      ],
+      "key": "F major",
+      "timeSignature": [
+        4,
+        4
+      ],
+      "noteRange": {
+        "low": "F4",
+        "high": "D5"
+      },
+      "noteCount": 51,
+      "instrumentsSuited": [
+        "keyboard",
+        "recorder",
+        "violin",
+        "voice"
+      ],
+      "copyright": "public-domain",
+      "files": {
+        "song": "songs/work-for-the-night-is-coming/song.json",
+        "abc": "songs/work-for-the-night-is-coming/song.abc",
+        "musicxml": "songs/work-for-the-night-is-coming/song.musicxml"
       }
     },
     {
